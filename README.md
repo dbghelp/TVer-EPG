@@ -5,7 +5,7 @@ XML EPG for TVer channels
 
 This repository contains the XML EPG (Electronic Program Guide) for TVer channels. The EPG provides a schedule of the current and upcoming TV programs, enabling users to easily see what's on and plan their viewing.
 
-Preview: https://dbghelp.github.io/epg.html?file=https://raw.githubusercontent.com/dbghelp/TVer-TV-EPG/refs/heads/main/tver.xml
+Preview: https://dbghelp.github.io/epg.html?file=https://raw.githubusercontent.com/dbghelp/TVer-EPG/refs/heads/main/tver.xml
 
 ## Features
 
