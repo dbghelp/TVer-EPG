@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20250928193000 +0000" stop="20250929100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lezc9y43uw.jpg?v=0708e19a" />
-	</programme>
 	<programme channel="ntv" start="20250929100000 +0000" stop="20250929120000 +0000">
 		<title>有吉ゼミ</title>
 		<desc>SP▼ギャル曽根&amp;箱根駅伝・山の神も参戦!工藤農園トウモロコシ夏祭り</desc>
@@ -474,11 +469,6 @@
 		<title>報道ステーション</title>
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lexib0rkix.jpg?v=52c3f5c1" />
-	</programme>
-	<programme channel="tbs" start="20250928193000 +0000" stop="20250928230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lezkz00a6y.jpg?v=43d7b643" />
 	</programme>
 	<programme channel="tbs" start="20250928230000 +0000" stop="20250929005500 +0000">
 		<title>ラヴィット！</title>
