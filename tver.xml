@@ -398,7 +398,7 @@
 	<programme channel="ntv" start="20251015100000 +0000" stop="20251015105400 +0000">
 		<title>有吉の壁</title>
 		<desc>様々な「お笑いの壁」にチャレンジする純度100%のお笑い番組です!</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lebpp80x66.jpg?v=d724d7b9" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lebpp80x66.jpg?v=d624d626" />
 	</programme>
 	<programme channel="ntv" start="20251015105400 +0000" stop="20251015110000 +0000">
 		<title>お知らせ</title>
@@ -547,8 +547,8 @@
 	</programme>
 	<programme channel="ex" start="20251009125400 +0000" stop="20251009141000 +0000">
 		<title>報道ステーション</title>
-		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lemlg45o0m.jpg?v=5ec39853" />
+		<desc>連立も人事も難題山積…高市総裁が生出演で語る▽過去最大級の暴風雨…さらに新たな台風も▽ノーベル文学賞発表▽ド軍…地区シリーズ突破は!?山本由伸が先発ほか</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lemlg45o0m.jpg?v=5dc396c0" />
 	</programme>
 	<programme channel="ex" start="20251009141000 +0000" stop="20251010095000 +0000">
 		<title>No programme</title>
@@ -1074,11 +1074,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lelgmx3kcc.jpg?v=c3962da2" />
-	</programme>
-	<programme channel="tx" start="20251001190000 +0000" stop="20251002092500 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le8r1hr3ns.jpg?v=78d281d9" />
 	</programme>
 	<programme channel="tx" start="20251002092500 +0000" stop="20251002115800 +0000">
 		<title>有吉の深掘り大調査</title>
