@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20251001193000 +0000" stop="20251002100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lecxk5saf6.jpg?v=46afbff3" />
-	</programme>
 	<programme channel="ntv" start="20251002100000 +0000" stop="20251002115400 +0000">
 		<title>THE突破ファイル</title>
 		<desc>11坪に庭付き一戸建て!?狭小住宅▼交通事故鑑定人歩行者消える怪現象</desc>
@@ -644,11 +639,6 @@
 		<title>報道ステーション</title>
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/levpvo32cy.jpg?v=4c7eeffe" />
-	</programme>
-	<programme channel="tbs" start="20251001193000 +0000" stop="20251001230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lentgf4wwh.jpg?v=1ae901c1" />
 	</programme>
 	<programme channel="tbs" start="20251001230000 +0000" stop="20251002005500 +0000">
 		<title>ラヴィット！</title>
