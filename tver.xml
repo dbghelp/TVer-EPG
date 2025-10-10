@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20251003204500 +0000" stop="20251004100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/led39lw3fq.jpg?v=e5a7a5e9" />
-	</programme>
 	<programme channel="ntv" start="20251004100000 +0000" stop="20251004115400 +0000">
 		<title>1億人の大質問!?笑ってコラえて！</title>
 		<desc>SPダーツの旅で所ジョージが天草へ&amp;余命半年の母と新婦の絆…結婚式の旅</desc>
@@ -689,11 +684,6 @@
 		<title>恋する警護24時 season2</title>
 		<desc>超人気作の第２弾！無骨でストイックなボディガード・北沢辰之助(岩本照)が新体制のもと、恋に任務に立ち向かっていく!!内通者の影、守る事の意味…手に汗握るドラマ始動!!</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le7pzef0hz.jpg?v=cd4cc74c" />
-	</programme>
-	<programme channel="tbs" start="20251003194500 +0000" stop="20251004092100 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqrj14zf4.jpg?v=780d7347" />
 	</programme>
 	<programme channel="tbs" start="20251004092100 +0000" stop="20251004144800 +0000">
 		<title>オールスター感謝祭’25秋</title>
