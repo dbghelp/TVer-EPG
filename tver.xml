@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20251004135400 +0000" stop="20251004202500 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ledkno6xof.jpg?v=5509d2a7" />
-	</programme>
 	<programme channel="ntv" start="20251004202500 +0000" stop="20251005095500 +0000">
 		<title>配信休止</title>
 		<desc> </desc>
@@ -435,16 +430,6 @@
 		<desc> </desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3vpuoket.jpg?v=bc731622" />
 	</programme>
-	<programme channel="ex" start="20251004140000 +0000" stop="20251004143000 +0000">
-		<title>パパと親父のウチご飯</title>
-		<desc>第 1 話</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leoh651wns.jpg?v=ca9c1831" />
-	</programme>
-	<programme channel="ex" start="20251004143000 +0000" stop="20251005095600 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
-	</programme>
 	<programme channel="ex" start="20251005095600 +0000" stop="20251005115600 +0000">
 		<title>大改造!!劇的ビフォーアフター×ポツンと一軒家合体スペシャル</title>
 		<desc>5年半ぶり！「大改造！！劇的ビフォーアフター」×「ポツンと一軒家」合体2時間スペシャル！</desc>
@@ -605,6 +590,11 @@
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lehb37pf29.jpg?v=92a59644" />
 	</programme>
+	<programme channel="ex" start="20251013141000 +0000" stop="20251014093000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
+	</programme>
 	<programme channel="ex" start="20251014093000 +0000" stop="20251014123500 +0000">
 		<title>キリンチャレンジカップ2025</title>
 		<desc>日本×ブラジル</desc>
@@ -659,11 +649,6 @@
 		<title>恋する警護24時 season2</title>
 		<desc>超人気作の第２弾！無骨でストイックなボディガード・北沢辰之助(岩本照)が新体制のもと、恋に任務に立ち向かっていく!!内通者の影、守る事の意味…手に汗握るドラマ始動!!</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le7pzef0hz.jpg?v=cd4cc74c" />
-	</programme>
-	<programme channel="tbs" start="20251004144800 +0000" stop="20251004200000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3cbe661s.jpg?v=dd05656a" />
 	</programme>
 	<programme channel="tbs" start="20251004200000 +0000" stop="20251005100000 +0000">
 		<title>配信休止</title>
@@ -908,7 +893,7 @@
 	<programme channel="tbs" start="20251012141500 +0000" stop="20251012144500 +0000">
 		<title>情熱大陸</title>
 		<desc>【Da-iCE／アーティスト▽５人の夢は止まらない！—再始動までの１０か月】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3ko071g3.jpg?v=d495c8ad" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3ko071g3.jpg?v=40bbbe51" />
 	</programme>
 	<programme channel="tbs" start="20251012144500 +0000" stop="20251012165900 +0000">
 		<title>配信休止</title>
@@ -918,32 +903,32 @@
 	<programme channel="tbs" start="20251012165900 +0000" stop="20251012230000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lew0ve0gop.jpg?v=b41c3657" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lew0ve0gop.jpg?v=b31c34c4" />
 	</programme>
 	<programme channel="tbs" start="20251012230000 +0000" stop="20251013005500 +0000">
 		<title>ラヴィット！</title>
 		<desc>【別曜日からレギュラーメンバーが登場するシャッフルウィーク開催！】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4p68rj81.jpg?v=44759ec3" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4p68rj81.jpg?v=5175b33a" />
 	</programme>
 	<programme channel="tbs" start="20251013005500 +0000" stop="20251013093000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leze3i0eai.jpg?v=07719003" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leze3i0eai.jpg?v=06718e70" />
 	</programme>
 	<programme channel="tbs" start="20251013093000 +0000" stop="20251013123000 +0000">
 		<title>今夜復活！8時だョ！全員集合 不適切だけど笑っちゃう！ドリフ伝説コント20連発！</title>
 		<desc>timelesz原＆篠塚も笑った伝説コント２０連発</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6ot8jj82.jpg?v=815534ea" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6ot8jj82.jpg?v=7c552d0b" />
 	</programme>
 	<programme channel="tbs" start="20251013123000 +0000" stop="20251013135700 +0000">
 		<title>timeleszの時間ですよ</title>
 		<desc>祝ゴールデンＳＰ！タイムレスが気になる時間を大調査</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le96ttl3mn.jpg?v=412fe754" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le96ttl3mn.jpg?v=422fe8e7" />
 	</programme>
 	<programme channel="tbs" start="20251013135700 +0000" stop="20251013193000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lexuw5deih.jpg?v=fb1facfe" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lexuw5deih.jpg?v=fc1fae91" />
 	</programme>
 	<programme channel="tbs" start="20251013193000 +0000" stop="20251013230000 +0000">
 		<title>配信休止</title>
@@ -1084,11 +1069,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lez0c2ds6c.jpg?v=eb33f8cb" />
-	</programme>
-	<programme channel="tx" start="20251004125400 +0000" stop="20251004190000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leu4oy3u45.jpg?v=49f3bf80" />
 	</programme>
 	<programme channel="tx" start="20251004190000 +0000" stop="20251005093000 +0000">
 		<title>配信準備中</title>
@@ -1540,16 +1520,6 @@
 		<desc>配信準備中</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lewoch2igc.jpg?v=672ea998" />
 	</programme>
-	<programme channel="cx" start="20251004144000 +0000" stop="20251004153500 +0000">
-		<title>今日もふたり、スキップで</title>
-		<desc>狭小寝具生活＆ていねいな暮らしっつーやつは</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lew4gryovf.jpg?v=e59bb485" />
-	</programme>
-	<programme channel="cx" start="20251004153500 +0000" stop="20251005100000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
-	</programme>
 	<programme channel="cx" start="20251005100000 +0000" stop="20251005125000 +0000">
 		<title>FNS鬼レンチャン歌謡祭</title>
 		<desc>◆FNS歌謡祭と年に１度のタッグ！音楽と笑いの祭典</desc>
@@ -1959,5 +1929,15 @@
 		<title>爆笑そっくりものまね紅白歌合戦スペシャル</title>
 		<desc>今夜限りの史上最強ランキングスペシャル！！</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leh6pz33da.jpg?v=b2072ec4" />
+	</programme>
+	<programme channel="cx" start="20251018141000 +0000" stop="20251018144000 +0000">
+		<title>さんまのお笑い向上委員会</title>
+		<desc>　</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lexjfv9s2a.jpg?v=b2107d69" />
+	</programme>
+	<programme channel="cx" start="20251018144000 +0000" stop="20251018153500 +0000">
+		<title>介護スナック ベルサイユ</title>
+		<desc>第2話</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le9wbq3gqk.jpg?v=5e92b4aa" />
 	</programme>
 </tv>
