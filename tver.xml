@@ -20,21 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20251004100000 +0000" stop="20251004115400 +0000">
-		<title>1億人の大質問!?笑ってコラえて！</title>
-		<desc>SPダーツの旅で所ジョージが天草へ&amp;余命半年の母と新婦の絆…結婚式の旅</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lebuzafgq7.jpg?v=215904af" />
-	</programme>
-	<programme channel="ntv" start="20251004115400 +0000" stop="20251004120000 +0000">
-		<title>お知らせ</title>
-		<desc>リアルタイム配信予定の番組は「日テレ系」タブよりご確認いただけます。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le9415nl1h.jpg?v=33c201c2" />
-	</programme>
-	<programme channel="ntv" start="20251004120000 +0000" stop="20251004135400 +0000">
-		<title>せっかち勉強</title>
-		<desc>★今夜発表!今年の都道府県魅力度ランキング!1位は北海道?京都?</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le7lng8mbc.jpg?v=00e3986d" />
-	</programme>
 	<programme channel="ntv" start="20251004135400 +0000" stop="20251004202500 +0000">
 		<title>配信休止</title>
 		<desc> </desc>
@@ -263,7 +248,7 @@
 	<programme channel="ntv" start="20251012105800 +0000" stop="20251012115400 +0000">
 		<title>世界の果てまでイッテQ！</title>
 		<desc>クロアチア魔女の宅急便にそっくりと噂の街で絶景Qtube</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lepr3c1miz.jpg?v=963255cb" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lepr3c1miz.jpg?v=95325438" />
 	</programme>
 	<programme channel="ntv" start="20251012115400 +0000" stop="20251012120000 +0000">
 		<title>お知らせ</title>
@@ -288,7 +273,7 @@
 	<programme channel="ntv" start="20251012133000 +0000" stop="20251012142500 +0000">
 		<title>ぼくたちん家</title>
 		<desc>#01及川光博×手越祐也×白鳥玉季!奇妙なホーム&amp;ラブコメ!</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le0bfkup9c.jpg?v=eb407b18" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le0bfkup9c.jpg?v=6e6e3f10" />
 	</programme>
 	<programme channel="ntv" start="20251012142500 +0000" stop="20251012193000 +0000">
 		<title>配信休止</title>
@@ -443,22 +428,12 @@
 	<programme channel="ntv" start="20251017105600 +0000" stop="20251017115400 +0000">
 		<title>沸騰ワード10</title>
 		<desc>『業界×流行×ドキュメント』がテーマの業界リサーチバラエティー!</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6cwwvlm5.jpg?v=c06c46d9" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6cwwvlm5.jpg?v=bd6c4220" />
 	</programme>
 	<programme channel="ntv" start="20251017115400 +0000" stop="20251017204500 +0000">
 		<title>配信休止</title>
 		<desc> </desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3vpuoket.jpg?v=bc731622" />
-	</programme>
-	<programme channel="ex" start="20251004115400 +0000" stop="20251004130400 +0000">
-		<title>サタデーステーション</title>
-		<desc>高島彩▽高市早苗氏が女性初の自民党総裁に“舞台裏”では何が▽なぜここに？国慶節で中国人観光客に人気の場所▽各地で相次ぐクマ被害▽大谷翔平…あす地区Ｓへの意気込み</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6ewyjyj4.jpg?v=38d30563" />
-	</programme>
-	<programme channel="ex" start="20251004130400 +0000" stop="20251004140000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
 	</programme>
 	<programme channel="ex" start="20251004140000 +0000" stop="20251004143000 +0000">
 		<title>パパと親父のウチご飯</title>
@@ -572,8 +547,8 @@
 	</programme>
 	<programme channel="ex" start="20251011115400 +0000" stop="20251011135200 +0000">
 		<title>サタデーステーション</title>
-		<desc>「ニュースを丁寧に、そして鋭く」。高島彩が土曜夜に最新ニュースをＬＩＶＥでお届け！スタジオで徹底解説＆１週間の話題を「独自取材」で！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lep5g08n53.jpg?v=1b88d9c2" />
+		<desc>２時間ＳＰ▽高島彩▽台風23号…3連休影響か▽万博会場“最新警備”に密着▽自公連立解消の余波…政局行方▽ＷＳ連覇へ！LA熱狂を独自取材▽相次ぐクマ人身被害の理由</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lep5g08n53.jpg?v=5a82b8de" />
 	</programme>
 	<programme channel="ex" start="20251011135200 +0000" stop="20251011140000 +0000">
 		<title>No programme</title>
@@ -1110,21 +1085,6 @@
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lez0c2ds6c.jpg?v=eb33f8cb" />
 	</programme>
-	<programme channel="tx" start="20251004093000 +0000" stop="20251004115500 +0000">
-		<title>出川哲朗の充電させてもらえませんか？</title>
-		<desc>出川哲朗の充電させてもらえませんか？▼絶景の新潟・佐渡島＜沢崎⇒尖閣湾＞ＳＰ</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lexbqi8cx3.jpg?v=3eb5fc32" />
-	</programme>
-	<programme channel="tx" start="20251004115500 +0000" stop="20251004120000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leodiqukwf.jpg?v=08b09d8a" />
-	</programme>
-	<programme channel="tx" start="20251004120000 +0000" stop="20251004125400 +0000">
-		<title>出没！アド街ック天国</title>
-		<desc>出没！アド街ック天国【千歳烏山】京王線で日本初の商店街スタンプ導入した街へ</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le717167l9.jpg?v=cde7b549" />
-	</programme>
 	<programme channel="tx" start="20251004125400 +0000" stop="20251004190000 +0000">
 		<title>配信準備中</title>
 		<desc>配信準備中</desc>
@@ -1580,11 +1540,6 @@
 		<desc>配信準備中</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lewoch2igc.jpg?v=672ea998" />
 	</programme>
-	<programme channel="cx" start="20251004120000 +0000" stop="20251004144000 +0000">
-		<title>地上波放送番組のお知らせ</title>
-		<desc>映画「真夏の方程式」は地上波放送でお楽しみください！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le34xyt0xg.jpg?v=c1246c30" />
-	</programme>
 	<programme channel="cx" start="20251004144000 +0000" stop="20251004153500 +0000">
 		<title>今日もふたり、スキップで</title>
 		<desc>狭小寝具生活＆ていねいな暮らしっつーやつは</desc>
@@ -1935,6 +1890,11 @@
 		<desc>菅田将暉・二階堂ふみ・三谷幸喜・YOASOBI</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/les0ppw2sa.jpg?v=94341d8e" />
 	</programme>
+	<programme channel="cx" start="20251015143000 +0000" stop="20251016100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
+	</programme>
 	<programme channel="cx" start="20251016100000 +0000" stop="20251016120000 +0000">
 		<title>あの金どこ行った？かつて大金を手にした有名人の今を直撃取材！草彅剛×ホラン千秋</title>
 		<desc>有名人の稼いだ大金が全部消えた！驚きの人生が</desc>
@@ -1989,5 +1949,15 @@
 		<title>全力！脱力タイムズ</title>
 		<desc>ハライチ澤部＆中沢元紀、昼は全員流してるから〜！？の巻</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/levjha053t.jpg?v=8c7fee6d" />
+	</programme>
+	<programme channel="cx" start="20251018100000 +0000" stop="20251018120000 +0000">
+		<title>新しいカギ</title>
+		<desc>２時間SP</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leuhx0caoo.jpg?v=207b110b" />
+	</programme>
+	<programme channel="cx" start="20251018120000 +0000" stop="20251018141000 +0000">
+		<title>爆笑そっくりものまね紅白歌合戦スペシャル</title>
+		<desc>今夜限りの史上最強ランキングスペシャル！！</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leh6pz33da.jpg?v=b2072ec4" />
 	</programme>
 </tv>
