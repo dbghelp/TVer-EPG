@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20251005193000 +0000" stop="20251006100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leu6il8626.jpg?v=21e99fc8" />
-	</programme>
 	<programme channel="ntv" start="20251006100000 +0000" stop="20251006110000 +0000">
 		<title>有吉ゼミ</title>
 		<desc>▼グルメすぎる相撲部屋!寿司職人ちゃんこ長のアイデア満載絶品グルメ</desc>
@@ -589,11 +584,6 @@
 		<title>恋する警護24時 season2</title>
 		<desc>超人気作の第２弾！無骨でストイックなボディガード・北沢辰之助(岩本照)が新体制のもと、恋に任務に立ち向かっていく!!内通者の影、守る事の意味…手に汗握るドラマ始動!!</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le7pzef0hz.jpg?v=cd4cc74c" />
-	</programme>
-	<programme channel="tbs" start="20251005193000 +0000" stop="20251005230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4185a3np.jpg?v=ae5d2f13" />
 	</programme>
 	<programme channel="tbs" start="20251005230000 +0000" stop="20251006005500 +0000">
 		<title>ラヴィット！</title>
