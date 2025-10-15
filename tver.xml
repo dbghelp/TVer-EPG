@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20251008193000 +0000" stop="20251009100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lenm4ztc52.jpg?v=9d9dea18" />
-	</programme>
 	<programme channel="ntv" start="20251009100000 +0000" stop="20251009115400 +0000">
 		<title>ぐるぐるナインティナイン</title>
 		<desc>AIvs人間がゴチ対決!勝つのはどっち?新木優子&amp;戸塚純貴が参戦!</desc>
@@ -764,11 +759,6 @@
 		<title>報道ステーション</title>
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/legkd7a5sq.jpg?v=8c83fec3" />
-	</programme>
-	<programme channel="tbs" start="20251008193000 +0000" stop="20251008230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le0kvsel6n.jpg?v=ee41dcc1" />
 	</programme>
 	<programme channel="tbs" start="20251008230000 +0000" stop="20251009005500 +0000">
 		<title>ラヴィット！</title>
