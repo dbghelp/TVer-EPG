@@ -20,36 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20251015100000 +0000" stop="20251015105400 +0000">
-		<title>有吉の壁</title>
-		<desc>▼最強爆笑ベスト版!タイムレス佐藤・アン ミカに豪華ご本人登場選手権も</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lebpp80x66.jpg?v=a806b8c0" />
-	</programme>
-	<programme channel="ntv" start="20251015105400 +0000" stop="20251015110000 +0000">
-		<title>お知らせ</title>
-		<desc>リアルタイム配信予定の番組は「日テレ系」タブよりご確認いただけます。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le5na8ze27.jpg?v=537155fb" />
-	</programme>
-	<programme channel="ntv" start="20251015110000 +0000" stop="20251015120000 +0000">
-		<title>千鳥かまいたちゴールデンアワー</title>
-		<desc>【ダイエットSP】どの方法が一番痩せる!?1週間本気チャレンジ検証</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/letn8g81tr.jpg?v=8e1b5941" />
-	</programme>
-	<programme channel="ntv" start="20251015120000 +0000" stop="20251015125400 +0000">
-		<title>上田と女が吠える夜</title>
-		<desc>▼身長が小さい女子大きい女子あるあるVS手越祐也が参戦!</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lenxs5hkmg.jpg?v=a130aaa5" />
-	</programme>
-	<programme channel="ntv" start="20251015125400 +0000" stop="20251015130000 +0000">
-		<title>お知らせ</title>
-		<desc>リアルタイム配信予定の番組は「日テレ系」タブよりご確認いただけます。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lek8j95c6g.jpg?v=d9371503" />
-	</programme>
-	<programme channel="ntv" start="20251015130000 +0000" stop="20251015140000 +0000">
-		<title>ESCAPE　それは誘拐のはずだった</title>
-		<desc>#02桜田ひより×佐野勇斗/北村一輝</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4vpm4t78.jpg?v=4d4cc47e" />
-	</programme>
 	<programme channel="ntv" start="20251015140000 +0000" stop="20251015193000 +0000">
 		<title>配信休止</title>
 		<desc> </desc>
@@ -463,7 +433,7 @@
 	<programme channel="ntv" start="20251027120000 +0000" stop="20251027125400 +0000">
 		<title>しゃべくり007</title>
 		<desc>7人のMCがゲストを迎えてのトークバラエティー!</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leuw9872j6.jpg?v=40076370" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leuw9872j6.jpg?v=42076696" />
 	</programme>
 	<programme channel="ntv" start="20251027125400 +0000" stop="20251027130000 +0000">
 		<title>お知らせ</title>
@@ -515,10 +485,35 @@
 		<desc> </desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le1uce1ecm.jpg?v=82993a7f" />
 	</programme>
-	<programme channel="ex" start="20251015120000 +0000" stop="20251015130900 +0000">
-		<title>相棒 season24</title>
-		<desc>初回拡大スペシャル 第１話「死して償え～疑惑の殺人？人間国宝の闇」</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lepcsj927b.jpg?v=bca43413" />
+	<programme channel="ntv" start="20251029100000 +0000" stop="20251029105400 +0000">
+		<title>有吉の壁</title>
+		<desc>様々な「お笑いの壁」にチャレンジする純度100%のお笑い番組です!</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leiv0bypxi.jpg?v=7cacc8c3" />
+	</programme>
+	<programme channel="ntv" start="20251029105400 +0000" stop="20251029110000 +0000">
+		<title>お知らせ</title>
+		<desc>リアルタイム配信予定の番組は「日テレ系」タブよりご確認いただけます。</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lec8uieewu.jpg?v=4acbe1f7" />
+	</programme>
+	<programme channel="ntv" start="20251029110000 +0000" stop="20251029120000 +0000">
+		<title>千鳥かまいたちゴールデンアワー</title>
+		<desc>千鳥とかまいたちが“テッパンネタ”で盛り上がる新バラエティーショー！</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lecfy6q2pg.jpg?v=5fea75dc" />
+	</programme>
+	<programme channel="ntv" start="20251029120000 +0000" stop="20251029125400 +0000">
+		<title>上田と女が吠える夜</title>
+		<desc>▼”思春期”の子育て悩み相談SP</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lexti2kb0n.jpg?v=d6059263" />
+	</programme>
+	<programme channel="ntv" start="20251029125400 +0000" stop="20251029130000 +0000">
+		<title>お知らせ</title>
+		<desc>リアルタイム配信予定の番組は「日テレ系」タブよりご確認いただけます。</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lebagql0k8.jpg?v=b008a2f9" />
+	</programme>
+	<programme channel="ntv" start="20251029130000 +0000" stop="20251029140000 +0000">
+		<title>ESCAPE　それは誘拐のはずだった</title>
+		<desc>#04</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3q8fn1w0.jpg?v=8116c0c3" />
 	</programme>
 	<programme channel="ex" start="20251015130900 +0000" stop="20251015142500 +0000">
 		<title>報道ステーション</title>
@@ -708,7 +703,7 @@
 	<programme channel="ex" start="20251022130900 +0000" stop="20251022142500 +0000">
 		<title>報道ステーション</title>
 		<desc>秋到来も１２月の寒さ…“居座り寒気”に翻弄▽新旧大臣が引き継ぎ▽ド軍と“頂上決戦”ブルージェイズの強さ▽プロ野球ドラ１候補▽欧州ＣＬ</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/legkd7a5sq.jpg?v=96840e81" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/legkd7a5sq.jpg?v=32cee89b" />
 	</programme>
 	<programme channel="ex" start="20251022142500 +0000" stop="20251023100000 +0000">
 		<title>No programme</title>
@@ -718,17 +713,17 @@
 	<programme channel="ex" start="20251023100000 +0000" stop="20251023120000 +0000">
 		<title>相葉ヒロミのお困りですカー？</title>
 		<desc>【ヒロミ＆相葉雅紀】お困りごとを全力解決！初回２時間SP</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leo2ij4q9f.jpg?v=d9d19872" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leo2ij4q9f.jpg?v=d7d1954c" />
 	</programme>
 	<programme channel="ex" start="20251023120000 +0000" stop="20251023125400 +0000">
 		<title>緊急取調室 （2025）</title>
 		<desc>第2話</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le905zcqqq.jpg?v=e608b703" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le905zcqqq.jpg?v=e708b896" />
 	</programme>
 	<programme channel="ex" start="20251023125400 +0000" stop="20251023141000 +0000">
 		<title>報道ステーション</title>
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le7xvja688.jpg?v=12c40812" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le7xvja688.jpg?v=15c40ccb" />
 	</programme>
 	<programme channel="ex" start="20251023141000 +0000" stop="20251024095000 +0000">
 		<title>No programme</title>
@@ -744,6 +739,11 @@
 		<title>マツコ＆有吉 かりそめ天国</title>
 		<desc>タイムマシーン３号と宮下草薙が群馬の極上旅プレゼン対決！有吉が絶賛した「１万円」の白滝＆マツコが推す歴史宿に潜入!!さらにテレビ初登場の熟成そば名店も！</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lecyuad264.jpg?v=48c928dd" />
+	</programme>
+	<programme channel="ex" start="20251024115400 +0000" stop="20251024125400 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
 	</programme>
 	<programme channel="ex" start="20251024125400 +0000" stop="20251024141000 +0000">
 		<title>報道ステーション</title>
@@ -820,15 +820,15 @@
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lez4pm63jr.jpg?v=0297d2f4" />
 	</programme>
-	<programme channel="tbs" start="20251015125800 +0000" stop="20251015130000 +0000">
-		<title>お知らせ</title>
-		<desc>リアルタイム配信予定の番組は「TBS系」タブよりご確認いただけます。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le7wgy1tit.jpg?v=21b43d73" />
+	<programme channel="ex" start="20251029120000 +0000" stop="20251029125400 +0000">
+		<title>相棒 season24</title>
+		<desc>シリーズ誕生２５周年！ 杉下右京×亀山薫≪黄金コンビ≫は、通算１１シーズン目!! ＜相棒ワールド＞新たな境地へ！</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leyvv9r9ij.jpg?v=cd57c3d6" />
 	</programme>
-	<programme channel="tbs" start="20251015130000 +0000" stop="20251015140000 +0000">
-		<title>水曜日のダウンタウン</title>
-		<desc>芸能人が持ち寄った“説”を検証</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leua8y2g9u.jpg?v=b1002c74" />
+	<programme channel="ex" start="20251029125400 +0000" stop="20251029141000 +0000">
+		<title>報道ステーション</title>
+		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leloed1dy8.jpg?v=01c8c8f6" />
 	</programme>
 	<programme channel="tbs" start="20251015140000 +0000" stop="20251015193000 +0000">
 		<title>配信休止</title>
@@ -1123,7 +1123,7 @@
 	<programme channel="tbs" start="20251024130000 +0000" stop="20251024140000 +0000">
 		<title>フェイクマミー</title>
 		<desc>第３話　母の日の作文が書けない！？</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leol7mjmt6.jpg?v=ce0f4408" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leol7mjmt6.jpg?v=cf0f459b" />
 	</programme>
 	<programme channel="tbs" start="20251024140000 +0000" stop="20251024194500 +0000">
 		<title>配信休止</title>
@@ -1295,15 +1295,10 @@
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lemfbdkjr7.jpg?v=31fa92fd" />
 	</programme>
-	<programme channel="tx" start="20251015125400 +0000" stop="20251015130000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lewzw6sh40.jpg?v=9a4a69f5" />
-	</programme>
-	<programme channel="tx" start="20251015130000 +0000" stop="20251015135800 +0000">
-		<title>ＷＢＳ（ワールドビジネスサテライト）</title>
-		<desc>ＷＢＳ　日本の外食企業に商機“デフレ”中国市場を狙え！サイゼ＆鳥貴族</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lenlt0qx8n.jpg?v=c5e0779a" />
+	<programme channel="tbs" start="20251029100000 +0000" stop="20251029135700 +0000">
+		<title>配信休止</title>
+		<desc>配信休止</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4iki3sg9.jpg?v=1b1818d3" />
 	</programme>
 	<programme channel="tx" start="20251015135800 +0000" stop="20251015140600 +0000">
 		<title>配信準備中</title>
@@ -1835,25 +1830,20 @@
 		<desc>世界を救う！ワンにゃフル物語～柴と三毛と亀梨くん～</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leysy5ciiv.jpg?v=ae80d3cb" />
 	</programme>
-	<programme channel="cx" start="20251015100000 +0000" stop="20251015120000 +0000">
-		<title>奇跡体験！アンビリバボー</title>
-		<desc>世界のUFO・UMA！！ 特大スクープSP！！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/letl8bebjl.jpg?v=81d82349" />
+	<programme channel="tx" start="20251029115400 +0000" stop="20251029125400 +0000">
+		<title>バカリズムのちょっとバカりハカってみた！</title>
+		<desc>バカリズムのちょっとバカりハカってみた！▼「日本一の○○」を徹底調査ＳＰ</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le93q475z2.jpg?v=7d9a7223" />
 	</programme>
-	<programme channel="cx" start="20251015120000 +0000" stop="20251015125400 +0000">
-		<title>ホンマでっか！？TV</title>
-		<desc>太りやすい人16のダメ共通点</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lein8qcs8j.jpg?v=36640414" />
+	<programme channel="tx" start="20251029125400 +0000" stop="20251029130000 +0000">
+		<title>配信準備中</title>
+		<desc>配信準備中</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leyeza6zq1.jpg?v=f0e566cf" />
 	</programme>
-	<programme channel="cx" start="20251015125400 +0000" stop="20251015130000 +0000">
-		<title>配信番組のお知らせ</title>
-		<desc>🐶🐩🐕</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3nf8bvyl.jpg?v=7bbd9ed8" />
-	</programme>
-	<programme channel="cx" start="20251015130000 +0000" stop="20251015135400 +0000">
-		<title>もしもこの世が舞台なら、楽屋はどこにあるのだろう</title>
-		<desc>第3話 夏の夜の八分坂</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lesc71nk76.jpg?v=5937c3f6" />
+	<programme channel="tx" start="20251029130000 +0000" stop="20251029135800 +0000">
+		<title>ＷＢＳ（ワールドビジネスサテライト）</title>
+		<desc>ＷＢＳ</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/led37l6sja.jpg?v=505c5c3e" />
 	</programme>
 	<programme channel="cx" start="20251015135400 +0000" stop="20251015140000 +0000">
 		<title>配信番組のお知らせ</title>
@@ -2160,10 +2150,20 @@
 		<desc>第3話 嫌われ教師の秘密／最強のライバル</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lex2zflhjg.jpg?v=0691c300" />
 	</programme>
-	<programme channel="cx" start="20251025153500 +0000" stop="20251026125000 +0000">
+	<programme channel="cx" start="20251025153500 +0000" stop="20251026093000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
+	</programme>
+	<programme channel="cx" start="20251026093000 +0000" stop="20251026124700 +0000">
+		<title>SMBC日本シリーズ2025</title>
+		<desc>【お知らせ】『SMBC日本シリーズ第２戦　福岡ソフトバンクvs阪神タイガース』をTVer Special Liveでライブ配信！</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le73krwph2.jpg?v=9dc8e416" />
+	</programme>
+	<programme channel="cx" start="20251026124700 +0000" stop="20251026125000 +0000">
+		<title>配信番組のお知らせ</title>
+		<desc>🐶🐩🐕</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le5vlke6ya.jpg?v=65154a48" />
 	</programme>
 	<programme channel="cx" start="20251026125000 +0000" stop="20251026140900 +0000">
 		<title>地上波放送番組のお知らせ</title>
@@ -2234,5 +2234,25 @@
 		<title>娘の命を奪ったヤツを殺すのは罪ですか？</title>
 		<desc>#4</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lei6dwjp7k.jpg?v=6f07e63c" />
+	</programme>
+	<programme channel="cx" start="20251029100000 +0000" stop="20251029120000 +0000">
+		<title>奇跡体験！アンビリバボー</title>
+		<desc>２時間SP</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leylwf43s8.jpg?v=9af7da97" />
+	</programme>
+	<programme channel="cx" start="20251029120000 +0000" stop="20251029125400 +0000">
+		<title>ホンマでっか！？TV</title>
+		<desc />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le1qfwdu03.jpg?v=417ad13e" />
+	</programme>
+	<programme channel="cx" start="20251029125400 +0000" stop="20251029130000 +0000">
+		<title>配信番組のお知らせ</title>
+		<desc>🐶🐩🐕</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le9fxvrsin.jpg?v=f7aa4b13" />
+	</programme>
+	<programme channel="cx" start="20251029130000 +0000" stop="20251029135400 +0000">
+		<title>もしもこの世が舞台なら、楽屋はどこにあるのだろう</title>
+		<desc>第5話</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lerz8ilzzb.jpg?v=67cd9cd7" />
 	</programme>
 </tv>
