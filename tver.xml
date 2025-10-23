@@ -712,8 +712,8 @@
 	</programme>
 	<programme channel="ex" start="20251024125400 +0000" stop="20251024141000 +0000">
 		<title>報道ステーション</title>
-		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leodvb5ycj.jpg?v=ab3c0fc3" />
+		<desc>総理が“所信表明”へ…経済対策に防衛強化…高市カラーはどこに？▽クマ影響が産業にも▽ワールドシリーズ前日…大谷翔平、語る▽大相撲がロンドンで残したもの</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leodvb5ycj.jpg?v=ac3c1156" />
 	</programme>
 	<programme channel="ex" start="20251024141000 +0000" stop="20251024141500 +0000">
 		<title>No programme</title>
@@ -1294,11 +1294,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqq0sotqi.jpg?v=51a2f241" />
-	</programme>
-	<programme channel="tx" start="20251016190000 +0000" stop="20251017092500 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leglds9d1r.jpg?v=fbbc3ec6" />
 	</programme>
 	<programme channel="tx" start="20251017092500 +0000" stop="20251017095500 +0000">
 		<title>BEYBLADE X</title>
