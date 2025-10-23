@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20251016193000 +0000" stop="20251017105600 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leaga5tq19.jpg?v=c0d41ac8" />
-	</programme>
 	<programme channel="ntv" start="20251017105600 +0000" stop="20251017115400 +0000">
 		<title>沸騰ワード10</title>
 		<desc>志麻さん古民家改装第二章 當真あみが台所再建&amp;餅投げ▼AI魔術師登場</desc>
@@ -820,11 +815,6 @@
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le83xtbgcz.jpg?v=298a8f8f" />
 	</programme>
-	<programme channel="tbs" start="20251016193000 +0000" stop="20251017100000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lebttacnvj.jpg?v=f130ce4d" />
-	</programme>
 	<programme channel="tbs" start="20251017100000 +0000" stop="20251017115500 +0000">
 		<title>それSnow Manにやらせて下さい</title>
 		<desc>Snow Man＆沢村一樹が秋のコーデ対決</desc>
@@ -1283,7 +1273,7 @@
 	<programme channel="tbs" start="20251030110000 +0000" stop="20251030125000 +0000">
 		<title>キセキの動画大集合！“神”映像グランプリ</title>
 		<desc>今夜の動画はケタ違い！“神”映像GP！Snow Manからあのメンバーが緊急参戦</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leff8xjwa4.jpg?v=141c7cc9" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leff8xjwa4.jpg?v=131c7b36" />
 	</programme>
 	<programme channel="tbs" start="20251030125000 +0000" stop="20251030135700 +0000">
 		<title>櫻井･有吉THE夜会</title>
