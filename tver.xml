@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20251019193000 +0000" stop="20251020100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4nyttx48.jpg?v=34b07c09" />
-	</programme>
 	<programme channel="ntv" start="20251020100000 +0000" stop="20251020110000 +0000">
 		<title>有吉ゼミ</title>
 		<desc>▼ギャル曽根&amp;爆食大食い力士軍VS肉盛りオムライス!激辛に原晋監督参戦</desc>
@@ -373,7 +368,7 @@
 	<programme channel="ntv" start="20251030100000 +0000" stop="20251030105400 +0000">
 		<title>THE突破ファイル</title>
 		<desc>人体ミステリー&amp;突破交番!見えざる敵を撃退SP</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leftv2obm4.jpg?v=f21b4e9c" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leftv2obm4.jpg?v=f91b59a1" />
 	</programme>
 	<programme channel="ntv" start="20251030105400 +0000" stop="20251030110000 +0000">
 		<title>お知らせ</title>
@@ -664,11 +659,6 @@
 		<title>恋する警護24時 season2</title>
 		<desc>ボディガード・北沢辰之助（岩本照）たちを振り切り、警護対象者が逃走！一方、遠距離恋愛になった岸村里夏（白石麻衣）と辰之助は、ビデオ通話で関係を深めていくが…？</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lee3r38it0.jpg?v=27e05030" />
-	</programme>
-	<programme channel="tbs" start="20251019193000 +0000" stop="20251019230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lelu9t61u4.jpg?v=2721c1fb" />
 	</programme>
 	<programme channel="tbs" start="20251019230000 +0000" stop="20251020005500 +0000">
 		<title>ラヴィット！</title>
@@ -1482,8 +1472,8 @@
 	</programme>
 	<programme channel="tx" start="20251030115800 +0000" stop="20251030125400 +0000">
 		<title>ナゼそこ？＋</title>
-		<desc>ナゼそこ？</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/letf7wbhje.jpg?v=1ee90511" />
+		<desc>ナゼそこ？世界２０カ国で喝采！NHKドラマにも…女性２人山暮らし生活</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/letf7wbhje.jpg?v=1fe906a4" />
 	</programme>
 	<programme channel="tx" start="20251030125400 +0000" stop="20251030130000 +0000">
 		<title>配信準備中</title>
