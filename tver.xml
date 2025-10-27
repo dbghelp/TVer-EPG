@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20251020193000 +0000" stop="20251021100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lell6dchyv.jpg?v=b6f82af1" />
-	</programme>
 	<programme channel="ntv" start="20251021100000 +0000" stop="20251021115400 +0000">
 		<title>踊る！さんま御殿!!</title>
 		<desc>メジャーVS超レア名字!リアル産屋敷さん鬼滅ブームで人生激変</desc>
@@ -789,11 +784,6 @@
 		<title>報道ステーション</title>
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lekup2px82.jpg?v=eaeab072" />
-	</programme>
-	<programme channel="tbs" start="20251020193000 +0000" stop="20251020230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leq4ppjevp.jpg?v=e695e89f" />
 	</programme>
 	<programme channel="tbs" start="20251020230000 +0000" stop="20251021005500 +0000">
 		<title>ラヴィット！</title>
