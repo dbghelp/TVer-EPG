@@ -677,8 +677,8 @@
 	</programme>
 	<programme channel="ex" start="20251029125400 +0000" stop="20251029141000 +0000">
 		<title>報道ステーション</title>
-		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leloed1dy8.jpg?v=890f7fa0" />
+		<desc>物価高対策への動きは…自民・維新の幹部が初会合▽“車の祭典”開幕へ▽北日本は大雪に警戒▽歴史的激闘から一夜…大谷翔平がワールドシリーズ初の二刀流…松坂大輔が解説</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leloed1dy8.jpg?v=8a0f8133" />
 	</programme>
 	<programme channel="ex" start="20251029141000 +0000" stop="20251030085000 +0000">
 		<title>No programme</title>
@@ -1259,11 +1259,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lerzp024f3.jpg?v=0562d39f" />
-	</programme>
-	<programme channel="tx" start="20251021190000 +0000" stop="20251022092500 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lemvgu1oar.jpg?v=fdc4d60e" />
 	</programme>
 	<programme channel="tx" start="20251022092500 +0000" stop="20251022125400 +0000">
 		<title>旅バラ</title>
