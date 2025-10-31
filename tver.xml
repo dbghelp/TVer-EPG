@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20251024204500 +0000" stop="20251025100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lecwfpbwb3.jpg?v=9fa8fd00" />
-	</programme>
 	<programme channel="ntv" start="20251025100000 +0000" stop="20251025105600 +0000">
 		<title>嗚呼!!みんなの動物園</title>
 		<desc>▽サンシャイン池崎宅にひょうろく&amp;超カワイイ元野良猫大家族</desc>
@@ -779,11 +774,6 @@
 		<title>恋する警護24時 season2</title>
 		<desc>五十嵐聖（大地伸永）が殺された!?北沢辰之助（岩本照）たち警護チームに激震が走る。そんな中、遠距離恋愛になった岸村里夏（白石麻衣）が緊急帰国することになり…？</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ledziypnog.jpg?v=81e60663" />
-	</programme>
-	<programme channel="tbs" start="20251024194500 +0000" stop="20251025092000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leuf5uvivx.jpg?v=a12f27c2" />
 	</programme>
 	<programme channel="tbs" start="20251025092000 +0000" stop="20251025130000 +0000">
 		<title>Special Liveのお知らせ</title>
