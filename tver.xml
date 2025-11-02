@@ -20,26 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20251026125400 +0000" stop="20251026130000 +0000">
-		<title>お知らせ</title>
-		<desc>リアルタイム配信予定の番組は「日テレ系」タブよりご確認いただけます。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lelzcbgqd3.jpg?v=b724f6bd" />
-	</programme>
-	<programme channel="ntv" start="20251026130000 +0000" stop="20251026133000 +0000">
-		<title>おしゃれクリップ</title>
-		<desc>ゲスト 井ノ原快彦</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lebg4ki56q.jpg?v=c01bbe52" />
-	</programme>
-	<programme channel="ntv" start="20251026133000 +0000" stop="20251026142500 +0000">
-		<title>ぼくたちん家</title>
-		<desc>#3 ゲイのおじさんが父親に!実の父も現れ、恋も家族も大混乱</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lei8sanx51.jpg?v=8c1df041" />
-	</programme>
-	<programme channel="ntv" start="20251026142500 +0000" stop="20251026193000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/letbapp8o2.jpg?v=727ccc7d" />
-	</programme>
 	<programme channel="ntv" start="20251026193000 +0000" stop="20251027100000 +0000">
 		<title>配信休止</title>
 		<desc> </desc>
@@ -283,7 +263,7 @@
 	<programme channel="ntv" start="20251102133000 +0000" stop="20251102142500 +0000">
 		<title>ぼくたちん家</title>
 		<desc>#4娘が誘拐!ゲイのお父さん、必死の追跡!犯人はまさかの…!?</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leh586xc6j.jpg?v=da7b6ba4" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leh586xc6j.jpg?v=9436eb74" />
 	</programme>
 	<programme channel="ntv" start="20251102142500 +0000" stop="20251102193000 +0000">
 		<title>配信休止</title>
@@ -429,16 +409,6 @@
 		<title>配信休止</title>
 		<desc> </desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le8foofeq8.jpg?v=ef692583" />
-	</programme>
-	<programme channel="ex" start="20251026131500 +0000" stop="20251026140900 +0000">
-		<title>すべての恋が終わるとしても</title>
-		<desc>#3 こんな恋、1秒でも早く終わらせてくれ</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lean4b8qvy.jpg?v=aed8dd54" />
-	</programme>
-	<programme channel="ex" start="20251026140900 +0000" stop="20251027100000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
 	</programme>
 	<programme channel="ex" start="20251027100000 +0000" stop="20251027114000 +0000">
 		<title>帰れマンデー見っけ隊!!</title>
@@ -610,6 +580,11 @@
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lekup2px82.jpg?v=266f1bc7" />
 	</programme>
+	<programme channel="ex" start="20251103141000 +0000" stop="20251104100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
+	</programme>
 	<programme channel="ex" start="20251104100000 +0000" stop="20251104120000 +0000">
 		<title>孝太郎＆ちさ子　プラチナファミリー 華麗なる一家をのぞき見</title>
 		<desc>プラチナファミリー＆火曜の良純孝太郎　合体ＳＰ</desc>
@@ -669,31 +644,6 @@
 		<title>恋する警護24時 season2</title>
 		<desc>五十嵐聖（大地伸永）が殺された!?北沢辰之助（岩本照）たち警護チームに激震が走る。そんな中、遠距離恋愛になった岸村里夏（白石麻衣）が緊急帰国することになり…？</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ledziypnog.jpg?v=81e60663" />
-	</programme>
-	<programme channel="tbs" start="20251026125400 +0000" stop="20251026130000 +0000">
-		<title>お知らせ</title>
-		<desc>リアルタイム配信予定の番組は「TBS系」タブよりご確認いただけます。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lex2whpgux.jpg?v=f64b2567" />
-	</programme>
-	<programme channel="tbs" start="20251026130000 +0000" stop="20251026135400 +0000">
-		<title>日曜日の初耳学</title>
-		<desc>【北村匠海×林修◆朝ドラ『あんぱん』RADWIMPSとの縁＆小栗旬が暴露】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lee0h9lrlr.jpg?v=ebf254d1" />
-	</programme>
-	<programme channel="tbs" start="20251026135400 +0000" stop="20251026140000 +0000">
-		<title>お知らせ</title>
-		<desc>リアルタイム配信予定の番組は「TBS系」タブよりご確認いただけます。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqr8nffai.jpg?v=43d0e692" />
-	</programme>
-	<programme channel="tbs" start="20251026140000 +0000" stop="20251026143000 +0000">
-		<title>情熱大陸</title>
-		<desc>【郷ひろみ▽後編！70歳の孤独、激痛に耐え「２日で70曲」歌い切れるか!?】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le8d06ylcw.jpg?v=ebb39cd3" />
-	</programme>
-	<programme channel="tbs" start="20251026143000 +0000" stop="20251026193000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le0y8oe261.jpg?v=0e5fb5ad" />
 	</programme>
 	<programme channel="tbs" start="20251026193000 +0000" stop="20251026230000 +0000">
 		<title>配信休止</title>
@@ -963,37 +913,37 @@
 	<programme channel="tbs" start="20251103193000 +0000" stop="20251103230000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lekaawwqwq.jpg?v=adf78986" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lekaawwqwq.jpg?v=b0f78e3f" />
 	</programme>
 	<programme channel="tbs" start="20251103230000 +0000" stop="20251104005500 +0000">
 		<title>ラヴィット！</title>
 		<desc>日本でいちばん明るい朝番組</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le7l5nqvxf.jpg?v=6efc04f3" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le7l5nqvxf.jpg?v=73fc0cd2" />
 	</programme>
 	<programme channel="tbs" start="20251104005500 +0000" stop="20251104100000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lea6blc1m8.jpg?v=63ae5572" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lea6blc1m8.jpg?v=5eae4d93" />
 	</programme>
 	<programme channel="tbs" start="20251104100000 +0000" stop="20251104115500 +0000">
 		<title>バナナサンド</title>
 		<desc>沢村一樹&amp;松本若菜と対決！上白石萌歌&amp;佐野晶哉ハモリ我慢</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lenj7od560.jpg?v=836408a1" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lenj7od560.jpg?v=7c63fd9c" />
 	</programme>
 	<programme channel="tbs" start="20251104115500 +0000" stop="20251104130000 +0000">
 		<title>マツコの知らない世界</title>
 		<desc>ラーメン日本一決戦！3連覇山形VS1位狙う新潟【保存版行列名店】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lesn01h1l4.jpg?v=e90ed7c9" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lesn01h1l4.jpg?v=e80ed636" />
 	</programme>
 	<programme channel="tbs" start="20251104130000 +0000" stop="20251104140000 +0000">
 		<title>じゃあ、あんたが作ってみろよ</title>
 		<desc>第５話【とり天よ、空を飛べ！】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lef7p0snvx.jpg?v=70e5b2a0" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lef7p0snvx.jpg?v=71e5b433" />
 	</programme>
 	<programme channel="tbs" start="20251104140000 +0000" stop="20251104193000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lerzp024f3.jpg?v=0562d39f" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lerzp024f3.jpg?v=0262cee6" />
 	</programme>
 	<programme channel="tbs" start="20251104193000 +0000" stop="20251104230000 +0000">
 		<title>配信休止</title>
@@ -1084,21 +1034,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/legrt69l0l.jpg?v=f5eb2d90" />
-	</programme>
-	<programme channel="tx" start="20251026125400 +0000" stop="20251026130000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leh08vbcwl.jpg?v=09eaa964" />
-	</programme>
-	<programme channel="tx" start="20251026130000 +0000" stop="20251026134800 +0000">
-		<title>有吉ぃぃeeeee！～そうだ！今からお前んチでゲームしない？</title>
-		<desc>有吉ぃぃeeeee!【マイクラ24時間エピソード０】呪われた島・有吉ぃぃランド</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leaoxbgpi3.jpg?v=764cfd95" />
-	</programme>
-	<programme channel="tx" start="20251026134800 +0000" stop="20251026190000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lenzexdcrw.jpg?v=9099a645" />
 	</programme>
 	<programme channel="tx" start="20251026190000 +0000" stop="20251027092500 +0000">
 		<title>配信準備中</title>
@@ -1570,16 +1505,6 @@
 		<desc>配信準備中</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqrmy5gs8.jpg?v=e670756c" />
 	</programme>
-	<programme channel="cx" start="20251026125500 +0000" stop="20251026141400 +0000">
-		<title>地上波放送番組のお知らせ</title>
-		<desc>「Mr.サンデー」は地上波放送でお楽しみください！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leyqenkbbq.jpg?v=d2a1d7d7" />
-	</programme>
-	<programme channel="cx" start="20251026141400 +0000" stop="20251027100000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
-	</programme>
 	<programme channel="cx" start="20251027100000 +0000" stop="20251027120000 +0000">
 		<title>ネプリーグ</title>
 		<desc>２時間SP★映画俳優vsドラマ俳優vs俳優芸人！全員俳優バトル</desc>
@@ -1924,6 +1849,11 @@
 		<title>トークィーンズ</title>
 		<desc />
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leslpd780j.jpg?v=232114d9" />
+	</programme>
+	<programme channel="cx" start="20251106143000 +0000" stop="20251107100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</programme>
 	<programme channel="cx" start="20251107100000 +0000" stop="20251107110000 +0000">
 		<title>配信番組のお知らせ</title>
