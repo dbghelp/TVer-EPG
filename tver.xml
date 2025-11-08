@@ -20,16 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20251101130000 +0000" stop="20251101135400 +0000">
-		<title>with MUSIC</title>
-		<desc>デビュー3周年Travis Japan7人揃って初出演!</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leinb2jes6.jpg?v=3d7b910c" />
-	</programme>
-	<programme channel="ntv" start="20251101135400 +0000" stop="20251101202500 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lez1ygq1rx.jpg?v=bd68bd32" />
-	</programme>
 	<programme channel="ntv" start="20251101202500 +0000" stop="20251102095500 +0000">
 		<title>配信休止</title>
 		<desc> </desc>
@@ -440,16 +430,6 @@
 		<desc> </desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le5dhnq5nf.jpg?v=6742323e" />
 	</programme>
-	<programme channel="ex" start="20251101140000 +0000" stop="20251101143000 +0000">
-		<title>パパと親父のウチご飯</title>
-		<desc>第 5 話</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejv7hr37w.jpg?v=3ac51c2b" />
-	</programme>
-	<programme channel="ex" start="20251101143000 +0000" stop="20251101224500 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
-	</programme>
 	<programme channel="ex" start="20251101224500 +0000" stop="20251102044000 +0000">
 		<title>長谷工グループスポーツスペシャル 第57回全日本大学駅伝</title>
 		<desc>全日本大学駅伝</desc>
@@ -704,11 +684,6 @@
 		<title>恋する警護24時 season2</title>
 		<desc>高価なジュエリーが盗まれた!?北沢辰之助（岩本照）、三雲千早（成海璃子）も超豪華ドレスアップで警護にあたる！さらに、恋の三角関係に原湊（藤原丈一郎）が反応し…？</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lemu803usx.jpg?v=d8cd89ce" />
-	</programme>
-	<programme channel="tbs" start="20251101125600 +0000" stop="20251101200000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le0d1zishp.jpg?v=7685103a" />
 	</programme>
 	<programme channel="tbs" start="20251101200000 +0000" stop="20251102100000 +0000">
 		<title>配信休止</title>
@@ -973,32 +948,32 @@
 	<programme channel="tbs" start="20251109165900 +0000" stop="20251109230000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lej6tskgah.jpg?v=b95d1874" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lej6tskgah.jpg?v=b85d16e1" />
 	</programme>
 	<programme channel="tbs" start="20251109230000 +0000" stop="20251110005500 +0000">
 		<title>ラヴィット！</title>
 		<desc>【祝解禁！ガストのポテト食べつくせ▼コストコマニア厳選！ベスト５】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le2behposn.jpg?v=be2d8639" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le2behposn.jpg?v=bb2d8180" />
 	</programme>
 	<programme channel="tbs" start="20251110005500 +0000" stop="20251110100000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqhlfdouu.jpg?v=b60b7fd2" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqhlfdouu.jpg?v=b10b77f3" />
 	</programme>
 	<programme channel="tbs" start="20251110100000 +0000" stop="20251110115500 +0000">
 		<title>口を揃えたフシギな話</title>
 		<desc>相葉雅紀も驚がく！墜落UFO回収した男＆宇宙人が妊娠！？</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6ljj33ks.jpg?v=1d1d24e6" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6ljj33ks.jpg?v=baf49dca" />
 	</programme>
 	<programme channel="tbs" start="20251110115500 +0000" stop="20251110135700 +0000">
 		<title>クレイジージャーニー</title>
 		<desc>スウェーデン裏世界＆世界最大ヒグマが暮らす島へ</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lezy5ceija.jpg?v=c402fba7" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lezy5ceija.jpg?v=c302fa14" />
 	</programme>
 	<programme channel="tbs" start="20251110135700 +0000" stop="20251110193000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3k92w1tr.jpg?v=4a9c2375" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3k92w1tr.jpg?v=439c1870" />
 	</programme>
 	<programme channel="tbs" start="20251110193000 +0000" stop="20251110230000 +0000">
 		<title>配信休止</title>
@@ -1635,21 +1610,6 @@
 		<desc>配信準備中</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leftn68qt2.jpg?v=c03c3c55" />
 	</programme>
-	<programme channel="cx" start="20251101141000 +0000" stop="20251101144000 +0000">
-		<title>さんまのお笑い向上委員会</title>
-		<desc>▼EXIT兼近政界進出計画！りんたろーは解散の危機！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lep4w3neoq.jpg?v=b922a564" />
-	</programme>
-	<programme channel="cx" start="20251101144000 +0000" stop="20251101153500 +0000">
-		<title>介護スナック ベルサイユ</title>
-		<desc>第4話 英雄か否か／家族捨てた漫才師</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leossk3s9l.jpg?v=e94b563f" />
-	</programme>
-	<programme channel="cx" start="20251101153500 +0000" stop="20251102100000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
-	</programme>
 	<programme channel="cx" start="20251102100000 +0000" stop="20251102115400 +0000">
 		<title>千鳥の鬼レンチャン</title>
 		<desc>◆ほいToshl＆池キン！名作タッグ＆新企画クレーンゲーム</desc>
@@ -2038,6 +1998,16 @@
 	<programme channel="cx" start="20251115120000 +0000" stop="20251115141000 +0000">
 		<title>全国ハモネプ大リーグ</title>
 		<desc />
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le0tdojjos.jpg?v=97e2bd87" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le0tdojjos.jpg?v=98e2bf1a" />
+	</programme>
+	<programme channel="cx" start="20251115141000 +0000" stop="20251115144000 +0000">
+		<title>さんまのお笑い向上委員会</title>
+		<desc>　</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lecras4slq.jpg?v=57c82695" />
+	</programme>
+	<programme channel="cx" start="20251115144000 +0000" stop="20251115153500 +0000">
+		<title>介護スナック ベルサイユ</title>
+		<desc>第6話</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le21k2sfvb.jpg?v=efe080be" />
 	</programme>
 </tv>
