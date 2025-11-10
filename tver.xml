@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20251103193000 +0000" stop="20251104100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lextwvc4ht.jpg?v=4824473a" />
-	</programme>
 	<programme channel="ntv" start="20251104100000 +0000" stop="20251104105400 +0000">
 		<title>オモウマい店</title>
 		<desc>【東京】味の引き出し無限大!?200種からあげ!!1万人育てた元気店主</desc>
@@ -739,11 +734,6 @@
 		<title>報道ステーション</title>
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le9pu5djp7.jpg?v=38172986" />
-	</programme>
-	<programme channel="tbs" start="20251103193000 +0000" stop="20251103230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lekaawwqwq.jpg?v=b2f79165" />
 	</programme>
 	<programme channel="tbs" start="20251103230000 +0000" stop="20251104005500 +0000">
 		<title>ラヴィット！</title>
