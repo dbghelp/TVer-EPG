@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20251104193000 +0000" stop="20251105100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqc0r6d5o.jpg?v=26bf8558" />
-	</programme>
 	<programme channel="ntv" start="20251105100000 +0000" stop="20251105115400 +0000">
 		<title>人生が変わる1分間の深イイ話</title>
 		<desc>SPアンパンマンやなせたかし・のぶ夫妻の絆&amp;元巨人クロマティ親子に密着</desc>
@@ -734,11 +729,6 @@
 		<title>報道ステーション</title>
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lefhts7a4z.jpg?v=40199787" />
-	</programme>
-	<programme channel="tbs" start="20251104193000 +0000" stop="20251104230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le9ucboofz.jpg?v=777c2f44" />
 	</programme>
 	<programme channel="tbs" start="20251104230000 +0000" stop="20251105005500 +0000">
 		<title>ラヴィット！</title>
