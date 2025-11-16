@@ -20,36 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20251109095500 +0000" stop="20251109100000 +0000">
-		<title>博士は今日も嫉妬する～人生が楽しくなる最新テクノロジー～</title>
-		<desc>▽30秒で測れるペット用心電図計</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6ckw0cb5.jpg?v=f6ec505b" />
-	</programme>
-	<programme channel="ntv" start="20251109100000 +0000" stop="20251109105800 +0000">
-		<title>ザ！鉄腕！DASH!!</title>
-		<desc>▽木造DASH第2弾!古民家を解体して木造掃除機を手作り</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lev6e95lqp.jpg?v=9dd1da69" />
-	</programme>
-	<programme channel="ntv" start="20251109105800 +0000" stop="20251109115400 +0000">
-		<title>世界の果てまでイッテQ！</title>
-		<desc>イモト珍獣スタンプPJで大絶叫!▼1年ぶり宮川ボーイズが祭りに参戦!</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lenkr6fl1c.jpg?v=aa945bb2" />
-	</programme>
-	<programme channel="ntv" start="20251109115400 +0000" stop="20251109120000 +0000">
-		<title>お知らせ</title>
-		<desc>リアルタイム配信予定の番組は「日テレ系」タブよりご確認いただけます。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le5p45gito.jpg?v=8b5f63a0" />
-	</programme>
-	<programme channel="ntv" start="20251109120000 +0000" stop="20251109125400 +0000">
-		<title>Golden SixTONES</title>
-		<desc>▽人気芸人トリオが電撃参戦!!熱闘そらジロー(秘)チャレンジ!!</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/let299jlbo.jpg?v=39916dc0" />
-	</programme>
-	<programme channel="ntv" start="20251109125400 +0000" stop="20251109130000 +0000">
-		<title>お知らせ</title>
-		<desc>リアルタイム配信予定の番組は「日テレ系」タブよりご確認いただけます。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lehy3ghbu7.jpg?v=fd336b6c" />
-	</programme>
 	<programme channel="ntv" start="20251109130000 +0000" stop="20251109133000 +0000">
 		<title>おしゃれクリップ</title>
 		<desc>ゲスト 渡辺謙</desc>
@@ -415,26 +385,6 @@
 		<desc> </desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leucm58oek.jpg?v=f317db68" />
 	</programme>
-	<programme channel="ex" start="20251109095600 +0000" stop="20251109105000 +0000">
-		<title>ナニコレ珍百景</title>
-		<desc>世界が注目する離島＆田舎町！不思議なものだらけの学校珍百景ＳＰ</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leufw4ssa0.jpg?v=dcb0fb85" />
-	</programme>
-	<programme channel="ex" start="20251109105000 +0000" stop="20251109105400 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
-	</programme>
-	<programme channel="ex" start="20251109105400 +0000" stop="20251109115600 +0000">
-		<title>ポツンと一軒家</title>
-		<desc>フランスの大自然に魅せられたベルギー人ご夫婦が登場！国境を越えたポツンと一軒家への移住ストーリー</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lewcjk69b0.jpg?v=af191bda" />
-	</programme>
-	<programme channel="ex" start="20251109115600 +0000" stop="20251109131500 +0000">
-		<title>有働Times</title>
-		<desc>「ＮＨＫ党」の立花孝志党首を逮捕…死亡した元県議の妻が“名誉毀損”で告訴▽山本由伸伝説の連投“深夜２時まで調整”トレーナー明かす裏側▽大相撲大の里連覇へ初日</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/letc99coyf.jpg?v=a7c85ca5" />
-	</programme>
 	<programme channel="ex" start="20251109131500 +0000" stop="20251109140900 +0000">
 		<title>すべての恋が終わるとしても</title>
 		<desc>#5 二度と、好きなんて言えない</desc>
@@ -600,6 +550,11 @@
 		<desc>埼玉県で帰れま１０特別編！連日大行列の大人気ローカルチェーン店で人気１位メニューを当てないと食べられない旅</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lerflhuzur.jpg?v=6531af98" />
 	</programme>
+	<programme channel="ex" start="20251117113000 +0000" stop="20251117125400 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
+	</programme>
 	<programme channel="ex" start="20251117125400 +0000" stop="20251117141000 +0000">
 		<title>報道ステーション</title>
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
@@ -664,21 +619,6 @@
 		<title>恋する警護24時 season2</title>
 		<desc>北沢辰之助（岩本照）は、因縁の相手・父親を殺した漆原透吾（溝端淳平）のもとを訪れ、衝撃の事実を知る！さらに、岸村里夏（白石麻衣）も一時帰国することになるが…？</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le5hwih86k.jpg?v=241a98a9" />
-	</programme>
-	<programme channel="tbs" start="20251109100000 +0000" stop="20251109120000 +0000">
-		<title>バナナマンのせっかくグルメ!!</title>
-		<desc>日村が秋の京都へ！Snow Man目黒蓮も爆食</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/letxi9i7iq.jpg?v=8e9e0547" />
-	</programme>
-	<programme channel="tbs" start="20251109120000 +0000" stop="20251109125400 +0000">
-		<title>ザ・ロイヤルファミリー</title>
-		<desc>５話【日本ダービー】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lebr34ykt2.jpg?v=a690fe45" />
-	</programme>
-	<programme channel="tbs" start="20251109125400 +0000" stop="20251109130000 +0000">
-		<title>お知らせ</title>
-		<desc>リアルタイム配信予定の番組は「TBS系」タブよりご確認いただけます。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lextsbrjxa.jpg?v=3088c05b" />
 	</programme>
 	<programme channel="tbs" start="20251109130000 +0000" stop="20251109135400 +0000">
 		<title>日曜日の初耳学</title>
@@ -893,7 +833,7 @@
 	<programme channel="tbs" start="20251116120000 +0000" stop="20251116125400 +0000">
 		<title>ザ・ロイヤルファミリー</title>
 		<desc>６話【有馬記念】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/letavrpuci.jpg?v=c86a4531" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/letavrpuci.jpg?v=c96a46c4" />
 	</programme>
 	<programme channel="tbs" start="20251116125400 +0000" stop="20251116130000 +0000">
 		<title>お知らせ</title>
@@ -1084,16 +1024,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lepxl0i16m.jpg?v=82302ae1" />
-	</programme>
-	<programme channel="tx" start="20251109115000 +0000" stop="20251109125400 +0000">
-		<title>家、ついて行ってイイですか？</title>
-		<desc>家、ついて行ってイイですか？片付けられない東大生…天才ゆえの悩み＆べらぼう男</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lehc4ya15i.jpg?v=6bf61dba" />
-	</programme>
-	<programme channel="tx" start="20251109125400 +0000" stop="20251109130000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le0th2c7i7.jpg?v=cfd9bc5a" />
 	</programme>
 	<programme channel="tx" start="20251109130000 +0000" stop="20251109134800 +0000">
 		<title>有吉ぃぃeeeee！～そうだ！今からお前んチでゲームしない？</title>
@@ -1585,21 +1515,6 @@
 		<desc>配信準備中</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le360fxfww.jpg?v=08179f79" />
 	</programme>
-	<programme channel="cx" start="20251109100000 +0000" stop="20251109115400 +0000">
-		<title>千鳥の鬼レンチャン</title>
-		<desc>◆サッカーＷ杯戦士vs芸人＆野球WBC戦士vsメジャー魔球</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/les3jlkgfn.jpg?v=8b3f78ec" />
-	</programme>
-	<programme channel="cx" start="20251109115400 +0000" stop="20251109140900 +0000">
-		<title>地上波放送番組のお知らせ</title>
-		<desc>「Mr.サンデー」は地上波放送でお楽しみください！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/les9z5sh6g.jpg?v=3d2d1ccb" />
-	</programme>
-	<programme channel="cx" start="20251109140900 +0000" stop="20251110100000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
-	</programme>
 	<programme channel="cx" start="20251110100000 +0000" stop="20251110120000 +0000">
 		<title>ネプリーグ</title>
 		<desc>★sejuVSマセキVSワタナベ！絶対に負けられない事務所対抗SP</desc>
@@ -1979,5 +1894,15 @@
 		<title>介護スナック ベルサイユ</title>
 		<desc>第7話</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le2zq14hiw.jpg?v=cb578a6d" />
+	</programme>
+	<programme channel="cx" start="20251123100000 +0000" stop="20251123115400 +0000">
+		<title>千鳥の鬼レンチャン</title>
+		<desc />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lekfru2dx9.jpg?v=a93a79b1" />
+	</programme>
+	<programme channel="cx" start="20251123115400 +0000" stop="20251123140900 +0000">
+		<title>地上波放送番組のお知らせ</title>
+		<desc>「Mr.サンデー」は地上波放送でお楽しみください！</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leeb1hxkbr.jpg?v=ce1a1678" />
 	</programme>
 </tv>
