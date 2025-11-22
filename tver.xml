@@ -20,21 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20251115100000 +0000" stop="20251115115400 +0000">
-		<title>嗚呼!!みんなの動物園</title>
-		<desc>2時間SP▽池崎家に岡田将生訪問&amp;青木マッチョ涙の最終回</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/levwrncqex.jpg?v=3b307265" />
-	</programme>
-	<programme channel="ntv" start="20251115115400 +0000" stop="20251115120000 +0000">
-		<title>お知らせ</title>
-		<desc>リアルタイム配信予定の番組は「日テレ系」タブよりご確認いただけます。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leooc45ltz.jpg?v=d88b9f60" />
-	</programme>
-	<programme channel="ntv" start="20251115120000 +0000" stop="20251115125400 +0000">
-		<title>良いこと悪いこと</title>
-		<desc>#06「傘」</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leobwed4cu.jpg?v=e716858d" />
-	</programme>
 	<programme channel="ntv" start="20251115125400 +0000" stop="20251115134800 +0000">
 		<title>with MUSIC</title>
 		<desc>今年の顔timelesz登場!豪華2曲▼ポルノグラフィティ</desc>
@@ -253,7 +238,7 @@
 	<programme channel="ntv" start="20251122120000 +0000" stop="20251122125400 +0000">
 		<title>良いこと悪いこと</title>
 		<desc>#07「バトン」</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le234ecpkq.jpg?v=6d7a73b8" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le234ecpkq.jpg?v=747a7ebd" />
 	</programme>
 	<programme channel="ntv" start="20251122125400 +0000" stop="20251122130000 +0000">
 		<title>お知らせ</title>
@@ -455,16 +440,6 @@
 		<desc> </desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lesealmtq0.jpg?v=58d61362" />
 	</programme>
-	<programme channel="ex" start="20251115115400 +0000" stop="20251115130400 +0000">
-		<title>サタデーステーション</title>
-		<desc>高島彩▽中国外務省が日本への渡航自粛呼びかけ…影響は？▽なぜ多発？クマと車の事故…群馬ではハンターが意識不明に▽物価高対策はいつ？自治体で差も▽大谷MVP監督秘話</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/legp9i2i14.jpg?v=1af8a71c" />
-	</programme>
-	<programme channel="ex" start="20251115130400 +0000" stop="20251115140000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
-	</programme>
 	<programme channel="ex" start="20251115140000 +0000" stop="20251115143000 +0000">
 		<title>パパと親父のウチご飯</title>
 		<desc>第 7 話</desc>
@@ -665,6 +640,11 @@
 		<desc>#7 この瞬間だけは、きっと永遠だ</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leb96vu5uz.jpg?v=8b748ca7" />
 	</programme>
+	<programme channel="ex" start="20251123140900 +0000" stop="20251124093000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
+	</programme>
 	<programme channel="ex" start="20251124093000 +0000" stop="20251124125400 +0000">
 		<title>帰れマンデー見っけ隊!!</title>
 		<desc>【世界遺産・高野山】完全制覇SP！ タカトシ・サンドが２つのルートでグルメ＆開運アイテム探しの旅！</desc>
@@ -739,11 +719,6 @@
 		<title>恋する警護24時 season2</title>
 		<desc>ついに最終章！事件への関与が疑われる人物が浮かび上がり衝撃が走る中で、北沢辰之助（岩本照）ら警護チームに緊張が走る!!そんな中、岸村里夏（白石麻衣）が帰国し…？</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lemz45vilv.jpg?v=bba91b98" />
-	</programme>
-	<programme channel="tbs" start="20251115095100 +0000" stop="20251115125600 +0000">
-		<title>熱狂マニアさん！</title>
-		<desc>＜配信は19時から＞ディズニーシーフードTOP10＆コンビニダイエット検証３HSP</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejnk5imaq.jpg?v=83d0a4c8" />
 	</programme>
 	<programme channel="tbs" start="20251115125600 +0000" stop="20251115190000 +0000">
 		<title>配信休止</title>
@@ -1190,16 +1165,6 @@
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le0wfqzhep.jpg?v=1882f1d9" />
 	</programme>
-	<programme channel="tx" start="20251115115500 +0000" stop="20251115120000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ledttigehp.jpg?v=708f84bd" />
-	</programme>
-	<programme channel="tx" start="20251115120000 +0000" stop="20251115125400 +0000">
-		<title>出没！アド街ック天国</title>
-		<desc>出没！アド街ック天国【秋葉原】３０年でまるで違う街に大変貌！貴重映像を蔵出し</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lehwqyqn48.jpg?v=8567ff7d" />
-	</programme>
 	<programme channel="tx" start="20251115125400 +0000" stop="20251115190000 +0000">
 		<title>配信準備中</title>
 		<desc>配信準備中</desc>
@@ -1482,8 +1447,8 @@
 	</programme>
 	<programme channel="tx" start="20251123093000 +0000" stop="20251123115000 +0000">
 		<title>池上彰の報道特番</title>
-		<desc>高市政権に立ちはだかる見えない壁！～池上彰の激動！世界情勢ＳＰ～</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lesn1nbdhv.jpg?v=b0b948c5" />
+		<desc>高市政権に立ちはだかる見えない壁！～生放送！池上彰が徹底解説…～</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lesn1nbdhv.jpg?v=afb94732" />
 	</programme>
 	<programme channel="tx" start="20251123115000 +0000" stop="20251123125400 +0000">
 		<title>家、ついて行ってイイですか？</title>
@@ -1714,16 +1679,6 @@
 		<title>配信準備中</title>
 		<desc>配信準備中</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leix6kptrd.jpg?v=18babe2b" />
-	</programme>
-	<programme channel="cx" start="20251115100000 +0000" stop="20251115120000 +0000">
-		<title>芸能人が本気で考えた！ドッキリGP</title>
-		<desc>マッサマン超進化＆催眠術㊙大検証SP</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lecnr863nr.jpg?v=45952954" />
-	</programme>
-	<programme channel="cx" start="20251115120000 +0000" stop="20251115141000 +0000">
-		<title>全国ハモネプ大リーグ2025〜アカペラ日本一決定戦〜</title>
-		<desc>アカペラ頂上決戦！プロアマ問わずの真の日本一が決定！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le0tdojjos.jpg?v=dce62c9d" />
 	</programme>
 	<programme channel="cx" start="20251115141000 +0000" stop="20251115144000 +0000">
 		<title>さんまのお笑い向上委員会</title>
@@ -2050,6 +2005,11 @@
 		<desc>第9話 トニーはまだか</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ler2jd9xev.jpg?v=4374bb62" />
 	</programme>
+	<programme channel="cx" start="20251126142400 +0000" stop="20251127100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
+	</programme>
 	<programme channel="cx" start="20251127100000 +0000" stop="20251127125400 +0000">
 		<title>街グルメをマジ探索！かまいまち</title>
 		<desc>３時間SP</desc>
@@ -2099,5 +2059,15 @@
 		<title>全力！脱力タイムズ</title>
 		<desc>相席山添＆竹財輝之助、子供の貯金を崩します！？の巻</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le1ro5vdr4.jpg?v=290e45c1" />
+	</programme>
+	<programme channel="cx" start="20251129100000 +0000" stop="20251129120000 +0000">
+		<title>芸能人が本気で考えた！ドッキリGP</title>
+		<desc>海外で警察トラブル帰国できる？SP2</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lekxtk1s6e.jpg?v=a530539e" />
+	</programme>
+	<programme channel="cx" start="20251129120000 +0000" stop="20251129141000 +0000">
+		<title>地上波放送番組のお知らせ</title>
+		<desc>映画「テルマエ・ロマエⅡ」は地上波放送でお楽しみください！</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lerpjhvd92.jpg?v=8386e060" />
 	</programme>
 </tv>
