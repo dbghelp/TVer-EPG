@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20251119140000 +0000" stop="20251119193000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lea295xpxy.jpg?v=48c67b58" />
-	</programme>
 	<programme channel="ntv" start="20251119193000 +0000" stop="20251120100000 +0000">
 		<title>配信休止</title>
 		<desc> </desc>
@@ -415,6 +410,11 @@
 		<desc>#09</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lecdrm2xn8.jpg?v=e2ea0721" />
 	</programme>
+	<programme channel="ntv" start="20251203140000 +0000" stop="20251203193000 +0000">
+		<title>配信休止</title>
+		<desc> </desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6az0yciq.jpg?v=44f7925e" />
+	</programme>
 	<programme channel="ex" start="20251120100000 +0000" stop="20251120120000 +0000">
 		<title>林修の今知りたいでしょ！</title>
 		<desc>コーヒーＶＳ紅茶  名医が教える最強の飲み方＆新常識SP</desc>
@@ -664,11 +664,6 @@
 		<title>報道ステーション</title>
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lexf47zpoe.jpg?v=cfb69a13" />
-	</programme>
-	<programme channel="tbs" start="20251119140000 +0000" stop="20251119193000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ledpvrxm5k.jpg?v=f6eba3d2" />
 	</programme>
 	<programme channel="tbs" start="20251119193000 +0000" stop="20251119230000 +0000">
 		<title>配信休止</title>
@@ -943,37 +938,37 @@
 	<programme channel="tbs" start="20251127193000 +0000" stop="20251127230000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lepraekmfk.jpg?v=afbfe5ad" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lepraekmfk.jpg?v=a8bfdaa8" />
 	</programme>
 	<programme channel="tbs" start="20251127230000 +0000" stop="20251128005500 +0000">
 		<title>ラヴィット！</title>
 		<desc>日本でいちばん明るい朝番組</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le8vjfx64s.jpg?v=4dcee3af" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le8vjfx64s.jpg?v=4acedef6" />
 	</programme>
 	<programme channel="tbs" start="20251128005500 +0000" stop="20251128100000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lehdb7igxg.jpg?v=330af2a4" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lehdb7igxg.jpg?v=320af111" />
 	</programme>
 	<programme channel="tbs" start="20251128100000 +0000" stop="20251128115500 +0000">
 		<title>ハマダ歌謡祭★オオカミ少年</title>
 		<desc>冬の２時間SP★浜田＆ジェネ数原がチキンライス熱唱！大ヒット曲連発</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leq4gpls7b.jpg?v=46d18b39" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leq4gpls7b.jpg?v=43d18680" />
 	</programme>
 	<programme channel="tbs" start="20251128115500 +0000" stop="20251128130000 +0000">
 		<title>知識の扉よ開け！ドア×ドア クエスト</title>
 		<desc>きのこの山たけのこの里・アーモンドチョコ！大人気お菓子調査</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lewp3klzgw.jpg?v=03a29d4a" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lewp3klzgw.jpg?v=04a29edd" />
 	</programme>
 	<programme channel="tbs" start="20251128130000 +0000" stop="20251128135400 +0000">
 		<title>フェイクマミー</title>
 		<desc>第８話　夫の秘密に狂うママ友─“偽ママ”事態は急変</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lezl8c6lam.jpg?v=bb9a8183" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lezl8c6lam.jpg?v=174dcdb1" />
 	</programme>
 	<programme channel="tbs" start="20251128135400 +0000" stop="20251128194500 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le0wfqzhep.jpg?v=1882f1d9" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le0wfqzhep.jpg?v=1982f36c" />
 	</programme>
 	<programme channel="tbs" start="20251128194500 +0000" stop="20251129060000 +0000">
 		<title>配信休止</title>
@@ -1140,20 +1135,10 @@
 		<desc>芸能人が持ち寄った“説”を検証</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lew7i5nugd.jpg?v=ef51b9a4" />
 	</programme>
-	<programme channel="tx" start="20251119140400 +0000" stop="20251119141200 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le2olh7u4k.jpg?v=efc16fd8" />
-	</programme>
-	<programme channel="tx" start="20251119141200 +0000" stop="20251119150100 +0000">
-		<title>あちこちオードリー</title>
-		<desc>あちこちオードリー【RIP　SLYME】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3qvrn0uh.jpg?v=095e4ecf" />
-	</programme>
-	<programme channel="tx" start="20251119150100 +0000" stop="20251119190000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/let253g9rq.jpg?v=46585209" />
+	<programme channel="tbs" start="20251203140000 +0000" stop="20251203193000 +0000">
+		<title>配信休止</title>
+		<desc>配信休止</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le1os1sang.jpg?v=f6c092d1" />
 	</programme>
 	<programme channel="tx" start="20251119190000 +0000" stop="20251120092500 +0000">
 		<title>配信準備中</title>
@@ -1353,7 +1338,7 @@
 	<programme channel="tx" start="20251125115400 +0000" stop="20251125125500 +0000">
 		<title>開運！なんでも鑑定団</title>
 		<desc>開運！なんでも鑑定団【大河ドラマで注目！＜蔦屋重三郎＞の希少本】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lesf6sp4te.jpg?v=42577756" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lesf6sp4te.jpg?v=ba4fe579" />
 	</programme>
 	<programme channel="tx" start="20251125125500 +0000" stop="20251125130000 +0000">
 		<title>配信準備中</title>
@@ -1363,7 +1348,7 @@
 	<programme channel="tx" start="20251125130000 +0000" stop="20251125135800 +0000">
 		<title>ＷＢＳ（ワールドビジネスサテライト）</title>
 		<desc>ＷＢＳ打倒PayPay！？Suicaが進化！コード決済「テッペイ」とは？</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lefm1xod5q.jpg?v=d92ce329" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lefm1xod5q.jpg?v=4f254e26" />
 	</programme>
 	<programme channel="tx" start="20251125135800 +0000" stop="20251125140600 +0000">
 		<title>配信準備中</title>
@@ -1373,7 +1358,7 @@
 	<programme channel="tx" start="20251125140600 +0000" stop="20251125145500 +0000">
 		<title>ＬＩＦＥ　ＩＳ　ＭＯＮＥＹ～世の中お金で見てみよう～</title>
 		<desc>LIFE　IS　MONEY　～世の中お金で見てみよう～</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leji5a506v.jpg?v=f5a69a71" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leji5a506v.jpg?v=efa690ff" />
 	</programme>
 	<programme channel="tx" start="20251125145500 +0000" stop="20251125190000 +0000">
 		<title>配信準備中</title>
@@ -1388,12 +1373,12 @@
 	<programme channel="tx" start="20251126092500 +0000" stop="20251126113000 +0000">
 		<title>世界を救う！ワンにゃフル物語～柴と三毛と亀梨くん～</title>
 		<desc>世界！ワンにゃフル物語★２１匹激かわマンチカン大家族＆遭難少女を助けた犬</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ley9wuzb7p.jpg?v=2f2877e8" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ley9wuzb7p.jpg?v=3528815a" />
 	</programme>
 	<programme channel="tx" start="20251126113000 +0000" stop="20251126125400 +0000">
 		<title>ソレダメ！ ～あなたの常識は非常識！？～</title>
 		<desc>ソレダメ！【家の不要品がお金に＆実証！町で話題の新常識は成功できる!?】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leghquw22g.jpg?v=bad6952f" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leghquw22g.jpg?v=bcd69855" />
 	</programme>
 	<programme channel="tx" start="20251126125400 +0000" stop="20251126130000 +0000">
 		<title>配信準備中</title>
@@ -1403,7 +1388,7 @@
 	<programme channel="tx" start="20251126130000 +0000" stop="20251126135800 +0000">
 		<title>ＷＢＳ（ワールドビジネスサテライト）</title>
 		<desc>ＷＢＳ【高市総理が党首討論！日中関係は】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le33ronqjb.jpg?v=1e7e6665" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le33ronqjb.jpg?v=1c7e633f" />
 	</programme>
 	<programme channel="tx" start="20251126135800 +0000" stop="20251126140600 +0000">
 		<title>配信準備中</title>
@@ -1413,7 +1398,7 @@
 	<programme channel="tx" start="20251126140600 +0000" stop="20251126145500 +0000">
 		<title>あちこちオードリー</title>
 		<desc>あちこちオードリー【武田真一アナ＆岡野陽一＆村重杏奈】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/len6y6k9ju.jpg?v=0d6ad156" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/len6y6k9ju.jpg?v=0f6ad47c" />
 	</programme>
 	<programme channel="tx" start="20251126145500 +0000" stop="20251126190000 +0000">
 		<title>配信準備中</title>
@@ -1428,12 +1413,12 @@
 	<programme channel="tx" start="20251127092500 +0000" stop="20251127105800 +0000">
 		<title>世界！ニッポン行きたい人応援団</title>
 		<desc>世界！ニッポン行きたい人応援団★今夜は釣って食べる絶品魚料理が大漁ＳＰ</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6f4tjpmm.jpg?v=4d884061" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6f4tjpmm.jpg?v=478836ef" />
 	</programme>
 	<programme channel="tx" start="20251127105800 +0000" stop="20251127125000 +0000">
 		<title>有吉の深掘り大調査</title>
 		<desc>有吉深掘り　一体いくら？店主も知らないお宝発掘＆厨房衝撃ランキングＳＰ</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le05bkn94l.jpg?v=276190db" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le05bkn94l.jpg?v=29619401" />
 	</programme>
 	<programme channel="tx" start="20251127125000 +0000" stop="20251127130000 +0000">
 		<title>配信準備中</title>
@@ -1443,7 +1428,7 @@
 	<programme channel="tx" start="20251127130000 +0000" stop="20251127135800 +0000">
 		<title>ＷＢＳ（ワールドビジネスサテライト）</title>
 		<desc>ＷＢＳ</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lehp0qil70.jpg?v=617cc7bb" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lehp0qil70.jpg?v=637ccae1" />
 	</programme>
 	<programme channel="tx" start="20251127135800 +0000" stop="20251127140600 +0000">
 		<title>配信準備中</title>
@@ -1453,7 +1438,7 @@
 	<programme channel="tx" start="20251127140600 +0000" stop="20251127145500 +0000">
 		<title>カンブリア宮殿</title>
 		<desc>カンブリア宮殿【ビールだけじゃない　グッズやホテル事業も展開】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/levl7thl96.jpg?v=f992b0fa" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/levl7thl96.jpg?v=f792add4" />
 	</programme>
 	<programme channel="tx" start="20251127145500 +0000" stop="20251127190000 +0000">
 		<title>配信準備中</title>
@@ -1468,27 +1453,27 @@
 	<programme channel="tx" start="20251128092500 +0000" stop="20251128095500 +0000">
 		<title>BEYBLADE X</title>
 		<desc>BEYBLADE　X　「超頂上として」（ちょうちょうじょうとして）</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lerbcwzk1t.jpg?v=e7810363" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lerbcwzk1t.jpg?v=e9810689" />
 	</programme>
 	<programme channel="tx" start="20251128095500 +0000" stop="20251128102500 +0000">
 		<title>ポケットモンスター</title>
 		<desc>ポケットモンスター【ふんばれアチゲータ、明日のために】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le5lqy4l0q.jpg?v=f8f84def" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le5lqy4l0q.jpg?v=faf85115" />
 	</programme>
 	<programme channel="tx" start="20251128102500 +0000" stop="20251128105500 +0000">
 		<title>デカ盛りハンター</title>
 		<desc>デカ盛りハンター【ハンターに勝ったら１０万円！８段重ねＤＸお好み焼きタワー】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leckc96npe.jpg?v=a73d7bab" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leckc96npe.jpg?v=a93d7ed1" />
 	</programme>
 	<programme channel="tx" start="20251128105500 +0000" stop="20251128120000 +0000">
 		<title>所さんの学校では教えてくれないそこんトコロ！</title>
 		<desc>所さんのそこんトコロ！祝700回【作って作って作りまくりＳＰ】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lez0sno4e1.jpg?v=37283f81" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lez0sno4e1.jpg?v=35283c5b" />
 	</programme>
 	<programme channel="tx" start="20251128120000 +0000" stop="20251128125400 +0000">
 		<title>コーチ</title>
 		<desc>コーチ　第７話「15年前の迷宮事件」</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4hsbo8zu.jpg?v=5ca8a4be" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4hsbo8zu.jpg?v=5aa8a198" />
 	</programme>
 	<programme channel="tx" start="20251128125400 +0000" stop="20251128130000 +0000">
 		<title>配信準備中</title>
@@ -1498,7 +1483,7 @@
 	<programme channel="tx" start="20251128130000 +0000" stop="20251128135400 +0000">
 		<title>ガイアの夜明け</title>
 		<desc>ガイアの夜明け【家電に眠る“宝”を狙え】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leoybo9agv.jpg?v=ddf15a23" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leoybo9agv.jpg?v=dff15d49" />
 	</programme>
 	<programme channel="tx" start="20251128135400 +0000" stop="20251128140000 +0000">
 		<title>配信準備中</title>
@@ -1508,7 +1493,7 @@
 	<programme channel="tx" start="20251128140000 +0000" stop="20251128145800 +0000">
 		<title>ＷＢＳ（ワールドビジネスサテライト）</title>
 		<desc>ＷＢＳ</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le7k7i4lno.jpg?v=d8102264" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le7k7i4lno.jpg?v=da10258a" />
 	</programme>
 	<programme channel="tx" start="20251128145800 +0000" stop="20251128190000 +0000">
 		<title>配信準備中</title>
@@ -1523,7 +1508,7 @@
 	<programme channel="tx" start="20251129093000 +0000" stop="20251129115500 +0000">
 		<title>出川哲朗の充電させてもらえませんか？</title>
 		<desc>出川哲朗の充電させてもらえませんか？▼絶景！東北ＳＰ安村＆児嶋＜青森⇒岩手＞</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lecczx30of.jpg?v=1754edad" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lecczx30of.jpg?v=0954d7a3" />
 	</programme>
 	<programme channel="tx" start="20251129115500 +0000" stop="20251129120000 +0000">
 		<title>配信準備中</title>
@@ -1533,7 +1518,7 @@
 	<programme channel="tx" start="20251129120000 +0000" stop="20251129125400 +0000">
 		<title>出没！アド街ック天国</title>
 		<desc>出没！アド街ック天国【新橋・烏森口】忘年会で行きたい魅惑の酒場密集エリア</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejiey0zwu.jpg?v=61b1856c" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejiey0zwu.jpg?v=67b18ede" />
 	</programme>
 	<programme channel="tx" start="20251129125400 +0000" stop="20251129190000 +0000">
 		<title>配信準備中</title>
@@ -1548,7 +1533,7 @@
 	<programme channel="tx" start="20251130115000 +0000" stop="20251130125400 +0000">
 		<title>家、ついて行ってイイですか？</title>
 		<desc>家、ついて行ってイイですか？謎多きアラフォー女性の本音＆日本一の名物社長</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lekqj6ouak.jpg?v=4651ec89" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lekqj6ouak.jpg?v=4551eaf6" />
 	</programme>
 	<programme channel="tx" start="20251130125400 +0000" stop="20251130130000 +0000">
 		<title>配信準備中</title>
@@ -1558,7 +1543,7 @@
 	<programme channel="tx" start="20251130130000 +0000" stop="20251130134800 +0000">
 		<title>有吉ぃぃeeeee！～そうだ！今からお前んチでゲームしない？</title>
 		<desc>有吉ぃぃeeeee!【フォートナイト・ポケモン最新作】豪華2本立てSP櫻坂46</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejrr7agdg.jpg?v=fc1c01ff" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejrr7agdg.jpg?v=fb1c006c" />
 	</programme>
 	<programme channel="tx" start="20251130134800 +0000" stop="20251130190000 +0000">
 		<title>配信準備中</title>
@@ -1573,12 +1558,12 @@
 	<programme channel="tx" start="20251201095000 +0000" stop="20251201113000 +0000">
 		<title>YOUは何しに日本へ？</title>
 		<desc>ＹＯＵは何しに日本へ？＆ニッポン行きたい人応援団　合体３時間！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/len79w3hv4.jpg?v=e67c7fab" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/len79w3hv4.jpg?v=e57c7e18" />
 	</programme>
 	<programme channel="tx" start="20251201113000 +0000" stop="20251201125400 +0000">
 		<title>世界！ニッポン行きたい人応援団</title>
 		<desc>ＹＯＵは何しに日本へ？＆ニッポン行きたい人応援団　合体３時間！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lecx6nlxad.jpg?v=d251ed93" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lecx6nlxad.jpg?v=d151ec00" />
 	</programme>
 	<programme channel="tx" start="20251201125400 +0000" stop="20251201130000 +0000">
 		<title>配信準備中</title>
@@ -1588,7 +1573,7 @@
 	<programme channel="tx" start="20251201130000 +0000" stop="20251201135800 +0000">
 		<title>ＷＢＳ（ワールドビジネスサテライト）</title>
 		<desc>ＷＢＳ</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/led06c1nqa.jpg?v=fffff9fe" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/led06c1nqa.jpg?v=02fffeb7" />
 	</programme>
 	<programme channel="tx" start="20251201135800 +0000" stop="20251201140600 +0000">
 		<title>配信準備中</title>
@@ -1598,7 +1583,7 @@
 	<programme channel="tx" start="20251201140600 +0000" stop="20251201145500 +0000">
 		<title>シナントロープ</title>
 		<desc>シナントロープ</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le168zvnzi.jpg?v=6139eba4" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le168zvnzi.jpg?v=6039ea11" />
 	</programme>
 	<programme channel="tx" start="20251201145500 +0000" stop="20251201190000 +0000">
 		<title>配信準備中</title>
@@ -1613,7 +1598,7 @@
 	<programme channel="tx" start="20251202115400 +0000" stop="20251202125500 +0000">
 		<title>開運！なんでも鑑定団</title>
 		<desc>開運！なんでも鑑定団【ジェフ・ベックの実使用ギター＆ME:I持参のお宝に衝撃値】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lebnc3503w.jpg?v=c26b44a4" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lebnc3503w.jpg?v=c36b4637" />
 	</programme>
 	<programme channel="tx" start="20251202125500 +0000" stop="20251202130000 +0000">
 		<title>配信準備中</title>
@@ -1623,7 +1608,7 @@
 	<programme channel="tx" start="20251202130000 +0000" stop="20251202135800 +0000">
 		<title>ＷＢＳ（ワールドビジネスサテライト）</title>
 		<desc>ＷＢＳ</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lelicnchi2.jpg?v=3a0967ac" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lelicnchi2.jpg?v=3d096c65" />
 	</programme>
 	<programme channel="tx" start="20251202135800 +0000" stop="20251202140600 +0000">
 		<title>配信準備中</title>
@@ -1633,7 +1618,7 @@
 	<programme channel="tx" start="20251202140600 +0000" stop="20251202145500 +0000">
 		<title>ＬＩＦＥ　ＩＳ　ＭＯＮＥＹ～世の中お金で見てみよう～</title>
 		<desc>LIFE　IS　MONEY　～世の中お金で見てみよう～</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3rjeantn.jpg?v=d893f480" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3rjeantn.jpg?v=d993f613" />
 	</programme>
 	<programme channel="tx" start="20251202145500 +0000" stop="20251202190000 +0000">
 		<title>配信準備中</title>
@@ -1648,22 +1633,22 @@
 	<programme channel="tx" start="20251203130000 +0000" stop="20251203135800 +0000">
 		<title>ＷＢＳ（ワールドビジネスサテライト）</title>
 		<desc>ＷＢＳ</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejegk6bga.jpg?v=b633763c" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejegk6bga.jpg?v=bd338141" />
 	</programme>
-	<programme channel="cx" start="20251119135400 +0000" stop="20251119140000 +0000">
-		<title>配信番組のお知らせ</title>
-		<desc>🐶🐩🐕</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lecenwcirt.jpg?v=ca0f32fc" />
+	<programme channel="tx" start="20251203135800 +0000" stop="20251203140600 +0000">
+		<title>配信準備中</title>
+		<desc>配信準備中</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lerivxqq43.jpg?v=5b824fe2" />
 	</programme>
-	<programme channel="cx" start="20251119140000 +0000" stop="20251119143000 +0000">
-		<title>週刊ナイナイミュージック</title>
-		<desc>Hey! Say! JUMP・ワンピース特集！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/let3v2lmwu.jpg?v=ba5db420" />
+	<programme channel="tx" start="20251203140600 +0000" stop="20251203145500 +0000">
+		<title>あちこちオードリー</title>
+		<desc>あちこちオードリー</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leb9vualdy.jpg?v=63da8976" />
 	</programme>
-	<programme channel="cx" start="20251119143000 +0000" stop="20251120100000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
+	<programme channel="tx" start="20251203145500 +0000" stop="20251203190000 +0000">
+		<title>配信準備中</title>
+		<desc>配信準備中</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le2lvg7e8q.jpg?v=592b7584" />
 	</programme>
 	<programme channel="cx" start="20251120100000 +0000" stop="20251120110000 +0000">
 		<title>地上波放送番組のお知らせ</title>
