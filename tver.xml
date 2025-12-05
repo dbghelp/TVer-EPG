@@ -20,16 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20251128105600 +0000" stop="20251128115400 +0000">
-		<title>沸騰ワード10</title>
-		<desc>伝説の家政婦志麻さん冬絶品鍋SP▼AIで完全再現!昭和の渋谷を街歩き</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lev8fdbp86.jpg?v=89e0e70c" />
-	</programme>
-	<programme channel="ntv" start="20251128115400 +0000" stop="20251128204500 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lesealmtq0.jpg?v=5cd619ae" />
-	</programme>
 	<programme channel="ntv" start="20251128204500 +0000" stop="20251129100000 +0000">
 		<title>配信休止</title>
 		<desc> </desc>
@@ -425,31 +415,6 @@
 		<desc> </desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leaz4uq1mw.jpg?v=fefaba04" />
 	</programme>
-	<programme channel="ex" start="20251128095000 +0000" stop="20251128110000 +0000">
-		<title>ザワつく！ 金曜日</title>
-		<desc>一茂さんの演技に対する“信念”とは？ ＆ビーフシチューVSグラタンで究極の2択！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lerql58eqt.jpg?v=f724718d" />
-	</programme>
-	<programme channel="ex" start="20251128110000 +0000" stop="20251128115400 +0000">
-		<title>マツコ＆有吉 かりそめ天国</title>
-		<desc>マツ有理想の人間洗濯機 激うまキッチンカー調査</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4u7gpa9c.jpg?v=35b42ead" />
-	</programme>
-	<programme channel="ex" start="20251128115400 +0000" stop="20251128125400 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
-	</programme>
-	<programme channel="ex" start="20251128125400 +0000" stop="20251128141000 +0000">
-		<title>報道ステーション</title>
-		<desc>大規模火災、消火続く…行方不明者の捜索難航▽“ゾンビタバコ”実態は▽保険証…期限切れ迫る▽樹齢４００年の大銀杏▽冬季五輪を控え、現地は…松岡修造ほか</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ledxqbrw5o.jpg?v=bb5c490f" />
-	</programme>
-	<programme channel="ex" start="20251128141000 +0000" stop="20251128141500 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
-	</programme>
 	<programme channel="ex" start="20251128141500 +0000" stop="20251128151500 +0000">
 		<title>恋する警護24時 season2</title>
 		<desc>第7話</desc>
@@ -583,7 +548,7 @@
 	<programme channel="ex" start="20251205125400 +0000" stop="20251205141000 +0000">
 		<title>報道ステーション</title>
 		<desc>低気圧で局地的大雪に…“路面凍結”の恐れも▽存続かけて走る医師…密着…都立病院の改革▽プーチン氏、なぜ訪印▽山本由伸らＷＢＣ出場は…どうなる？</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lezhwrse5z.jpg?v=2ec6c6f3" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lezhwrse5z.jpg?v=2dc6c560" />
 	</programme>
 	<programme channel="ex" start="20251205141000 +0000" stop="20251206093000 +0000">
 		<title>No programme</title>
@@ -615,10 +580,20 @@
 		<desc>最終回</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6mrceikw.jpg?v=30108fac" />
 	</programme>
+	<programme channel="ex" start="20251206143000 +0000" stop="20251207095600 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
+	</programme>
 	<programme channel="ex" start="20251207095600 +0000" stop="20251207105000 +0000">
 		<title>ナニコレ珍百景</title>
 		<desc>群馬×栃木×茨城　意地とプライドをかけた北関東Ｎｏ．１決定戦ＳＰ！</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le74of30te.jpg?v=26857b3f" />
+	</programme>
+	<programme channel="ex" start="20251207105000 +0000" stop="20251207105400 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
 	</programme>
 	<programme channel="ex" start="20251207105400 +0000" stop="20251207115600 +0000">
 		<title>ポツンと一軒家</title>
@@ -680,20 +655,15 @@
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lef52pckqk.jpg?v=f6bde077" />
 	</programme>
-	<programme channel="tbs" start="20251128100000 +0000" stop="20251128115500 +0000">
-		<title>ハマダ歌謡祭★オオカミ少年</title>
-		<desc>冬の２時間SP★浜田＆ジェネ数原がチキンライス熱唱！大ヒット曲連発！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leq4gpls7b.jpg?v=4dd1963e" />
+	<programme channel="ex" start="20251212095000 +0000" stop="20251212111000 +0000">
+		<title>ザワつく！ 金曜日</title>
+		<desc>長嶋一茂＆石原良純＆高嶋ちさ子のなんでもややこしくしちゃう３人が好き勝手に喋りまくる！愉快！痛快！言いたい放題バラエティー！</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lekgf1hhys.jpg?v=9c391b71" />
 	</programme>
-	<programme channel="tbs" start="20251128115500 +0000" stop="20251128130000 +0000">
-		<title>知識の扉よ開け！ドア×ドア クエスト</title>
-		<desc>50年以上愛されるお菓子人気の秘密大調査&amp;幻のはとバスツアー</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lewp3klzgw.jpg?v=23ec8650" />
-	</programme>
-	<programme channel="tbs" start="20251128130000 +0000" stop="20251128135400 +0000">
-		<title>フェイクマミー</title>
-		<desc>第８話　ママ友を狂わす夫の秘密…厳格な母と偽家族生活</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lezl8c6lam.jpg?v=1b4dd3fd" />
+	<programme channel="ex" start="20251212125400 +0000" stop="20251212141000 +0000">
+		<title>報道ステーション</title>
+		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leytxu603p.jpg?v=474ece71" />
 	</programme>
 	<programme channel="tbs" start="20251128135400 +0000" stop="20251128194500 +0000">
 		<title>配信休止</title>
@@ -988,7 +958,7 @@
 	<programme channel="tbs" start="20251207130000 +0000" stop="20251207135400 +0000">
 		<title>日曜日の初耳学</title>
 		<desc>【田中みな実×林◆アナ時代＆イメージに苦悩…初出しトークだらけ】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leelx64gp6.jpg?v=8ca91079" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leelx64gp6.jpg?v=8ba90ee6" />
 	</programme>
 	<programme channel="tbs" start="20251207135400 +0000" stop="20251207140000 +0000">
 		<title>お知らせ</title>
@@ -1130,35 +1100,20 @@
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leu9612q5l.jpg?v=e3eea199" />
 	</programme>
-	<programme channel="tx" start="20251128095500 +0000" stop="20251128102500 +0000">
-		<title>ポケットモンスター</title>
-		<desc>ポケットモンスター【ふんばれアチゲータ、明日のために】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le5lqy4l0q.jpg?v=4a987f9d" />
+	<programme channel="tbs" start="20251212100000 +0000" stop="20251212115500 +0000">
+		<title>ハマダ歌謡祭★オオカミ少年</title>
+		<desc>★芸能人が年の差ヒット曲バトル！ベテランVSルーキー！</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/led59x7sqn.jpg?v=5e884409" />
 	</programme>
-	<programme channel="tx" start="20251128102500 +0000" stop="20251128105500 +0000">
-		<title>デカ盛りハンター</title>
-		<desc>デカ盛りハンター【ハンターに勝ったら１０万円！８段重ねＤＸお好み焼きタワー】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leckc96npe.jpg?v=d61b1aac" />
+	<programme channel="tbs" start="20251212115500 +0000" stop="20251212130000 +0000">
+		<title>知識の扉よ開け！ドア×ドア クエスト</title>
+		<desc>ドア×ドア　クエスト</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leieqy1c4b.jpg?v=734a589c" />
 	</programme>
-	<programme channel="tx" start="20251128105500 +0000" stop="20251128120000 +0000">
-		<title>所さんの学校では教えてくれないそこんトコロ！</title>
-		<desc>所さんのそこんトコロ！祝700回【作って作って作りまくりＳＰ】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lez0sno4e1.jpg?v=ac76f830" />
-	</programme>
-	<programme channel="tx" start="20251128120000 +0000" stop="20251128125400 +0000">
-		<title>コーチ</title>
-		<desc>コーチ　第７話「15年前の迷宮事件」</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4hsbo8zu.jpg?v=bc93b976" />
-	</programme>
-	<programme channel="tx" start="20251128125400 +0000" stop="20251128130000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lexqaffvhm.jpg?v=48a533fc" />
-	</programme>
-	<programme channel="tx" start="20251128130000 +0000" stop="20251128135400 +0000">
-		<title>ガイアの夜明け</title>
-		<desc>ガイアの夜明け【家電に眠る“宝”を狙え】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leoybo9agv.jpg?v=688d65de" />
+	<programme channel="tbs" start="20251212130000 +0000" stop="20251212135400 +0000">
+		<title>フェイクマミー</title>
+		<desc>第１０話</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lemmfwfg29.jpg?v=4b2a3cf1" />
 	</programme>
 	<programme channel="tx" start="20251128135400 +0000" stop="20251128140000 +0000">
 		<title>配信準備中</title>
@@ -1353,52 +1308,57 @@
 	<programme channel="tx" start="20251204190000 +0000" stop="20251205092500 +0000">
 		<title>配信準備中</title>
 		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lexnbto3kz.jpg?v=3c0a47fa" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lexnbto3kz.jpg?v=2f0a3383" />
 	</programme>
 	<programme channel="tx" start="20251205092500 +0000" stop="20251205095500 +0000">
 		<title>BEYBLADE X</title>
 		<desc>BEYBLADE　X　「染まる不死鳥」（そまるふしちょう）</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lekaa6105k.jpg?v=09f2c69f" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lekaa6105k.jpg?v=00ebfcaf" />
 	</programme>
 	<programme channel="tx" start="20251205095500 +0000" stop="20251205102500 +0000">
 		<title>ポケットモンスター</title>
 		<desc>ポケットモンスター【ドット＆ボタン！極秘大作戦】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lew3918mrh.jpg?v=fcff62f3" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lew3918mrh.jpg?v=7806e059" />
 	</programme>
-	<programme channel="tx" start="20251205102500 +0000" stop="20251205123000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lea3qr3aya.jpg?v=313288d3" />
+	<programme channel="tx" start="20251205102500 +0000" stop="20251205130000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://statics.tver.jp/images/icon/tx.jpg" />
 	</programme>
-	<programme channel="tx" start="20251205123000 +0000" stop="20251205132400 +0000">
+	<programme channel="tx" start="20251205130000 +0000" stop="20251205135400 +0000">
 		<title>コーチ</title>
 		<desc>コーチ　第８話「最後の事件」</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lecal3rfqd.jpg?v=e7d7b318" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lecal3rfqd.jpg?v=eed7be1d" />
 	</programme>
-	<programme channel="tx" start="20251205132400 +0000" stop="20251205133000 +0000">
+	<programme channel="tx" start="20251205135400 +0000" stop="20251205140000 +0000">
 		<title>配信準備中</title>
 		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lefy8b1l63.jpg?v=a801adae" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lefy8b1l63.jpg?v=0d92f548" />
 	</programme>
-	<programme channel="tx" start="20251205133000 +0000" stop="20251205142400 +0000">
+	<programme channel="tx" start="20251205140000 +0000" stop="20251205145400 +0000">
 		<title>ガイアの夜明け</title>
 		<desc>ガイアの夜明け【安いニッポンを高く売る！】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lexw5v2ctb.jpg?v=d6f454f1" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lexw5v2ctb.jpg?v=65f16477" />
 	</programme>
-	<programme channel="tx" start="20251205142400 +0000" stop="20251205143000 +0000">
+	<programme channel="tx" start="20251205145400 +0000" stop="20251205150000 +0000">
 		<title>配信準備中</title>
 		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lentdo6r6x.jpg?v=631516f8" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lentdo6r6x.jpg?v=62151565" />
 	</programme>
-	<programme channel="tx" start="20251205143000 +0000" stop="20251205152800 +0000">
+	<programme channel="tx" start="20251205150000 +0000" stop="20251205155800 +0000">
 		<title>ＷＢＳ（ワールドビジネスサテライト）</title>
 		<desc>ＷＢＳ【年末年始の食卓に異変!?イチゴなしケーキ、“ほぼ”カニ食べ比べ…】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6j05e16o.jpg?v=a1397b0c" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6j05e16o.jpg?v=a63982eb" />
 	</programme>
-	<programme channel="tx" start="20251205152800 +0000" stop="20251205190000 +0000">
+	<programme channel="tx" start="20251205155800 +0000" stop="20251205193000 +0000">
 		<title>配信準備中</title>
 		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le48ebrbkd.jpg?v=e7b884ce" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le48ebrbkd.jpg?v=b17db98c" />
+	</programme>
+	<programme channel="tx" start="20251205193000 +0000" stop="20251205190000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://statics.tver.jp/images/icon/tx.jpg" />
 	</programme>
 	<programme channel="tx" start="20251205190000 +0000" stop="20251206123000 +0000">
 		<title>配信準備中</title>
@@ -1457,8 +1417,8 @@
 	</programme>
 	<programme channel="tx" start="20251208130000 +0000" stop="20251208135800 +0000">
 		<title>ＷＢＳ（ワールドビジネスサテライト）</title>
-		<desc>ＷＢＳ</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le5nkiu1pb.jpg?v=9799d6c2" />
+		<desc>ＷＢＳ【補正予算案　経済対策を徹底分析！】</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le5nkiu1pb.jpg?v=9699d52f" />
 	</programme>
 	<programme channel="tx" start="20251208135800 +0000" stop="20251208140600 +0000">
 		<title>配信準備中</title>
@@ -1605,20 +1565,35 @@
 		<desc>BEYBLADE　X　「Xシティの救世主」（きゅうせいしゅ）</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/levs03g1po.jpg?v=614721c1" />
 	</programme>
-	<programme channel="cx" start="20251128100000 +0000" stop="20251128110000 +0000">
-		<title>配信番組のお知らせ</title>
-		<desc>🐶🐩🐕</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lecawmeri3.jpg?v=d81b8f3a" />
+	<programme channel="tx" start="20251212095500 +0000" stop="20251212102500 +0000">
+		<title>ポケットモンスター</title>
+		<desc>ポケットモンスター【キャッチャー・イン・ザ・スカイ】</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leujiv1ry1.jpg?v=aa31fcb7" />
 	</programme>
-	<programme channel="cx" start="20251128110000 +0000" stop="20251128125800 +0000">
-		<title>大相撲フードバトル ～2025冬の陣～</title>
-		<desc>◆新大関！安青錦出場！最強大食い力士は誰だ？▼MC草彅＆香取</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lep1j15lb3.jpg?v=fef2fe44" />
+	<programme channel="tx" start="20251212102500 +0000" stop="20251212105500 +0000">
+		<title>デカ盛りハンター</title>
+		<desc>デカ盛りハンター【クリスマス先取り！コストコ大人気食材で作る仰天盛りプレート】</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lenicy5jcs.jpg?v=af51d8ab" />
 	</programme>
-	<programme channel="cx" start="20251128125800 +0000" stop="20251128135200 +0000">
-		<title>酒のツマミになる話</title>
-		<desc>▼家族で撮った動画や写真どうしてる？タッチパネル注文許せない</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6dh8o696.jpg?v=1039f0f6" />
+	<programme channel="tx" start="20251212105500 +0000" stop="20251212120000 +0000">
+		<title>所さんの学校では教えてくれないそこんトコロ！</title>
+		<desc>所さんのそこんトコロ【野人危険生物ハント＆極小アート＆巨大施設】</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lehi8678um.jpg?v=ebe6631a" />
+	</programme>
+	<programme channel="tx" start="20251212120000 +0000" stop="20251212125400 +0000">
+		<title>コーチ</title>
+		<desc>コーチ　最終話「刑事たちの選択」</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leia9nc91k.jpg?v=2b8481d7" />
+	</programme>
+	<programme channel="tx" start="20251212125400 +0000" stop="20251212130000 +0000">
+		<title>配信準備中</title>
+		<desc>配信準備中</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lej6ncdj2o.jpg?v=167e04c8" />
+	</programme>
+	<programme channel="tx" start="20251212130000 +0000" stop="20251212135400 +0000">
+		<title>ガイアの夜明け</title>
+		<desc>ガイアの夜明け</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le7j0b7e5b.jpg?v=15c01396" />
 	</programme>
 	<programme channel="cx" start="20251128135200 +0000" stop="20251128140000 +0000">
 		<title>配信番組のお知らせ</title>
@@ -1915,6 +1890,11 @@
 		<desc>#10 怪物のキスの意…あなた誰？</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3b23pe5e.jpg?v=70ce6034" />
 	</programme>
+	<programme channel="cx" start="20251209143000 +0000" stop="20251210093000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
+	</programme>
 	<programme channel="cx" start="20251210093000 +0000" stop="20251210125400 +0000">
 		<title>2025FNS歌謡祭</title>
 		<desc>第２夜　豪華アーティストが続々登場！超貴重な夢コラボも</desc>
@@ -1969,5 +1949,20 @@
 		<title>トークィーンズ</title>
 		<desc> </desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/letvedu9r7.jpg?v=75dbcdb8" />
+	</programme>
+	<programme channel="cx" start="20251212100000 +0000" stop="20251212120000 +0000">
+		<title>ウワサのお客さま</title>
+		<desc>＜配信は20時から＞</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqol65to4.jpg?v=a5f0ca26" />
+	</programme>
+	<programme channel="cx" start="20251212120000 +0000" stop="20251212125800 +0000">
+		<title>ザ・共通テン！</title>
+		<desc>◆総決算！大人気アイドル芸人俳優の自宅キッチンのぞき見８連発SP</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le644knh5u.jpg?v=24792c5a" />
+	</programme>
+	<programme channel="cx" start="20251212125800 +0000" stop="20251212135200 +0000">
+		<title>酒のツマミになる話</title>
+		<desc />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lecpck21lk.jpg?v=5e1f75d9" />
 	</programme>
 </tv>
