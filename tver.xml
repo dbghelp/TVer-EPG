@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20251129135400 +0000" stop="20251129202500 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le2tbgni7a.jpg?v=c77559ce" />
-	</programme>
 	<programme channel="ntv" start="20251129202500 +0000" stop="20251130095500 +0000">
 		<title>配信休止</title>
 		<desc> </desc>
@@ -405,16 +400,6 @@
 		<desc> </desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leaz4uq1mw.jpg?v=fefaba04" />
 	</programme>
-	<programme channel="ex" start="20251129140000 +0000" stop="20251129143000 +0000">
-		<title>パパと親父のウチご飯</title>
-		<desc>第 9 話</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lepqr2pz69.jpg?v=93985654" />
-	</programme>
-	<programme channel="ex" start="20251129143000 +0000" stop="20251130045500 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
-	</programme>
 	<programme channel="ex" start="20251130045500 +0000" stop="20251130062000 +0000">
 		<title>ワールドスケートボードストリート2025北九州 -グランドファイナル-</title>
 		<desc>決勝</desc>
@@ -553,7 +538,7 @@
 	<programme channel="ex" start="20251207095600 +0000" stop="20251207105000 +0000">
 		<title>ナニコレ珍百景</title>
 		<desc>群馬×栃木×茨城　意地とプライドをかけた北関東Ｎｏ．１決定戦ＳＰ！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le74of30te.jpg?v=24857819" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le74of30te.jpg?v=21857360" />
 	</programme>
 	<programme channel="ex" start="20251207105000 +0000" stop="20251207105400 +0000">
 		<title>No programme</title>
@@ -923,27 +908,27 @@
 	<programme channel="tbs" start="20251207193000 +0000" stop="20251207230000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le861abvt4.jpg?v=d5526736" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le861abvt4.jpg?v=d8526bef" />
 	</programme>
 	<programme channel="tbs" start="20251207230000 +0000" stop="20251208005500 +0000">
 		<title>ラヴィット！</title>
 		<desc>【みかんを使ったゲームにぜひご参加を！▼ディズニークリスマス後編】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4td5x5mq.jpg?v=ae33003f" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4td5x5mq.jpg?v=ad32feac" />
 	</programme>
 	<programme channel="tbs" start="20251208005500 +0000" stop="20251208100000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leonu5w5pr.jpg?v=6435e96b" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leonu5w5pr.jpg?v=6935f14a" />
 	</programme>
 	<programme channel="tbs" start="20251208100000 +0000" stop="20251208135700 +0000">
 		<title>最前線！密着警察24時</title>
 		<desc>最前線！密着警察24時</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4xzay3de.jpg?v=4f67b391" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4xzay3de.jpg?v=4e67b1fe" />
 	</programme>
 	<programme channel="tbs" start="20251208135700 +0000" stop="20251208193000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le9o2mc43g.jpg?v=e2b53e2a" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le9o2mc43g.jpg?v=ddb5364b" />
 	</programme>
 	<programme channel="tbs" start="20251208193000 +0000" stop="20251208230000 +0000">
 		<title>配信休止</title>
@@ -1265,25 +1250,20 @@
 		<desc>配信準備中</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le48ebrbkd.jpg?v=b27dbb1f" />
 	</programme>
-	<programme channel="tx" start="20251205190000 +0000" stop="20251206132000 +0000">
+	<programme channel="tx" start="20251205190000 +0000" stop="20251206141000 +0000">
 		<title>配信準備中</title>
 		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le2nkgzlix.jpg?v=c33f136a" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le2nkgzlix.jpg?v=a83a1783" />
 	</programme>
-	<programme channel="tx" start="20251206132000 +0000" stop="20251206141400 +0000">
+	<programme channel="tx" start="20251206141000 +0000" stop="20251206150400 +0000">
 		<title>出没！アド街ック天国</title>
 		<desc>出没！アド街ック天国▼開運祈願！１都３県パワースポット＆門前町めぐりＢＥＳＴ10</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lezmkrw2v0.jpg?v=8ce6ed7d" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lezmkrw2v0.jpg?v=fefd6742" />
 	</programme>
-	<programme channel="tx" start="20251206141400 +0000" stop="20251206195000 +0000">
+	<programme channel="tx" start="20251206150400 +0000" stop="20251206190000 +0000">
 		<title>配信準備中</title>
 		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lenjs06nod.jpg?v=f5ab07a0" />
-	</programme>
-	<programme channel="tx" start="20251206195000 +0000" stop="20251206190000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/tx.jpg" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lenjs06nod.jpg?v=61509077" />
 	</programme>
 	<programme channel="tx" start="20251206190000 +0000" stop="20251207100000 +0000">
 		<title>配信準備中</title>
@@ -1524,21 +1504,6 @@
 		<title>配信準備中</title>
 		<desc>配信準備中</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3kn5xdbp.jpg?v=1b06b8af" />
-	</programme>
-	<programme channel="cx" start="20251129141000 +0000" stop="20251129144000 +0000">
-		<title>さんまのお笑い向上委員会</title>
-		<desc>▼奇人変人凡人大集合SP！向上長激推しの怪人ナダル暴走</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lebkqxrw6q.jpg?v=224901d5" />
-	</programme>
-	<programme channel="cx" start="20251129144000 +0000" stop="20251129153500 +0000">
-		<title>介護スナック ベルサイユ</title>
-		<desc>第8話 時代遅れの人生相談／ハートの約束</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leoix9ehau.jpg?v=3d553d8c" />
-	</programme>
-	<programme channel="cx" start="20251129153500 +0000" stop="20251130100000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</programme>
 	<programme channel="cx" start="20251130100000 +0000" stop="20251130115400 +0000">
 		<title>千鳥の鬼レンチャン</title>
@@ -1894,5 +1859,15 @@
 		<title>櫻井翔のワンナイトスタディ</title>
 		<desc>▼櫻井翔が徹夜ロケ海上保安庁・USJ</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lergrvvkt5.jpg?v=8efe43e8" />
+	</programme>
+	<programme channel="cx" start="20251213141000 +0000" stop="20251213144000 +0000">
+		<title>さんまのお笑い向上委員会</title>
+		<desc />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lesmeeq9du.jpg?v=379719bf" />
+	</programme>
+	<programme channel="cx" start="20251213144000 +0000" stop="20251213153500 +0000">
+		<title>介護スナック ベルサイユ</title>
+		<desc>第10話</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lecgj78swr.jpg?v=e6fa9b32" />
 	</programme>
 </tv>
