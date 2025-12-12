@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20251205204500 +0000" stop="20251206100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejnczrc2h.jpg?v=8d6e30e3" />
-	</programme>
 	<programme channel="ntv" start="20251206100000 +0000" stop="20251206105600 +0000">
 		<title>嗚呼!!みんなの動物園</title>
 		<desc>保護猫58匹育てたアイドル訪問でラミレス家ビビリ猫に奇跡</desc>
@@ -597,8 +592,8 @@
 	</programme>
 	<programme channel="ex" start="20251213131000 +0000" stop="20251213135400 +0000">
 		<title>ロンドンハーツ</title>
-		<desc>ロンドンハーツ１時間ＳＰ</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lenuhyfci5.jpg?v=9e493e17" />
+		<desc>50TAに楽曲提供を依頼したのは… まさかの国民的アイドル King &amp; Prince！！</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lenuhyfci5.jpg?v=9d493c84" />
 	</programme>
 	<programme channel="ex" start="20251213135400 +0000" stop="20251214090000 +0000">
 		<title>No programme</title>
@@ -689,11 +684,6 @@
 		<title>報道ステーション</title>
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lem4zj2y2i.jpg?v=01dc6feb" />
-	</programme>
-	<programme channel="tbs" start="20251205194500 +0000" stop="20251206095100 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leuspebne4.jpg?v=861f7797" />
 	</programme>
 	<programme channel="tbs" start="20251206095100 +0000" stop="20251206115400 +0000">
 		<title>熱狂マニアさん！</title>
