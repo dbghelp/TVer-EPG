@@ -20,16 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20251206130000 +0000" stop="20251206135400 +0000">
-		<title>with MUSIC</title>
-		<desc>NEWSライブ衣裳大公開SP!ドロスがファンの質問に直接回答</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lecz990u56.jpg?v=893ef197" />
-	</programme>
-	<programme channel="ntv" start="20251206135400 +0000" stop="20251206202500 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lezwakw996.jpg?v=0a86a986" />
-	</programme>
 	<programme channel="ntv" start="20251206202500 +0000" stop="20251207095500 +0000">
 		<title>配信休止</title>
 		<desc> </desc>
@@ -223,7 +213,7 @@
 	<programme channel="ntv" start="20251213123000 +0000" stop="20251213132400 +0000">
 		<title>良いこと悪いこと</title>
 		<desc>#09「カノン」</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ledaigtk2f.jpg?v=e024ae3f" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ledaigtk2f.jpg?v=e524b61e" />
 	</programme>
 	<programme channel="ntv" start="20251213132400 +0000" stop="20251213133000 +0000">
 		<title>お知らせ</title>
@@ -353,7 +343,7 @@
 	<programme channel="ntv" start="20251218100000 +0000" stop="20251218125400 +0000">
 		<title>THE突破ファイル</title>
 		<desc>豪華ゲストが続々参戦!今年最後の超難問で突破納め3時間SP</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejic8vha0.jpg?v=dde8884d" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejic8vha0.jpg?v=dae88394" />
 	</programme>
 	<programme channel="ntv" start="20251218125400 +0000" stop="20251218130000 +0000">
 		<title>お知らせ</title>
@@ -374,26 +364,6 @@
 		<title>配信休止</title>
 		<desc> </desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leayium138.jpg?v=635fea0b" />
-	</programme>
-	<programme channel="ex" start="20251206131000 +0000" stop="20251206135200 +0000">
-		<title>サタデーステーション</title>
-		<desc>「ニュースを丁寧に、そして鋭く」。高島彩が土曜夜に最新ニュースをＬＩＶＥでお届け！スタジオで徹底解説＆１週間の話題を「独自取材」で！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ler0niie95.jpg?v=288ae603" />
-	</programme>
-	<programme channel="ex" start="20251206135200 +0000" stop="20251206140000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
-	</programme>
-	<programme channel="ex" start="20251206140000 +0000" stop="20251206143000 +0000">
-		<title>パパと親父のウチご飯</title>
-		<desc>最終回</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6mrceikw.jpg?v=30108fac" />
-	</programme>
-	<programme channel="ex" start="20251206143000 +0000" stop="20251207095600 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
 	</programme>
 	<programme channel="ex" start="20251207095600 +0000" stop="20251207105000 +0000">
 		<title>ナニコレ珍百景</title>
@@ -898,7 +868,7 @@
 	<programme channel="tbs" start="20251214141500 +0000" stop="20251214144500 +0000">
 		<title>情熱大陸</title>
 		<desc>Vaundy(1)２夜連続ＳＰ【全速力で音楽シーンを駆け上がる！躍動する２５歳】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lekdz6q3rz.jpg?v=9d4ee431" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lekdz6q3rz.jpg?v=9b4ee10b" />
 	</programme>
 	<programme channel="tbs" start="20251214144500 +0000" stop="20251214193000 +0000">
 		<title>配信休止</title>
@@ -908,32 +878,32 @@
 	<programme channel="tbs" start="20251214193000 +0000" stop="20251214230000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lemcbpup0w.jpg?v=c8eebaa3" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lemcbpup0w.jpg?v=c7eeb910" />
 	</programme>
 	<programme channel="tbs" start="20251214230000 +0000" stop="20251215005500 +0000">
 		<title>ラヴィット！</title>
 		<desc>【なすなか念願の企画開催！▼ラッピーメダルで出演者の夢はかなう!?】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/led0i6bpqs.jpg?v=3cc0f44f" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/led0i6bpqs.jpg?v=41c0fc2e" />
 	</programme>
 	<programme channel="tbs" start="20251215005500 +0000" stop="20251215093000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le0w4dehgz.jpg?v=2460cece" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le0w4dehgz.jpg?v=2560d061" />
 	</programme>
 	<programme channel="tbs" start="20251215093000 +0000" stop="20251215125400 +0000">
 		<title>CDTV ライブ! ライブ!</title>
 		<desc>クリスマス ラブソングFes.★Ado★HANA★星野源</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le85zhh4qf.jpg?v=e96e306f" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le85zhh4qf.jpg?v=e86e2edc" />
 	</programme>
 	<programme channel="tbs" start="20251215125400 +0000" stop="20251215135700 +0000">
 		<title>クレイジージャーニー</title>
 		<desc>地球一キツい競技！高層ビル登り世界一決定戦に階段王が参戦！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le76udztka.jpg?v=0ba476f2" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le76udztka.jpg?v=0ca47885" />
 	</programme>
 	<programme channel="tbs" start="20251215135700 +0000" stop="20251215193000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4pjle96x.jpg?v=bb4d80f9" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4pjle96x.jpg?v=ba4d7f66" />
 	</programme>
 	<programme channel="tbs" start="20251215193000 +0000" stop="20251215230000 +0000">
 		<title>配信休止</title>
@@ -1054,16 +1024,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3zewd6iq.jpg?v=bf1a08e3" />
-	</programme>
-	<programme channel="tx" start="20251206141000 +0000" stop="20251206150400 +0000">
-		<title>出没！アド街ック天国</title>
-		<desc>出没！アド街ック天国▼開運祈願！１都３県パワースポット＆門前町めぐりＢＥＳＴ10</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lezmkrw2v0.jpg?v=fefd6742" />
-	</programme>
-	<programme channel="tx" start="20251206150400 +0000" stop="20251206190000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lenjs06nod.jpg?v=61509077" />
 	</programme>
 	<programme channel="tx" start="20251206190000 +0000" stop="20251207100000 +0000">
 		<title>配信準備中</title>
@@ -1555,21 +1515,6 @@
 		<desc>配信準備中</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le5l0jpjob.jpg?v=4124adfa" />
 	</programme>
-	<programme channel="cx" start="20251206141000 +0000" stop="20251206144000 +0000">
-		<title>さんまのお笑い向上委員会</title>
-		<desc>▼ルール無用！流れ無視！荒れ果てたものまね芸人界を粛清</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/legka2fdfc.jpg?v=b93513d0" />
-	</programme>
-	<programme channel="cx" start="20251206144000 +0000" stop="20251206153500 +0000">
-		<title>介護スナック ベルサイユ</title>
-		<desc>第9話 名も無き恩師／ベルサイユを探る女</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/levjpbocpb.jpg?v=b922460e" />
-	</programme>
-	<programme channel="cx" start="20251206153500 +0000" stop="20251207100000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
-	</programme>
 	<programme channel="cx" start="20251207100000 +0000" stop="20251207125000 +0000">
 		<title>THE MANZAI</title>
 		<desc>2025 ビートたけし最高顧問▼年に一度！漫才最高峰の祭典</desc>
@@ -1949,5 +1894,10 @@
 		<title>地上波放送番組のお知らせ</title>
 		<desc>映画「マスカレード・ホテル」は地上波放送でお楽しみください！</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leiy5s10fb.jpg?v=f83e5bd1" />
+	</programme>
+	<programme channel="cx" start="20251220144000 +0000" stop="20251220153500 +0000">
+		<title>介護スナック ベルサイユ</title>
+		<desc>第11話</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le1fyz8c75.jpg?v=48cb06ba" />
 	</programme>
 </tv>
