@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20251207193000 +0000" stop="20251208100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6moxyl2w.jpg?v=2d96b534" />
-	</programme>
 	<programme channel="ntv" start="20251208100000 +0000" stop="20251208110000 +0000">
 		<title>有吉ゼミ</title>
 		<desc>▼グルメすぎる相撲部屋!九州で華丸×伝説ちゃんこ長!絶品九州グルメ爆食</desc>
@@ -559,11 +554,6 @@
 		<title>報道ステーション</title>
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lem4zj2y2i.jpg?v=01dc6feb" />
-	</programme>
-	<programme channel="tbs" start="20251207193000 +0000" stop="20251207230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le861abvt4.jpg?v=ccb3a186" />
 	</programme>
 	<programme channel="tbs" start="20251207230000 +0000" stop="20251208005500 +0000">
 		<title>ラヴィット！</title>
