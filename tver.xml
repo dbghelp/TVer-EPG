@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20251210193000 +0000" stop="20251211100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le5vxrm9o3.jpg?v=2b432e7b" />
-	</programme>
 	<programme channel="ntv" start="20251211100000 +0000" stop="20251211105400 +0000">
 		<title>THE突破ファイル</title>
 		<desc>絶海の島で心筋梗塞!?自衛隊の救命術▼天ぷら火災の絶対NG消火法</desc>
@@ -615,11 +610,6 @@
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lep4dva4wa.jpg?v=0636029d" />
 	</programme>
-	<programme channel="tbs" start="20251210193000 +0000" stop="20251210230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leczedtw3c.jpg?v=ce875002" />
-	</programme>
 	<programme channel="tbs" start="20251210230000 +0000" stop="20251211005500 +0000">
 		<title>ラヴィット！</title>
 		<desc>▼ニューヨークの冬休みin韓国！最新進化系グルメ＆絶景アクティビティ</desc>
@@ -993,7 +983,7 @@
 	<programme channel="tbs" start="20251223130000 +0000" stop="20251223142700 +0000">
 		<title>今さらシロー！～テストに出ないが役に立つ～</title>
 		<desc>岡田准一＆ロバート秋山</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leh2qej3na.jpg?v=cac9c428" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leh2qej3na.jpg?v=d1c9cf2d" />
 	</programme>
 	<programme channel="tbs" start="20251223142700 +0000" stop="20251223193000 +0000">
 		<title>配信休止</title>
