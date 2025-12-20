@@ -20,21 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20251213100000 +0000" stop="20251213122400 +0000">
-		<title>女芸人No.1決定戦 THE W 2025</title>
-		<desc>人生変わる9代目女王は誰だ!?</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le72vrwmoh.jpg?v=25bb8b81" />
-	</programme>
-	<programme channel="ntv" start="20251213122400 +0000" stop="20251213123000 +0000">
-		<title>お知らせ</title>
-		<desc>リアルタイム配信予定の番組は「日テレ系」タブよりご確認いただけます。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lek25o6x5d.jpg?v=cb6ea6c4" />
-	</programme>
-	<programme channel="ntv" start="20251213123000 +0000" stop="20251213132400 +0000">
-		<title>良いこと悪いこと</title>
-		<desc>#09「カノン」</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ledaigtk2f.jpg?v=e524b61e" />
-	</programme>
 	<programme channel="ntv" start="20251213132400 +0000" stop="20251213133000 +0000">
 		<title>お知らせ</title>
 		<desc>リアルタイム配信予定の番組は「日テレ系」タブよりご確認いただけます。</desc>
@@ -203,7 +188,7 @@
 	<programme channel="ntv" start="20251220120000 +0000" stop="20251220125400 +0000">
 		<title>良いこと悪いこと</title>
 		<desc>#10「はじまり」</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ledxfz5lcn.jpg?v=4bb8ff55" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ledxfz5lcn.jpg?v=44b8f450" />
 	</programme>
 	<programme channel="ntv" start="20251220125400 +0000" stop="20251220130000 +0000">
 		<title>お知らせ</title>
@@ -369,16 +354,6 @@
 		<title>配信休止</title>
 		<desc> </desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leduyrq5n2.jpg?v=1d06fe75" />
-	</programme>
-	<programme channel="ex" start="20251213115400 +0000" stop="20251213130400 +0000">
-		<title>サタデーステーション</title>
-		<desc>高島彩▽強烈寒気…関東各地初雪か▽なぜ山火事相次ぐ？空気乾燥だけでない要因とは▽地震・津波へ警戒続く…避難方法で課題▽反日感情高まる「南京事件の日」中国を取材</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leisif1r33.jpg?v=92bd83df" />
-	</programme>
-	<programme channel="ex" start="20251213130400 +0000" stop="20251213131000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
 	</programme>
 	<programme channel="ex" start="20251213131000 +0000" stop="20251213135400 +0000">
 		<title>ロンドンハーツ</title>
@@ -574,21 +549,6 @@
 		<title>報道ステーション</title>
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lefrtyrvqv.jpg?v=e490b072" />
-	</programme>
-	<programme channel="tbs" start="20251213095100 +0000" stop="20251213115400 +0000">
-		<title>ジョブチューン ～アノ職業のヒミツぶっちゃけます！</title>
-		<desc>＜配信は19時から＞東京ディズニーリゾートのお仕事＆新パレード完成まで独占取材</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leuj34kqcz.jpg?v=6ebec153" />
-	</programme>
-	<programme channel="tbs" start="20251213115400 +0000" stop="20251213125600 +0000">
-		<title>いくらかわかる金？</title>
-		<desc>大好評ドケチ春日デカ盛りグルメ！上白石萌音が自腹クレーンゲーム</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lemdl8gneo.jpg?v=516fe8ab" />
-	</programme>
-	<programme channel="tbs" start="20251213125600 +0000" stop="20251213200000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le34v8k3ib.jpg?v=6a3237fd" />
 	</programme>
 	<programme channel="tbs" start="20251213200000 +0000" stop="20251214100000 +0000">
 		<title>配信休止</title>
@@ -788,7 +748,7 @@
 	<programme channel="tbs" start="20251220095100 +0000" stop="20251220125600 +0000">
 		<title>芸人総選挙2025</title>
 		<desc>＜配信は19時から＞今年日本一面白かった芸人決定</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lespfg03lk.jpg?v=39c077c8" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lespfg03lk.jpg?v=3ac0795b" />
 	</programme>
 	<programme channel="tbs" start="20251220125600 +0000" stop="20251220190000 +0000">
 		<title>配信休止</title>
@@ -979,21 +939,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4t4oybzo.jpg?v=4439e3c7" />
-	</programme>
-	<programme channel="tx" start="20251213115500 +0000" stop="20251213120000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leuwrexmt1.jpg?v=f1b978c7" />
-	</programme>
-	<programme channel="tx" start="20251213120000 +0000" stop="20251213125400 +0000">
-		<title>出没！アド街ック天国</title>
-		<desc>出没！アド街ック天国【横浜・弘明寺】京急＆地下鉄沿線！横浜最古の名刹と門前町☆</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6a6rr0f6.jpg?v=221f382b" />
-	</programme>
-	<programme channel="tx" start="20251213125400 +0000" stop="20251213190000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leeekusdio.jpg?v=9c84fbbb" />
 	</programme>
 	<programme channel="tx" start="20251213190000 +0000" stop="20251214093000 +0000">
 		<title>配信準備中</title>
@@ -1435,16 +1380,6 @@
 		<desc>配信準備中</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lebd9low3k.jpg?v=ba0b8a2d" />
 	</programme>
-	<programme channel="cx" start="20251213100000 +0000" stop="20251213120000 +0000">
-		<title>芸能人が本気で考えた！ドッキリGP</title>
-		<desc>元戦隊ヒーローカッコいい瞬間連発SP</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejnewjywz.jpg?v=4345be03" />
-	</programme>
-	<programme channel="cx" start="20251213120000 +0000" stop="20251213141000 +0000">
-		<title>櫻井翔のワンナイトスタディ</title>
-		<desc>▼櫻井翔が徹夜ロケ海上保安庁・USJ</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lergrvvkt5.jpg?v=7a006170" />
-	</programme>
 	<programme channel="cx" start="20251213141000 +0000" stop="20251213144000 +0000">
 		<title>さんまのお笑い向上委員会</title>
 		<desc>▼正統派ものまね芸人VSアウトサイダーものまね集団！</desc>
@@ -1638,7 +1573,7 @@
 	<programme channel="cx" start="20251220100000 +0000" stop="20251220120000 +0000">
 		<title>全日本フィギュアスケート選手権2025</title>
 		<desc>「男子フリー」五輪をかけた最終決戦！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lelj47mosw.jpg?v=44dd9631" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lelj47mosw.jpg?v=3edd8cbf" />
 	</programme>
 	<programme channel="cx" start="20251220120000 +0000" stop="20251220144000 +0000">
 		<title>地上波放送番組のお知らせ</title>
@@ -1784,5 +1719,10 @@
 		<title>芸能人が本気で考えた！ドッキリGP</title>
 		<desc>＜配信は19時から＞ 何が好き？チョコミントよりも…？SP</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lesiwectyy.jpg?v=effaa6a7" />
+	</programme>
+	<programme channel="cx" start="20251227120000 +0000" stop="20251227144000 +0000">
+		<title>地上波放送番組のお知らせ</title>
+		<desc>映画「マスカレード・ナイト」は地上波放送でお楽しみください！</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lezcz4daqd.jpg?v=5446ef91" />
 	</programme>
 </tv>
