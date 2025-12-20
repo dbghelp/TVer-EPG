@@ -20,21 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20251213132400 +0000" stop="20251213133000 +0000">
-		<title>お知らせ</title>
-		<desc>リアルタイム配信予定の番組は「日テレ系」タブよりご確認いただけます。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leeaw4kytl.jpg?v=c7db79bb" />
-	</programme>
-	<programme channel="ntv" start="20251213133000 +0000" stop="20251213142400 +0000">
-		<title>with MUSIC</title>
-		<desc>韓国のYGエンターテインメントの本社に日本のメディア初潜入!</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leg9gzf0ce.jpg?v=f66aa347" />
-	</programme>
-	<programme channel="ntv" start="20251213142400 +0000" stop="20251213202500 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ler4uaui1g.jpg?v=4ffc9b04" />
-	</programme>
 	<programme channel="ntv" start="20251213202500 +0000" stop="20251214095500 +0000">
 		<title>配信休止</title>
 		<desc> </desc>
@@ -323,7 +308,7 @@
 	<programme channel="ntv" start="20251225100000 +0000" stop="20251225140000 +0000">
 		<title>ぐるぐるナインティナイン</title>
 		<desc>ゴチ最終戦クビ最大3人!小芝・文哉・白石全員クビか?坂上忍&amp;福原遥</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6emp27g6.jpg?v=a9781785" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6emp27g6.jpg?v=a87815f2" />
 	</programme>
 	<programme channel="ntv" start="20251225140000 +0000" stop="20251225193000 +0000">
 		<title>配信休止</title>
@@ -354,16 +339,6 @@
 		<title>配信休止</title>
 		<desc> </desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leduyrq5n2.jpg?v=1d06fe75" />
-	</programme>
-	<programme channel="ex" start="20251213131000 +0000" stop="20251213135400 +0000">
-		<title>ロンドンハーツ</title>
-		<desc>50TAに楽曲提供を依頼したのは… まさかの国民的アイドル King &amp; Prince！！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lenuhyfci5.jpg?v=9a4937cb" />
-	</programme>
-	<programme channel="ex" start="20251213135400 +0000" stop="20251214090000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
 	</programme>
 	<programme channel="ex" start="20251214090000 +0000" stop="20251214105000 +0000">
 		<title>相葉マナブ</title>
@@ -504,6 +479,11 @@
 		<title>サタデーステーション</title>
 		<desc>高島彩▽日銀利上げで期待と不安…生活への影響は▽首都直下地震の被害想定見直し…課題と対策▽冬に20℃超！異例の暖かさはいつまで？▽京都ホテル代に異変…日中影響ほか</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lelh5tddqj.jpg?v=0c1fcc49" />
+	</programme>
+	<programme channel="ex" start="20251220130400 +0000" stop="20251220131000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
 	</programme>
 	<programme channel="ex" start="20251220131000 +0000" stop="20251220135400 +0000">
 		<title>出川一茂ホラン☆フシギの会</title>
@@ -763,7 +743,7 @@
 	<programme channel="tbs" start="20251221090000 +0000" stop="20251221131500 +0000">
 		<title>最強スポーツ男子頂上決戦2025冬</title>
 		<desc>東京世界陸上の日本代表が集結！国立の熱気再び</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leu0x1vo6n.jpg?v=4668ba5f" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leu0x1vo6n.jpg?v=4768bbf2" />
 	</programme>
 	<programme channel="tbs" start="20251221131500 +0000" stop="20251221141800 +0000">
 		<title>日曜日の初耳学</title>
@@ -788,32 +768,32 @@
 	<programme channel="tbs" start="20251221193000 +0000" stop="20251221230000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3bbjoytw.jpg?v=d11f076a" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3bbjoytw.jpg?v=cc1eff8b" />
 	</programme>
 	<programme channel="tbs" start="20251221230000 +0000" stop="20251222005500 +0000">
 		<title>ラヴィット！</title>
 		<desc>【M!LK集結！M-1優勝者も登場！進化したビリビリPKで究極の心理戦】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lev06btqvv.jpg?v=188bb4e0" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lev06btqvv.jpg?v=198bb673" />
 	</programme>
 	<programme channel="tbs" start="20251222005500 +0000" stop="20251222090000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leoztdcp2h.jpg?v=73c8168e" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leoztdcp2h.jpg?v=76c81b47" />
 	</programme>
 	<programme channel="tbs" start="20251222090000 +0000" stop="20251222125400 +0000">
 		<title>CDTV ライブ! ライブ!</title>
 		<desc>クリスマス年間ランキングＦＥＳ★ミセス★スノーマン</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lekeh4vp7u.jpg?v=ab1b7a48" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lekeh4vp7u.jpg?v=aa1b78b5" />
 	</programme>
 	<programme channel="tbs" start="20251222125400 +0000" stop="20251222142700 +0000">
 		<title>クレイジージャーニー</title>
 		<desc>沖縄の深海１０００mでドローン調査！幻の深海生物を探す旅！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lerkjz3n4l.jpg?v=aba4369e" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lerkjz3n4l.jpg?v=aca43831" />
 	</programme>
 	<programme channel="tbs" start="20251222142700 +0000" stop="20251222193000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/levzd01po2.jpg?v=2e011f12" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/levzd01po2.jpg?v=29011733" />
 	</programme>
 	<programme channel="tbs" start="20251222193000 +0000" stop="20251222230000 +0000">
 		<title>配信休止</title>
@@ -1380,21 +1360,6 @@
 		<desc>配信準備中</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lebd9low3k.jpg?v=ba0b8a2d" />
 	</programme>
-	<programme channel="cx" start="20251213141000 +0000" stop="20251213144000 +0000">
-		<title>さんまのお笑い向上委員会</title>
-		<desc>▼正統派ものまね芸人VSアウトサイダーものまね集団！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lesmeeq9du.jpg?v=76d34dc0" />
-	</programme>
-	<programme channel="cx" start="20251213144000 +0000" stop="20251213153500 +0000">
-		<title>介護スナック ベルサイユ</title>
-		<desc>第10話 天国への階段／死刑囚のレシピ</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lecgj78swr.jpg?v=ebfaa311" />
-	</programme>
-	<programme channel="cx" start="20251213153500 +0000" stop="20251214100000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
-	</programme>
 	<programme channel="cx" start="20251214100000 +0000" stop="20251214115400 +0000">
 		<title>千鳥の鬼レンチャン</title>
 		<desc>◆WEST濱田＆島谷ひとみ…ジュディマリYUKI再現主婦</desc>
@@ -1724,5 +1689,10 @@
 		<title>地上波放送番組のお知らせ</title>
 		<desc>映画「マスカレード・ナイト」は地上波放送でお楽しみください！</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lezcz4daqd.jpg?v=5446ef91" />
+	</programme>
+	<programme channel="cx" start="20251227144000 +0000" stop="20251227151000 +0000">
+		<title>さんまのお笑い向上委員会</title>
+		<desc>▼委員会的流行語大賞発表！総勢202人の爆笑シーン連発</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le2gk191sm.jpg?v=5d77fefb" />
 	</programme>
 </tv>
