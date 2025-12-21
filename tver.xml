@@ -20,21 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20251214130000 +0000" stop="20251214133000 +0000">
-		<title>おしゃれクリップ</title>
-		<desc>ゲスト なすなかにし</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leeznufert.jpg?v=566747bf" />
-	</programme>
-	<programme channel="ntv" start="20251214133000 +0000" stop="20251214142500 +0000">
-		<title>ぼくたちん家</title>
-		<desc>#10この世に私に関係ないものなんてない…それぞれの恋と革命</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lepgy6u1kg.jpg?v=c62cba34" />
-	</programme>
-	<programme channel="ntv" start="20251214142500 +0000" stop="20251214193000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lem0xks1vp.jpg?v=0bda5989" />
-	</programme>
 	<programme channel="ntv" start="20251214193000 +0000" stop="20251215100000 +0000">
 		<title>配信休止</title>
 		<desc> </desc>
@@ -320,16 +305,6 @@
 		<desc> </desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leduyrq5n2.jpg?v=1d06fe75" />
 	</programme>
-	<programme channel="ex" start="20251214131500 +0000" stop="20251214140900 +0000">
-		<title>1泊家族</title>
-		<desc>初公開!有名人の豪邸…家主は?熊本で集団生活する家族にノブも仰天</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejqz2eja1.jpg?v=2623a29d" />
-	</programme>
-	<programme channel="ex" start="20251214140900 +0000" stop="20251215100000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
-	</programme>
 	<programme channel="ex" start="20251215100000 +0000" stop="20251215125400 +0000">
 		<title>帰れマンデー見っけ隊!!</title>
 		<desc>日米通算200勝達成記念【田中将大】が初参戦！ タカトシ＆サンドと冬の房総半島を巡る秘境グルメ探しの旅</desc>
@@ -450,6 +425,11 @@
 		<desc>出川が時事を解説！「フシギなニュース」＆ 明日から使えるフシギクイズ 【この冬言いたくなる雑学ＳＰ】</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leq0mt0lja.jpg?v=710bec96" />
 	</programme>
+	<programme channel="ex" start="20251220135400 +0000" stop="20251221060000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
+	</programme>
 	<programme channel="ex" start="20251221060000 +0000" stop="20251221093000 +0000">
 		<title>M-1グランプリ 2025</title>
 		<desc>敗者復活戦</desc>
@@ -458,7 +438,7 @@
 	<programme channel="ex" start="20251221093000 +0000" stop="20251221131000 +0000">
 		<title>M-1グランプリ 2025</title>
 		<desc>決勝戦  漫才師日本一の称号と賞金1000万円を手にする第21代王者が今夜生放送で決定します！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lebdnqovzz.jpg?v=d7f7c247" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lebdnqovzz.jpg?v=d6f7c0b4" />
 	</programme>
 	<programme channel="ex" start="20251221131000 +0000" stop="20251221143000 +0000">
 		<title>有働Times</title>
@@ -489,31 +469,6 @@
 		<title>報道ステーション</title>
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lefrtyrvqv.jpg?v=e490b072" />
-	</programme>
-	<programme channel="tbs" start="20251214130900 +0000" stop="20251214131500 +0000">
-		<title>お知らせ</title>
-		<desc>リアルタイム配信予定の番組は「TBS系」タブよりご確認いただけます。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/levxj5njg9.jpg?v=8939af2c" />
-	</programme>
-	<programme channel="tbs" start="20251214131500 +0000" stop="20251214140900 +0000">
-		<title>日曜日の初耳学</title>
-		<desc>【Vaundy×林修◆情熱大陸と合体SP！山下達郎本人から肉声メッセージ】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lehfhc9726.jpg?v=c9e779cb" />
-	</programme>
-	<programme channel="tbs" start="20251214140900 +0000" stop="20251214141500 +0000">
-		<title>お知らせ</title>
-		<desc>リアルタイム配信予定の番組は「TBS系」タブよりご確認いただけます。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le0yuu9iid.jpg?v=384e7408" />
-	</programme>
-	<programme channel="tbs" start="20251214141500 +0000" stop="20251214144500 +0000">
-		<title>情熱大陸</title>
-		<desc>Vaundy(1)２夜連続ＳＰ【全速力で音楽シーンを駆け上がる！躍動する２５歳】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lekdz6q3rz.jpg?v=a04ee8ea" />
-	</programme>
-	<programme channel="tbs" start="20251214144500 +0000" stop="20251214193000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leie8k9vah.jpg?v=aca8ce9a" />
 	</programme>
 	<programme channel="tbs" start="20251214193000 +0000" stop="20251214230000 +0000">
 		<title>配信休止</title>
@@ -718,7 +673,7 @@
 	<programme channel="tbs" start="20251221230000 +0000" stop="20251222005500 +0000">
 		<title>ラヴィット！</title>
 		<desc>【M!LK集結！M-1優勝者も登場！進化したビリビリPKで究極の心理戦】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lev06btqvv.jpg?v=198bb673" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lev06btqvv.jpg?v=268bcaea" />
 	</programme>
 	<programme channel="tbs" start="20251222005500 +0000" stop="20251222090000 +0000">
 		<title>配信休止</title>
@@ -743,37 +698,37 @@
 	<programme channel="tbs" start="20251222193000 +0000" stop="20251222230000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lebgxdha0s.jpg?v=33c37b9f" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lebgxdha0s.jpg?v=30c376e6" />
 	</programme>
 	<programme channel="tbs" start="20251222230000 +0000" stop="20251223005500 +0000">
 		<title>ラヴィット！</title>
 		<desc>日本でいちばん明るい朝番組</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leebohbqo1.jpg?v=5b40dbcb" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leebohbqo1.jpg?v=6040e3aa" />
 	</programme>
 	<programme channel="tbs" start="20251223005500 +0000" stop="20251223090000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/levb6umlag.jpg?v=d407206e" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/levb6umlag.jpg?v=d7072527" />
 	</programme>
 	<programme channel="tbs" start="20251223090000 +0000" stop="20251223115500 +0000">
 		<title>バナナサンド</title>
 		<desc>輝く！ハモリ我慢大賞２０２５！年間つられ王者は誰だ３時間SP</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lemmvqq3y2.jpg?v=ab0b5d23" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lemmvqq3y2.jpg?v=aa0b5b90" />
 	</programme>
 	<programme channel="tbs" start="20251223115500 +0000" stop="20251223130000 +0000">
 		<title>マツコの知らない世界</title>
 		<desc>Xマス直前!!超絶ブームお菓子缶SP可愛い＆美味しい激レア品集結</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lex7ri6p8m.jpg?v=c69cb6bf" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lex7ri6p8m.jpg?v=c59cb52c" />
 	</programme>
 	<programme channel="tbs" start="20251223130000 +0000" stop="20251223142700 +0000">
 		<title>今さらシロー！～テストに出ないが役に立つ～</title>
 		<desc>岡田准一ロバート秋山と羽田空港潜入SP！仲里依紗＆津田</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leh2qej3na.jpg?v=c5c9bc49" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leh2qej3na.jpg?v=c4c9bab6" />
 	</programme>
 	<programme channel="tbs" start="20251223142700 +0000" stop="20251223193000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leogfq3ube.jpg?v=4db536c4" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leogfq3ube.jpg?v=4cb53531" />
 	</programme>
 	<programme channel="tbs" start="20251223193000 +0000" stop="20251223230000 +0000">
 		<title>配信休止</title>
@@ -864,16 +819,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4t4oybzo.jpg?v=4439e3c7" />
-	</programme>
-	<programme channel="tx" start="20251214130000 +0000" stop="20251214134800 +0000">
-		<title>有吉ぃぃeeeee！～そうだ！今からお前んチでゲームしない？</title>
-		<desc>有吉ぃぃeeeee！【スイカゲーム新作】timelesz橋本将生とクリスマスSP</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4o2rhjim.jpg?v=3faacfa1" />
-	</programme>
-	<programme channel="tx" start="20251214134800 +0000" stop="20251214190000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le8j8250fy.jpg?v=f075623e" />
 	</programme>
 	<programme channel="tx" start="20251214190000 +0000" stop="20251215092500 +0000">
 		<title>配信準備中</title>
@@ -1468,7 +1413,7 @@
 	<programme channel="cx" start="20251221100000 +0000" stop="20251221115400 +0000">
 		<title>全日本フィギュアスケート選手権2025</title>
 		<desc>「女子フリー」今夜五輪代表が決定！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leuxiqq7qe.jpg?v=0b90a7c2" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leuxiqq7qe.jpg?v=0e90ac7b" />
 	</programme>
 	<programme channel="cx" start="20251221115400 +0000" stop="20251221140900 +0000">
 		<title>地上波放送番組のお知らせ</title>
