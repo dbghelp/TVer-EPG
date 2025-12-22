@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20251215193000 +0000" stop="20251216100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/letijiwyhu.jpg?v=84685127" />
-	</programme>
 	<programme channel="ntv" start="20251216100000 +0000" stop="20251216115400 +0000">
 		<title>クイズ！あなたは小学5年生より賢いの？</title>
 		<desc>今年最後の賞金1000万SP★最強クイズ王・伊沢&amp;宇治原が初タッグ</desc>
@@ -534,11 +529,6 @@
 		<title>フリースタイルロケバトル</title>
 		<desc>見取り図とニューヨークにハマるべく、人気芸人たちがボケのパンチラインをぶつけ合うロケバトル番組。 ロケの主導権を握って１番COOLに笑いを取るのは誰だ！？</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lewf0p0xlt.jpg?v=afd6dd60" />
-	</programme>
-	<programme channel="tbs" start="20251215193000 +0000" stop="20251215230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/levp4rqpes.jpg?v=1f758cbf" />
 	</programme>
 	<programme channel="tbs" start="20251215230000 +0000" stop="20251216005500 +0000">
 		<title>ラヴィット！</title>
