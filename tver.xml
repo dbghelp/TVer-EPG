@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20251216135400 +0000" stop="20251216193000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leyfu3y69o.jpg?v=35ad3112" />
-	</programme>
 	<programme channel="ntv" start="20251216193000 +0000" stop="20251217100000 +0000">
 		<title>配信休止</title>
 		<desc> </desc>
@@ -340,6 +335,11 @@
 		<desc>年末スペシャル</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6lc5ovx0.jpg?v=3869d6ae" />
 	</programme>
+	<programme channel="ntv" start="20251230143000 +0000" stop="20251230205600 +0000">
+		<title>配信休止</title>
+		<desc> </desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lez3x8gpsy.jpg?v=5cbb95a3" />
+	</programme>
 	<programme channel="ex" start="20251217093000 +0000" stop="20251217120000 +0000">
 		<title>朝メシまで。</title>
 		<desc>朝メシまで。スペシャル</desc>
@@ -519,11 +519,6 @@
 		<title>アメトーーク！</title>
 		<desc>【総勢５７名！豪華４企画で過去最長６時間】①運動神経悪い芸人　②さんまvs売れっ子若手芸人　③歳末！家電芸人　④アメトーーク大賞</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lelpg0f6r3.jpg?v=6089253c" />
-	</programme>
-	<programme channel="tbs" start="20251216140000 +0000" stop="20251216193000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejwqa23d5.jpg?v=36486623" />
 	</programme>
 	<programme channel="tbs" start="20251216193000 +0000" stop="20251216230000 +0000">
 		<title>配信休止</title>
@@ -753,32 +748,32 @@
 	<programme channel="tbs" start="20251224193000 +0000" stop="20251224230000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejsuxl34a.jpg?v=6afd587a" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejsuxl34a.jpg?v=65fd509b" />
 	</programme>
 	<programme channel="tbs" start="20251224230000 +0000" stop="20251225005500 +0000">
 		<title>ラヴィット！</title>
 		<desc>日本でいちばん明るい朝番組</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lelwc079n7.jpg?v=a94eec33" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lelwc079n7.jpg?v=ae4ef412" />
 	</programme>
 	<programme channel="tbs" start="20251225005500 +0000" stop="20251225090000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6mbjs4u4.jpg?v=2bd3028d" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6mbjs4u4.jpg?v=24d2f788" />
 	</programme>
 	<programme channel="tbs" start="20251225090000 +0000" stop="20251225130000 +0000">
 		<title>SASUKE2025～第43回大会～</title>
 		<desc>【史上初！２夜連続決戦】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4y8sysh9.jpg?v=6c477078" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4y8sysh9.jpg?v=6f477531" />
 	</programme>
 	<programme channel="tbs" start="20251225130000 +0000" stop="20251225145700 +0000">
 		<title>大泉サンドの年2会</title>
 		<desc>福山雅治参戦！帝国ホテル１泊300万円★三越貸し切り爆買い！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lezubkf0ca.jpg?v=1a6fb190" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lezubkf0ca.jpg?v=1b6fb323" />
 	</programme>
 	<programme channel="tbs" start="20251225145700 +0000" stop="20251225193000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le0uv0mcq3.jpg?v=db34d73e" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le0uv0mcq3.jpg?v=dc34d8d1" />
 	</programme>
 	<programme channel="tbs" start="20251225193000 +0000" stop="20251225230000 +0000">
 		<title>配信休止</title>
@@ -889,21 +884,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le8sn7q40g.jpg?v=16243948" />
-	</programme>
-	<programme channel="tx" start="20251216135800 +0000" stop="20251216140600 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lebi4md3h3.jpg?v=415687b0" />
-	</programme>
-	<programme channel="tx" start="20251216140600 +0000" stop="20251216145500 +0000">
-		<title>ＬＩＦＥ　ＩＳ　ＭＯＮＥＹ～世の中お金で見てみよう～</title>
-		<desc>LIFE　IS　MONEY　～世の中お金で見てみよう～</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leec0ru5q3.jpg?v=da81018c" />
-	</programme>
-	<programme channel="tx" start="20251216145500 +0000" stop="20251216190000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lel5gq74fx.jpg?v=54ecb909" />
 	</programme>
 	<programme channel="tx" start="20251216190000 +0000" stop="20251217092500 +0000">
 		<title>配信準備中</title>
@@ -1310,20 +1290,15 @@
 		<desc>世界！職人ワゴン★ニッポンの技で世界遺産＆消防署＆教室のない学校を修理！</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leso6d9alj.jpg?v=f9ef0d02" />
 	</programme>
-	<programme channel="cx" start="20251216135400 +0000" stop="20251216140000 +0000">
-		<title>配信番組のお知らせ</title>
-		<desc>🐶🐩🐕</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lea1qmgs0i.jpg?v=f63420f2" />
+	<programme channel="tx" start="20251230131500 +0000" stop="20251230143000 +0000">
+		<title>あちこちオードリー</title>
+		<desc>あちこちオードリー</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lev0o46dcv.jpg?v=f55d891c" />
 	</programme>
-	<programme channel="cx" start="20251216140000 +0000" stop="20251216143000 +0000">
-		<title>娘の命を奪ったヤツを殺すのは罪ですか？</title>
-		<desc>#11 最後の爆弾…！全部、バレた。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leve1w6opm.jpg?v=2f53a3aa" />
-	</programme>
-	<programme channel="cx" start="20251216143000 +0000" stop="20251217100000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
+	<programme channel="tx" start="20251230143000 +0000" stop="20251230190000 +0000">
+		<title>配信準備中</title>
+		<desc>配信準備中</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le5g9u5r8x.jpg?v=05d46497" />
 	</programme>
 	<programme channel="cx" start="20251217100000 +0000" stop="20251217120000 +0000">
 		<title>奇跡体験！アンビリバボー</title>
@@ -1590,6 +1565,11 @@
 		<desc>▼委員会的流行語大賞発表！総勢202人の爆笑シーン連発</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le2gk191sm.jpg?v=627806da" />
 	</programme>
+	<programme channel="cx" start="20251227151000 +0000" stop="20251228100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
+	</programme>
 	<programme channel="cx" start="20251228100000 +0000" stop="20251228140900 +0000">
 		<title>千鳥の鬼レンチャン</title>
 		<desc>STARTO・青学女子参戦！４×200mリレー◆さよなら津田</desc>
@@ -1629,5 +1609,20 @@
 		<title>地上波放送番組のお知らせ</title>
 		<desc>「超ド級！世界のありえない映像大賞５時間SP▼本当にあった奇跡の瞬間171連発」は地上波放送でお楽しみください！</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lexa6uv0pl.jpg?v=0cfd5d7a" />
+	</programme>
+	<programme channel="cx" start="20251230134800 +0000" stop="20251230135400 +0000">
+		<title>配信番組のお知らせ</title>
+		<desc>🐶🐩🐕</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le32jauva1.jpg?v=168665df" />
+	</programme>
+	<programme channel="cx" start="20251230135400 +0000" stop="20251230140000 +0000">
+		<title>配信番組のお知らせ</title>
+		<desc>🐶🐩🐕</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leny7r14rl.jpg?v=a9e37b5d" />
+	</programme>
+	<programme channel="cx" start="20251230140000 +0000" stop="20251230150000 +0000">
+		<title>堂本兄弟2025</title>
+		<desc>堂本光一・堂本剛がお届けする音楽バラエティ▼素敵なゲストも</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leom1pxr9l.jpg?v=d34e3dc4" />
 	</programme>
 </tv>
