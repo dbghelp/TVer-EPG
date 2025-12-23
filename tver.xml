@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20251216193000 +0000" stop="20251217100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lex89n95i7.jpg?v=b10da337" />
-	</programme>
 	<programme channel="ntv" start="20251217100000 +0000" stop="20251217115400 +0000">
 		<title>有吉の壁</title>
 		<desc>SP▼今年話題の名所からおもしろ中継!沖縄ジャングリア・歌舞伎座・秘境</desc>
@@ -519,11 +514,6 @@
 		<title>アメトーーク！</title>
 		<desc>【総勢５７名！豪華４企画で過去最長６時間】①運動神経悪い芸人　②さんまvs売れっ子若手芸人　③歳末！家電芸人　④アメトーーク大賞</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lelpg0f6r3.jpg?v=6089253c" />
-	</programme>
-	<programme channel="tbs" start="20251216193000 +0000" stop="20251216230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leafqr24xu.jpg?v=2f26a718" />
 	</programme>
 	<programme channel="tbs" start="20251216230000 +0000" stop="20251217005500 +0000">
 		<title>ラヴィット！</title>
