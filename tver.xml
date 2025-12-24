@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20251217135400 +0000" stop="20251217193000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le28bt1nqf.jpg?v=3a39c202" />
-	</programme>
 	<programme channel="ntv" start="20251217193000 +0000" stop="20251218100000 +0000">
 		<title>配信休止</title>
 		<desc> </desc>
@@ -330,6 +325,11 @@
 		<desc>史上最大!豪華助っ人27名が参戦!相撲教室生リフォーム</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lequ0k5kzk.jpg?v=b7a26825" />
 	</programme>
+	<programme channel="ntv" start="20251231143000 +0000" stop="20251231210000 +0000">
+		<title>配信休止</title>
+		<desc> </desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lexs3kbzdq.jpg?v=8ebb31bb" />
+	</programme>
 	<programme channel="ex" start="20251218093000 +0000" stop="20251218120000 +0000">
 		<title>相葉ヒロミのお困りですカー？</title>
 		<desc>年末大掃除！高校生311人大感動クリスマスSP</desc>
@@ -489,11 +489,6 @@
 		<title>アメトーーク！</title>
 		<desc>【総勢５７名！豪華４企画で過去最長６時間】①運動神経悪い芸人　②さんまvs売れっ子若手芸人　③歳末！家電芸人　④アメトーーク大賞</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lelpg0f6r3.jpg?v=62892862" />
-	</programme>
-	<programme channel="tbs" start="20251217143000 +0000" stop="20251217193000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lesuypc55g.jpg?v=b91fd814" />
 	</programme>
 	<programme channel="tbs" start="20251217193000 +0000" stop="20251217230000 +0000">
 		<title>配信休止</title>
@@ -713,7 +708,7 @@
 	<programme channel="tbs" start="20251225090000 +0000" stop="20251225130000 +0000">
 		<title>SASUKE2025～第43回大会～</title>
 		<desc>【史上初！２夜連続決戦】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4y8sysh9.jpg?v=71477857" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4y8sysh9.jpg?v=704776c4" />
 	</programme>
 	<programme channel="tbs" start="20251225130000 +0000" stop="20251225145700 +0000">
 		<title>大泉サンドの年2会</title>
@@ -728,32 +723,32 @@
 	<programme channel="tbs" start="20251225193000 +0000" stop="20251225230000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ley5udvipd.jpg?v=384119d0" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ley5udvipd.jpg?v=3f4124d5" />
 	</programme>
 	<programme channel="tbs" start="20251225230000 +0000" stop="20251226005500 +0000">
 		<title>ラヴィット！</title>
 		<desc>日本でいちばん明るい朝番組</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le62abo4fv.jpg?v=3d8f2a7e" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le62abo4fv.jpg?v=408f2f37" />
 	</programme>
 	<programme channel="tbs" start="20251226005500 +0000" stop="20251226090000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le7n40it1s.jpg?v=0ffc7636" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le7n40it1s.jpg?v=12fc7aef" />
 	</programme>
 	<programme channel="tbs" start="20251226090000 +0000" stop="20251226120000 +0000">
 		<title>明石家さんまのご長寿グランプリ2024</title>
 		<desc>爆笑ご長寿クイズ＆さんま、ついに犬を飼う?</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leh01oo8as.jpg?v=4b5fbc51" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leh01oo8as.jpg?v=445fb14c" />
 	</programme>
 	<programme channel="tbs" start="20251226120000 +0000" stop="20251226142400 +0000">
 		<title>福山雅治×大泉洋 超！！弾丸2人旅 in ニューヨーク</title>
 		<desc>福山雅治×大泉洋 超!!弾丸２人旅ｉｎニューヨーク</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lermhp58u4.jpg?v=b3d84f3b" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lermhp58u4.jpg?v=b0d84a82" />
 	</programme>
 	<programme channel="tbs" start="20251226142400 +0000" stop="20251226194500 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4t4oybzo.jpg?v=4439e3c7" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4t4oybzo.jpg?v=4139df0e" />
 	</programme>
 	<programme channel="tbs" start="20251226194500 +0000" stop="20251227082100 +0000">
 		<title>配信休止</title>
@@ -845,20 +840,10 @@
 		<desc>＜配信は18時から＞大晦日オールスター体育祭</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leh2k3sbcz.jpg?v=8a47030c" />
 	</programme>
-	<programme channel="tx" start="20251217135800 +0000" stop="20251217140600 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leaw074kdt.jpg?v=2e5ed4ae" />
-	</programme>
-	<programme channel="tx" start="20251217140600 +0000" stop="20251217145500 +0000">
-		<title>あちこちオードリー</title>
-		<desc>あちこちオードリー【中丸雄一&amp;ニューヨーク】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lebj0vzd0v.jpg?v=52891754" />
-	</programme>
-	<programme channel="tx" start="20251217145500 +0000" stop="20251217190000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leu0h4pn9a.jpg?v=618e58af" />
+	<programme channel="tbs" start="20251231144500 +0000" stop="20251231200000 +0000">
+		<title>配信休止</title>
+		<desc>配信休止</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leupcpdakb.jpg?v=c865222a" />
 	</programme>
 	<programme channel="tx" start="20251217190000 +0000" stop="20251218092500 +0000">
 		<title>配信準備中</title>
@@ -1244,6 +1229,16 @@
 		<title>孤独のグルメ 大晦日スペシャル</title>
 		<desc>『孤独のグルメ2025大晦日スペシャル　おかわりは、五郎セルフで運びます！』</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lecs4mml36.jpg?v=60bbbe47" />
+	</programme>
+	<programme channel="tx" start="20251231143000 +0000" stop="20251231154500 +0000">
+		<title>配信準備中</title>
+		<desc>配信準備中</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lemh88nksc.jpg?v=73d7cfda" />
+	</programme>
+	<programme channel="tx" start="20251231154500 +0000" stop="20251231165500 +0000">
+		<title>川島明の辞書で呑む</title>
+		<desc>川島明の辞書で呑む★お正月【す】ペシャル！２０２６年呑み始めは新メンバーだらけ</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lec4mndxg3.jpg?v=44dbef00" />
 	</programme>
 	<programme channel="cx" start="20251218100000 +0000" stop="20251218120000 +0000">
 		<title>街グルメをマジ探索！かまいまち</title>
