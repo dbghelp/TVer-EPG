@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20251217193000 +0000" stop="20251218100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le7kytjqc3.jpg?v=3e43fd52" />
-	</programme>
 	<programme channel="ntv" start="20251218100000 +0000" stop="20251218125400 +0000">
 		<title>THE突破ファイル</title>
 		<desc>3時間SP狭小住宅・隣家8軒が囲む17坪▼交通事故鑑定ドラレコ推理</desc>
@@ -489,11 +484,6 @@
 		<title>アメトーーク！</title>
 		<desc>【総勢５７名！豪華４企画で過去最長６時間】①運動神経悪い芸人　②さんまvs売れっ子若手芸人　③歳末！家電芸人　④アメトーーク大賞</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lelpg0f6r3.jpg?v=62892862" />
-	</programme>
-	<programme channel="tbs" start="20251217193000 +0000" stop="20251217230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lek9qdau1x.jpg?v=b98774e3" />
 	</programme>
 	<programme channel="tbs" start="20251217230000 +0000" stop="20251218005500 +0000">
 		<title>ラヴィット！</title>
