@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20251218140000 +0000" stop="20251218193000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/levieyta9z.jpg?v=0e5b3c11" />
-	</programme>
 	<programme channel="ntv" start="20251218193000 +0000" stop="20251219204500 +0000">
 		<title>配信休止</title>
 		<desc> </desc>
@@ -325,6 +320,11 @@
 		<desc>元日SP マツコ村上も抱腹絶倒…全国の大大大問題一斉調査!</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leo7udonvl.jpg?v=19b77f54" />
 	</programme>
+	<programme channel="ntv" start="20260101141000 +0000" stop="20260101205000 +0000">
+		<title>配信休止</title>
+		<desc> </desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le5cxb1m5k.jpg?v=17d653b3" />
+	</programme>
 	<programme channel="ex" start="20251219095000 +0000" stop="20251219110000 +0000">
 		<title>ザワつく！ 金曜日</title>
 		<desc>大晦日前の大一番は究極の3択！ スイーツ頂上決戦…多数派はどれ？</desc>
@@ -484,11 +484,6 @@
 		<title>相棒 season24</title>
 		<desc>元日スペシャル『フィナーレ』 絶海の孤島で、ミステリー小説になぞらえた連続殺人事件が発生！ 特命係は“血塗られた聖夜”に渦巻く陰謀を止めることができるのか!?</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lewese73iu.jpg?v=b0613934" />
-	</programme>
-	<programme channel="tbs" start="20251218135700 +0000" stop="20251218193000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leeg3lppee.jpg?v=b75c2c88" />
 	</programme>
 	<programme channel="tbs" start="20251218193000 +0000" stop="20251218230000 +0000">
 		<title>配信休止</title>
@@ -723,17 +718,17 @@
 	<programme channel="tbs" start="20251226194500 +0000" stop="20251227082100 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqat9qxoh.jpg?v=a0730f11" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqat9qxoh.jpg?v=a17310a4" />
 	</programme>
 	<programme channel="tbs" start="20251227082100 +0000" stop="20251227115400 +0000">
 		<title>ジョブチューン ～アノ職業のヒミツぶっちゃけます！</title>
 		<desc>＜配信は17時30分から＞くら寿司ジャッジ＆ローソン×ミニストップ！スイーツNo.１決定戦</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejtwxxcd3.jpg?v=10fcaf63" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejtwxxcd3.jpg?v=1dfcc3da" />
 	</programme>
 	<programme channel="tbs" start="20251227115400 +0000" stop="20251227190000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/let7wxwfa3.jpg?v=fe1a213d" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/let7wxwfa3.jpg?v=f71a1638" />
 	</programme>
 	<programme channel="tbs" start="20251227190000 +0000" stop="20251228080000 +0000">
 		<title>配信休止</title>
@@ -840,20 +835,10 @@
 		<desc>M-1＆コント王者が集結！一夜限りコラボも★田中樹＆吉田羊</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/levtuqidsy.jpg?v=6529efbe" />
 	</programme>
-	<programme channel="tx" start="20251218135800 +0000" stop="20251218140600 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lelfadm31t.jpg?v=56020c88" />
-	</programme>
-	<programme channel="tx" start="20251218140600 +0000" stop="20251218145500 +0000">
-		<title>カンブリア宮殿</title>
-		<desc>カンブリア宮殿【目指すは「植物の総合商社」躍進する園芸のプロ集団の戦略】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lej9th39pk.jpg?v=96958bbc" />
-	</programme>
-	<programme channel="tx" start="20251218145500 +0000" stop="20251218190000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejc9nmvbr.jpg?v=b50b6c05" />
+	<programme channel="tbs" start="20260101150000 +0000" stop="20260101202000 +0000">
+		<title>配信休止</title>
+		<desc>配信休止</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lev9545ypr.jpg?v=85975d3e" />
 	</programme>
 	<programme channel="tx" start="20251218190000 +0000" stop="20251219092500 +0000">
 		<title>配信準備中</title>
@@ -1230,20 +1215,20 @@
 		<desc>所さんのそこんトコロ！20周年の元日に４時間半！金庫からお宝出まくり！超特大SP</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4b76a4f5.jpg?v=2a1f0040" />
 	</programme>
-	<programme channel="cx" start="20251218135400 +0000" stop="20251218140000 +0000">
-		<title>配信番組のお知らせ</title>
-		<desc>🐶🐩🐕</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le2orxmreu.jpg?v=3b711bcf" />
+	<programme channel="tx" start="20260101131500 +0000" stop="20260101145500 +0000">
+		<title>テレ東の人気企画を世界のテレビ局がやってみた！テレ東スマッシュヒッツ</title>
+		<desc>テレ東の人気企画を世界のテレビ局がやってみた！　テレ東スマッシュヒッツ</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lezovjx2ki.jpg?v=f7dadcef" />
 	</programme>
-	<programme channel="cx" start="20251218140000 +0000" stop="20251218143000 +0000">
-		<title>トークィーンズ</title>
-		<desc>▼横山裕…結婚への反省SP▼細かすぎルーティン…後輩からタレコミ</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le94hip7m3.jpg?v=474bb142" />
+	<programme channel="tx" start="20260101145500 +0000" stop="20260101154000 +0000">
+		<title>伊集院光＆佐久間宣行の勝手にテレ東批評</title>
+		<desc>伊集院光＆佐久間宣行の勝手に「テレ東批評」正月SP！村上信五＆ホリケンが秘密暴露</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leiednoi37.jpg?v=dbfd149c" />
 	</programme>
-	<programme channel="cx" start="20251218143000 +0000" stop="20251219100000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
+	<programme channel="tx" start="20260101154000 +0000" stop="20260101190000 +0000">
+		<title>配信準備中</title>
+		<desc>配信準備中</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le8mbjf8h8.jpg?v=8d1d3e27" />
 	</programme>
 	<programme channel="cx" start="20251219100000 +0000" stop="20251219125200 +0000">
 		<title>全日本フィギュアスケート選手権2025</title>
