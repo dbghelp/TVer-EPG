@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20251218193000 +0000" stop="20251219204500 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leayium138.jpg?v=695ff37d" />
-	</programme>
 	<programme channel="ntv" start="20251219204500 +0000" stop="20251220100000 +0000">
 		<title>配信休止</title>
 		<desc> </desc>
@@ -484,11 +479,6 @@
 		<title>相棒 season24</title>
 		<desc>元日スペシャル『フィナーレ』 絶海の孤島で、ミステリー小説になぞらえた連続殺人事件が発生！ 特命係は“血塗られた聖夜”に渦巻く陰謀を止めることができるのか!?</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lewese73iu.jpg?v=b0613934" />
-	</programme>
-	<programme channel="tbs" start="20251218193000 +0000" stop="20251218230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lea4vy87d8.jpg?v=66159a48" />
 	</programme>
 	<programme channel="tbs" start="20251218230000 +0000" stop="20251219005500 +0000">
 		<title>ラヴィット！</title>
