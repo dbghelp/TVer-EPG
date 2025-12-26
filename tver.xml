@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20251219204500 +0000" stop="20251220100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lenauc1c8z.jpg?v=d96462bd" />
-	</programme>
 	<programme channel="ntv" start="20251220100000 +0000" stop="20251220115400 +0000">
 		<title>1億人の大質問!?笑ってコラえて！</title>
 		<desc>豪華ダーツ祭り2時間SP▼横山裕・市川團十郎・広瀬アリス・やす子が行く</desc>
@@ -484,11 +479,6 @@
 		<title>2026年新春開運スペシャル　霊峰 富士山のすべて ～春夏秋冬　世界を魅了する絶景と謎～</title>
 		<desc>岡田准一が富士登山！永久保存版   富士山のすべて</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4rercyd7.jpg?v=71d13a30" />
-	</programme>
-	<programme channel="tbs" start="20251219194500 +0000" stop="20251220095100 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le7xqwvx4z.jpg?v=f4abfbf1" />
 	</programme>
 	<programme channel="tbs" start="20251220095100 +0000" stop="20251220125600 +0000">
 		<title>芸人総選挙2025</title>
