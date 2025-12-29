@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20251222140000 +0000" stop="20251222193000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le0ip92119.jpg?v=80a18c91" />
-	</programme>
 	<programme channel="ntv" start="20251222193000 +0000" stop="20251223100000 +0000">
 		<title>配信休止</title>
 		<desc> </desc>
@@ -295,6 +290,11 @@
 		<desc>7弾 出た!史上最高額▼激レア陸も海も走る旧車▼下町の古着屋、大量のお宝</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le93miwfmd.jpg?v=f0f781a1" />
 	</programme>
+	<programme channel="ntv" start="20260105135400 +0000" stop="20260105193000 +0000">
+		<title>配信休止</title>
+		<desc> </desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leabjhz9ye.jpg?v=0678acfd" />
+	</programme>
 	<programme channel="ex" start="20251223090000 +0000" stop="20251223125400 +0000">
 		<title>池上彰のニュースそうだったのか!!</title>
 		<desc>【2025年のニュース総まとめ】1位になったのは〇〇…!?　1万人アンケートTOP50…池上彰がわかりやすく解説！</desc>
@@ -424,11 +424,6 @@
 		<title>報道ステーション</title>
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqcvpi15m.jpg?v=7d7d466a" />
-	</programme>
-	<programme channel="tbs" start="20251222142700 +0000" stop="20251222193000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/levzd01po2.jpg?v=280115a0" />
 	</programme>
 	<programme channel="tbs" start="20251222193000 +0000" stop="20251222230000 +0000">
 		<title>配信休止</title>
@@ -638,17 +633,17 @@
 	<programme channel="tbs" start="20251230193000 +0000" stop="20251231073000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le5w2iq4s2.jpg?v=d6e93a8b" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le5w2iq4s2.jpg?v=dbe9426a" />
 	</programme>
 	<programme channel="tbs" start="20251231073000 +0000" stop="20251231144500 +0000">
 		<title>大晦日オールスター体育祭</title>
 		<desc>＜配信は18時から＞八村塁＆世界陸上メダリスト！鈴木亮平・中村倫也ガチ対決</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leh2k3sbcz.jpg?v=57c03742" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leh2k3sbcz.jpg?v=58c038d5" />
 	</programme>
 	<programme channel="tbs" start="20251231144500 +0000" stop="20251231200000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leupcpdakb.jpg?v=c865222a" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leupcpdakb.jpg?v=c3651a4b" />
 	</programme>
 	<programme channel="tbs" start="20251231200000 +0000" stop="20251231233000 +0000">
 		<title>配信休止</title>
@@ -780,20 +775,10 @@
 		<desc>南米チリの砂漠で７年に１度だけ咲く！奇跡の花園を撮影する旅</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leuh81memy.jpg?v=845f086c" />
 	</programme>
-	<programme channel="tx" start="20251222135800 +0000" stop="20251222140600 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lepvpiexkb.jpg?v=ded06883" />
-	</programme>
-	<programme channel="tx" start="20251222140600 +0000" stop="20251222145500 +0000">
-		<title>シナントロープ</title>
-		<desc>シナントロープ　最終話「あの人は...とんでもないです」</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le7cc370sx.jpg?v=8601d487" />
-	</programme>
-	<programme channel="tx" start="20251222145500 +0000" stop="20251222190000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le74zv7onl.jpg?v=cea64da5" />
+	<programme channel="tbs" start="20260105135700 +0000" stop="20260105193000 +0000">
+		<title>配信休止</title>
+		<desc>配信休止</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leuv2qxnpm.jpg?v=6cb3f369" />
 	</programme>
 	<programme channel="tx" start="20251222190000 +0000" stop="20251223092500 +0000">
 		<title>配信準備中</title>
@@ -1165,20 +1150,20 @@
 		<desc>ＷＢＳ【２０２６年どうなる？日本と世界　池上彰さんが生解説！】</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le9bgwpupc.jpg?v=27f25b89" />
 	</programme>
-	<programme channel="cx" start="20251222135400 +0000" stop="20251222140000 +0000">
-		<title>配信番組のお知らせ</title>
-		<desc>🐶🐩🐕</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leplp95i1r.jpg?v=ac2e07b7" />
+	<programme channel="tx" start="20260105135800 +0000" stop="20260105140600 +0000">
+		<title>配信準備中</title>
+		<desc>配信準備中</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lezaq1jq21.jpg?v=5322ae01" />
 	</programme>
-	<programme channel="cx" start="20251222140000 +0000" stop="20251222143000 +0000">
-		<title>けるとめる</title>
-		<desc>▼トラジャが日本代表もMVPも勝手に表彰！松田元太が19歳天才イジる</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqtzkdqbz.jpg?v=6581cac7" />
+	<programme channel="tx" start="20260105140600 +0000" stop="20260105145500 +0000">
+		<title>バカリズムの１０文字ホラー</title>
+		<desc>バカリズムの１０文字ホラー　【深夜２３時の校内放送】をお題に縦型ショートドラマ</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/legmrl2oks.jpg?v=6d783e0d" />
 	</programme>
-	<programme channel="cx" start="20251222143000 +0000" stop="20251223100000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
+	<programme channel="tx" start="20260105145500 +0000" stop="20260105190000 +0000">
+		<title>配信準備中</title>
+		<desc>配信準備中</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leolg6wqet.jpg?v=ce354ca9" />
 	</programme>
 	<programme channel="cx" start="20251223100000 +0000" stop="20251223125400 +0000">
 		<title>地上波放送番組のお知らせ</title>
@@ -1395,6 +1380,11 @@
 		<desc>★“世界一”のミステリータウン暮らし大調査★</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/letc4uttxo.jpg?v=b7faa38d" />
 	</programme>
+	<programme channel="cx" start="20260101150000 +0000" stop="20260102092500 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
+	</programme>
 	<programme channel="cx" start="20260102092500 +0000" stop="20260102130000 +0000">
 		<title>爆笑レッドカーペット</title>
 		<desc>2026新春SP★のべ99組の芸人集結！最新ショートネタ大連発</desc>
@@ -1449,5 +1439,15 @@
 		<title>夫に間違いありません</title>
 		<desc>#1</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leof133jy9.jpg?v=0b1c740f" />
+	</programme>
+	<programme channel="cx" start="20260105140900 +0000" stop="20260105141500 +0000">
+		<title>配信番組のお知らせ</title>
+		<desc>🐶🐩🐕</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lewq0npv4o.jpg?v=67776505" />
+	</programme>
+	<programme channel="cx" start="20260105141500 +0000" stop="20260105144500 +0000">
+		<title>けるとめる</title>
+		<desc />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lezt0p4eim.jpg?v=23cd82f9" />
 	</programme>
 </tv>
