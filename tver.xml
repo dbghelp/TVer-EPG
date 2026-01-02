@@ -20,21 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20251226100000 +0000" stop="20251226125400 +0000">
-		<title>うわっ！ダマされた大賞</title>
-		<desc>【出川VS横浜流星】【浜辺美波生ドッキリ】【今夜復活タコゲーム】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lew354oumt.jpg?v=11421c45" />
-	</programme>
-	<programme channel="ntv" start="20251226125400 +0000" stop="20251226130000 +0000">
-		<title>お知らせ</title>
-		<desc>リアルタイム配信予定の番組は「日テレ系」タブよりご確認いただけます。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lewpfhmx7p.jpg?v=954cf1e8" />
-	</programme>
-	<programme channel="ntv" start="20251226130000 +0000" stop="20251226142400 +0000">
-		<title>せっかち勉強</title>
-		<desc>昭和平成令和アイドルSP!年末駆け込みで衝撃事実150ネタ爆速紹介</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leh9t41hpq.jpg?v=0753059b" />
-	</programme>
 	<programme channel="ntv" start="20251226142400 +0000" stop="20251226204500 +0000">
 		<title>配信休止</title>
 		<desc> </desc>
@@ -395,6 +380,11 @@
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqcvpi15m.jpg?v=7b7d4344" />
 	</programme>
+	<programme channel="ex" start="20260105141000 +0000" stop="20260106100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
+	</programme>
 	<programme channel="ex" start="20260106100000 +0000" stop="20260106110000 +0000">
 		<title>テレビ千鳥</title>
 		<desc>年始１発目の企画は１周だけバイキング!!取り方で隠れた人間性が露わに!!挑戦者は川島明・バカリズム・Travis松田・熊元プロレス。見守るのは華丸＆鈴木愛理＆とき宣坂井</desc>
@@ -435,10 +425,15 @@
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4w4n6p2o.jpg?v=094e8bac" />
 	</programme>
-	<programme channel="tbs" start="20251226120000 +0000" stop="20251226142400 +0000">
-		<title>福山雅治×大泉洋 超！！弾丸2人旅 in ニューヨーク</title>
-		<desc>福山雅治×大泉洋 超!!弾丸２人旅ｉｎニューヨーク</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lermhp58u4.jpg?v=239370fc" />
+	<programme channel="ex" start="20260109095000 +0000" stop="20260109111000 +0000">
+		<title>ザワつく！ 金曜日</title>
+		<desc>長嶋一茂＆石原良純＆高嶋ちさ子のなんでもややこしくしちゃう３人が好き勝手に喋りまくる！愉快！痛快！言いたい放題バラエティー！</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leudjjo1ne.jpg?v=afad7a72" />
+	</programme>
+	<programme channel="ex" start="20260109125400 +0000" stop="20260109141000 +0000">
+		<title>報道ステーション</title>
+		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lemia6jnwt.jpg?v=5d693d64" />
 	</programme>
 	<programme channel="tbs" start="20251226142400 +0000" stop="20251226194500 +0000">
 		<title>配信休止</title>
@@ -775,20 +770,15 @@
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lehfnt6u5k.jpg?v=99e38e0b" />
 	</programme>
-	<programme channel="tx" start="20251226095500 +0000" stop="20251226125400 +0000">
-		<title>ウソかホントかわからない やりすぎ都市伝説</title>
-		<desc>ウソかホントかわからない“やりすぎ都市伝説”２０２５冬▼身の周りに潜む話40連発</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/levh89x72h.jpg?v=bed8384d" />
+	<programme channel="tbs" start="20260109100000 +0000" stop="20260109115500 +0000">
+		<title>ハマダ歌謡祭★オオカミ少年</title>
+		<desc>芸能人が年の差ヒット曲バトル！ベテランVSルーキー！</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lej4zkimyx.jpg?v=7412fd78" />
 	</programme>
-	<programme channel="tx" start="20251226125400 +0000" stop="20251226130000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lewuox3wrp.jpg?v=828577dd" />
-	</programme>
-	<programme channel="tx" start="20251226130000 +0000" stop="20251226135400 +0000">
-		<title>ガイアの夜明け</title>
-		<desc>ガイアの夜明け【激安スーパーの大勝負！～トライアルの西友改革～】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leopkj6qni.jpg?v=c5083fb1" />
+	<programme channel="tbs" start="20260109115500 +0000" stop="20260109135400 +0000">
+		<title>知識の扉よ開け！ドア×ドア クエスト</title>
+		<desc>知識の扉よ開け！ドア×ドア　クエストＳＰ</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lep1c4c3l0.jpg?v=ae0d862c" />
 	</programme>
 	<programme channel="tx" start="20251226135400 +0000" stop="20251226190000 +0000">
 		<title>配信準備中</title>
@@ -1180,10 +1170,25 @@
 		<desc>BEYBLADE　X　「プロブレーダー」</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lezbcoy1dj.jpg?v=6ad7c20c" />
 	</programme>
-	<programme channel="cx" start="20251226100000 +0000" stop="20251226135200 +0000">
-		<title>地上波放送番組のお知らせ</title>
-		<desc>「昭和100年SP　国民的ヒットの祭典！ 国民が熱狂した瞬間 伝説ドラマCM映像グランプリ」は地上波放送でお楽しみください！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lezf9dyztt.jpg?v=3ca1f39b" />
+	<programme channel="tx" start="20260109095500 +0000" stop="20260109102500 +0000">
+		<title>ポケットモンスター</title>
+		<desc>ポケットモンスター【戦慄！船上のキビキビパニック】</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le91p9e22z.jpg?v=9a4b9ed8" />
+	</programme>
+	<programme channel="tx" start="20260109102500 +0000" stop="20260109125400 +0000">
+		<title>旅バラ</title>
+		<desc>路線バスで鬼ごっこ！　～バス旅マスター太川から逃げ切れ～冬の静岡決戦！</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le9yhwhs23.jpg?v=5629607f" />
+	</programme>
+	<programme channel="tx" start="20260109125400 +0000" stop="20260109130000 +0000">
+		<title>配信準備中</title>
+		<desc>配信準備中</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le1echtzhs.jpg?v=161f2a24" />
+	</programme>
+	<programme channel="tx" start="20260109130000 +0000" stop="20260109135400 +0000">
+		<title>ガイアの夜明け</title>
+		<desc>ガイアの夜明け【あの主人公はいまSP　激変！インバウンド新時代】</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le1rofxv1q.jpg?v=5f7ddb00" />
 	</programme>
 	<programme channel="cx" start="20251226135200 +0000" stop="20251226140000 +0000">
 		<title>配信番組のお知らせ</title>
@@ -1479,5 +1484,15 @@
 		<title>トークィーンズ</title>
 		<desc> </desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leziek0j4q.jpg?v=3641a549" />
+	</programme>
+	<programme channel="cx" start="20260109100000 +0000" stop="20260109120000 +0000">
+		<title>ウワサのお客さま</title>
+		<desc>＜配信は20時から＞</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lezl8ybuol.jpg?v=cf84ae6d" />
+	</programme>
+	<programme channel="cx" start="20260109120000 +0000" stop="20260109135200 +0000">
+		<title>最強パワースポット旅</title>
+		<desc>▼橋本環奈＆宮川大輔！伊勢神宮に柳沢慎吾！富士山にアレン様</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lefs4b4ehe.jpg?v=f2c24d86" />
 	</programme>
 </tv>
