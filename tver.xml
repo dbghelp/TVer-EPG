@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20251227135400 +0000" stop="20251227202500 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/legfjlgxhs.jpg?v=f977249f" />
-	</programme>
 	<programme channel="ntv" start="20251227202500 +0000" stop="20251228095500 +0000">
 		<title>配信休止</title>
 		<desc> </desc>
@@ -460,6 +455,16 @@
 		<desc>「ニュースを丁寧に、そして鋭く」。高島彩が土曜夜に最新ニュースをＬＩＶＥでお届け！スタジオで徹底解説＆１週間の話題を「独自取材」で！</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lem1c4y5ab.jpg?v=77920256" />
 	</programme>
+	<programme channel="ex" start="20260110133200 +0000" stop="20260110135400 +0000">
+		<title>出川一茂ホラン☆フシギの会</title>
+		<desc>芸能界を代表するアンコントロールな２人“出川哲朗”＆“長嶋一茂”そして日本一おじさんタレントの扱いが上手い“ホラン千秋”今までになかったフシギＭＣトリオの番組！</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lenj5yz5ez.jpg?v=2b81e032" />
+	</programme>
+	<programme channel="ex" start="20260110140000 +0000" stop="20260110143000 +0000">
+		<title>ぜんぶ、あなたのためだから</title>
+		<desc>藤井流星×七五三掛龍也 結婚披露宴で、最愛の妻のシャンパンに毒を仕込んだのは誰だ？ 【登場人物全員、容疑者】－超攻撃型ラブサスペンス、開幕－！</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leok5jp8wa.jpg?v=36171a6f" />
+	</programme>
 	<programme channel="tbs" start="20251227190000 +0000" stop="20251228080000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
@@ -648,32 +653,32 @@
 	<programme channel="tbs" start="20260104193000 +0000" stop="20260104230000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le2ae0rbdn.jpg?v=0bd435f4" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le2ae0rbdn.jpg?v=0ad43461" />
 	</programme>
 	<programme channel="tbs" start="20260104230000 +0000" stop="20260105005500 +0000">
 		<title>ラヴィット！</title>
 		<desc>【日本でいちばん明るい朝番組が今年も始動！巨大（秘）で初笑い！】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lemvizpdqi.jpg?v=07f86570" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lemvizpdqi.jpg?v=0ef87075" />
 	</programme>
 	<programme channel="tbs" start="20260105005500 +0000" stop="20260105100000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leffg6sfeq.jpg?v=5ee850fc" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leffg6sfeq.jpg?v=5de84f69" />
 	</programme>
 	<programme channel="tbs" start="20260105100000 +0000" stop="20260105125400 +0000">
 		<title>巷のウワサ大検証！それって実際どうなの会</title>
 		<desc>【お餅は本当に太るのか？正月のギモン大検証SP】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lew99565v5.jpg?v=cde22fe1" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lew99565v5.jpg?v=cce22e4e" />
 	</programme>
 	<programme channel="tbs" start="20260105125400 +0000" stop="20260105135700 +0000">
 		<title>クレイジージャーニー</title>
 		<desc>南米チリの砂漠で７年に１度だけ咲く！奇跡の花園を撮影する旅</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leuh81memy.jpg?v=845f086c" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leuh81memy.jpg?v=835f06d9" />
 	</programme>
 	<programme channel="tbs" start="20260105135700 +0000" stop="20260105193000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leuv2qxnpm.jpg?v=6cb3f369" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leuv2qxnpm.jpg?v=6db3f4fc" />
 	</programme>
 	<programme channel="tbs" start="20260105193000 +0000" stop="20260105230000 +0000">
 		<title>配信休止</title>
@@ -809,11 +814,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lewxoqsuvo.jpg?v=1bbae1ee" />
-	</programme>
-	<programme channel="tx" start="20251227131000 +0000" stop="20251227190000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4d8s8bm8.jpg?v=64b68cc8" />
 	</programme>
 	<programme channel="tx" start="20251227190000 +0000" stop="20251228084500 +0000">
 		<title>配信準備中</title>
@@ -1220,16 +1220,6 @@
 		<desc>配信準備中</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lebyawc5qd.jpg?v=d92c83be" />
 	</programme>
-	<programme channel="cx" start="20251227144000 +0000" stop="20251227151000 +0000">
-		<title>さんまのお笑い向上委員会</title>
-		<desc>▼委員会的流行語大賞発表！総勢202人の爆笑シーン連発</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le2gk191sm.jpg?v=5677f3f6" />
-	</programme>
-	<programme channel="cx" start="20251227151000 +0000" stop="20251228100000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
-	</programme>
 	<programme channel="cx" start="20251228100000 +0000" stop="20251228140900 +0000">
 		<title>千鳥の鬼レンチャン</title>
 		<desc>STARTO・青学女子参戦！４×200mリレー◆さよなら津田</desc>
@@ -1470,6 +1460,11 @@
 		<desc>新春やべっち寿司SP〜前編〜</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leoak8g84h.jpg?v=819a3f49" />
 	</programme>
+	<programme channel="cx" start="20260107143000 +0000" stop="20260108100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
+	</programme>
 	<programme channel="cx" start="20260108100000 +0000" stop="20260108125400 +0000">
 		<title>ドリフに大挑戦</title>
 		<desc>馬力全開！小学校にも出張しちゃいましたSP</desc>
@@ -1524,5 +1519,15 @@
 		<title>逃走中〜トリプルミッションインポッシブル〜</title>
 		<desc> </desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lerx6oqtuc.jpg?v=80d26899" />
+	</programme>
+	<programme channel="cx" start="20260110141000 +0000" stop="20260110144000 +0000">
+		<title>さんまのお笑い向上委員会</title>
+		<desc> </desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lesfmal4e7.jpg?v=73f6ffcb" />
+	</programme>
+	<programme channel="cx" start="20260110144000 +0000" stop="20260110153500 +0000">
+		<title>横浜ネイバーズ Season1</title>
+		<desc>第1話</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leyi0r4u7s.jpg?v=9fa5d31c" />
 	</programme>
 </tv>
