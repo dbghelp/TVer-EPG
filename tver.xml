@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20251227100000 +0000" stop="20251227135400 +0000">
-		<title>嗚呼!!みんなの動物園</title>
-		<desc>4時間SP▽池崎×保護猫ついに最終回!有吉×赤ちゃん犬</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lenukqyihw.jpg?v=57fd9ce4" />
-	</programme>
 	<programme channel="ntv" start="20251227135400 +0000" stop="20251227202500 +0000">
 		<title>配信休止</title>
 		<desc> </desc>
@@ -295,16 +290,6 @@
 		<desc> </desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lebbxml8yv.jpg?v=4e42c8ab" />
 	</programme>
-	<programme channel="ex" start="20251227130000 +0000" stop="20251227140000 +0000">
-		<title>サタデーステーション</title>
-		<desc>高島彩▽年末年始“大雪”警戒…関越道の事故影響続く▽三島の工場15人刺傷…続報▽世田谷一家殺害から25年…ＤＮＡ捜査の現状と課題▽最大9連休も物価高の影…どう過ごす</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le1klot8kc.jpg?v=f5fa0c3d" />
-	</programme>
-	<programme channel="ex" start="20251227140000 +0000" stop="20251228090000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
-	</programme>
 	<programme channel="ex" start="20251228090000 +0000" stop="20251228115600 +0000">
 		<title>ポツンと一軒家</title>
 		<desc>２０２５年の年末を飾る『ポツンと一軒家』は、放送３００回記念！と題して３時間スペシャルで岐阜と大分、２軒のポツンと一軒家をお届けする！</desc>
@@ -425,6 +410,11 @@
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le488cse4t.jpg?v=34d1ea83" />
 	</programme>
+	<programme channel="ex" start="20260106141000 +0000" stop="20260107120000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
+	</programme>
 	<programme channel="ex" start="20260107120000 +0000" stop="20260107125400 +0000">
 		<title>相棒 season24</title>
 		<desc>『老人と寧々』 あの女子大生探偵が再登場！特命係vsミス研・頭脳集団!! “お宝”をめぐって右京が暴走…!?</desc>
@@ -465,10 +455,10 @@
 		<desc>企画・主演、松田龍平。田舎の温泉街で、【探偵】兼【発明家】がヘンテコ依頼をトンデモ発明品で解決!?ゆるさ満載、時に笑えて涙する“ほっこりミステリー”今夜スタート！</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/led7fyk2y9.jpg?v=98733cc8" />
 	</programme>
-	<programme channel="tbs" start="20251227115400 +0000" stop="20251227190000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/let7wxwfa3.jpg?v=fa1a1af1" />
+	<programme channel="ex" start="20260110115400 +0000" stop="20260110130400 +0000">
+		<title>サタデーステーション</title>
+		<desc>「ニュースを丁寧に、そして鋭く」。高島彩が土曜夜に最新ニュースをＬＩＶＥでお届け！スタジオで徹底解説＆１週間の話題を「独自取材」で！</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lem1c4y5ab.jpg?v=77920256" />
 	</programme>
 	<programme channel="tbs" start="20251227190000 +0000" stop="20251228080000 +0000">
 		<title>配信休止</title>
@@ -643,7 +633,7 @@
 	<programme channel="tbs" start="20260104143000 +0000" stop="20260104150000 +0000">
 		<title>情熱大陸</title>
 		<desc>【いとうあさこ/お笑いタレント▽なぜ、愛される?好感度の後ろにある誠実さ】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lew9pkrrvv.jpg?v=863a2574" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lew9pkrrvv.jpg?v=873a2707" />
 	</programme>
 	<programme channel="tbs" start="20260104150000 +0000" stop="20260104151200 +0000">
 		<title>お知らせ</title>
@@ -804,6 +794,21 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lesj0xgr8c.jpg?v=1ced0007" />
+	</programme>
+	<programme channel="tbs" start="20260110095100 +0000" stop="20260110115400 +0000">
+		<title>熱狂マニアさん！</title>
+		<desc>＜配信は19時から＞正月太り解消！最強腸活鍋だけダイエット１０日間で何キロ痩せる？</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leho8745c5.jpg?v=d1f37b85" />
+	</programme>
+	<programme channel="tbs" start="20260110115400 +0000" stop="20260110125600 +0000">
+		<title>いくらかわかる金？</title>
+		<desc>餃子の王将で満腹！寝たら賞金没収・箱根の極上リラクゼーション旅</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le35t7kycw.jpg?v=4c5896f4" />
+	</programme>
+	<programme channel="tbs" start="20260110125600 +0000" stop="20260110194000 +0000">
+		<title>配信休止</title>
+		<desc>配信休止</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lewxoqsuvo.jpg?v=1bbae1ee" />
 	</programme>
 	<programme channel="tx" start="20251227131000 +0000" stop="20251227190000 +0000">
 		<title>配信準備中</title>
@@ -1215,11 +1220,6 @@
 		<desc>配信準備中</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lebyawc5qd.jpg?v=d92c83be" />
 	</programme>
-	<programme channel="cx" start="20251227120000 +0000" stop="20251227144000 +0000">
-		<title>地上波放送番組のお知らせ</title>
-		<desc>映画「マスカレード・ナイト」は地上波放送でお楽しみください！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lezcz4daqd.jpg?v=5546f124" />
-	</programme>
 	<programme channel="cx" start="20251227144000 +0000" stop="20251227151000 +0000">
 		<title>さんまのお笑い向上委員会</title>
 		<desc>▼委員会的流行語大賞発表！総勢202人の爆笑シーン連発</desc>
@@ -1514,5 +1514,15 @@
 		<title>全力！脱力タイムズ</title>
 		<desc>初登場やす子＆岡崎紗絵、お前何も変わってない！？の巻</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lef4oaojz6.jpg?v=440bf9f1" />
+	</programme>
+	<programme channel="cx" start="20260110100000 +0000" stop="20260110120000 +0000">
+		<title>芸能人が本気で考えた！ドッキリGP</title>
+		<desc>２時間SP</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/les8bly3jy.jpg?v=1d520989" />
+	</programme>
+	<programme channel="cx" start="20260110120000 +0000" stop="20260110141000 +0000">
+		<title>逃走中〜トリプルミッションインポッシブル〜</title>
+		<desc> </desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lerx6oqtuc.jpg?v=80d26899" />
 	</programme>
 </tv>
