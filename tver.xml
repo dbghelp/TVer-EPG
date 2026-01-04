@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20251228145500 +0000" stop="20251228210000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leihsdoy0y.jpg?v=f1ef5467" />
-	</programme>
 	<programme channel="ntv" start="20251228210000 +0000" stop="20251229093000 +0000">
 		<title>配信休止</title>
 		<desc> </desc>
@@ -260,16 +255,6 @@
 		<desc> </desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lebbxml8yv.jpg?v=4e42c8ab" />
 	</programme>
-	<programme channel="ex" start="20251228133000 +0000" stop="20251228143000 +0000">
-		<title>M-1グランプリ2025 アナザーストーリー</title>
-		<desc>新王者たくろう完全密着！解散の危機を乗り越え“軟弱の星”が夢をつかむまで</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le2mbc4gze.jpg?v=9c80d580" />
-	</programme>
-	<programme channel="ex" start="20251228143000 +0000" stop="20251229130000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
-	</programme>
 	<programme channel="ex" start="20251229130000 +0000" stop="20251229140000 +0000">
 		<title>フリースタイルロケバトル</title>
 		<desc>見取り図×ニューヨーク！主導権を奪い合う新型ロケ番組</desc>
@@ -445,20 +430,10 @@
 		<desc>日曜夜、有働由美子が視聴者をおもてなし！ニュースのナゼを独自視点で徹底深掘り▽千々岩官邸キャップ解説▽週末スポーツを超速報！▽片岡信和“ピアノ弾き語り天気”</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lei0ks2shf.jpg?v=28d0ff24" />
 	</programme>
-	<programme channel="tbs" start="20251228140500 +0000" stop="20251228143500 +0000">
-		<title>情熱大陸</title>
-		<desc>【赤坂竜太郎／養殖真鯛生産者▽世界のシェフも求める、至高の養殖真鯛】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lec402dxkd.jpg?v=bd6cf706" />
-	</programme>
-	<programme channel="tbs" start="20251228143500 +0000" stop="20251228144700 +0000">
-		<title>お知らせ</title>
-		<desc>リアルタイム配信予定の番組は「TBS系」タブよりご確認いただけます。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leyamws37y.jpg?v=616de8c7" />
-	</programme>
-	<programme channel="tbs" start="20251228144700 +0000" stop="20251228193000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/letgglg7r1.jpg?v=5b547150" />
+	<programme channel="ex" start="20260111131500 +0000" stop="20260111140900 +0000">
+		<title>海上ヒッチハイク 極上海の幸求めて日本海北上460キロ</title>
+		<desc>船をヒッチハイクしながら、ありとあらゆる港に立ち寄り、港自慢の海の幸を喰らう！８２歳漁師、深夜のブリ漁!?本ズワイガニ＆マグロの贅沢すぎるフルコース!?</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le97h2m0wl.jpg?v=fd80ec6a" />
 	</programme>
 	<programme channel="tbs" start="20251228193000 +0000" stop="20251229085500 +0000">
 		<title>配信休止</title>
@@ -648,32 +623,32 @@
 	<programme channel="tbs" start="20260105193000 +0000" stop="20260105230000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le7qcg1rab.jpg?v=dade20d8" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le7qcg1rab.jpg?v=e1de2bdd" />
 	</programme>
 	<programme channel="tbs" start="20260105230000 +0000" stop="20260106005500 +0000">
 		<title>ラヴィット！</title>
 		<desc>日本でいちばん明るい朝番組</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le1z8ik0r5.jpg?v=c77bbd10" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le1z8ik0r5.jpg?v=ce7bc815" />
 	</programme>
 	<programme channel="tbs" start="20260106005500 +0000" stop="20260106100000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4rk1rcxq.jpg?v=1a1cee04" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4rk1rcxq.jpg?v=191cec71" />
 	</programme>
 	<programme channel="tbs" start="20260106100000 +0000" stop="20260106130000 +0000">
 		<title>THE神業チャレンジ</title>
 		<desc>ヒカキン！クレーン電撃参戦&amp;ジェシーVS新春神弓&amp;五輪美女</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lef7e6ov8d.jpg?v=fe1220a2" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lef7e6ov8d.jpg?v=ff122235" />
 	</programme>
 	<programme channel="tbs" start="20260106130000 +0000" stop="20260106140000 +0000">
 		<title>怒りん坊将軍</title>
 		<desc>加藤浩次＆菊池風磨がモメる男と女＆AI時代のモヤモヤ徹底解消SP！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leu10vemaf.jpg?v=ebd23b8a" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leu10vemaf.jpg?v=ecd23d1d" />
 	</programme>
 	<programme channel="tbs" start="20260106140000 +0000" stop="20260106193000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leq3zxg0s8.jpg?v=60d7d10c" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leq3zxg0s8.jpg?v=5fd7cf79" />
 	</programme>
 	<programme channel="tbs" start="20260106193000 +0000" stop="20260106230000 +0000">
 		<title>配信休止</title>
@@ -805,15 +780,20 @@
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lefrr2xh9s.jpg?v=03e92057" />
 	</programme>
-	<programme channel="tx" start="20251228131000 +0000" stop="20251228160000 +0000">
-		<title>WBS『ニッポン経済”元気な現場”見に行く！SP』</title>
-		<desc>ＷＢＳ年末３時間生放送「ニッポン経済“元気な現場”見に行く！ＳＰ」</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le0d9318rt.jpg?v=bf1dd3e5" />
+	<programme channel="tbs" start="20260111141800 +0000" stop="20260111143000 +0000">
+		<title>お知らせ</title>
+		<desc>リアルタイム配信予定の番組は「TBS系」タブよりご確認いただけます。</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lebz3otr2y.jpg?v=4ae90c8f" />
 	</programme>
-	<programme channel="tx" start="20251228160000 +0000" stop="20251228190000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leuso95whx.jpg?v=9e64b736" />
+	<programme channel="tbs" start="20260111143000 +0000" stop="20260111150000 +0000">
+		<title>情熱大陸</title>
+		<desc>情熱大陸</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lerqsl598m.jpg?v=d849cda9" />
+	</programme>
+	<programme channel="tbs" start="20260111150000 +0000" stop="20260111193000 +0000">
+		<title>配信休止</title>
+		<desc>配信休止</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/letqv1n854.jpg?v=fac1187b" />
 	</programme>
 	<programme channel="tx" start="20251228190000 +0000" stop="20251229085500 +0000">
 		<title>配信準備中</title>
@@ -1460,6 +1440,11 @@
 		<desc> </desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leziek0j4q.jpg?v=3641a549" />
 	</programme>
+	<programme channel="cx" start="20260108144500 +0000" stop="20260109100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
+	</programme>
 	<programme channel="cx" start="20260109100000 +0000" stop="20260109120000 +0000">
 		<title>ウワサのお客さま</title>
 		<desc>＜配信は20時から＞</desc>
@@ -1498,7 +1483,7 @@
 	<programme channel="cx" start="20260110144000 +0000" stop="20260110153500 +0000">
 		<title>横浜ネイバーズ Season1</title>
 		<desc>第1話</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leyi0r4u7s.jpg?v=9fa5d31c" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leyi0r4u7s.jpg?v=a0a5d4af" />
 	</programme>
 	<programme channel="cx" start="20260111100000 +0000" stop="20260111115400 +0000">
 		<title>千鳥の鬼レンチャン</title>
@@ -1509,5 +1494,15 @@
 		<title>地上波放送番組のお知らせ</title>
 		<desc>「Mr.サンデー」は地上波放送でお楽しみください！</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le9gby8gbq.jpg?v=2c517763" />
+	</programme>
+	<programme channel="cx" start="20260111140900 +0000" stop="20260111141500 +0000">
+		<title>配信番組のお知らせ</title>
+		<desc>🐶🐩🐕</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejxf3omb7.jpg?v=55c432f9" />
+	</programme>
+	<programme channel="cx" start="20260111141500 +0000" stop="20260111144500 +0000">
+		<title>嘘が嘘で嘘は嘘だ</title>
+		<desc>第1話 メリークリスマス、嘘つきたち</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lectn7jzgj.jpg?v=f19f160a" />
 	</programme>
 </tv>
