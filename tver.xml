@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20251228210000 +0000" stop="20251229093000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lea1fifcqp.jpg?v=4dad0f77" />
-	</programme>
 	<programme channel="ntv" start="20251229093000 +0000" stop="20251229135400 +0000">
 		<title>発表！今年イチバン聴いた歌～年間ミュージックアワード2025～</title>
 		<desc>HANAクリーピーAdo</desc>
@@ -434,11 +429,6 @@
 		<title>海上ヒッチハイク 極上海の幸求めて日本海北上460キロ</title>
 		<desc>船をヒッチハイクしながら、ありとあらゆる港に立ち寄り、港自慢の海の幸を喰らう！８２歳漁師、深夜のブリ漁!?本ズワイガニ＆マグロの贅沢すぎるフルコース!?</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le97h2m0wl.jpg?v=fd80ec6a" />
-	</programme>
-	<programme channel="tbs" start="20251228193000 +0000" stop="20251229085500 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le2nuknk0h.jpg?v=5a720a4a" />
 	</programme>
 	<programme channel="tbs" start="20251229085500 +0000" stop="20251229123000 +0000">
 		<title>ザ・イロモネア</title>
