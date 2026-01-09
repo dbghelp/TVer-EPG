@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260102205000 +0000" stop="20260103090000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le8stz77d6.jpg?v=1fe0e933" />
-	</programme>
 	<programme channel="ntv" start="20260103090000 +0000" stop="20260103120000 +0000">
 		<title>1億人の大質問!?笑ってコラえて！</title>
 		<desc>新春3時間SP明石家さんま襲来!所とダーツ旅&amp;年に1度の最強村人決定</desc>
@@ -178,7 +173,7 @@
 	<programme channel="ntv" start="20260110100000 +0000" stop="20260110115400 +0000">
 		<title>歌唱王</title>
 		<desc>★優勝者を秋元康がプロデュース!今夜スターが誕生</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lex976m6rq.jpg?v=ecf9a9d2" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lex976m6rq.jpg?v=edf9ab65" />
 	</programme>
 	<programme channel="ntv" start="20260110115400 +0000" stop="20260110120000 +0000">
 		<title>お知らせ</title>
@@ -635,11 +630,6 @@
 		<desc>企画＆主演・松田龍平！【探偵】兼【発明家】がヘンテコ依頼をトンデモ発明品で解決!?話題のゆるふわ≪ほっこりミステリー≫第２話の依頼人は…≪地底人≫を探す小学生!?</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leupwlr1yn.jpg?v=c72d8d7f" />
 	</programme>
-	<programme channel="tbs" start="20260102194500 +0000" stop="20260103080000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leibocs7z2.jpg?v=7d4d3ad8" />
-	</programme>
 	<programme channel="tbs" start="20260103080000 +0000" stop="20260103120000 +0000">
 		<title>ニンゲン観察バラエティ モニタリング</title>
 		<desc>＜配信は18時から＞新春SP★福山雅治＆大泉洋が壮大なサプライズ！</desc>
@@ -1014,11 +1004,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lextot18o6.jpg?v=79a3b459" />
-	</programme>
-	<programme channel="tx" start="20260102220000 +0000" stop="20260103000000 +0000">
-		<title>経済・国際情勢・先端技術をビックリ予想</title>
-		<desc>テレ東は”知の駅伝”～2026年政治・経済・ビジネスをビックリ予想～</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejyplnwu2.jpg?v=2d8bdb1e" />
 	</programme>
 	<programme channel="tx" start="20260103000000 +0000" stop="20260103010000 +0000">
 		<title>円卓コンフィデンシャル</title>
