@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260103120000 +0000" stop="20260103135400 +0000">
-		<title>第102回箱根駅伝</title>
-		<desc>新山の神!青学大・黒田朝日 異次元5区区間新の裏側!第102回箱根駅伝の中継には映らなかった真実とは?優勝校出演に名物「監督カメラ」即日公開!SPゲスト大泉洋</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le0jxoadlm.jpg?v=0b13e87d" />
-	</programme>
 	<programme channel="ntv" start="20260103135400 +0000" stop="20260103202500 +0000">
 		<title>配信休止</title>
 		<desc> </desc>
@@ -615,11 +610,6 @@
 		<desc>企画＆主演・松田龍平！【探偵】兼【発明家】がヘンテコ依頼をトンデモ発明品で解決!?話題のゆるふわ≪ほっこりミステリー≫第２話の依頼人は…≪地底人≫を探す小学生!?</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leupwlr1yn.jpg?v=c72d8d7f" />
 	</programme>
-	<programme channel="tbs" start="20260103120000 +0000" stop="20260103141500 +0000">
-		<title>マツコの知らない世界</title>
-		<desc>新春SPリアル国宝・坂東玉三郎が語る歌舞伎女形▼鉄道好き新年会</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lep4utulz7.jpg?v=974dc267" />
-	</programme>
 	<programme channel="tbs" start="20260103141500 +0000" stop="20260103151500 +0000">
 		<title>サンド屋台</title>
 		<desc>面白トークで絶品グルメＧＥＴ！グルメ射的で中村倫也＆めるるも大興奮</desc>
@@ -1019,11 +1009,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lextot18o6.jpg?v=79a3b459" />
-	</programme>
-	<programme channel="tx" start="20260103130000 +0000" stop="20260103143000 +0000">
-		<title>風磨とチョコプラのふちど～るマップ</title>
-		<desc>風磨とチョコプラのふちど～るマップ【気になる場所の“周り＝ふち”に何がある？】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leii0krv4c.jpg?v=57b9f068" />
 	</programme>
 	<programme channel="tx" start="20260103143000 +0000" stop="20260103154500 +0000">
 		<title>配信準備中</title>
@@ -1490,16 +1475,6 @@
 		<desc>配信準備中</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le2tx9s14a.jpg?v=9969cb30" />
 	</programme>
-	<programme channel="cx" start="20260103123000 +0000" stop="20260103144000 +0000">
-		<title>１１９エマージェンシーコール</title>
-		<desc>司令課３係VSシリーズ最大の試練！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ledox8yub0.jpg?v=bbe1d654" />
-	</programme>
-	<programme channel="cx" start="20260103144000 +0000" stop="20260104100000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
-	</programme>
 	<programme channel="cx" start="20260104100000 +0000" stop="20260104120000 +0000">
 		<title>逃走中〜最速スプリンターと開運ダルマ〜</title>
 		<desc>★世陸選手VSハンター宮世＆紅白歌手！</desc>
@@ -1849,5 +1824,10 @@
 		<title>全力！脱力タイムズ</title>
 		<desc>銀シャリ橋本＆日向坂松田、コレは気持ちいいな〜！？の巻</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lewme38wdz.jpg?v=03e9d161" />
+	</programme>
+	<programme channel="cx" start="20260117100000 +0000" stop="20260117120000 +0000">
+		<title>新しいカギ</title>
+		<desc>2HSPカギダンス感動の舞台裏！橋本環奈向井理宮世琉弥金沢グルメ争奪</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqfrl1g68.jpg?v=d62aa169" />
 	</programme>
 </tv>
