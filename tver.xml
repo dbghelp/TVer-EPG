@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260104193000 +0000" stop="20260105100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejoqtasx2.jpg?v=77fef84b" />
-	</programme>
 	<programme channel="ntv" start="20260105100000 +0000" stop="20260105120000 +0000">
 		<title>世界まる見え！テレビ特捜部</title>
 		<desc>篠原涼子&amp;手越祐也絶叫!視聴者参加の総額ウン百万お年玉クイズSP</desc>
@@ -559,11 +554,6 @@
 		<title>探偵さん、リュック開いてますよ</title>
 		<desc>企画＆主演・松田龍平！【探偵】兼【発明家】がヘンテコ依頼をトンデモ発明品で解決!?話題のゆるふわ≪ほっこりミステリー≫第２話の依頼人は…≪地底人≫を探す小学生!?</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leupwlr1yn.jpg?v=c72d8d7f" />
-	</programme>
-	<programme channel="tbs" start="20260104193000 +0000" stop="20260104230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le2ae0rbdn.jpg?v=09d432ce" />
 	</programme>
 	<programme channel="tbs" start="20260104230000 +0000" stop="20260105005500 +0000">
 		<title>ラヴィット！</title>
