@@ -20,16 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260104125400 +0000" stop="20260104130000 +0000">
-		<title>お知らせ</title>
-		<desc>リアルタイム配信予定の番組は「日テレ系」タブよりご確認いただけます。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lezjriznfi.jpg?v=0e81d7eb" />
-	</programme>
-	<programme channel="ntv" start="20260104130000 +0000" stop="20260104133000 +0000">
-		<title>おしゃれクリップ</title>
-		<desc>ゲスト 観月ありさ</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lemndl1ux1.jpg?v=4cb16b53" />
-	</programme>
 	<programme channel="ntv" start="20260104133000 +0000" stop="20260104142500 +0000">
 		<title>価値観可視化バラエティ　ジブンライン</title>
 		<desc>人気芸能人とあなたの価値観が丸裸に…</desc>
@@ -365,16 +355,6 @@
 		<desc> </desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le1sdn7uel.jpg?v=fa9bf9cf" />
 	</programme>
-	<programme channel="ex" start="20260104115600 +0000" stop="20260104131500 +0000">
-		<title>有働Times</title>
-		<desc>米国がベネズエラ攻撃“マドゥロ大統領を拘束”作戦の一部始終‥トランプ氏の狙いは▽「政権移行までベネズエラ運営」石油利権に照準も▽国際法違反では？世界中で非難の声</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lepfrftz02.jpg?v=18209e02" />
-	</programme>
-	<programme channel="ex" start="20260104131500 +0000" stop="20260105100000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
-	</programme>
 	<programme channel="ex" start="20260105100000 +0000" stop="20260105125400 +0000">
 		<title>時代超越！タイムレスランキング</title>
 		<desc>日本人の好きはコレだ！好きな戦国武将ベスト２０</desc>
@@ -528,7 +508,7 @@
 	<programme channel="ex" start="20260112093000 +0000" stop="20260112125400 +0000">
 		<title>炎のチャレンジャー　これができたら1000万円!!</title>
 		<desc>25年ぶりの復活！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leozzh7xoo.jpg?v=52225f1c" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leozzh7xoo.jpg?v=532260af" />
 	</programme>
 	<programme channel="ex" start="20260112125400 +0000" stop="20260112141000 +0000">
 		<title>報道ステーション</title>
@@ -589,11 +569,6 @@
 		<title>探偵さん、リュック開いてますよ</title>
 		<desc>企画＆主演・松田龍平！【探偵】兼【発明家】がヘンテコ依頼をトンデモ発明品で解決!?話題のゆるふわ≪ほっこりミステリー≫第２話の依頼人は…≪地底人≫を探す小学生!?</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leupwlr1yn.jpg?v=c72d8d7f" />
-	</programme>
-	<programme channel="tbs" start="20260104120000 +0000" stop="20260104143000 +0000">
-		<title>スペシャルドラマ「新年早々 不適切にもほどがある！～真面目な話、しちゃダメですか？～」</title>
-		<desc>スペシャルドラマ・新年早々 不適切にもほどがある！真面目な話、しちゃダメですか？</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leo6i9i0ua.jpg?v=4c7a2a32" />
 	</programme>
 	<programme channel="tbs" start="20260104143000 +0000" stop="20260104150000 +0000">
 		<title>情熱大陸</title>
@@ -1415,16 +1390,6 @@
 		<desc>配信準備中</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le2tx9s14a.jpg?v=9969cb30" />
 	</programme>
-	<programme channel="cx" start="20260104100000 +0000" stop="20260104120000 +0000">
-		<title>逃走中〜最速スプリンターと開運ダルマ〜</title>
-		<desc>★世陸選手VSハンター宮世＆紅白歌手！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lekkwgiftn.jpg?v=58d35b51" />
-	</programme>
-	<programme channel="cx" start="20260104120000 +0000" stop="20260104143900 +0000">
-		<title>うちの弁護士はまたしても手がかかる</title>
-		<desc>▼新バディはタレント弁護士▼ムロツヨシ主演</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lecegj6l9g.jpg?v=f502f2e5" />
-	</programme>
 	<programme channel="cx" start="20260104143900 +0000" stop="20260104144500 +0000">
 		<title>配信番組のお知らせ</title>
 		<desc>🐶🐩🐕</desc>
@@ -1784,5 +1749,15 @@
 		<title>横浜ネイバーズ Season1</title>
 		<desc>第2話</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le2bww1hk8.jpg?v=56fce32d" />
+	</programme>
+	<programme channel="cx" start="20260118100000 +0000" stop="20260118115400 +0000">
+		<title>地上波放送番組のお知らせ</title>
+		<desc>「ジャンクSPORTSプロ野球スター集結！SB vs 阪神再び！トーク日本一決定SP」は地上波放送でお楽しみください！</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lel1mftm8l.jpg?v=454d8f68" />
+	</programme>
+	<programme channel="cx" start="20260118115400 +0000" stop="20260118140900 +0000">
+		<title>地上波放送番組のお知らせ</title>
+		<desc>「Mr.サンデー」は地上波放送でお楽しみください！</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4n1kvpgx.jpg?v=4b24216c" />
 	</programme>
 </tv>
