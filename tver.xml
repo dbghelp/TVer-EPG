@@ -20,16 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260105100000 +0000" stop="20260105120000 +0000">
-		<title>世界まる見え！テレビ特捜部</title>
-		<desc>篠原涼子&amp;手越祐也絶叫!視聴者参加の総額ウン百万お年玉クイズSP</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leh4tni32q.jpg?v=e7408487" />
-	</programme>
-	<programme channel="ntv" start="20260105120000 +0000" stop="20260105135400 +0000">
-		<title>一攫千金！宝の山</title>
-		<desc>7弾 出た!史上最高額▼激レア陸も海も走る旧車▼下町の古着屋、大量のお宝</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le93miwfmd.jpg?v=78a898de" />
-	</programme>
 	<programme channel="ntv" start="20260105135400 +0000" stop="20260105193000 +0000">
 		<title>配信休止</title>
 		<desc> </desc>
@@ -340,21 +330,6 @@
 		<desc> </desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le1sdn7uel.jpg?v=fa9bf9cf" />
 	</programme>
-	<programme channel="ex" start="20260105100000 +0000" stop="20260105125400 +0000">
-		<title>時代超越！タイムレスランキング</title>
-		<desc>日本人の好きはコレだ！好きな戦国武将ベスト２０</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lem21mpvdq.jpg?v=57bdfc4f" />
-	</programme>
-	<programme channel="ex" start="20260105125400 +0000" stop="20260105141000 +0000">
-		<title>報道ステーション</title>
-		<desc>数カ月前から準備か…ベネズエラ大統領を拘束…アメリカ軍事作戦の狙いを分析▽水戸ネイリスト殺害▽マグロ初競り…価格は▽ＭＬＢへ…岡本和真＆今井達也▽大の里ほか</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqcvpi15m.jpg?v=6e2c086a" />
-	</programme>
-	<programme channel="ex" start="20260105141000 +0000" stop="20260106100000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
-	</programme>
 	<programme channel="ex" start="20260106100000 +0000" stop="20260106110000 +0000">
 		<title>テレビ千鳥</title>
 		<desc>年始１発目の企画は１周だけバイキング!!取り方で隠れた人間性が露わに!!挑戦者は川島明・バカリズム・Travis松田・熊元プロレス。見守るのは華丸＆鈴木愛理＆とき宣坂井</desc>
@@ -498,7 +473,12 @@
 	<programme channel="ex" start="20260112125400 +0000" stop="20260112141000 +0000">
 		<title>報道ステーション</title>
 		<desc>今季、最強寒波がピーク…日本海側“ドカ雪”に…成人の日、各地で影響か▽開票速報…前橋市長選▽侍Ｊ戦士ら続々始動▽高校サッカー「決勝戦」▽大の里ほか</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leyohzv2r4.jpg?v=4b79d3b8" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leyohzv2r4.jpg?v=4c79d54b" />
+	</programme>
+	<programme channel="ex" start="20260112141000 +0000" stop="20260113100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
 	</programme>
 	<programme channel="ex" start="20260113100000 +0000" stop="20260113120000 +0000">
 		<title>孝太郎＆ちさ子　プラチナファミリー 華麗なる一家をのぞき見</title>
@@ -554,16 +534,6 @@
 		<title>探偵さん、リュック開いてますよ</title>
 		<desc>企画＆主演・松田龍平！【探偵】兼【発明家】がヘンテコ依頼をトンデモ発明品で解決!?話題のゆるふわ≪ほっこりミステリー≫第２話の依頼人は…≪地底人≫を探す小学生!?</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leupwlr1yn.jpg?v=c72d8d7f" />
-	</programme>
-	<programme channel="tbs" start="20260105100000 +0000" stop="20260105125400 +0000">
-		<title>巷のウワサ大検証！それって実際どうなの会</title>
-		<desc>【お餅は本当に太るのか？正月のギモン大検証SP】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lew99565v5.jpg?v=cae22b28" />
-	</programme>
-	<programme channel="tbs" start="20260105125400 +0000" stop="20260105135700 +0000">
-		<title>クレイジージャーニー</title>
-		<desc>南米チリの砂漠で７年に１度だけ咲く！奇跡の花園を撮影する旅</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leuh81memy.jpg?v=815f03b3" />
 	</programme>
 	<programme channel="tbs" start="20260105135700 +0000" stop="20260105193000 +0000">
 		<title>配信休止</title>
@@ -763,7 +733,7 @@
 	<programme channel="tbs" start="20260112093000 +0000" stop="20260112115500 +0000">
 		<title>さんま・玉緒のお年玉！あんたの夢をかなえたろかSP</title>
 		<desc>佐藤健＆岡田准一スノーマン舘様が夢実現！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lefo2qp3nz.jpg?v=a1a08ddd" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lefo2qp3nz.jpg?v=a0a08c4a" />
 	</programme>
 	<programme channel="tbs" start="20260112115500 +0000" stop="20260112135700 +0000">
 		<title>6SixTONES</title>
@@ -899,21 +869,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lextot18o6.jpg?v=79a3b459" />
-	</programme>
-	<programme channel="tx" start="20260105110000 +0000" stop="20260105125400 +0000">
-		<title>ＪＡＰＡＮをスーツケースにつめ込んで！～世界に日本を持ってった～</title>
-		<desc>ＹＯＵは何しに日本へ？＆JAPANをスーツケースにつめ込んで！合体３時間半！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le9d9k3kh2.jpg?v=66cb9950" />
-	</programme>
-	<programme channel="tx" start="20260105125400 +0000" stop="20260105130000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lec1j02h5p.jpg?v=9a4a5467" />
-	</programme>
-	<programme channel="tx" start="20260105130000 +0000" stop="20260105135800 +0000">
-		<title>ＷＢＳ（ワールドビジネスサテライト）</title>
-		<desc>ＷＢＳ【２０２６年どうなる？日本と世界　池上彰さんが生解説！】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le9bgwpupc.jpg?v=2af26042" />
 	</programme>
 	<programme channel="tx" start="20260105135800 +0000" stop="20260105140600 +0000">
 		<title>配信準備中</title>
@@ -1325,21 +1280,6 @@
 		<desc>配信準備中</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le2tx9s14a.jpg?v=9969cb30" />
 	</programme>
-	<programme channel="cx" start="20260105100000 +0000" stop="20260105125400 +0000">
-		<title>クイズ！ドレミファドン</title>
-		<desc>新ドラマ人気番組対抗クイズドレミファドン昭和平成令和の名曲！50周年の祭典SP</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lew5sth90t.jpg?v=be2de6ae" />
-	</programme>
-	<programme channel="cx" start="20260105125400 +0000" stop="20260105130000 +0000">
-		<title>配信番組のお知らせ</title>
-		<desc>🐶🐩🐕</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lelpadzazx.jpg?v=bafbaf99" />
-	</programme>
-	<programme channel="cx" start="20260105130000 +0000" stop="20260105140900 +0000">
-		<title>夫に間違いありません</title>
-		<desc>#1 死んだはずの夫の帰還。狂い始める幸せの歯車</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leof133jy9.jpg?v=2bc35f25" />
-	</programme>
 	<programme channel="cx" start="20260105140900 +0000" stop="20260105141500 +0000">
 		<title>配信番組のお知らせ</title>
 		<desc>🐶🐩🐕</desc>
@@ -1643,7 +1583,7 @@
 	<programme channel="cx" start="20260116100000 +0000" stop="20260116120000 +0000">
 		<title>坂上どうぶつ王国</title>
 		<desc>＜配信は20時から＞▼250匹以上の保護猫救った小学生女子▼愛するワンコと奇跡再会</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lezagc233g.jpg?v=13905c76" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lezagc233g.jpg?v=12905ae3" />
 	</programme>
 	<programme channel="cx" start="20260116120000 +0000" stop="20260116135200 +0000">
 		<title>ザ・共通テン！</title>
@@ -1694,5 +1634,25 @@
 		<title>嘘が嘘で嘘は嘘だ</title>
 		<desc>第2話</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4s2h2293.jpg?v=259690fe" />
+	</programme>
+	<programme channel="cx" start="20260119100000 +0000" stop="20260119120000 +0000">
+		<title>呼び出し先生タナカ</title>
+		<desc>２時間SP★創立50周年漢検＆鬼滅の刃と特別コラボ！芸能界漢字王決定戦</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le8dhr7s9w.jpg?v=06b8dac4" />
+	</programme>
+	<programme channel="cx" start="20260119120000 +0000" stop="20260119125400 +0000">
+		<title>ヤンドク！</title>
+		<desc>第2話</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leq4g8odbc.jpg?v=40819d4c" />
+	</programme>
+	<programme channel="cx" start="20260119125400 +0000" stop="20260119130000 +0000">
+		<title>配信番組のお知らせ</title>
+		<desc>🐶🐩🐕</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le1ffaajh3.jpg?v=fc7235f6" />
+	</programme>
+	<programme channel="cx" start="20260119130000 +0000" stop="20260119135400 +0000">
+		<title>夫に間違いありません</title>
+		<desc>#3</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lev9i4w0vf.jpg?v=1634f843" />
 	</programme>
 </tv>
