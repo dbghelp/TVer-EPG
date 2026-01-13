@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260106193000 +0000" stop="20260107100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lemuj6nwp3.jpg?v=52bc687a" />
-	</programme>
 	<programme channel="ntv" start="20260107100000 +0000" stop="20260107115400 +0000">
 		<title>有吉の壁</title>
 		<desc>栃木SP▼今夜誰かが結婚発表▼宇都宮市の皆様と爆笑ネタ&amp;なりきりスター</desc>
@@ -739,11 +734,6 @@
 		<title>報道ステーション</title>
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leygw38liq.jpg?v=f985c8b6" />
-	</programme>
-	<programme channel="tbs" start="20260106193000 +0000" stop="20260106230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqnd05ttm.jpg?v=ddb684e4" />
 	</programme>
 	<programme channel="tbs" start="20260106230000 +0000" stop="20260107005500 +0000">
 		<title>ラヴィット！</title>
