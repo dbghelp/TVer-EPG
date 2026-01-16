@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260109204500 +0000" stop="20260110100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leeyxnkfrb.jpg?v=f5475297" />
-	</programme>
 	<programme channel="ntv" start="20260110100000 +0000" stop="20260110115400 +0000">
 		<title>歌唱王〜全日本歌唱力選手権〜</title>
 		<desc>★優勝者を秋元康がプロデュース!今夜スターが誕生</desc>
@@ -769,11 +764,6 @@
 		<title>探偵さん、リュック開いてますよ</title>
 		<desc>企画＆主演・松田龍平！【探偵】兼【発明家】がヘンテコ依頼をトンデモ発明品で解決!?話題のゆるふわ≪ほっこりミステリー≫に新展開！謎の連続殺人事件発生で街にFBIが!?</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejm0jlfjg.jpg?v=a6cb1c3d" />
-	</programme>
-	<programme channel="tbs" start="20260109194500 +0000" stop="20260110095100 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lesj0xgr8c.jpg?v=17ecf828" />
 	</programme>
 	<programme channel="tbs" start="20260110095100 +0000" stop="20260110115400 +0000">
 		<title>熱狂マニアさん！</title>
