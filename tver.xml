@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260110202500 +0000" stop="20260111095500 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le7yz04wrm.jpg?v=8b7587de" />
-	</programme>
 	<programme channel="ntv" start="20260111095500 +0000" stop="20260111100000 +0000">
 		<title>博士は今日も嫉妬する～人生が楽しくなる最新テクノロジー～</title>
 		<desc>博士が思わず嫉妬する明日が楽しくなる最新テクノロジーをご紹介!!</desc>
@@ -373,7 +368,7 @@
 	<programme channel="ntv" start="20260121100000 +0000" stop="20260121105400 +0000">
 		<title>有吉の壁</title>
 		<desc>様々な「お笑いの壁」にチャレンジする純度100%のお笑い番組です!</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lev7kjiwvz.jpg?v=0a0afc31" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lev7kjiwvz.jpg?v=090afa9e" />
 	</programme>
 	<programme channel="ntv" start="20260121105400 +0000" stop="20260121110000 +0000">
 		<title>お知らせ</title>
@@ -709,11 +704,6 @@
 		<title>探偵さん、リュック開いてますよ</title>
 		<desc>企画＆主演・松田龍平！【探偵】兼【発明家】がヘンテコ依頼をトンデモ発明品で解決!?話題のゆるふわ≪ほっこりミステリー≫に新展開！謎の連続殺人事件発生で街にFBIが!?</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejm0jlfjg.jpg?v=a6cb1c3d" />
-	</programme>
-	<programme channel="tbs" start="20260110194000 +0000" stop="20260111040000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lekwfpq0a2.jpg?v=f19ff3a0" />
 	</programme>
 	<programme channel="tbs" start="20260111040000 +0000" stop="20260111064000 +0000">
 		<title>Special Liveのお知らせ</title>
