@@ -20,16 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260110130000 +0000" stop="20260110135400 +0000">
-		<title>with MUSIC</title>
-		<desc>芸能生活30周年生田斗真歌手活動SP▼大竹しのぶトーク&amp;歌唱</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3l8klw7w.jpg?v=dc3ac7c3" />
-	</programme>
-	<programme channel="ntv" start="20260110135400 +0000" stop="20260110202500 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lehq62sjfg.jpg?v=17f87553" />
-	</programme>
 	<programme channel="ntv" start="20260110202500 +0000" stop="20260111095500 +0000">
 		<title>配信休止</title>
 		<desc> </desc>
@@ -248,7 +238,7 @@
 	<programme channel="ntv" start="20260117120000 +0000" stop="20260117125400 +0000">
 		<title>パンダより恋が苦手な私たち</title>
 		<desc>#2上白石萌歌&amp;生田斗真!動物に学ぶ新ラブコメ</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le34p1ge5d.jpg?v=34b893fb" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le34p1ge5d.jpg?v=33b89268" />
 	</programme>
 	<programme channel="ntv" start="20260117125400 +0000" stop="20260117130000 +0000">
 		<title>お知らせ</title>
@@ -433,7 +423,7 @@
 	<programme channel="ntv" start="20260122110000 +0000" stop="20260122120000 +0000">
 		<title>ぐるぐるナインティナイン</title>
 		<desc>ナイナイがここだけの企画で旬のゲストを迎えるハイテンション・バラエティ!</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lecbsvjom5.jpg?v=87b52655" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lecbsvjom5.jpg?v=84b5219c" />
 	</programme>
 	<programme channel="ntv" start="20260122120000 +0000" stop="20260122125400 +0000">
 		<title>秘密のケンミンSHOW極</title>
@@ -459,26 +449,6 @@
 		<title>配信休止</title>
 		<desc> </desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6lahy1vm.jpg?v=59ff42e2" />
-	</programme>
-	<programme channel="ex" start="20260110133200 +0000" stop="20260110135400 +0000">
-		<title>出川一茂ホラン☆フシギの会</title>
-		<desc>最新技術！人を遠隔操作できる石ころ！？</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lenj5yz5ez.jpg?v=956f489a" />
-	</programme>
-	<programme channel="ex" start="20260110135400 +0000" stop="20260110140000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
-	</programme>
-	<programme channel="ex" start="20260110140000 +0000" stop="20260110143000 +0000">
-		<title>ぜんぶ、あなたのためだから</title>
-		<desc>第１話</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leok5jp8wa.jpg?v=f163aabf" />
-	</programme>
-	<programme channel="ex" start="20260110143000 +0000" stop="20260111095600 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
 	</programme>
 	<programme channel="ex" start="20260111095600 +0000" stop="20260111115600 +0000">
 		<title>ナニコレ珍百景</title>
@@ -664,6 +634,11 @@
 		<title>50分間の恋人</title>
 		<desc>＃１　ズレてる男と３０回の弁当契約</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leg9gxrr5u.jpg?v=56193be3" />
+	</programme>
+	<programme channel="ex" start="20260118140900 +0000" stop="20260119100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
 	</programme>
 	<programme channel="ex" start="20260119100000 +0000" stop="20260119114000 +0000">
 		<title>帰れマンデー見っけ隊!!</title>
@@ -993,32 +968,32 @@
 	<programme channel="tbs" start="20260118193000 +0000" stop="20260118230000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/letcah2m2b.jpg?v=e81f39ef" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/letcah2m2b.jpg?v=e51f3536" />
 	</programme>
 	<programme channel="tbs" start="20260118230000 +0000" stop="20260119005500 +0000">
 		<title>ラヴィット！</title>
 		<desc>【焼肉きんぐで食べ放題を満喫▼パンチングカラオケクイーンバトル!?】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lel4p02gnm.jpg?v=c97b1130" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lel4p02gnm.jpg?v=d87b28cd" />
 	</programme>
 	<programme channel="tbs" start="20260119005500 +0000" stop="20260119100000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le28lz4y1h.jpg?v=6d464c9c" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le28lz4y1h.jpg?v=6c464b09" />
 	</programme>
 	<programme channel="tbs" start="20260119100000 +0000" stop="20260119120000 +0000">
 		<title>CDTV ライブ! ライブ!</title>
 		<desc>Mr.Childrenが登場！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leb4r806ql.jpg?v=ba9b97db" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leb4r806ql.jpg?v=bb9b996e" />
 	</programme>
 	<programme channel="tbs" start="20260119120000 +0000" stop="20260119135700 +0000">
 		<title>タミ様のお告げ</title>
 		<desc>タミ様甲子園　47都道府県お菓子日本一決定戦！松田元太・磯村勇斗・岩田剛典大興奮</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lebj8aj2t9.jpg?v=c15103e0" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lebj8aj2t9.jpg?v=329ca158" />
 	</programme>
 	<programme channel="tbs" start="20260119135700 +0000" stop="20260119193000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leys7ges9f.jpg?v=c54106bb" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leys7ges9f.jpg?v=ca410e9a" />
 	</programme>
 	<programme channel="tbs" start="20260119193000 +0000" stop="20260119230000 +0000">
 		<title>配信休止</title>
@@ -1635,21 +1610,6 @@
 		<desc>配信準備中</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leaih30e1f.jpg?v=809b98c1" />
 	</programme>
-	<programme channel="cx" start="20260110141000 +0000" stop="20260110144000 +0000">
-		<title>さんまのお笑い向上委員会</title>
-		<desc>▼コント王者ロングコートダディVS下馬評に踊らされた男</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lesfmal4e7.jpg?v=ffdeadd2" />
-	</programme>
-	<programme channel="cx" start="20260110144000 +0000" stop="20260110153500 +0000">
-		<title>横浜ネイバーズ Season1</title>
-		<desc>第1話 加害者</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leyi0r4u7s.jpg?v=ef12dbec" />
-	</programme>
-	<programme channel="cx" start="20260110153500 +0000" stop="20260111100000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
-	</programme>
 	<programme channel="cx" start="20260111100000 +0000" stop="20260111115400 +0000">
 		<title>千鳥の鬼レンチャン</title>
 		<desc>◆なにわ高橋の２連覇か？第２回ボウリングサドンデス</desc>
@@ -2034,5 +1994,15 @@
 		<title>教場</title>
 		<desc>「教場」後編　主演・木村拓哉　映画「教場」最新作公開記念</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/letc3jra6b.jpg?v=a9f839dd" />
+	</programme>
+	<programme channel="cx" start="20260124142500 +0000" stop="20260124145500 +0000">
+		<title>さんまのお笑い向上委員会</title>
+		<desc> </desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leta36t9bl.jpg?v=224285e5" />
+	</programme>
+	<programme channel="cx" start="20260124145500 +0000" stop="20260124155000 +0000">
+		<title>横浜ネイバーズ Season1</title>
+		<desc>第3話</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lenvgsr091.jpg?v=2812f769" />
 	</programme>
 </tv>
