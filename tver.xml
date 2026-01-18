@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260111193000 +0000" stop="20260112100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6pa0lrn5.jpg?v=bd886c8f" />
-	</programme>
 	<programme channel="ntv" start="20260112100000 +0000" stop="20260112120000 +0000">
 		<title>欽ちゃん＆香取慎吾の全日本仮装大賞</title>
 		<desc>新仮装スタート!満点連発くまモン初参戦</desc>
@@ -649,11 +644,6 @@
 		<title>探偵さん、リュック開いてますよ</title>
 		<desc>企画＆主演・松田龍平！【探偵】兼【発明家】がヘンテコ依頼をトンデモ発明品で解決!?話題のゆるふわ≪ほっこりミステリー≫に新展開！謎の連続殺人事件発生で街にFBIが!?</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejm0jlfjg.jpg?v=a6cb1c3d" />
-	</programme>
-	<programme channel="tbs" start="20260111193000 +0000" stop="20260111230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lec430kins.jpg?v=4b80c25a" />
 	</programme>
 	<programme channel="tbs" start="20260111230000 +0000" stop="20260112005500 +0000">
 		<title>ラヴィット！</title>
