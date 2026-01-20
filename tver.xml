@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260113193000 +0000" stop="20260114100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le9dkqn66n.jpg?v=71ef9fe6" />
-	</programme>
 	<programme channel="ntv" start="20260114100000 +0000" stop="20260114105400 +0000">
 		<title>有吉の壁</title>
 		<desc>▼総勢18名の人気芸能人とコラボSP▼紅白歌手&amp;timeleszも続々</desc>
@@ -687,8 +682,8 @@
 	</programme>
 	<programme channel="ex" start="20260121125400 +0000" stop="20260121141000 +0000">
 		<title>報道ステーション</title>
-		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lef1q1oe4r.jpg?v=84e4d549" />
+		<desc>強烈寒波で各地極寒に…ＪＰＣＺで災害級大雪…交通障害のリスクも▽安倍元総理銃撃事件…山上被告に判決…弁護団を長期独自取材▽大相撲ほか</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lef1q1oe4r.jpg?v=83e4d3b6" />
 	</programme>
 	<programme channel="ex" start="20260121141000 +0000" stop="20260122100000 +0000">
 		<title>No programme</title>
@@ -809,11 +804,6 @@
 		<title>報道ステーション</title>
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le1ygor119.jpg?v=7893d0a5" />
-	</programme>
-	<programme channel="tbs" start="20260113193000 +0000" stop="20260113230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lez5qceq8a.jpg?v=39dbc85d" />
 	</programme>
 	<programme channel="tbs" start="20260113230000 +0000" stop="20260114005500 +0000">
 		<title>ラヴィット！</title>
@@ -1249,11 +1239,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqju53ofm.jpg?v=d2f95aec" />
-	</programme>
-	<programme channel="tx" start="20260113190000 +0000" stop="20260114092500 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lefab8vo44.jpg?v=2225570a" />
 	</programme>
 	<programme channel="tx" start="20260114092500 +0000" stop="20260114105400 +0000">
 		<title>世界を救う！ワンにゃフル物語～柴と三毛と亀梨くん～</title>
