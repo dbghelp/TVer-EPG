@@ -20,36 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260117100000 +0000" stop="20260117105600 +0000">
-		<title>嗚呼!!みんなの動物園</title>
-		<desc>相葉&amp;宮川大輔が鹿児島県徳之島で多頭犬緊急レスキューSP</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lej4hhdwgl.jpg?v=1252681f" />
-	</programme>
-	<programme channel="ntv" start="20260117105600 +0000" stop="20260117115400 +0000">
-		<title>1億人の大質問!?笑ってコラえて！</title>
-		<desc>ジェシーがワンワンの旅参戦!大型犬と全力疾走!?冬の小田原グルメ旅</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le1qrnsfde.jpg?v=70872538" />
-	</programme>
-	<programme channel="ntv" start="20260117115400 +0000" stop="20260117120000 +0000">
-		<title>お知らせ</title>
-		<desc>リアルタイム配信予定の番組は「日テレ系」タブよりご確認いただけます。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejndrobgx.jpg?v=4fbbdc4e" />
-	</programme>
-	<programme channel="ntv" start="20260117120000 +0000" stop="20260117125400 +0000">
-		<title>パンダより恋が苦手な私たち</title>
-		<desc>#2上白石萌歌&amp;生田斗真!動物に学ぶ新ラブコメ</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le34p1ge5d.jpg?v=33b89268" />
-	</programme>
-	<programme channel="ntv" start="20260117125400 +0000" stop="20260117130000 +0000">
-		<title>お知らせ</title>
-		<desc>リアルタイム配信予定の番組は「日テレ系」タブよりご確認いただけます。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leruog2tfv.jpg?v=0d86a057" />
-	</programme>
-	<programme channel="ntv" start="20260117130000 +0000" stop="20260117135400 +0000">
-		<title>with MUSIC</title>
-		<desc>SixTONES1時間SP▼メドレー含むヒット曲豪華8曲披露</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leix53hx91.jpg?v=839c47c9" />
-	</programme>
 	<programme channel="ntv" start="20260117135400 +0000" stop="20260117202500 +0000">
 		<title>配信休止</title>
 		<desc> </desc>
@@ -490,26 +460,6 @@
 		<desc> </desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leu90l4iyl.jpg?v=fd400507" />
 	</programme>
-	<programme channel="ex" start="20260117095600 +0000" stop="20260117110000 +0000">
-		<title>サンドウィッチマン＆芦田愛菜の博士ちゃん</title>
-		<desc>世界が称賛！日本の新幹線SP &lt;2026年特別編&gt;</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3kjbbtrv.jpg?v=72e6a3d7" />
-	</programme>
-	<programme channel="ex" start="20260117110000 +0000" stop="20260117115400 +0000">
-		<title>池上彰のニュースそうだったのか!!</title>
-		<desc>トランプ大統領はベネズエラ大統領をなぜ拘束？グリーンランドがなぜ欲しい？今年注目のニュースを池上彰が解説</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le030wr1oh.jpg?v=5f4c0061" />
-	</programme>
-	<programme channel="ex" start="20260117115400 +0000" stop="20260117130400 +0000">
-		<title>サタデーステーション</title>
-		<desc>高島彩▽“新党”結成の影響は？前回激戦区を取材▽季節外れの暖かさ…雨降らず乾燥・渇水警戒▽日本政府イラン全土に“退避勧告”トランプ氏思惑は▽阪神淡路大震災31年</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leyy8sb1y4.jpg?v=9767bdbd" />
-	</programme>
-	<programme channel="ex" start="20260117130400 +0000" stop="20260117133200 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
-	</programme>
 	<programme channel="ex" start="20260117133200 +0000" stop="20260117135400 +0000">
 		<title>出川一茂ホラン☆フシギの会</title>
 		<desc>スゴ技！歌より速く超高速タイピング 達人現役女子高生が登場！</desc>
@@ -725,6 +675,11 @@
 		<desc>#2 お弁当契約、終了します</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3bjeji7i.jpg?v=d5b1b37d" />
 	</programme>
+	<programme channel="ex" start="20260125140900 +0000" stop="20260126100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
+	</programme>
 	<programme channel="ex" start="20260126100000 +0000" stop="20260126114000 +0000">
 		<title>帰れマンデー見っけ隊!!</title>
 		<desc>栃木の人気ローカルチェーン店で帰れま１０特別編「食べれま店」</desc>
@@ -804,21 +759,6 @@
 		<title>探偵さん、リュック開いてますよ</title>
 		<desc>主演：松田龍平、ゲスト：濱田岳【探偵×真田十勇士…!?】真田幸村の家臣が現代にタイムスリップ!!最高難度の発明・タイムマシンで、迷子の侍を返してあげられるのか!?</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3q2i8mqy.jpg?v=67244f0b" />
-	</programme>
-	<programme channel="tbs" start="20260117095100 +0000" stop="20260117115400 +0000">
-		<title>バタバタ買い物バケーション</title>
-		<desc>＜配信は19時から＞バナナマン設楽のハワイ1泊弾丸旅に鈴木亮平＆川口春奈</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4yj9nxrc.jpg?v=ee770a44" />
-	</programme>
-	<programme channel="tbs" start="20260117115400 +0000" stop="20260117125600 +0000">
-		<title>いくらかわかる金？</title>
-		<desc>全国の絶品グルメ物産展で英語禁止！賞金をかけたドッジボール対決</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ledkvif46b.jpg?v=17fe1373" />
-	</programme>
-	<programme channel="tbs" start="20260117125600 +0000" stop="20260117190000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leurx8aw2w.jpg?v=4e0d5eef" />
 	</programme>
 	<programme channel="tbs" start="20260117190000 +0000" stop="20260118100000 +0000">
 		<title>配信休止</title>
@@ -1249,21 +1189,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lemo6tmho7.jpg?v=548bd6d7" />
-	</programme>
-	<programme channel="tx" start="20260117115500 +0000" stop="20260117120000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le9syd3dvn.jpg?v=84dcc420" />
-	</programme>
-	<programme channel="tx" start="20260117120000 +0000" stop="20260117125400 +0000">
-		<title>出没！アド街ック天国</title>
-		<desc>出没！アド街ック天国【祐天寺】東横線エアポケット!?のどかなムードでもＨＯＴな街</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lemixg3jdr.jpg?v=34ff7814" />
-	</programme>
-	<programme channel="tx" start="20260117125400 +0000" stop="20260117190000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le0xxg6fzw.jpg?v=ea986b8c" />
 	</programme>
 	<programme channel="tx" start="20260117190000 +0000" stop="20260118093000 +0000">
 		<title>配信準備中</title>
@@ -1770,16 +1695,6 @@
 		<desc>配信準備中</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leiaub473g.jpg?v=b0a2a630" />
 	</programme>
-	<programme channel="cx" start="20260117100000 +0000" stop="20260117120000 +0000">
-		<title>新しいカギ</title>
-		<desc>2HSPカギダンス感動の舞台裏！橋本環奈向井理宮世琉弥金沢グルメ争奪</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqfrl1g68.jpg?v=d42a9e43" />
-	</programme>
-	<programme channel="cx" start="20260117120000 +0000" stop="20260117141000 +0000">
-		<title>教場</title>
-		<desc>「教場」前編　主演・木村拓哉　映画「教場」最新作公開記念</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leyzls237n.jpg?v=f8a088ee" />
-	</programme>
 	<programme channel="cx" start="20260117141000 +0000" stop="20260117144000 +0000">
 		<title>さんまのお笑い向上委員会</title>
 		<desc>▼コント王者ロングコートダディVS鳴かず飛ばず芸人！</desc>
@@ -2068,7 +1983,7 @@
 	<programme channel="cx" start="20260126140000 +0000" stop="20260126143000 +0000">
 		<title>けるとめる</title>
 		<desc>長崎の地元メシ食べまくり！松田元太も挑戦！サッカー×パター</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leuciz264s.jpg?v=f346bca2" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leuciz264s.jpg?v=9a6e7abe" />
 	</programme>
 	<programme channel="cx" start="20260126143000 +0000" stop="20260127100000 +0000">
 		<title>No programme</title>
@@ -2184,5 +2099,15 @@
 		<title>全力！脱力タイムズ</title>
 		<desc>小籔千豊＆濱尾ノリタカ、何かオモロいこと言え〜！？の巻</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lec6tall1p.jpg?v=cb80bde1" />
+	</programme>
+	<programme channel="cx" start="20260131100000 +0000" stop="20260131120000 +0000">
+		<title>新しいカギ</title>
+		<desc>名曲大好き土八先生２時間SP！昭和平成冬のヒットソングで早押し対決！</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leol9mfm3n.jpg?v=cf1663e4" />
+	</programme>
+	<programme channel="cx" start="20260131120000 +0000" stop="20260131141000 +0000">
+		<title>THE CONTE</title>
+		<desc>東京03かまいたちサンドら豪華コント祭典</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leaw02xa1e.jpg?v=85ca826e" />
 	</programme>
 </tv>
