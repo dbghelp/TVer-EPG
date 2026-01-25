@@ -20,16 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260118133000 +0000" stop="20260118142500 +0000">
-		<title>パンチドランク・ウーマン −脱獄まであと××日−</title>
-		<desc>#2女刑務官と殺人犯に禁断の過去が…</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leddr4c90w.jpg?v=1625f59f" />
-	</programme>
-	<programme channel="ntv" start="20260118142500 +0000" stop="20260118193000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lekh6fvwxu.jpg?v=b81dca49" />
-	</programme>
 	<programme channel="ntv" start="20260118193000 +0000" stop="20260119100000 +0000">
 		<title>配信休止</title>
 		<desc> </desc>
@@ -253,7 +243,7 @@
 	<programme channel="ntv" start="20260125133000 +0000" stop="20260125142500 +0000">
 		<title>パンチドランク・ウーマン −脱獄まであと××日−</title>
 		<desc>#3刑務官と殺人犯が人質に…驚きの罠</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/levvj06wmz.jpg?v=a3d03258" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/levvj06wmz.jpg?v=a4d033eb" />
 	</programme>
 	<programme channel="ntv" start="20260125142500 +0000" stop="20260125193000 +0000">
 		<title>配信休止</title>
@@ -414,16 +404,6 @@
 		<title>配信休止</title>
 		<desc> </desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leu90l4iyl.jpg?v=fd400507" />
-	</programme>
-	<programme channel="ex" start="20260118131500 +0000" stop="20260118140900 +0000">
-		<title>50分間の恋人</title>
-		<desc>＃１　ズレてる男と３０回の弁当契約</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leg9gxrr5u.jpg?v=56193be3" />
-	</programme>
-	<programme channel="ex" start="20260118140900 +0000" stop="20260119100000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
 	</programme>
 	<programme channel="ex" start="20260119100000 +0000" stop="20260119114000 +0000">
 		<title>帰れマンデー見っけ隊!!</title>
@@ -610,6 +590,11 @@
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lebe6fg29c.jpg?v=f021e4dd" />
 	</programme>
+	<programme channel="ex" start="20260126141000 +0000" stop="20260127100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
+	</programme>
 	<programme channel="ex" start="20260127100000 +0000" stop="20260127120000 +0000">
 		<title>孝太郎＆ちさ子　プラチナファミリー 華麗なる一家をのぞき見</title>
 		<desc>街で気になる“塀の長い大豪邸”住んでいるのはどんな一家なのか？東京神楽坂・福島喜多方・奈良橿原・秋田角館で特別潜入！孝太郎ちさ子も驚きのプラチナファミリー登場！</desc>
@@ -674,31 +659,6 @@
 		<title>探偵さん、リュック開いてますよ</title>
 		<desc>主演：松田龍平、ゲスト：濱田岳【探偵×真田十勇士…!?】真田幸村の家臣が現代にタイムスリップ!!最高難度の発明・タイムマシンで、迷子の侍を返してあげられるのか!?</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3q2i8mqy.jpg?v=67244f0b" />
-	</programme>
-	<programme channel="tbs" start="20260118131900 +0000" stop="20260118132500 +0000">
-		<title>お知らせ</title>
-		<desc>リアルタイム配信予定の番組は「TBS系」タブよりご確認いただけます。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le696ca8qu.jpg?v=30a1dcf0" />
-	</programme>
-	<programme channel="tbs" start="20260118132500 +0000" stop="20260118141900 +0000">
-		<title>日曜日の初耳学</title>
-		<desc>【山口智子…ロンバケ裏話＆唐沢寿明と夫婦生活（秘）話＆林修にハグ攻撃】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leg3ujfhdl.jpg?v=9308ca6b" />
-	</programme>
-	<programme channel="tbs" start="20260118141900 +0000" stop="20260118142500 +0000">
-		<title>お知らせ</title>
-		<desc>リアルタイム配信予定の番組は「TBS系」タブよりご確認いただけます。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leai0i7bb3.jpg?v=5115741b" />
-	</programme>
-	<programme channel="tbs" start="20260118142500 +0000" stop="20260118145500 +0000">
-		<title>情熱大陸</title>
-		<desc>【上羽瑠美／喉頭外科医▽「人生最後まで食べる楽しみを」願いと向き合う】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lebdok0rpt.jpg?v=5be52ff2" />
-	</programme>
-	<programme channel="tbs" start="20260118145500 +0000" stop="20260118193000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6p7cnq84.jpg?v=53df79cd" />
 	</programme>
 	<programme channel="tbs" start="20260118193000 +0000" stop="20260118230000 +0000">
 		<title>配信休止</title>
@@ -958,42 +918,42 @@
 	<programme channel="tbs" start="20260126193000 +0000" stop="20260126230000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqk8hzr55.jpg?v=6a25a2d4" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqk8hzr55.jpg?v=6925a141" />
 	</programme>
 	<programme channel="tbs" start="20260126230000 +0000" stop="20260127005500 +0000">
 		<title>ラヴィット！</title>
 		<desc>日本でいちばん明るい朝番組</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leaat0mi0u.jpg?v=9b0853e1" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leaat0mi0u.jpg?v=9c085574" />
 	</programme>
 	<programme channel="tbs" start="20260127005500 +0000" stop="20260127100000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le8lbg7h5b.jpg?v=b0794465" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le8lbg7h5b.jpg?v=a9793960" />
 	</programme>
 	<programme channel="tbs" start="20260127100000 +0000" stop="20260127110000 +0000">
 		<title>THE神業チャレンジ</title>
 		<desc>羽田空港の舞台裏（秘）初取材！志田未来&amp;天才子役VS神クレーン</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lehmn7ek9z.jpg?v=1c50bbd8" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lehmn7ek9z.jpg?v=1d50bd6b" />
 	</programme>
 	<programme channel="tbs" start="20260127110000 +0000" stop="20260127115500 +0000">
 		<title>バナナサンド</title>
 		<desc>注目アイドル！キテレツ猪狩蒼弥＆井上瑞稀がハモリ我慢に初参戦</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leyk16n7r3.jpg?v=6b664bad" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leyk16n7r3.jpg?v=5c663410" />
 	</programme>
 	<programme channel="tbs" start="20260127115500 +0000" stop="20260127130000 +0000">
 		<title>マツコの知らない世界</title>
 		<desc>日本独自進化!概念激変コーンスープSP激うま市販品＆名店集結</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lec5wvhrlc.jpg?v=57b4a8f8" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lec5wvhrlc.jpg?v=56b4a765" />
 	</programme>
 	<programme channel="tbs" start="20260127130000 +0000" stop="20260127140000 +0000">
 		<title>未来のムスコ</title>
 		<desc>第３話　絆を深めていく親子に試練…息子が秘めた想いとは</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lec2h3v7uk.jpg?v=72b388d2" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lec2h3v7uk.jpg?v=71b3873f" />
 	</programme>
 	<programme channel="tbs" start="20260127140000 +0000" stop="20260127193000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqju53ofm.jpg?v=d2f95aec" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqju53ofm.jpg?v=d1f95959" />
 	</programme>
 	<programme channel="tbs" start="20260127193000 +0000" stop="20260127230000 +0000">
 		<title>配信休止</title>
@@ -1089,11 +1049,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lemo6tmho7.jpg?v=548bd6d7" />
-	</programme>
-	<programme channel="tx" start="20260118134800 +0000" stop="20260118190000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leolhv6z1j.jpg?v=8d43cd14" />
 	</programme>
 	<programme channel="tx" start="20260118190000 +0000" stop="20260119095000 +0000">
 		<title>配信準備中</title>
@@ -1570,21 +1525,6 @@
 		<desc>配信準備中</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leiaub473g.jpg?v=b0a2a630" />
 	</programme>
-	<programme channel="cx" start="20260118140900 +0000" stop="20260118141500 +0000">
-		<title>配信番組のお知らせ</title>
-		<desc>🐶🐩🐕</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lec84lxdrv.jpg?v=f4f498f6" />
-	</programme>
-	<programme channel="cx" start="20260118141500 +0000" stop="20260118144500 +0000">
-		<title>嘘が嘘で嘘は嘘だ</title>
-		<desc>第2話 嘘も雪も止まない夜</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4s2h2293.jpg?v=690d5ecc" />
-	</programme>
-	<programme channel="cx" start="20260118144500 +0000" stop="20260119100000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
-	</programme>
 	<programme channel="cx" start="20260119100000 +0000" stop="20260119120000 +0000">
 		<title>呼び出し先生タナカ</title>
 		<desc>２時間SP★創立50周年漢検＆鬼滅の刃と特別コラボ！芸能界漢字王決定戦</desc>
@@ -1935,6 +1875,11 @@
 		<desc>　</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leohk4fm9q.jpg?v=9cdc87fe" />
 	</programme>
+	<programme channel="cx" start="20260129143000 +0000" stop="20260130100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
+	</programme>
 	<programme channel="cx" start="20260130100000 +0000" stop="20260130120000 +0000">
 		<title>坂上どうぶつ王国</title>
 		<desc>＜配信は20時から＞</desc>
@@ -1984,5 +1929,15 @@
 		<title>教場II</title>
 		<desc>前編</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ley0fw51eb.jpg?v=67fc7bda" />
+	</programme>
+	<programme channel="cx" start="20260201140900 +0000" stop="20260201141500 +0000">
+		<title>配信番組のお知らせ</title>
+		<desc>🐶🐩🐕</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lezop8p9dc.jpg?v=f54c1f45" />
+	</programme>
+	<programme channel="cx" start="20260201141500 +0000" stop="20260201144500 +0000">
+		<title>嘘が嘘で嘘は嘘だ</title>
+		<desc>第4話</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le2lo3a31e.jpg?v=0646aa33" />
 	</programme>
 </tv>
