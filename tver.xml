@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260119193000 +0000" stop="20260120100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le8422hpdn.jpg?v=7858022c" />
-	</programme>
 	<programme channel="ntv" start="20260120100000 +0000" stop="20260120105400 +0000">
 		<title>オモウマい店</title>
 		<desc>【山梨】超高速マッハ中華!!大人気!ピリ辛担々麺&amp;エビマヨ</desc>
@@ -677,8 +672,8 @@
 	</programme>
 	<programme channel="ex" start="20260127125400 +0000" stop="20260127141000 +0000">
 		<title>報道ステーション</title>
-		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le1ygor119.jpg?v=7e93da17" />
+		<desc>衆院選「公示」で号砲…“雪の中”で第一声も▽上野のパンダお別れ…中国返還で国内ゼロに▽日本海側で猛吹雪か▽新“お家芸”スノーボード▽ＷＢＣほか</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le1ygor119.jpg?v=f9ac335d" />
 	</programme>
 	<programme channel="ex" start="20260127141000 +0000" stop="20260128100000 +0000">
 		<title>No programme</title>
@@ -779,11 +774,6 @@
 		<title>報道ステーション</title>
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4rawdrjc.jpg?v=b3b21bbd" />
-	</programme>
-	<programme channel="tbs" start="20260119193000 +0000" stop="20260119230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leiouwz1f2.jpg?v=c6507026" />
 	</programme>
 	<programme channel="tbs" start="20260119230000 +0000" stop="20260120005500 +0000">
 		<title>ラヴィット！</title>
@@ -1229,11 +1219,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/legd3l1zvq.jpg?v=b89e318c" />
-	</programme>
-	<programme channel="tx" start="20260119190000 +0000" stop="20260120115400 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/letm66a66y.jpg?v=cbc01553" />
 	</programme>
 	<programme channel="tx" start="20260120115400 +0000" stop="20260120125500 +0000">
 		<title>開運！なんでも鑑定団</title>
