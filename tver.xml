@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260121193000 +0000" stop="20260122100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lev0bc8b00.jpg?v=a54515ff" />
-	</programme>
 	<programme channel="ntv" start="20260122100000 +0000" stop="20260122105400 +0000">
 		<title>THE突破ファイル</title>
 		<desc>自分で電柱に突っ込んだ!?事故鑑定人VS言いがかり男▼クレカ不正手口</desc>
@@ -677,8 +672,8 @@
 	</programme>
 	<programme channel="ex" start="20260129125400 +0000" stop="20260129141000 +0000">
 		<title>報道ステーション</title>
-		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lew0q1t5un.jpg?v=91fcc1d3" />
+		<desc>寒波再来で都内も雪？ＪＰＣＺで、また大雪も▽“鈴木王国”vs中道改革連合…衆院選、北の大地の戦い▽原発再稼働直後、何が▽五輪連覇へ…小林陵侑▽欧州ＣＬ</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lew0q1t5un.jpg?v=90fcc040" />
 	</programme>
 	<programme channel="ex" start="20260129141000 +0000" stop="20260130095000 +0000">
 		<title>No programme</title>
@@ -779,11 +774,6 @@
 		<title>報道ステーション</title>
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le5aigfcsg.jpg?v=296d0c2c" />
-	</programme>
-	<programme channel="tbs" start="20260121193000 +0000" stop="20260121230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le7mhtopor.jpg?v=66150d6c" />
 	</programme>
 	<programme channel="tbs" start="20260121230000 +0000" stop="20260122005500 +0000">
 		<title>ラヴィット！</title>
@@ -1229,11 +1219,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lekju5mfjx.jpg?v=069e7520" />
-	</programme>
-	<programme channel="tx" start="20260121190000 +0000" stop="20260122092500 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lezkxsibd3.jpg?v=a477b60a" />
 	</programme>
 	<programme channel="tx" start="20260122092500 +0000" stop="20260122115800 +0000">
 		<title>有吉の深掘り大調査</title>
