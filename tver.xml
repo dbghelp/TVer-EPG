@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260124135400 +0000" stop="20260124201000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lemadtsvmq.jpg?v=a8394ee7" />
-	</programme>
 	<programme channel="ntv" start="20260124201000 +0000" stop="20260125095500 +0000">
 		<title>配信休止</title>
 		<desc> </desc>
@@ -248,7 +243,7 @@
 	<programme channel="ntv" start="20260131120000 +0000" stop="20260131125400 +0000">
 		<title>パンダより恋が苦手な私たち</title>
 		<desc>#4上白石萌歌&amp;生田斗真動物に学ぶ幸せになる方法</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leci0d39pp.jpg?v=3847c17a" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leci0d39pp.jpg?v=3947c30d" />
 	</programme>
 	<programme channel="ntv" start="20260131125400 +0000" stop="20260131130000 +0000">
 		<title>お知らせ</title>
@@ -454,16 +449,6 @@
 		<title>配信休止</title>
 		<desc> </desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lewsviwu5c.jpg?v=381654dd" />
-	</programme>
-	<programme channel="ex" start="20260124140000 +0000" stop="20260124143000 +0000">
-		<title>ぜんぶ、あなたのためだから</title>
-		<desc>第３話</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lea7oa1o37.jpg?v=f9b81bab" />
-	</programme>
-	<programme channel="ex" start="20260124143000 +0000" stop="20260125093000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
 	</programme>
 	<programme channel="ex" start="20260125093000 +0000" stop="20260125105000 +0000">
 		<title>日曜くりぃむ雑学</title>
@@ -978,32 +963,32 @@
 	<programme channel="tbs" start="20260201173400 +0000" stop="20260201230000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ledk9kyflv.jpg?v=ce6c761e" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ledk9kyflv.jpg?v=d16c7ad7" />
 	</programme>
 	<programme channel="tbs" start="20260201230000 +0000" stop="20260202005500 +0000">
 		<title>ラヴィット！</title>
 		<desc>【ラーメン好きが己の感覚だけを信じ戦う！ラーメンキング決定戦】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le525drf74.jpg?v=36082630" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le525drf74.jpg?v=370827c3" />
 	</programme>
 	<programme channel="tbs" start="20260202005500 +0000" stop="20260202100000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le91uyy9pe.jpg?v=5a2e893f" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le91uyy9pe.jpg?v=572e8486" />
 	</programme>
 	<programme channel="tbs" start="20260202100000 +0000" stop="20260202115500 +0000">
 		<title>CDTV ライブ! ライブ!</title>
 		<desc>★Snow Man２曲ライブ★Number_i</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lewwzywtnp.jpg?v=6ebf483c" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lewwzywtnp.jpg?v=75bf5341" />
 	</programme>
 	<programme channel="tbs" start="20260202115500 +0000" stop="20260202135700 +0000">
 		<title>その道のプロが選ぶ本当のNo.1 プロフェッショナルランキング</title>
 		<desc>★音楽のプロが選んだ★日本が沸いた！“激アツ”名曲BEST50★</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le9swjjkt3.jpg?v=43fc6d82" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le9swjjkt3.jpg?v=44fc6f15" />
 	</programme>
 	<programme channel="tbs" start="20260202135700 +0000" stop="20260202193000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/legd3l1zvq.jpg?v=b89e318c" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/legd3l1zvq.jpg?v=b79e2ff9" />
 	</programme>
 	<programme channel="tbs" start="20260202193000 +0000" stop="20260202230000 +0000">
 		<title>配信休止</title>
@@ -1645,21 +1630,6 @@
 		<desc>配信準備中</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3gxzw01h.jpg?v=7b4c762c" />
 	</programme>
-	<programme channel="cx" start="20260124142500 +0000" stop="20260124145500 +0000">
-		<title>さんまのお笑い向上委員会</title>
-		<desc>▼祝番組放送500回！ニッポンの社長はカリスマ芸人問題</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leta36t9bl.jpg?v=53b380d1" />
-	</programme>
-	<programme channel="cx" start="20260124145500 +0000" stop="20260124155000 +0000">
-		<title>横浜ネイバーズ Season1</title>
-		<desc>第3話 虚像と真実</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lenvgsr091.jpg?v=dee2cd30" />
-	</programme>
-	<programme channel="cx" start="20260124155000 +0000" stop="20260125030000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
-	</programme>
 	<programme channel="cx" start="20260125030000 +0000" stop="20260125055500 +0000">
 		<title>奥村組スポーツスペシャル 第45回大阪国際女子マラソン</title>
 		<desc>【LIVE】第45回大阪国際女子マラソン</desc>
@@ -2000,6 +1970,11 @@
 		<desc>山田涼介・STARGLOW</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leo75gv6fy.jpg?v=8a9de16a" />
 	</programme>
+	<programme channel="cx" start="20260204143000 +0000" stop="20260205100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
+	</programme>
 	<programme channel="cx" start="20260205100000 +0000" stop="20260205110000 +0000">
 		<title>地上波放送番組のお知らせ</title>
 		<desc>2/5(木)「ミュージックジェネレーション」は地上波放送でお楽しみください！</desc>
@@ -2008,7 +1983,7 @@
 	<programme channel="cx" start="20260205110000 +0000" stop="20260205130000 +0000">
 		<title>ミラノ・コルティナ2026オリンピック中継のお知らせ</title>
 		<desc>「生ジャンクSPORTS 明日からオリンピック！大注目の金メダル候補が続々登場SP」を地上波&amp;TVerで生中継！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqfjlgzx8.jpg?v=48e4ebdd" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqfjlgzx8.jpg?v=39e4d440" />
 	</programme>
 	<programme channel="cx" start="20260205130000 +0000" stop="20260205135400 +0000">
 		<title>プロフェッショナル 保険調査員・天音蓮</title>
@@ -2054,5 +2029,15 @@
 		<title>タイムレスマン</title>
 		<desc>　</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leo1x5dk5g.jpg?v=03ab5798" />
+	</programme>
+	<programme channel="cx" start="20260207141000 +0000" stop="20260207144000 +0000">
+		<title>さんまのお笑い向上委員会</title>
+		<desc>　</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lel8zlzbis.jpg?v=7865679c" />
+	</programme>
+	<programme channel="cx" start="20260207144000 +0000" stop="20260207153500 +0000">
+		<title>横浜ネイバーズ Season1</title>
+		<desc>第5話</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le01yp9tdj.jpg?v=b04f2dce" />
 	</programme>
 </tv>
