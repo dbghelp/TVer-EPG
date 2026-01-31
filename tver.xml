@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260124201000 +0000" stop="20260125095500 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lel3f0kwjc.jpg?v=34acebf6" />
-	</programme>
 	<programme channel="ntv" start="20260125095500 +0000" stop="20260125100000 +0000">
 		<title>博士は今日も嫉妬する～人生が楽しくなる最新テクノロジー～</title>
 		<desc>▽息で肝臓の異常を見つける検査</desc>
@@ -694,11 +689,6 @@
 		<title>探偵さん、リュック開いてますよ</title>
 		<desc>【企画・主演、松田龍平】ハイパー温泉クリエイターが殺された…容疑者は“釜ゆで温泉”!?町を買い漁る不穏な動きとの関連は…!?真相を知るため、探偵が命がけで入湯…!?</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lepc9k08ls.jpg?v=6961dbcf" />
-	</programme>
-	<programme channel="tbs" start="20260124194000 +0000" stop="20260125100000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6e45zob1.jpg?v=34ad7875" />
 	</programme>
 	<programme channel="tbs" start="20260125100000 +0000" stop="20260125120000 +0000">
 		<title>坂上&amp;指原のつぶれない店</title>
