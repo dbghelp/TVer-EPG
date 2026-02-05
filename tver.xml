@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260129193000 +0000" stop="20260130105600 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le448joeny.jpg?v=8f5974c5" />
-	</programme>
 	<programme channel="ntv" start="20260130105600 +0000" stop="20260130115400 +0000">
 		<title>沸騰ワード10</title>
 		<desc>交渉8年!最新イージス艦まや初解禁▼新企画「RIKACOハウス」始動</desc>
@@ -695,11 +690,6 @@
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4x39zu08.jpg?v=e9c25ca7" />
 	</programme>
-	<programme channel="tbs" start="20260129193000 +0000" stop="20260129230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3zxfq93b.jpg?v=5e1138a5" />
-	</programme>
 	<programme channel="tbs" start="20260129230000 +0000" stop="20260130005500 +0000">
 		<title>ラヴィット！</title>
 		<desc>▼特別編！ロコディの激ウマそばリポート！ロケの達人チャンカワイ参戦</desc>
@@ -1134,11 +1124,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4qg21vkx.jpg?v=c99cc32c" />
-	</programme>
-	<programme channel="tx" start="20260129190000 +0000" stop="20260130092500 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le9r60loy6.jpg?v=08930ccd" />
 	</programme>
 	<programme channel="tx" start="20260130092500 +0000" stop="20260130095500 +0000">
 		<title>BEYBLADE X</title>
