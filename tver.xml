@@ -20,31 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260131100000 +0000" stop="20260131115400 +0000">
-		<title>モノマネMONSTER</title>
-		<desc>相葉&amp;吉村MC!賞金総額500万円のモノマネ頂上決戦!</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le0ymtdz5p.jpg?v=4ae9ff95" />
-	</programme>
-	<programme channel="ntv" start="20260131115400 +0000" stop="20260131120000 +0000">
-		<title>お知らせ</title>
-		<desc>リアルタイム配信予定の番組は「日テレ系」タブよりご確認いただけます。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leddtqdles.jpg?v=25e48b0d" />
-	</programme>
-	<programme channel="ntv" start="20260131120000 +0000" stop="20260131125400 +0000">
-		<title>パンダより恋が苦手な私たち</title>
-		<desc>#4上白石萌歌&amp;生田斗真動物に学ぶ幸せになる方法</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leci0d39pp.jpg?v=3947c30d" />
-	</programme>
-	<programme channel="ntv" start="20260131125400 +0000" stop="20260131130000 +0000">
-		<title>お知らせ</title>
-		<desc>リアルタイム配信予定の番組は「日テレ系」タブよりご確認いただけます。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lelhlwnvtt.jpg?v=108300d3" />
-	</programme>
-	<programme channel="ntv" start="20260131130000 +0000" stop="20260131135400 +0000">
-		<title>with MUSIC</title>
-		<desc>鈴木雅之と篠原涼子ドラマ主題歌披露▼Aぇ! group▼INI</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lezzwt4gys.jpg?v=3e7eef18" />
-	</programme>
 	<programme channel="ntv" start="20260131135400 +0000" stop="20260131202500 +0000">
 		<title>配信休止</title>
 		<desc> </desc>
@@ -253,7 +228,7 @@
 	<programme channel="ntv" start="20260207105600 +0000" stop="20260207115400 +0000">
 		<title>1億人の大質問!?笑ってコラえて！</title>
 		<desc>道の駅伝SP猪狩蒼弥が福島&amp;宮城へ!ブルーインパルスの道の駅</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leluha2u5p.jpg?v=7c259ca7" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leluha2u5p.jpg?v=7d259e3a" />
 	</programme>
 	<programme channel="ntv" start="20260207115400 +0000" stop="20260207120000 +0000">
 		<title>お知らせ</title>
@@ -465,31 +440,6 @@
 		<desc> </desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqquxg74v.jpg?v=428aa2c1" />
 	</programme>
-	<programme channel="ex" start="20260131095600 +0000" stop="20260131115400 +0000">
-		<title>池上彰のニュースそうだったのか!!</title>
-		<desc>「成田闘争」「赤ちゃんポスト」「平成の大合併」…日本が注目したあの出来事の今を池上彰が解説！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqxcmjfmf.jpg?v=84630cf4" />
-	</programme>
-	<programme channel="ex" start="20260131115400 +0000" stop="20260131130400 +0000">
-		<title>サタデーステーション</title>
-		<desc>高島彩▽香港で６人逮捕！羽田強盗未遂事件と関連か▽寒波続く積雪急増の恐れ…新たな課題も▽過酷な“真冬の選挙戦”候補者密着▽八潮陥没１年…“全国一斉調査”の現状</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/len3g0hljp.jpg?v=d4c19af4" />
-	</programme>
-	<programme channel="ex" start="20260131130400 +0000" stop="20260131131000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
-	</programme>
-	<programme channel="ex" start="20260131131000 +0000" stop="20260131135400 +0000">
-		<title>出川一茂ホラン☆フシギの会</title>
-		<desc>出川が時事を解説！2026年はこう変わる！ 【フシギな最新技術】声だけで性格が分かる</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lee00c21gs.jpg?v=0745d2c5" />
-	</programme>
-	<programme channel="ex" start="20260131135400 +0000" stop="20260131140000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
-	</programme>
 	<programme channel="ex" start="20260131140000 +0000" stop="20260131143000 +0000">
 		<title>ぜんぶ、あなたのためだから</title>
 		<desc>第４話</desc>
@@ -630,6 +580,11 @@
 		<desc>政権の信を問う衆院選…大勢判明？高市総理は▽選挙後の政局を生解説▽物価高で消費税減税は▽米中接近…外交の行方▽最激戦区の当落速報</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le8hjg6bdp.jpg?v=b3621d96" />
 	</programme>
+	<programme channel="ex" start="20260208150000 +0000" stop="20260209125400 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
+	</programme>
 	<programme channel="ex" start="20260209125400 +0000" stop="20260209141000 +0000">
 		<title>報道ステーション</title>
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
@@ -679,21 +634,6 @@
 		<title>探偵さん、リュック開いてますよ</title>
 		<desc>【主演：松田龍平 ゲスト：夏帆】＜探偵×初恋…!?＞高校の同級生・リカ(夏帆)と再会した洋輔…夫の素行調査を行うために、横浜でデート!?洋輔、禁断の発明が明らかに…！</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ley3fusmjw.jpg?v=4ddc560d" />
-	</programme>
-	<programme channel="tbs" start="20260131095100 +0000" stop="20260131115400 +0000">
-		<title>熱狂マニアさん！</title>
-		<desc>＜配信は19時から＞缶詰飯生活は本当に痩せる？４時間で家を大掃除できる？大検証ＳＰ</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ler210icgq.jpg?v=3de9e1f7" />
-	</programme>
-	<programme channel="tbs" start="20260131115400 +0000" stop="20260131125600 +0000">
-		<title>いくらかわかる金？</title>
-		<desc>豊洲市場の鮮魚を堪能できる居酒屋で満腹＆幸運スクラッチ宝くじ！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leubiorqlp.jpg?v=00e66386" />
-	</programme>
-	<programme channel="tbs" start="20260131125600 +0000" stop="20260131200000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leo8l074i0.jpg?v=7885d474" />
 	</programme>
 	<programme channel="tbs" start="20260131200000 +0000" stop="20260201100000 +0000">
 		<title>配信休止</title>
@@ -938,7 +878,7 @@
 	<programme channel="tbs" start="20260208105300 +0000" stop="20260208150000 +0000">
 		<title>選挙の日2026</title>
 		<desc>太田光がトップに問う！結果でどう変わる？わたしたちの暮らし</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leppiqqahp.jpg?v=f7b5fbe8" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leppiqqahp.jpg?v=fab600a1" />
 	</programme>
 	<programme channel="tbs" start="20260208150000 +0000" stop="20260208193000 +0000">
 		<title>配信休止</title>
@@ -1119,21 +1059,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le853x0f7m.jpg?v=2dd237d0" />
-	</programme>
-	<programme channel="tx" start="20260131115500 +0000" stop="20260131120000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lesco1dzq2.jpg?v=fc897589" />
-	</programme>
-	<programme channel="tx" start="20260131120000 +0000" stop="20260131125400 +0000">
-		<title>出没！アド街ック天国</title>
-		<desc>出没！アド街ック天国【鎌倉】２月が狙い目!?大人気観光地の“美味しい”を厳選☆</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/levpnbhgio.jpg?v=9e9c6537" />
-	</programme>
-	<programme channel="tx" start="20260131125400 +0000" stop="20260131190000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le7w2vcli2.jpg?v=2b763684" />
 	</programme>
 	<programme channel="tx" start="20260131190000 +0000" stop="20260201115000 +0000">
 		<title>配信準備中</title>
@@ -1595,16 +1520,6 @@
 		<desc>配信準備中</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le9mcojgwi.jpg?v=ab68f999" />
 	</programme>
-	<programme channel="cx" start="20260131100000 +0000" stop="20260131120000 +0000">
-		<title>新しいカギ</title>
-		<desc>名曲大好き土八先生２時間SP！昭和平成冬のヒットソングで早押し対決！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leol9mfm3n.jpg?v=d03ce1d9" />
-	</programme>
-	<programme channel="cx" start="20260131120000 +0000" stop="20260131141000 +0000">
-		<title>THE CONTE</title>
-		<desc>東京03かまいたちサンドら豪華コント祭典</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leaw02xa1e.jpg?v=86ccc298" />
-	</programme>
 	<programme channel="cx" start="20260131141000 +0000" stop="20260131144000 +0000">
 		<title>さんまのお笑い向上委員会</title>
 		<desc>▼ニッポンの社長ケツの特殊すぎる新婚生活！らぶおじさん</desc>
@@ -1969,5 +1884,10 @@
 		<title>全力！脱力タイムズ</title>
 		<desc>大久保佳代子＆山中柔太朗、オレの中の熊がガオ〜！？の巻</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leo11phymt.jpg?v=04d89822" />
+	</programme>
+	<programme channel="cx" start="20260214100000 +0000" stop="20260214110000 +0000">
+		<title>芸能人が本気で考えた！ドッキリGP</title>
+		<desc />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3jhbgaf3.jpg?v=10ac0cd1" />
 	</programme>
 </tv>
