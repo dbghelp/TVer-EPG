@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260201190000 +0000" stop="20260202100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lefeq07uku.jpg?v=aac3a49b" />
-	</programme>
 	<programme channel="ntv" start="20260202100000 +0000" stop="20260202110000 +0000">
 		<title>有吉ゼミ</title>
 		<desc>▼ジェシーの月曜大工が新シリーズ!中村獅童一家の子供部屋を大改造SP</desc>
@@ -507,8 +502,8 @@
 	</programme>
 	<programme channel="ex" start="20260209125400 +0000" stop="20260209141000 +0000">
 		<title>報道ステーション</title>
-		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/letft6c9ss.jpg?v=7fffb1f6" />
+		<desc>“高市旋風”から一夜…さらなる再編の動きも▽メダルラッシュへ!!注目のフィギュアスケート団体▽スノーボード…日本勢も活躍か▽寒波で氷点下続出ほか</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/letft6c9ss.jpg?v=80ffb389" />
 	</programme>
 	<programme channel="ex" start="20260209141000 +0000" stop="20260210100000 +0000">
 		<title>No programme</title>
@@ -559,11 +554,6 @@
 		<title>探偵さん、リュック開いてますよ</title>
 		<desc>【主演：松田龍平 ゲスト：夏帆】＜探偵×初恋…!?＞高校の同級生・リカ(夏帆)と再会した洋輔…夫の素行調査を行うために、横浜でデート!?洋輔、禁断の発明が明らかに…！</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ley3fusmjw.jpg?v=4ddc560d" />
-	</programme>
-	<programme channel="tbs" start="20260201173400 +0000" stop="20260201230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ledk9kyflv.jpg?v=d36c7dfd" />
 	</programme>
 	<programme channel="tbs" start="20260201230000 +0000" stop="20260202005500 +0000">
 		<title>ラヴィット！</title>
@@ -944,11 +934,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le853x0f7m.jpg?v=2dd237d0" />
-	</programme>
-	<programme channel="tx" start="20260201190000 +0000" stop="20260202092500 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lekvgfrbou.jpg?v=9eeff79e" />
 	</programme>
 	<programme channel="tx" start="20260202092500 +0000" stop="20260202110000 +0000">
 		<title>YOUは何しに日本へ？</title>
