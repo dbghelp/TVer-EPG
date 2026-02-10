@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260203190000 +0000" stop="20260204100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqc3h6ko8.jpg?v=d73a4615" />
-	</programme>
 	<programme channel="ntv" start="20260204100000 +0000" stop="20260204115400 +0000">
 		<title>1周回って知らない話</title>
 		<desc>高嶋ちさ子姉・みっちゃんがモデルに?子だくさんママの苦悩</desc>
@@ -670,11 +665,6 @@
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6npetd8g.jpg?v=a58cf736" />
 	</programme>
-	<programme channel="tbs" start="20260203193000 +0000" stop="20260203230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le9ze95gdt.jpg?v=069a9afc" />
-	</programme>
 	<programme channel="tbs" start="20260203230000 +0000" stop="20260204005500 +0000">
 		<title>ラヴィット！</title>
 		<desc>ヘディングボウリングで狙え！ストライク！</desc>
@@ -1099,11 +1089,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqikkfe7y.jpg?v=549c303f" />
-	</programme>
-	<programme channel="tx" start="20260203190000 +0000" stop="20260204092500 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lezm4amd19.jpg?v=6c7782e7" />
 	</programme>
 	<programme channel="tx" start="20260204092500 +0000" stop="20260204113500 +0000">
 		<title>世界を救う！ワンにゃフル物語～柴と三毛と亀梨くん～</title>
