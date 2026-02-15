@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260208193000 +0000" stop="20260209100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lef4e9am0k.jpg?v=c54ea1af" />
-	</programme>
 	<programme channel="ntv" start="20260209100000 +0000" stop="20260209110000 +0000">
 		<title>有吉ゼミ</title>
 		<desc>▼ギャル曽根vs大食い猛者4番勝負!五輪金アスリート&amp;爆食力士軍団参戦</desc>
@@ -502,8 +497,8 @@
 	</programme>
 	<programme channel="ex" start="20260216125400 +0000" stop="20260216141000 +0000">
 		<title>報道ステーション</title>
-		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le72w03knb.jpg?v=1407aea5" />
+		<desc>モーグル新種目に堀島行真が登場!!初代王者への道▽スノーボード・村瀬心椛が２冠へ▽侍Ｊにダルビッシュ有！ＭＬＢ流の技術を伝授▽暖かさ一転、また冬に</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le72w03knb.jpg?v=0d07a3a0" />
 	</programme>
 	<programme channel="ex" start="20260216141000 +0000" stop="20260217100000 +0000">
 		<title>No programme</title>
@@ -564,11 +559,6 @@
 		<title>探偵さん、リュック開いてますよ</title>
 		<desc>＜探偵×謎のネコ×ヒットマン!?＞猫嫌いの探偵・洋輔(松田龍平)が愛らしすぎる猫のとりこに！突然の仁義にゃきヒットマン登場で大波乱…決死の猫レスキュー作戦の行方は!?</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/les403wdyj.jpg?v=759d7a2d" />
-	</programme>
-	<programme channel="tbs" start="20260208193000 +0000" stop="20260208230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejzqysdow.jpg?v=1f70ffe7" />
 	</programme>
 	<programme channel="tbs" start="20260208230000 +0000" stop="20260209005500 +0000">
 		<title>ラヴィット！</title>
@@ -944,11 +934,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leyw3j2etx.jpg?v=cd485c92" />
-	</programme>
-	<programme channel="tx" start="20260208190000 +0000" stop="20260209140000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leoiixpned.jpg?v=93862e58" />
 	</programme>
 	<programme channel="tx" start="20260209140000 +0000" stop="20260209145800 +0000">
 		<title>ＷＢＳ（ワールドビジネスサテライト）</title>
