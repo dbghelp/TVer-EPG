@@ -20,21 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260208095500 +0000" stop="20260208100000 +0000">
-		<title>博士は今日も嫉妬する～人生が楽しくなる最新テクノロジー～</title>
-		<desc>▽雪を溶かす発熱シート</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lewezgwbzx.jpg?v=eeb0d591" />
-	</programme>
-	<programme channel="ntv" start="20260208100000 +0000" stop="20260208105800 +0000">
-		<title>ザ！鉄腕！DASH!!</title>
-		<desc>▽島の未開拓エリア大冒険SP!歴史を変える新食材発見か!?</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lewh95051w.jpg?v=7ff4831b" />
-	</programme>
-	<programme channel="ntv" start="20260208105800 +0000" stop="20260208145500 +0000">
-		<title>NNN衆院選 zero選挙2026 第1部</title>
-		<desc>【速報】8時発表「出口調査」藤井貴彦&amp;櫻井翔が高市首相を生直撃</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6v84i8ww.jpg?v=9ca6ed30" />
-	</programme>
 	<programme channel="ntv" start="20260208145500 +0000" stop="20260208193000 +0000">
 		<title>配信休止</title>
 		<desc> </desc>
@@ -375,16 +360,6 @@
 		<desc> </desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le9iz8bt2g.jpg?v=64be4beb" />
 	</programme>
-	<programme channel="ex" start="20260208095600 +0000" stop="20260208105000 +0000">
-		<title>ナニコレ珍百景</title>
-		<desc>浜辺美波も知らなかった…石川県＆四国の先っちょを突撃調査ＳＰ！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lehpt7ynss.jpg?v=aa69fee0" />
-	</programme>
-	<programme channel="ex" start="20260208105000 +0000" stop="20260208140000 +0000">
-		<title>選挙ステーション 2026</title>
-		<desc>開票速報は、とにかく速く！詳しく！ 大越健介・大下容子のタッグで、有権者の選択を読み解く！党首中継は、とことん深く！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leob7uciln.jpg?v=a84cfa37" />
-	</programme>
 	<programme channel="ex" start="20260208140000 +0000" stop="20260208150000 +0000">
 		<title>有働Times</title>
 		<desc>政権の信を問う衆院選…大勢判明？高市総理は▽選挙後の政局を生解説▽物価高で消費税減税は▽米中接近…外交の行方▽最激戦区の当落速報</desc>
@@ -599,16 +574,6 @@
 		<title>探偵さん、リュック開いてますよ</title>
 		<desc>＜探偵×謎のネコ×ヒットマン!?＞猫嫌いの探偵・洋輔(松田龍平)が愛らしすぎる猫のとりこに！突然の仁義にゃきヒットマン登場で大波乱…決死の猫レスキュー作戦の行方は!?</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/les403wdyj.jpg?v=759d7a2d" />
-	</programme>
-	<programme channel="tbs" start="20260208100000 +0000" stop="20260208105300 +0000">
-		<title>バナナマンのせっかくグルメ!!</title>
-		<desc>日村が雪国でド迫力グルメ満喫！札幌・秋田・氷見へ</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lebjct2og2.jpg?v=e27a00dd" />
-	</programme>
-	<programme channel="tbs" start="20260208105300 +0000" stop="20260208150000 +0000">
-		<title>選挙の日2026</title>
-		<desc>太田光がトップに問う！結果でどう変わる？わたしたちの暮らし</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leppiqqahp.jpg?v=f4b5f72f" />
 	</programme>
 	<programme channel="tbs" start="20260208150000 +0000" stop="20260208193000 +0000">
 		<title>配信休止</title>
@@ -995,11 +960,6 @@
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leyw3j2etx.jpg?v=cd485c92" />
 	</programme>
-	<programme channel="tx" start="20260208105500 +0000" stop="20260208143000 +0000">
-		<title>選挙サテライト</title>
-		<desc>選挙サテライト2026～”サナエノミクス”に審判！？　経済・マーケットの行方～</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le2vmakq2c.jpg?v=b43ab292" />
-	</programme>
 	<programme channel="tx" start="20260208143000 +0000" stop="20260208190000 +0000">
 		<title>配信準備中</title>
 		<desc>配信準備中</desc>
@@ -1332,8 +1292,8 @@
 	</programme>
 	<programme channel="tx" start="20260218092500 +0000" stop="20260218113000 +0000">
 		<title>ソレダメ！ ～あなたの常識は非常識！？～</title>
-		<desc>ソレダメ！～あなたの常識は非常識！？～スペシャル</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le9r32bb2t.jpg?v=94c3667e" />
+		<desc>ソレダメ！【中山秀征が地元へ”群馬＆茨城”観光大使がロケで発見！新常識ＳＰ】</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le9r32bb2t.jpg?v=97c36b37" />
 	</programme>
 	<programme channel="tx" start="20260218113000 +0000" stop="20260218125400 +0000">
 		<title>バカリズムのちょっとバカりハカってみた！</title>
@@ -1459,21 +1419,6 @@
 		<title>配信準備中</title>
 		<desc>配信準備中</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejdv5bruo.jpg?v=5d9d1a01" />
-	</programme>
-	<programme channel="cx" start="20260208100000 +0000" stop="20260208105800 +0000">
-		<title>千鳥の鬼レンチャン</title>
-		<desc>◆冬の名作タッグマッチ…ふるっぱー＆水森キンタロー。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/levr2uhjpn.jpg?v=dd496958" />
-	</programme>
-	<programme channel="cx" start="20260208105800 +0000" stop="20260208150000 +0000">
-		<title>ＬＩＶＥ選挙サンデー</title>
-		<desc>ＬＩＶＥ選挙サンデー【初の参加型選挙特番】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le7z8pxq3l.jpg?v=d0cfceb6" />
-	</programme>
-	<programme channel="cx" start="20260208150000 +0000" stop="20260209100000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</programme>
 	<programme channel="cx" start="20260209100000 +0000" stop="20260209120000 +0000">
 		<title>呼び出し先生タナカ</title>
@@ -1829,5 +1774,15 @@
 		<title>横浜ネイバーズ Season1</title>
 		<desc>第7話</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lepm2e2fny.jpg?v=a9e6b27c" />
+	</programme>
+	<programme channel="cx" start="20260222100000 +0000" stop="20260222115400 +0000">
+		<title>千鳥の鬼レンチャン</title>
+		<desc />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/legsf4e8a8.jpg?v=67f336a4" />
+	</programme>
+	<programme channel="cx" start="20260222115400 +0000" stop="20260222140900 +0000">
+		<title>地上波放送番組のお知らせ</title>
+		<desc>「Mr.サンデー」は地上波放送でお楽しみください！</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4hvc9bwe.jpg?v=d811d83e" />
 	</programme>
 </tv>
