@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260209193000 +0000" stop="20260210100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le9vf3fdrv.jpg?v=ce152936" />
-	</programme>
 	<programme channel="ntv" start="20260210100000 +0000" stop="20260210105400 +0000">
 		<title>オモウマい店</title>
 		<desc>【神奈川】伝説の名店ラーメン!限界ギリギリ二刀流店主</desc>
@@ -577,8 +572,8 @@
 	</programme>
 	<programme channel="ex" start="20260217125400 +0000" stop="20260217141000 +0000">
 		<title>報道ステーション</title>
-		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6npetd8g.jpg?v=9cf3625c" />
+		<desc>高市チルドレン一堂に…脱派閥で新人議員教育▽犯人像は？広島殺傷▽小林陵侑＆二階堂蓮…新種目で初代王者へ!!▽りくりゅう…逆転はほか</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6npetd8g.jpg?v=9df363ef" />
 	</programme>
 	<programme channel="ex" start="20260217141000 +0000" stop="20260218120000 +0000">
 		<title>No programme</title>
@@ -669,11 +664,6 @@
 		<title>報道ステーション</title>
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ledx8hg1lt.jpg?v=7577d3fe" />
-	</programme>
-	<programme channel="tbs" start="20260209193000 +0000" stop="20260209230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6i5pzku7.jpg?v=e5936019" />
 	</programme>
 	<programme channel="tbs" start="20260209230000 +0000" stop="20260210005500 +0000">
 		<title>ラヴィット！</title>
@@ -1089,11 +1079,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le9c7soaw6.jpg?v=168e5cd5" />
-	</programme>
-	<programme channel="tx" start="20260209190000 +0000" stop="20260210092500 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lecep75k2p.jpg?v=efb2fa9d" />
 	</programme>
 	<programme channel="tx" start="20260210092500 +0000" stop="20260210115400 +0000">
 		<title>世界が騒然！本当にあった(秘)衝撃ファイル</title>
