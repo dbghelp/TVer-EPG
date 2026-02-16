@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260209140000 +0000" stop="20260209193000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leczfvuizw.jpg?v=336493a4" />
-	</programme>
 	<programme channel="ntv" start="20260209193000 +0000" stop="20260210100000 +0000">
 		<title>配信休止</title>
 		<desc> </desc>
@@ -398,7 +393,7 @@
 	<programme channel="ntv" start="20260222130000 +0000" stop="20260222133000 +0000">
 		<title>おしゃれクリップ</title>
 		<desc>ゲスト 成田凌</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lewgf7cfgp.jpg?v=4738be58" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lewgf7cfgp.jpg?v=4838bfeb" />
 	</programme>
 	<programme channel="ntv" start="20260222133000 +0000" stop="20260222142500 +0000">
 		<title>パンチドランク・ウーマン −脱獄まであと××日−</title>
@@ -675,11 +670,6 @@
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ledx8hg1lt.jpg?v=7577d3fe" />
 	</programme>
-	<programme channel="tbs" start="20260209135700 +0000" stop="20260209193000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lezc9s13hp.jpg?v=c2b0a337" />
-	</programme>
 	<programme channel="tbs" start="20260209193000 +0000" stop="20260209230000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
@@ -933,32 +923,32 @@
 	<programme channel="tbs" start="20260217171500 +0000" stop="20260217230000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejviuwd55.jpg?v=fe9c60ed" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejviuwd55.jpg?v=f79c55e8" />
 	</programme>
 	<programme channel="tbs" start="20260217230000 +0000" stop="20260218005500 +0000">
 		<title>ラヴィット！</title>
 		<desc>日本でいちばん明るい朝番組</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqo504zsy.jpg?v=743ed3fd" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqo504zsy.jpg?v=6d3ec8f8" />
 	</programme>
 	<programme channel="tbs" start="20260218005500 +0000" stop="20260218125800 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le1xvbnvd3.jpg?v=6cd6e6b2" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le1xvbnvd3.jpg?v=67d6ded3" />
 	</programme>
 	<programme channel="tbs" start="20260218125800 +0000" stop="20260218130000 +0000">
 		<title>お知らせ</title>
 		<desc>リアルタイム配信予定の番組は「TBS系」タブよりご確認いただけます。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le5orybosa.jpg?v=e9801b8c" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le5orybosa.jpg?v=e88019f9" />
 	</programme>
 	<programme channel="tbs" start="20260218130000 +0000" stop="20260218140000 +0000">
 		<title>水曜日のダウンタウン</title>
 		<desc>芸能人が持ち寄った“説”を検証</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le2hlo5i51.jpg?v=732d2f75" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le2hlo5i51.jpg?v=6c2d2470" />
 	</programme>
 	<programme channel="tbs" start="20260218140000 +0000" stop="20260218193000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leocig66w7.jpg?v=81fb34f2" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leocig66w7.jpg?v=7cfb2d13" />
 	</programme>
 	<programme channel="tbs" start="20260218193000 +0000" stop="20260218230000 +0000">
 		<title>配信休止</title>
@@ -1095,25 +1085,10 @@
 		<desc>プラントハンターがボルネオ島で珍奇植物探し！3Dハント旅</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le425tjj5r.jpg?v=e35dff62" />
 	</programme>
-	<programme channel="tx" start="20260209140000 +0000" stop="20260209145800 +0000">
-		<title>ＷＢＳ（ワールドビジネスサテライト）</title>
-		<desc>ＷＢＳ【自民党が歴史的大勝で今後の経済政策は？】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le8xp62vll.jpg?v=8cdda758" />
-	</programme>
-	<programme channel="tx" start="20260209145800 +0000" stop="20260209150600 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lerqt4eqvu.jpg?v=c40b5560" />
-	</programme>
-	<programme channel="tx" start="20260209150600 +0000" stop="20260209155500 +0000">
-		<title>キンパとおにぎり～恋するふたりは似ていてちがう～</title>
-		<desc>キンパとおにぎり　第５話「やりがいって何だっけ？」</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lelqds96ap.jpg?v=65c4a402" />
-	</programme>
-	<programme channel="tx" start="20260209155500 +0000" stop="20260209190000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lehgk0yigl.jpg?v=67e445df" />
+	<programme channel="tbs" start="20260223135700 +0000" stop="20260223193000 +0000">
+		<title>配信休止</title>
+		<desc>配信休止</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le9c7soaw6.jpg?v=168e5cd5" />
 	</programme>
 	<programme channel="tx" start="20260209190000 +0000" stop="20260210092500 +0000">
 		<title>配信準備中</title>
@@ -1630,20 +1605,20 @@
 		<desc>ＷＢＳ</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lewzlcdjfy.jpg?v=cd75e859" />
 	</programme>
-	<programme channel="cx" start="20260209135400 +0000" stop="20260209140000 +0000">
-		<title>配信番組のお知らせ</title>
-		<desc>🐶🐩🐕</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6s6eb7pu.jpg?v=a9eb511a" />
+	<programme channel="tx" start="20260223135800 +0000" stop="20260223140600 +0000">
+		<title>配信準備中</title>
+		<desc>配信準備中</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lep7ocxlfs.jpg?v=e7778106" />
 	</programme>
-	<programme channel="cx" start="20260209140000 +0000" stop="20260209143000 +0000">
-		<title>けるとめる</title>
-		<desc>松田元太in沖縄！長友佑都とSP対談！ボールで友だちになれるか？</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le867osgxw.jpg?v=58f92a4d" />
+	<programme channel="tx" start="20260223140600 +0000" stop="20260223145500 +0000">
+		<title>キンパとおにぎり～恋するふたりは似ていてちがう～</title>
+		<desc>キンパとおにぎり　第７話「君にとって僕は　僕にとって君は」</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leegbkoeo3.jpg?v=9db52bdf" />
 	</programme>
-	<programme channel="cx" start="20260209143000 +0000" stop="20260210090000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
+	<programme channel="tx" start="20260223145500 +0000" stop="20260223190000 +0000">
+		<title>配信準備中</title>
+		<desc>配信準備中</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lep2scaq8k.jpg?v=afd071e9" />
 	</programme>
 	<programme channel="cx" start="20260210090000 +0000" stop="20260210110000 +0000">
 		<title>ミラノ・コルティナ2026オリンピック中継のお知らせ</title>
@@ -2013,6 +1988,16 @@
 	<programme channel="cx" start="20260223130000 +0000" stop="20260223135400 +0000">
 		<title>夫に間違いありません</title>
 		<desc>#8</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/legkf25awk.jpg?v=96aa4dc0" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/legkf25awk.jpg?v=a5aa655d" />
+	</programme>
+	<programme channel="cx" start="20260223135400 +0000" stop="20260223140000 +0000">
+		<title>配信番組のお知らせ</title>
+		<desc>🐶🐩🐕</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le25wbt2db.jpg?v=d3b5309a" />
+	</programme>
+	<programme channel="cx" start="20260223140000 +0000" stop="20260223143000 +0000">
+		<title>けるとめる</title>
+		<desc> </desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lekuib5liz.jpg?v=da7fd987" />
 	</programme>
 </tv>
