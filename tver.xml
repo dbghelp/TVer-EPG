@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260212140000 +0000" stop="20260212193000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ler35q5ixv.jpg?v=99649403" />
-	</programme>
 	<programme channel="ntv" start="20260212193000 +0000" stop="20260213173400 +0000">
 		<title>配信休止</title>
 		<desc> </desc>
@@ -415,6 +410,11 @@
 		<desc>作家&amp;漫画家SP</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4iqqpf0k.jpg?v=397e7d61" />
 	</programme>
+	<programme channel="ntv" start="20260226140000 +0000" stop="20260226193000 +0000">
+		<title>配信休止</title>
+		<desc> </desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le5elwt7fx.jpg?v=176a4ae7" />
+	</programme>
 	<programme channel="ex" start="20260213095000 +0000" stop="20260213110000 +0000">
 		<title>ザワつく！ 金曜日</title>
 		<desc>安倍元総理から一茂さんに政界オファー！？ 大福VSたい焼きで究極の2択</desc>
@@ -690,11 +690,6 @@
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lekl9rhrfg.jpg?v=87b0858b" />
 	</programme>
-	<programme channel="tbs" start="20260212140000 +0000" stop="20260212193000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4qg21vkx.jpg?v=c59cbce0" />
-	</programme>
 	<programme channel="tbs" start="20260212193000 +0000" stop="20260212230000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
@@ -873,32 +868,32 @@
 	<programme channel="tbs" start="20260218193000 +0000" stop="20260218230000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lew023tisk.jpg?v=9fac66cf" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lew023tisk.jpg?v=a4ac6eae" />
 	</programme>
 	<programme channel="tbs" start="20260218230000 +0000" stop="20260219005500 +0000">
 		<title>ラヴィット！</title>
 		<desc>▼マヂカルラブリーの本気肉調査隊！銀座の最高級すき焼きに一同舌鼓！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lec5r9ubl4.jpg?v=db2c7944" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lec5r9ubl4.jpg?v=dc2c7ad7" />
 	</programme>
 	<programme channel="tbs" start="20260219005500 +0000" stop="20260219100000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le8nu5u7r9.jpg?v=ec787ca3" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le8nu5u7r9.jpg?v=f978911a" />
 	</programme>
 	<programme channel="tbs" start="20260219100000 +0000" stop="20260219105400 +0000">
 		<title>プレバト！！</title>
 		<desc>【日本一ハンバーガー！火鍋…大ヒットを色鉛筆で描く★名人１０段誕生？】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le2mfsxf2f.jpg?v=8e06ce1b" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le2mfsxf2f.jpg?v=8f06cfae" />
 	</programme>
 	<programme channel="tbs" start="20260219105400 +0000" stop="20260219124000 +0000">
 		<title>空っぽハウス</title>
 		<desc>悩めるお家を劇的チェンジ★空っぽハウス★家の荷物を全部出し理想の自宅に作り変える</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leefr3agbj.jpg?v=5fbe144e" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leefr3agbj.jpg?v=60be15e1" />
 	</programme>
 	<programme channel="tbs" start="20260219124000 +0000" stop="20260219193000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leus0z691h.jpg?v=e8a5498c" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leus0z691h.jpg?v=efa55491" />
 	</programme>
 	<programme channel="tbs" start="20260219193000 +0000" stop="20260219230000 +0000">
 		<title>配信休止</title>
@@ -943,7 +938,7 @@
 	<programme channel="tbs" start="20260220194500 +0000" stop="20260221194000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le30n9ahsd.jpg?v=147de1fa" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le30n9ahsd.jpg?v=0f7dda1b" />
 	</programme>
 	<programme channel="tbs" start="20260221194000 +0000" stop="20260222100000 +0000">
 		<title>配信休止</title>
@@ -1100,20 +1095,10 @@
 		<desc>家のお悩み解決SP!</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lexuym0cp9.jpg?v=ad1cb849" />
 	</programme>
-	<programme channel="tx" start="20260212135800 +0000" stop="20260212140600 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leywi89gtb.jpg?v=d1c2dbf1" />
-	</programme>
-	<programme channel="tx" start="20260212140600 +0000" stop="20260212145500 +0000">
-		<title>カンブリア宮殿</title>
-		<desc>カンブリア宮殿【“オフィスまるごと”で売り上げ１兆円！その強さの秘訣】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le2qfvu9l5.jpg?v=500c314b" />
-	</programme>
-	<programme channel="tx" start="20260212145500 +0000" stop="20260212190000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lea1oa4xf7.jpg?v=45bca84f" />
+	<programme channel="tbs" start="20260226140000 +0000" stop="20260226193000 +0000">
+		<title>配信休止</title>
+		<desc>配信休止</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le79r58ulr.jpg?v=db9df33e" />
 	</programme>
 	<programme channel="tx" start="20260212190000 +0000" stop="20260213092500 +0000">
 		<title>配信準備中</title>
@@ -1635,20 +1620,20 @@
 		<desc>ＷＢＳ</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le70zt5fag.jpg?v=55a32bd8" />
 	</programme>
-	<programme channel="cx" start="20260212135400 +0000" stop="20260212140000 +0000">
-		<title>配信番組のお知らせ</title>
-		<desc>🐶🐩🐕</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lee5ph2dn5.jpg?v=9889343b" />
+	<programme channel="tx" start="20260226135800 +0000" stop="20260226140600 +0000">
+		<title>配信準備中</title>
+		<desc>配信準備中</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le7pb4uqds.jpg?v=cfbc17fc" />
 	</programme>
-	<programme channel="cx" start="20260212140000 +0000" stop="20260212143000 +0000">
-		<title>トークィーンズ</title>
-		<desc>▼若槻推薦MAZZEL登場…酔っ払ってぴぴゃで話題！令和恋愛観</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leeq822lkl.jpg?v=bce46a4a" />
+	<programme channel="tx" start="20260226140600 +0000" stop="20260226145500 +0000">
+		<title>カンブリア宮殿</title>
+		<desc>カンブリア宮殿【東日本大震災から１５年地域の未来を拓く！被災企業トップの決断】</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejmqb81ob.jpg?v=cc64357e" />
 	</programme>
-	<programme channel="cx" start="20260212143000 +0000" stop="20260213100000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
+	<programme channel="tx" start="20260226145500 +0000" stop="20260226190000 +0000">
+		<title>配信準備中</title>
+		<desc>配信準備中</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lew37oyb4d.jpg?v=f51e9c7d" />
 	</programme>
 	<programme channel="cx" start="20260213100000 +0000" stop="20260213120000 +0000">
 		<title>坂上どうぶつ王国</title>
@@ -1985,6 +1970,11 @@
 		<desc>🐶🐩🐕</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lem5mycm36.jpg?v=9802c2be" />
 	</programme>
+	<programme channel="cx" start="20260224140000 +0000" stop="20260225100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
+	</programme>
 	<programme channel="cx" start="20260225100000 +0000" stop="20260225120000 +0000">
 		<title>奇跡体験！アンビリバボー</title>
 		<desc>２時間SP☆あの人の驚き＆壮絶人生！！☆アンビリ履歴SHOW</desc>
@@ -2033,6 +2023,16 @@
 	<programme channel="cx" start="20260226130000 +0000" stop="20260226135400 +0000">
 		<title>プロフェッショナル 保険調査員・天音蓮</title>
 		<desc>第8話</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lew8cam09w.jpg?v=633b8270" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lew8cam09w.jpg?v=6a3b8d75" />
+	</programme>
+	<programme channel="cx" start="20260226135400 +0000" stop="20260226140000 +0000">
+		<title>配信番組のお知らせ</title>
+		<desc>🐶🐩🐕</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leiwl5veqn.jpg?v=278913b7" />
+	</programme>
+	<programme channel="cx" start="20260226140000 +0000" stop="20260226143000 +0000">
+		<title>トークィーンズ</title>
+		<desc />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6im3t70f.jpg?v=6008c661" />
 	</programme>
 </tv>
