@@ -20,36 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260215095500 +0000" stop="20260215100000 +0000">
-		<title>博士は今日も嫉妬する～人生が楽しくなる最新テクノロジー～</title>
-		<desc>▽1時間で出来上がるチョコレート</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lews45kevd.jpg?v=53da40a1" />
-	</programme>
-	<programme channel="ntv" start="20260215100000 +0000" stop="20260215105800 +0000">
-		<title>ザ！鉄腕！DASH!!</title>
-		<desc>▽新宿チョコ計画!真冬のカカオ栽培&amp;松島茶屋コタツづくり</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leiz9nq0jt.jpg?v=9bd048ea" />
-	</programme>
-	<programme channel="ntv" start="20260215105800 +0000" stop="20260215115400 +0000">
-		<title>世界の果てまでイッテQ！</title>
-		<desc>ちゃんみな初参戦!極寒フィンランドで大爆笑の寒中TAKE</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lewdqwfe7n.jpg?v=ed2ff2c6" />
-	</programme>
-	<programme channel="ntv" start="20260215115400 +0000" stop="20260215120000 +0000">
-		<title>お知らせ</title>
-		<desc>リアルタイム配信予定の番組は「日テレ系」タブよりご確認いただけます。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le675bbve3.jpg?v=1b9b1c53" />
-	</programme>
-	<programme channel="ntv" start="20260215120000 +0000" stop="20260215125400 +0000">
-		<title>Golden SixTONES</title>
-		<desc>柄本佑&amp;北村一輝悶絶!!新企画【ラーメンorノットラーメン】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leafoozgvx.jpg?v=b4c9ddcd" />
-	</programme>
-	<programme channel="ntv" start="20260215125400 +0000" stop="20260215193000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lel89qopja.jpg?v=b61100f7" />
-	</programme>
 	<programme channel="ntv" start="20260215193000 +0000" stop="20260216193000 +0000">
 		<title>配信休止</title>
 		<desc> </desc>
@@ -370,26 +340,6 @@
 		<desc> </desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lentu1ofd7.jpg?v=d33c88c2" />
 	</programme>
-	<programme channel="ex" start="20260215095600 +0000" stop="20260215105000 +0000">
-		<title>ナニコレ珍百景</title>
-		<desc>上白石萌歌も知らない鹿児島・離島の珍伝統＆半島の先っちょ大調査&amp;日本最古の〇〇珍百景</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/les5hbwiaz.jpg?v=4306c72a" />
-	</programme>
-	<programme channel="ex" start="20260215105000 +0000" stop="20260215105400 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
-	</programme>
-	<programme channel="ex" start="20260215105400 +0000" stop="20260215115600 +0000">
-		<title>ポツンと一軒家</title>
-		<desc>愛媛県の山間部で山小屋暮らしをしていた男性を６年半ぶりに再訪！自ら山を開拓しながらＡＩや最新テクノロジーを取り入れた“次世代の山暮らし”スタイルに密着！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lews6o9gth.jpg?v=557cdd9e" />
-	</programme>
-	<programme channel="ex" start="20260215115600 +0000" stop="20260215131500 +0000">
-		<title>有働Times</title>
-		<desc>堀島行真が悲願の金へ‥デュアルモーグル速報▽“涙の銀”ジャンプ二階堂蓮‥父への思い▽高市総理「積極財政」で国民生活は▽ダルビッシュが参加‥侍Ｊ合宿にファン集結</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ler0l9r1e1.jpg?v=e2ce6528" />
-	</programme>
 	<programme channel="ex" start="20260215131500 +0000" stop="20260215140900 +0000">
 		<title>50分間の恋人</title>
 		<desc>#4 それでも作ってしまう</desc>
@@ -555,6 +505,11 @@
 		<desc>#5　遅すぎた告白</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejqkibt6c.jpg?v=bf08eb4e" />
 	</programme>
+	<programme channel="ex" start="20260222140900 +0000" stop="20260223125400 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
+	</programme>
 	<programme channel="ex" start="20260223125400 +0000" stop="20260223141000 +0000">
 		<title>報道ステーション</title>
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
@@ -619,26 +574,6 @@
 		<title>探偵さん、リュック開いてますよ</title>
 		<desc>【最終回】家族との再会…探偵、アメリカへ!?旅館再開を目指す洋輔(松田龍平)の前に、母(原田美枝子)が【あの人】からの手紙を持って現れ…！再会と別れ…洋輔の決断は？</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leck7lnwkr.jpg?v=1caad8a0" />
-	</programme>
-	<programme channel="tbs" start="20260215100000 +0000" stop="20260215120000 +0000">
-		<title>バナナマンのせっかくグルメ!!</title>
-		<desc>雪の観光名所へ！新潟に日村＆山形に冬スポーツ軍団</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6da7n6hp.jpg?v=7b33c4b8" />
-	</programme>
-	<programme channel="tbs" start="20260215120000 +0000" stop="20260215125400 +0000">
-		<title>リブート</title>
-		<desc>第四話「光明」</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lednzjlskj.jpg?v=cfcbc042" />
-	</programme>
-	<programme channel="tbs" start="20260215125400 +0000" stop="20260215130000 +0000">
-		<title>お知らせ</title>
-		<desc>リアルタイム配信予定の番組は「TBS系」タブよりご確認いただけます。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le0qn214np.jpg?v=d5878063" />
-	</programme>
-	<programme channel="tbs" start="20260215130000 +0000" stop="20260215135400 +0000">
-		<title>日曜日の初耳学</title>
-		<desc>竹内涼真×林修◆町田啓太が暴露!?（秘）話＆親友・中条あやみも登場</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lehsflupae.jpg?v=c2e48e0f" />
 	</programme>
 	<programme channel="tbs" start="20260215135400 +0000" stop="20260215140000 +0000">
 		<title>お知らせ</title>
@@ -1004,21 +939,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ledet3vlg3.jpg?v=00ec9ca4" />
-	</programme>
-	<programme channel="tx" start="20260215115000 +0000" stop="20260215125400 +0000">
-		<title>家、ついて行ってイイですか？</title>
-		<desc>家、ついて行ってイイですか？余命宣告からの復活！？アート仙人＆クマと暮らす女性</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le20a5zx2i.jpg?v=903c3bae" />
-	</programme>
-	<programme channel="tx" start="20260215125400 +0000" stop="20260215130000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4tueiq6o.jpg?v=8b60be8d" />
-	</programme>
-	<programme channel="tx" start="20260215130000 +0000" stop="20260215134800 +0000">
-		<title>有吉ぃぃeeeee！～そうだ！今からお前んチでゲームしない？</title>
-		<desc>有吉ぃぃeeeee！【FC26】有吉JAPANが2年ぶり再始動だあ！元日本代表“天才”加入</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqml12xr5.jpg?v=4b967473" />
 	</programme>
 	<programme channel="tx" start="20260215134800 +0000" stop="20260215190000 +0000">
 		<title>配信準備中</title>
@@ -1505,16 +1425,6 @@
 		<desc>配信準備中</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leq04bctv9.jpg?v=ca0b8eaf" />
 	</programme>
-	<programme channel="cx" start="20260215100000 +0000" stop="20260215115400 +0000">
-		<title>千鳥の鬼レンチャン</title>
-		<desc>◆キスマイ軍vs芸人軍！プレッシャーゲーム第２弾</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le5phgke3v.jpg?v=14f12705" />
-	</programme>
-	<programme channel="cx" start="20260215115400 +0000" stop="20260215140900 +0000">
-		<title>地上波放送番組のお知らせ</title>
-		<desc>「Mr.サンデー」は地上波放送でお楽しみください！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lesszg4ozh.jpg?v=22527207" />
-	</programme>
 	<programme channel="cx" start="20260215140900 +0000" stop="20260215141500 +0000">
 		<title>配信番組のお知らせ</title>
 		<desc>🐶🐩🐕</desc>
@@ -1899,5 +1809,15 @@
 		<title>横浜ネイバーズ Season1</title>
 		<desc>第8話</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le28l0i6lg.jpg?v=19a7065f" />
+	</programme>
+	<programme channel="cx" start="20260301100000 +0000" stop="20260301115400 +0000">
+		<title>地上波放送番組のお知らせ</title>
+		<desc>「ジャンクSPORTS 岡本和真いってらっしゃい！ 世界に誇る日本のアスリートSP」は地上波放送でお楽しみください！</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leuuv80vqz.jpg?v=dc93ab93" />
+	</programme>
+	<programme channel="cx" start="20260301115400 +0000" stop="20260301140900 +0000">
+		<title>地上波放送番組のお知らせ</title>
+		<desc>「Mr.サンデー」は地上波放送でお楽しみください！</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/letg7sld0z.jpg?v=be92222f" />
 	</programme>
 </tv>
