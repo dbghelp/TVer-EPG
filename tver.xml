@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260217193000 +0000" stop="20260218100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejxkco55i.jpg?v=2298cbd9" />
-	</programme>
 	<programme channel="ntv" start="20260218100000 +0000" stop="20260218105400 +0000">
 		<title>有吉の壁</title>
 		<desc>▼現役力士参戦!関東最大級温浴施設で爆笑ネタ!映画で話題の河内大和も</desc>
@@ -612,8 +607,8 @@
 	</programme>
 	<programme channel="ex" start="20260225125400 +0000" stop="20260225141000 +0000">
 		<title>報道ステーション</title>
-		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le132wxerg.jpg?v=9a61ef71" />
+		<desc>五輪・金メダル！りくりゅうペア、帰国後初！独占生出演▽アメリカ・トランプ氏が演説…支持低迷で経済政策は▽渇水地域に待望の雨▽松坂大輔が侍Ｊ投手を直撃▽ＭＬＢ情報</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le132wxerg.jpg?v=9961edde" />
 	</programme>
 	<programme channel="ex" start="20260225141000 +0000" stop="20260226100000 +0000">
 		<title>No programme</title>
@@ -1104,11 +1099,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le29kr94pz.jpg?v=94afc52d" />
-	</programme>
-	<programme channel="tx" start="20260217190000 +0000" stop="20260218092500 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leuonaowvl.jpg?v=28c03867" />
 	</programme>
 	<programme channel="tx" start="20260218092500 +0000" stop="20260218113000 +0000">
 		<title>ソレダメ！ ～あなたの常識は非常識！？～</title>
