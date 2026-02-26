@@ -20,26 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260219115400 +0000" stop="20260219120000 +0000">
-		<title>お知らせ</title>
-		<desc>リアルタイム配信予定の番組は「日テレ系」タブよりご確認いただけます。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lerczs2juv.jpg?v=b374eb70" />
-	</programme>
-	<programme channel="ntv" start="20260219120000 +0000" stop="20260219125400 +0000">
-		<title>秘密のケンミンSHOW極</title>
-		<desc>和歌山最強パンチェーン&amp;茨城なぜ干し芋王国</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/levs8ri4sh.jpg?v=4412f697" />
-	</programme>
-	<programme channel="ntv" start="20260219125400 +0000" stop="20260219130000 +0000">
-		<title>お知らせ</title>
-		<desc>リアルタイム配信予定の番組は「日テレ系」タブよりご確認いただけます。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lekkur8btk.jpg?v=955aa9ca" />
-	</programme>
-	<programme channel="ntv" start="20260219130000 +0000" stop="20260219140000 +0000">
-		<title>見取り図の間取り図ミステリー</title>
-		<desc>移住&amp;2拠点生活SP</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lel6f4iroh.jpg?v=efd500c9" />
-	</programme>
 	<programme channel="ntv" start="20260219140000 +0000" stop="20260219193000 +0000">
 		<title>配信休止</title>
 		<desc> </desc>
@@ -475,20 +455,10 @@
 		<desc>2時間SP</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/levqwm4bjg.jpg?v=87e89861" />
 	</programme>
-	<programme channel="ex" start="20260219120000 +0000" stop="20260219125400 +0000">
-		<title>おコメの女－国税局資料調査課・雑国室－</title>
-		<desc>第7話</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3jduf9tk.jpg?v=4062ae19" />
-	</programme>
-	<programme channel="ex" start="20260219125400 +0000" stop="20260219141000 +0000">
-		<title>報道ステーション</title>
-		<desc>メダルラッシュ！金・銀・銅…スノーボード日本勢が生出演▽世界初ｉＰＳ細胞の再生医療製品…ついに？▽関東で花粉が本格飛散▽松坂大輔が取材…侍Ｊの武器</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le8l62g9br.jpg?v=fe151b9a" />
-	</programme>
-	<programme channel="ex" start="20260219141000 +0000" stop="20260220095000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
+	<programme channel="ntv" start="20260305120000 +0000" stop="20260305193000 +0000">
+		<title>配信休止</title>
+		<desc> </desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lel54tr8vk.jpg?v=e212e5b5" />
 	</programme>
 	<programme channel="ex" start="20260220095000 +0000" stop="20260220110000 +0000">
 		<title>ザワつく！ 金曜日</title>
@@ -637,8 +607,8 @@
 	</programme>
 	<programme channel="ex" start="20260226125400 +0000" stop="20260226141000 +0000">
 		<title>報道ステーション</title>
-		<desc>アメリカ・イランが核協議へ…決裂なら軍事行動か▽消費減税へ本格論戦▽花粉、大量飛散の恐れ▽メジャー組が続々合流！侍Ｊ合宿…大谷翔平は▽スノーボードほか</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lekl9rhrfg.jpg?v=42e6e4a6" />
+		<desc>アメリカ・イランが核協議…決裂なら軍事行動か▽消費減税へ本格論戦▽花粉、大量飛散の恐れ▽メジャー組が続々合流！侍Ｊ合宿…大谷翔平は▽スノーボードほか</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lekl9rhrfg.jpg?v=45e6e95f" />
 	</programme>
 	<programme channel="ex" start="20260226141000 +0000" stop="20260227095000 +0000">
 		<title>No programme</title>
@@ -655,10 +625,20 @@
 		<desc>「鍋料理」の定義にマツ有物申す！ マツコが絶賛！憧れお宿４選</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le9x3ng6ow.jpg?v=7d1ece4f" />
 	</programme>
+	<programme channel="ex" start="20260227115400 +0000" stop="20260227125400 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
+	</programme>
 	<programme channel="ex" start="20260227125400 +0000" stop="20260227141000 +0000">
 		<title>報道ステーション</title>
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lec2ag5yxm.jpg?v=4dfc7e0a" />
+	</programme>
+	<programme channel="ex" start="20260227141000 +0000" stop="20260227141500 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
 	</programme>
 	<programme channel="ex" start="20260227141500 +0000" stop="20260227151500 +0000">
 		<title>探偵さん、リュック開いてますよ</title>
@@ -720,15 +700,15 @@
 		<desc>ヒロミ＆相葉雅紀が、日本全国の“お困りごと”を全力で解決！汗と泥にまみれながら、立ちはだかる難しいお困りごとの数々に体当たりで挑む！</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le2wwk1g9t.jpg?v=781fc10e" />
 	</programme>
-	<programme channel="tbs" start="20260219105400 +0000" stop="20260219124000 +0000">
-		<title>空っぽハウス</title>
-		<desc>悩めるお家を劇的チェンジ★空っぽハウス★家の荷物を全部出し理想の自宅に作り変える</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leefr3agbj.jpg?v=60be15e1" />
+	<programme channel="ex" start="20260305120000 +0000" stop="20260305130000 +0000">
+		<title>おコメの女－国税局資料調査課・雑国室－</title>
+		<desc>「脱税の上に成り立つ幸せは、認められません」敏腕国税調査官・米田正子と個性派メンバーたちが、ズルくあくどい脱税者を成敗する痛快エンターテインメント、ついに完結！</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3zehrxxk.jpg?v=6cf103d4" />
 	</programme>
-	<programme channel="tbs" start="20260219124000 +0000" stop="20260219193000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leus0z691h.jpg?v=efa55491" />
+	<programme channel="ex" start="20260305130000 +0000" stop="20260305141600 +0000">
+		<title>報道ステーション</title>
+		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/led1xs2r2j.jpg?v=b52a3cf8" />
 	</programme>
 	<programme channel="tbs" start="20260219193000 +0000" stop="20260219230000 +0000">
 		<title>配信休止</title>
@@ -942,8 +922,8 @@
 	</programme>
 	<programme channel="tbs" start="20260226230000 +0000" stop="20260227005500 +0000">
 		<title>ラヴィット！</title>
-		<desc>日本でいちばん明るい朝番組</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le2wll5x5e.jpg?v=7a7f91d5" />
+		<desc>【ロコディ超特急アロハ&amp;リョウガ参戦▼EXIT買い物コンシェルジット】</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le2wll5x5e.jpg?v=7c7f94fb" />
 	</programme>
 	<programme channel="tbs" start="20260227005500 +0000" stop="20260227130000 +0000">
 		<title>配信休止</title>
@@ -973,7 +953,7 @@
 	<programme channel="tbs" start="20260228115400 +0000" stop="20260228125600 +0000">
 		<title>いくらかわかる金？</title>
 		<desc>ドケチ春日ガストで荒稼ぎ？キンプリ永瀬＆ミセス藤澤がクレーン！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqmz6utz3.jpg?v=4eff3427" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqmz6utz3.jpg?v=4dff3294" />
 	</programme>
 	<programme channel="tbs" start="20260228125600 +0000" stop="20260228200000 +0000">
 		<title>配信休止</title>
@@ -1135,20 +1115,15 @@
 		<desc>プレバト！！【丸シールアートで驚きの傑作★夏井先生大絶賛の句が誕生!?】</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/levmikl9ru.jpg?v=f4f4b908" />
 	</programme>
-	<programme channel="tx" start="20260219115800 +0000" stop="20260219125400 +0000">
-		<title>ナゼそこ？＋</title>
-		<desc>ナゼそこ？「北海道…マイナス２℃で水浴び!?腹筋バキバキ66歳(秘)世界的スゴイ人」SP</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le09h0xjqg.jpg?v=685a784d" />
+	<programme channel="tbs" start="20260305110000 +0000" stop="20260305130000 +0000">
+		<title>ニンゲン観察バラエティ モニタリング</title>
+		<desc>平野レミ直伝レシピで菅野美穂が超豪快調理！？</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le0503dx2x.jpg?v=ca4caa9c" />
 	</programme>
-	<programme channel="tx" start="20260219125400 +0000" stop="20260219130000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le1znngrnr.jpg?v=b34c08e4" />
-	</programme>
-	<programme channel="tx" start="20260219130000 +0000" stop="20260219135800 +0000">
-		<title>ＷＢＳ（ワールドビジネスサテライト）</title>
-		<desc>ＷＢＳ　第３の賃上げとは？▽速報！「ｉＰＳ再生医療」の実用化へ”承認”を了承</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lehix860fm.jpg?v=e5767957" />
+	<programme channel="tbs" start="20260305130000 +0000" stop="20260305140000 +0000">
+		<title>櫻井･有吉THE夜会</title>
+		<desc>櫻井翔・有吉弘行がお届けする大人のバラエティ</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lekut51zuk.jpg?v=137647e2" />
 	</programme>
 	<programme channel="tx" start="20260219135800 +0000" stop="20260219140600 +0000">
 		<title>配信準備中</title>
@@ -1403,7 +1378,7 @@
 	<programme channel="tx" start="20260226092500 +0000" stop="20260226125000 +0000">
 		<title>世界の秘境で大発見！日本食堂</title>
 		<desc>世界の秘境で大発見！日本食堂　第２６弾</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lezcfcmldo.jpg?v=f5305249" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lezcfcmldo.jpg?v=f43050b6" />
 	</programme>
 	<programme channel="tx" start="20260226125000 +0000" stop="20260226130000 +0000">
 		<title>配信準備中</title>
@@ -1665,20 +1640,20 @@
 		<desc>有吉の深掘り大調査　100万人突破！急増する車中泊に密着＆厨房ドキュメントＳＰ</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lewnh7dl5u.jpg?v=7a23d1bc" />
 	</programme>
-	<programme channel="cx" start="20260219110000 +0000" stop="20260219125400 +0000">
-		<title>街グルメをマジ探索！かまいまち</title>
-		<desc>キリヌキ＠浅草</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ledf01lcv4.jpg?v=8dc5d3ba" />
+	<programme channel="tx" start="20260305115800 +0000" stop="20260305125400 +0000">
+		<title>ナゼそこ？＋</title>
+		<desc>ナゼそこ？</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le27rxrz94.jpg?v=4c9b3752" />
 	</programme>
-	<programme channel="cx" start="20260219125400 +0000" stop="20260219130000 +0000">
-		<title>配信番組のお知らせ</title>
-		<desc>🐶🐩🐕</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/levhh3oqbg.jpg?v=8087d6c2" />
+	<programme channel="tx" start="20260305125400 +0000" stop="20260305130000 +0000">
+		<title>配信準備中</title>
+		<desc>配信準備中</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3d8a6xao.jpg?v=bf5cfe80" />
 	</programme>
-	<programme channel="cx" start="20260219130000 +0000" stop="20260219135400 +0000">
-		<title>プロフェッショナル 保険調査員・天音蓮</title>
-		<desc>第7話 卓球金メダリスト夫妻の離婚を調査せよ</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le5p7xtq9i.jpg?v=d0f1bda2" />
+	<programme channel="tx" start="20260305130000 +0000" stop="20260305135800 +0000">
+		<title>ＷＢＳ（ワールドビジネスサテライト）</title>
+		<desc>ＷＢＳ</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le2dhllklv.jpg?v=3625f223" />
 	</programme>
 	<programme channel="cx" start="20260219135400 +0000" stop="20260219140000 +0000">
 		<title>配信番組のお知らせ</title>
@@ -2074,5 +2049,15 @@
 		<title>地上波放送番組のお知らせ</title>
 		<desc>3/5(木)「ミュージックジェネレーション」は地上波放送でお楽しみください！</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le9sjot0ux.jpg?v=f6060c5e" />
+	</programme>
+	<programme channel="cx" start="20260305125400 +0000" stop="20260305130000 +0000">
+		<title>配信番組のお知らせ</title>
+		<desc>🐶🐩🐕</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejzij1bz9.jpg?v=0c26ff2b" />
+	</programme>
+	<programme channel="cx" start="20260305130000 +0000" stop="20260305135400 +0000">
+		<title>プロフェッショナル 保険調査員・天音蓮</title>
+		<desc>第9話</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lel4r5yobr.jpg?v=6b02c157" />
 	</programme>
 </tv>
