@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260219140000 +0000" stop="20260219193000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lee4mtu4ch.jpg?v=d6bcf135" />
-	</programme>
 	<programme channel="ntv" start="20260219193000 +0000" stop="20260220204500 +0000">
 		<title>配信休止</title>
 		<desc> </desc>
@@ -943,22 +938,22 @@
 	<programme channel="tbs" start="20260227194500 +0000" stop="20260228095100 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le9l4b6g4z.jpg?v=32dd0ea8" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le9l4b6g4z.jpg?v=39dd19ad" />
 	</programme>
 	<programme channel="tbs" start="20260228095100 +0000" stop="20260228115400 +0000">
 		<title>ジョブチューン ～アノ職業のヒミツぶっちゃけます！</title>
 		<desc>＜配信は19時から＞チョコ菓子No.１は何!?明治×ロッテ×森永…同業他社がガチ採点！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/legjjedtwb.jpg?v=cfcd9f71" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/legjjedtwb.jpg?v=cccd9ab8" />
 	</programme>
 	<programme channel="tbs" start="20260228115400 +0000" stop="20260228125600 +0000">
 		<title>いくらかわかる金？</title>
 		<desc>ドケチ春日ガストで荒稼ぎ？キンプリ永瀬＆ミセス藤澤がクレーン！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqmz6utz3.jpg?v=4dff3294" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqmz6utz3.jpg?v=50ff374d" />
 	</programme>
 	<programme channel="tbs" start="20260228125600 +0000" stop="20260228200000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lel7oontk0.jpg?v=a9ee62a0" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lel7oontk0.jpg?v=b0ee6da5" />
 	</programme>
 	<programme channel="tbs" start="20260228200000 +0000" stop="20260301100000 +0000">
 		<title>配信休止</title>
@@ -1123,22 +1118,12 @@
 	<programme channel="tbs" start="20260305130000 +0000" stop="20260305140000 +0000">
 		<title>櫻井･有吉THE夜会</title>
 		<desc>櫻井翔・有吉弘行がお届けする大人のバラエティ</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lekut51zuk.jpg?v=137647e2" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lekut51zuk.jpg?v=0e764003" />
 	</programme>
-	<programme channel="tx" start="20260219135800 +0000" stop="20260219140600 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le7w8g08oh.jpg?v=59c59f2e" />
-	</programme>
-	<programme channel="tx" start="20260219140600 +0000" stop="20260219145500 +0000">
-		<title>カンブリア宮殿</title>
-		<desc>カンブリア宮殿【国民的おやつが攻めの異業種コラボロングセラーであり続ける戦略】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lewc6zh6qi.jpg?v=5de28a56" />
-	</programme>
-	<programme channel="tx" start="20260219145500 +0000" stop="20260219190000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/les3pjik7k.jpg?v=cafb8774" />
+	<programme channel="tbs" start="20260305140000 +0000" stop="20260305193000 +0000">
+		<title>配信休止</title>
+		<desc>配信休止</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le7u0p85bh.jpg?v=9e6fa177" />
 	</programme>
 	<programme channel="tx" start="20260219190000 +0000" stop="20260220092500 +0000">
 		<title>配信準備中</title>
@@ -1642,8 +1627,8 @@
 	</programme>
 	<programme channel="tx" start="20260305115800 +0000" stop="20260305125400 +0000">
 		<title>ナゼそこ？＋</title>
-		<desc>ナゼそこ？</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le27rxrz94.jpg?v=4c9b3752" />
+		<desc>ナゼそこ？「山梨…自宅が全焼…わずか１年３カ月前の悲劇…波瀾万丈(秘)人生」SP</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le27rxrz94.jpg?v=479b2f73" />
 	</programme>
 	<programme channel="tx" start="20260305125400 +0000" stop="20260305130000 +0000">
 		<title>配信準備中</title>
@@ -1655,20 +1640,20 @@
 		<desc>ＷＢＳ</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le2dhllklv.jpg?v=3625f223" />
 	</programme>
-	<programme channel="cx" start="20260219135400 +0000" stop="20260219140000 +0000">
-		<title>配信番組のお知らせ</title>
-		<desc>🐶🐩🐕</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqzidygaf.jpg?v=01ebf883" />
+	<programme channel="tx" start="20260305135800 +0000" stop="20260305140600 +0000">
+		<title>配信準備中</title>
+		<desc>配信準備中</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leouur9hl4.jpg?v=becaf81c" />
 	</programme>
-	<programme channel="cx" start="20260219140000 +0000" stop="20260219143000 +0000">
-		<title>トークィーンズ</title>
-		<desc>レジェンド再来！木村拓哉SP！超一流の男に聞いた人生哲学とは？</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le17z0d1og.jpg?v=dc2bfb0a" />
+	<programme channel="tx" start="20260305140600 +0000" stop="20260305145500 +0000">
+		<title>カンブリア宮殿</title>
+		<desc>カンブリア宮殿【新旧の旅行ベンチャーが対談　令和を生き残る旅行ビジネスとは？】</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6muxyh8w.jpg?v=d048c5d6" />
 	</programme>
-	<programme channel="cx" start="20260219143000 +0000" stop="20260220100000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
+	<programme channel="tx" start="20260305145500 +0000" stop="20260305190000 +0000">
+		<title>配信準備中</title>
+		<desc>配信準備中</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6vet3nwi.jpg?v=8fa06b5e" />
 	</programme>
 	<programme channel="cx" start="20260220100000 +0000" stop="20260220120000 +0000">
 		<title>ウワサのお客さま</title>
@@ -2058,6 +2043,16 @@
 	<programme channel="cx" start="20260305130000 +0000" stop="20260305135400 +0000">
 		<title>プロフェッショナル 保険調査員・天音蓮</title>
 		<desc>第9話</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lel4r5yobr.jpg?v=6b02c157" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lel4r5yobr.jpg?v=6802bc9e" />
+	</programme>
+	<programme channel="cx" start="20260305135400 +0000" stop="20260305140000 +0000">
+		<title>配信番組のお知らせ</title>
+		<desc>🐶🐩🐕</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lehbaqfx0u.jpg?v=669ea861" />
+	</programme>
+	<programme channel="cx" start="20260305140000 +0000" stop="20260305143000 +0000">
+		<title>トークィーンズ</title>
+		<desc />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lefmrydc3o.jpg?v=c2e2460c" />
 	</programme>
 </tv>
