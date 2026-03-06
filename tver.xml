@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260227204500 +0000" stop="20260228100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqidp98nl.jpg?v=e256e956" />
-	</programme>
 	<programme channel="ntv" start="20260228100000 +0000" stop="20260228115400 +0000">
 		<title>嗚呼!!みんなの動物園</title>
 		<desc>2時間SPティモンディ前田新預かり始動&amp;池崎から重大発表</desc>
@@ -2068,7 +2063,7 @@
 	<programme channel="cx" start="20260313120000 +0000" stop="20260313135200 +0000">
 		<title>３．１１～東日本大震災15年　福島第一原発事故　命の戦い～</title>
 		<desc />
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le50icntii.jpg?v=24259540" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le50icntii.jpg?v=252596d3" />
 	</programme>
 	<programme channel="cx" start="20260313135200 +0000" stop="20260313140000 +0000">
 		<title>配信番組のお知らせ</title>
