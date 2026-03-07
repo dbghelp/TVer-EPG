@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260228135400 +0000" stop="20260228202500 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/levdtnjgho.jpg?v=c4eb39fd" />
-	</programme>
 	<programme channel="ntv" start="20260228202500 +0000" stop="20260301095500 +0000">
 		<title>配信休止</title>
 		<desc> </desc>
@@ -238,7 +233,7 @@
 	<programme channel="ntv" start="20260307120000 +0000" stop="20260307125400 +0000">
 		<title>パンダより恋が苦手な私たち</title>
 		<desc>#9上白石萌歌&amp;生田斗真動物に学ぶ幸せになる方法</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le813yzyg0.jpg?v=ac132770" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le813yzyg0.jpg?v=af132c29" />
 	</programme>
 	<programme channel="ntv" start="20260307125400 +0000" stop="20260307130000 +0000">
 		<title>お知らせ</title>
@@ -263,7 +258,7 @@
 	<programme channel="ntv" start="20260308002500 +0000" stop="20260308012500 +0000">
 		<title>ワールドベースボールクラシック詳報　どこよりも詳しい熱戦の記録</title>
 		<desc>世界一連覇への第2戦!因縁の宿敵との【日韓対決】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqbgmf8z3.jpg?v=0889ce27" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqbgmf8z3.jpg?v=fd89bcd6" />
 	</programme>
 	<programme channel="ntv" start="20260308012500 +0000" stop="20260308095500 +0000">
 		<title>配信休止</title>
@@ -454,16 +449,6 @@
 		<title>配信休止</title>
 		<desc> </desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lep0qupw6g.jpg?v=3ed8835f" />
-	</programme>
-	<programme channel="ex" start="20260228140000 +0000" stop="20260228143000 +0000">
-		<title>ぜんぶ、あなたのためだから</title>
-		<desc>第８話</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leaqpfvj7y.jpg?v=036ce61b" />
-	</programme>
-	<programme channel="ex" start="20260228143000 +0000" stop="20260301045500 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
 	</programme>
 	<programme channel="ex" start="20260301045500 +0000" stop="20260301070500 +0000">
 		<title>男子バスケットボール FIBAワールドカップ予選</title>
@@ -958,27 +943,27 @@
 	<programme channel="tbs" start="20260308193000 +0000" stop="20260308230000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le61tgjlug.jpg?v=0c65a0ac" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le61tgjlug.jpg?v=0b659f19" />
 	</programme>
 	<programme channel="tbs" start="20260308230000 +0000" stop="20260309005500 +0000">
 		<title>ラヴィット！</title>
 		<desc>【櫻坂46守屋＆勝又が再びクイズチャレンジ！▼なすなか最新家電ロケ】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leybrd9d1b.jpg?v=bc1dc26a" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leybrd9d1b.jpg?v=bd1dc3fd" />
 	</programme>
 	<programme channel="tbs" start="20260309005500 +0000" stop="20260309100000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ler2vonkug.jpg?v=24aec9f2" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ler2vonkug.jpg?v=1faec213" />
 	</programme>
 	<programme channel="tbs" start="20260309100000 +0000" stop="20260309115500 +0000">
 		<title>CDTV ライブ! ライブ!</title>
 		<desc>★M!LK★WEST.★中島健人</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lev5bchsww.jpg?v=d5ddad6d" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lev5bchsww.jpg?v=d2dda8b4" />
 	</programme>
 	<programme channel="tbs" start="20260309115500 +0000" stop="20260309193000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/letbt3313o.jpg?v=8e753213" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/letbt3313o.jpg?v=937539f2" />
 	</programme>
 	<programme channel="tbs" start="20260309193000 +0000" stop="20260309230000 +0000">
 		<title>配信休止</title>
@@ -1610,21 +1595,6 @@
 		<desc>配信準備中</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/letlzkmmvz.jpg?v=b901233f" />
 	</programme>
-	<programme channel="cx" start="20260228141000 +0000" stop="20260228144000 +0000">
-		<title>さんまのお笑い向上委員会</title>
-		<desc>▼ゆりやん億万長者計画INアメリカ！安村チャンス大津！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leetarzxb5.jpg?v=af307561" />
-	</programme>
-	<programme channel="cx" start="20260228144000 +0000" stop="20260228153500 +0000">
-		<title>横浜ネイバーズ Season1</title>
-		<desc>第8話 親仁善隣</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le28l0i6lg.jpg?v=1ca70b18" />
-	</programme>
-	<programme channel="cx" start="20260228153500 +0000" stop="20260301100000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
-	</programme>
 	<programme channel="cx" start="20260301100000 +0000" stop="20260301115400 +0000">
 		<title>地上波放送番組のお知らせ</title>
 		<desc>「ジャンクSPORTS 岡本和真いってらっしゃい！ 世界に誇る日本のアスリートSP」は地上波放送でお楽しみください！</desc>
@@ -1833,7 +1803,7 @@
 	<programme channel="cx" start="20260308000000 +0000" stop="20260308025000 +0000">
 		<title>名古屋ウィメンズマラソン2026</title>
 		<desc>【LIVE】名古屋ウィメンズマラソン2026</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leoayj5ucb.jpg?v=a22085e2" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leoayj5ucb.jpg?v=9d207e03" />
 	</programme>
 	<programme channel="cx" start="20260308025000 +0000" stop="20260308100000 +0000">
 		<title>No programme</title>
@@ -1950,6 +1920,11 @@
 		<desc>King ＆ Prince・石崎ひゅーい</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lee2oxf661.jpg?v=ed9a01f5" />
 	</programme>
+	<programme channel="cx" start="20260311143000 +0000" stop="20260312100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
+	</programme>
 	<programme channel="cx" start="20260312100000 +0000" stop="20260312125400 +0000">
 		<title>潜入！リアルスコープ</title>
 		<desc>　</desc>
@@ -2004,5 +1979,15 @@
 		<title>国民的マジックの祭典！　世界が認めた日本人マジシャンNo１決定戦</title>
 		<desc />
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ler4u3xzo5.jpg?v=119edca8" />
+	</programme>
+	<programme channel="cx" start="20260314141000 +0000" stop="20260314144000 +0000">
+		<title>さんまのお笑い向上委員会</title>
+		<desc />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leq5sdyus3.jpg?v=4b23abf0" />
+	</programme>
+	<programme channel="cx" start="20260314144000 +0000" stop="20260314153500 +0000">
+		<title>元カレの猫を、預かりまして。</title>
+		<desc>第2話</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lenovp3g8t.jpg?v=8bd37466" />
 	</programme>
 </tv>
