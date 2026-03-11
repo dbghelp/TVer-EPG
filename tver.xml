@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260304193000 +0000" stop="20260305100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lel34wyq7g.jpg?v=20a5ce34" />
-	</programme>
 	<programme channel="ntv" start="20260305100000 +0000" stop="20260305120000 +0000">
 		<title>世界一受けたい授業</title>
 		<desc>WBCスペシャル!明日の日本戦侍ジャパンが勝つための9つの鍵</desc>
@@ -363,7 +358,7 @@
 	<programme channel="ntv" start="20260315120000 +0000" stop="20260315125400 +0000">
 		<title>Golden SixTONES</title>
 		<desc>ゲストと一緒に童心にかえって遊ぶ“超王道スタジオバラエティ”です！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lesr2suc74.jpg?v=8027eebd" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lesr2suc74.jpg?v=7e27eb97" />
 	</programme>
 	<programme channel="ntv" start="20260315125400 +0000" stop="20260315130000 +0000">
 		<title>お知らせ</title>
@@ -373,7 +368,7 @@
 	<programme channel="ntv" start="20260315130000 +0000" stop="20260315133000 +0000">
 		<title>おしゃれクリップ</title>
 		<desc>ゲスト 椎名桔平</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lelmnk093w.jpg?v=1d1d2f3f" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lelmnk093w.jpg?v=221d371e" />
 	</programme>
 	<programme channel="ntv" start="20260315133000 +0000" stop="20260315142500 +0000">
 		<title>パンチドランク・ウーマン −脱獄まであと××日−</title>
@@ -403,7 +398,7 @@
 	<programme channel="ntv" start="20260316120000 +0000" stop="20260316125400 +0000">
 		<title>しゃべくり007</title>
 		<desc>7人のMCがゲストを迎えてのトークバラエティー!</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ley2287cmv.jpg?v=aab3dd5f" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ley2287cmv.jpg?v=a9b3dbcc" />
 	</programme>
 	<programme channel="ntv" start="20260316125400 +0000" stop="20260316130000 +0000">
 		<title>お知らせ</title>
@@ -662,8 +657,8 @@
 	</programme>
 	<programme channel="ex" start="20260312125400 +0000" stop="20260312141000 +0000">
 		<title>報道ステーション</title>
-		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le2rfllwho.jpg?v=cf9fc80e" />
+		<desc>緊迫続くホルムズ海峡…機雷にミサイル攻撃も…広がる日本への影響▽予算案の攻防ヤマ場▽侍Ｊ決戦の地で初練習…ＷＢＣ８強カードが確定▽大相撲ほか</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le2rfllwho.jpg?v=8673cf32" />
 	</programme>
 	<programme channel="ex" start="20260312141000 +0000" stop="20260313095000 +0000">
 		<title>No programme</title>
@@ -739,11 +734,6 @@
 		<title>報道ステーション</title>
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ledhnjnjvd.jpg?v=8c41fe48" />
-	</programme>
-	<programme channel="tbs" start="20260304193000 +0000" stop="20260304230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6fcyk9w4.jpg?v=4b6d826a" />
 	</programme>
 	<programme channel="tbs" start="20260304230000 +0000" stop="20260305005500 +0000">
 		<title>ラヴィット！</title>
@@ -1169,11 +1159,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lesajt9e3a.jpg?v=f3821ff6" />
-	</programme>
-	<programme channel="tx" start="20260304190000 +0000" stop="20260305092500 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lexn6f3if0.jpg?v=0b8f8e32" />
 	</programme>
 	<programme channel="tx" start="20260305092500 +0000" stop="20260305115800 +0000">
 		<title>有吉の深掘り大調査</title>
