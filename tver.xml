@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260304140000 +0000" stop="20260304193000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lesywvmg2l.jpg?v=60796134" />
-	</programme>
 	<programme channel="ntv" start="20260304193000 +0000" stop="20260305100000 +0000">
 		<title>配信休止</title>
 		<desc> </desc>
@@ -213,7 +208,7 @@
 	<programme channel="ntv" start="20260311100000 +0000" stop="20260311120000 +0000">
 		<title>ワールドベースボールクラシック詳報　どこよりも詳しい熱戦の記録</title>
 		<desc>「独占公開」侍激闘の舞台裏映像&amp;大谷・誠也・吉田ファンが選んだMVP</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lef7gnt910.jpg?v=f9b76223" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lef7gnt910.jpg?v=72bedc63" />
 	</programme>
 	<programme channel="ntv" start="20260311120000 +0000" stop="20260311125400 +0000">
 		<title>上田と女が吠える夜</title>
@@ -278,7 +273,7 @@
 	<programme channel="ntv" start="20260313100000 +0000" stop="20260313115400 +0000">
 		<title>人生が変わる1分間の深イイ話</title>
 		<desc>ワールドベースボールクラシック特別編</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le8qzxf254.jpg?v=6e8720c3" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le8qzxf254.jpg?v=6f872256" />
 	</programme>
 	<programme channel="ntv" start="20260313115400 +0000" stop="20260313120000 +0000">
 		<title>お知らせ</title>
@@ -493,7 +488,12 @@
 	<programme channel="ntv" start="20260318130000 +0000" stop="20260318140000 +0000">
 		<title>冬のなんかさ、春のなんかね</title>
 		<desc>第9話 『やさしさ』</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lexreetqk8.jpg?v=c5c17b78" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lexreetqk8.jpg?v=c8c18031" />
+	</programme>
+	<programme channel="ntv" start="20260318140000 +0000" stop="20260318193000 +0000">
+		<title>配信休止</title>
+		<desc> </desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le7bm6dsx9.jpg?v=f2694af3" />
 	</programme>
 	<programme channel="ex" start="20260305100000 +0000" stop="20260305120000 +0000">
 		<title>相葉ヒロミのお困りですカー？</title>
@@ -739,11 +739,6 @@
 		<title>報道ステーション</title>
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ledhnjnjvd.jpg?v=8c41fe48" />
-	</programme>
-	<programme channel="tbs" start="20260304135700 +0000" stop="20260304193000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/levc7f285n.jpg?v=0d987ffb" />
 	</programme>
 	<programme channel="tbs" start="20260304193000 +0000" stop="20260304230000 +0000">
 		<title>配信休止</title>
@@ -993,37 +988,37 @@
 	<programme channel="tbs" start="20260312193000 +0000" stop="20260312230000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le1y7jt34o.jpg?v=e26937d9" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le1y7jt34o.jpg?v=e369396c" />
 	</programme>
 	<programme channel="tbs" start="20260312230000 +0000" stop="20260313005500 +0000">
 		<title>ラヴィット！</title>
 		<desc>日本でいちばん明るい朝番組</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le8vmsk14n.jpg?v=758e20d2" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le8vmsk14n.jpg?v=708e18f3" />
 	</programme>
 	<programme channel="tbs" start="20260313005500 +0000" stop="20260313100000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lefcwmgz7t.jpg?v=13c75eeb" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lefcwmgz7t.jpg?v=18c766ca" />
 	</programme>
 	<programme channel="tbs" start="20260313100000 +0000" stop="20260313115500 +0000">
 		<title>ハマダ歌謡祭★オオカミ少年</title>
 		<desc>卒業ソングSP★M!LKが大暴走！浜田＆ジェシー樹がSMAP熱唱！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6mtscv88.jpg?v=0e0b048a" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6mtscv88.jpg?v=090afcab" />
 	</programme>
 	<programme channel="tbs" start="20260313115500 +0000" stop="20260313130000 +0000">
 		<title>知識の扉よ開け！ドア×ドア クエスト</title>
 		<desc>なんで新幹線は時間に正確？東京〜新大阪間リアル運転を特別調査</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leoopq9zwd.jpg?v=43d34502" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leoopq9zwd.jpg?v=44d34695" />
 	</programme>
 	<programme channel="tbs" start="20260313130000 +0000" stop="20260313135400 +0000">
 		<title>DREAM STAGE</title>
 		<desc>(9)【最後の舞台へ—ラスト9分37秒の奇跡】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lef9fvwmgc.jpg?v=5fccdeda" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lef9fvwmgc.jpg?v=5eccdd47" />
 	</programme>
 	<programme channel="tbs" start="20260313135400 +0000" stop="20260313194500 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lerm46c0g8.jpg?v=8354d5f9" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lerm46c0g8.jpg?v=8454d78c" />
 	</programme>
 	<programme channel="tbs" start="20260313194500 +0000" stop="20260314095100 +0000">
 		<title>配信休止</title>
@@ -1170,20 +1165,10 @@
 		<desc>内村さんと有吉さん〜新境地をのぞき見SP〜　クセ強芸人が食・芸・歌で新たな挑戦</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le8hgbbyz5.jpg?v=09a132dd" />
 	</programme>
-	<programme channel="tx" start="20260304135800 +0000" stop="20260304140600 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6d8ked22.jpg?v=3efb6f7c" />
-	</programme>
-	<programme channel="tx" start="20260304140600 +0000" stop="20260304145500 +0000">
-		<title>あちこちオードリー</title>
-		<desc>あちこちオードリー【代打MCパンサー向井！木村昴＆ニッチェ＆こたけ正義感】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le47jxjos4.jpg?v=c5b030b2" />
-	</programme>
-	<programme channel="tx" start="20260304145500 +0000" stop="20260304190000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/legcs40l9g.jpg?v=f6a3d47f" />
+	<programme channel="tbs" start="20260318135700 +0000" stop="20260318193000 +0000">
+		<title>配信休止</title>
+		<desc>配信休止</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lesajt9e3a.jpg?v=f3821ff6" />
 	</programme>
 	<programme channel="tx" start="20260304190000 +0000" stop="20260305092500 +0000">
 		<title>配信準備中</title>
@@ -1690,20 +1675,20 @@
 		<desc>ＷＢＳ</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lew2l4d3m5.jpg?v=e16fd8d0" />
 	</programme>
-	<programme channel="cx" start="20260304135400 +0000" stop="20260304140000 +0000">
-		<title>配信番組のお知らせ</title>
-		<desc>🐶🐩🐕</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ley53hpg4q.jpg?v=9cf36367" />
+	<programme channel="tx" start="20260318135800 +0000" stop="20260318140600 +0000">
+		<title>配信準備中</title>
+		<desc>配信準備中</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leemacbx3l.jpg?v=37554af9" />
 	</programme>
-	<programme channel="cx" start="20260304140000 +0000" stop="20260304143000 +0000">
-		<title>週刊ナイナイミュージック</title>
-		<desc>LDH潜入SP！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lecidr0hh0.jpg?v=27734445" />
+	<programme channel="tx" start="20260318140600 +0000" stop="20260318145500 +0000">
+		<title>あちこちオードリー</title>
+		<desc>あちこちオードリー</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lea10280oy.jpg?v=fadd8b7e" />
 	</programme>
-	<programme channel="cx" start="20260304143000 +0000" stop="20260305100000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
+	<programme channel="tx" start="20260318145500 +0000" stop="20260318190000 +0000">
+		<title>配信準備中</title>
+		<desc>配信準備中</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lelbtjltix.jpg?v=84cdf3c3" />
 	</programme>
 	<programme channel="cx" start="20260305100000 +0000" stop="20260305125400 +0000">
 		<title>地上波放送番組のお知らせ</title>
@@ -2088,6 +2073,16 @@
 	<programme channel="cx" start="20260318130000 +0000" stop="20260318135400 +0000">
 		<title>ラムネモンキー</title>
 		<desc>第10話</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lex8vl4eap.jpg?v=230eab81" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lex8vl4eap.jpg?v=1d0ea20f" />
+	</programme>
+	<programme channel="cx" start="20260318135400 +0000" stop="20260318140000 +0000">
+		<title>配信番組のお知らせ</title>
+		<desc>🐶🐩🐕</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lerbt5r87q.jpg?v=606b07cb" />
+	</programme>
+	<programme channel="cx" start="20260318140000 +0000" stop="20260318143000 +0000">
+		<title>週刊ナイナイミュージック</title>
+		<desc />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le5con4g8a.jpg?v=f7f22eb7" />
 	</programme>
 </tv>
