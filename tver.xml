@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260307135400 +0000" stop="20260307202500 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6poyw8n0.jpg?v=106bddf1" />
-	</programme>
 	<programme channel="ntv" start="20260307202500 +0000" stop="20260308002500 +0000">
 		<title>配信休止</title>
 		<desc> </desc>
@@ -469,16 +464,6 @@
 		<title>配信休止</title>
 		<desc> </desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leen9tmxz5.jpg?v=b0a2c738" />
-	</programme>
-	<programme channel="ex" start="20260307140000 +0000" stop="20260307143000 +0000">
-		<title>ぜんぶ、あなたのためだから</title>
-		<desc>第９話</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lebs8uy73a.jpg?v=473343ac" />
-	</programme>
-	<programme channel="ex" start="20260307143000 +0000" stop="20260308095600 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
 	</programme>
 	<programme channel="ex" start="20260308095600 +0000" stop="20260308115600 +0000">
 		<title>ポツンと一軒家</title>
@@ -948,32 +933,32 @@
 	<programme channel="tbs" start="20260315172900 +0000" stop="20260315230000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lex8brrf5f.jpg?v=f9764c09" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lex8brrf5f.jpg?v=fa764d9c" />
 	</programme>
 	<programme channel="tbs" start="20260315230000 +0000" stop="20260316005500 +0000">
 		<title>ラヴィット！</title>
 		<desc>【体重190キロ超えの大鶴肥満が重量対決!?▼今買いたい家電1位は!?】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lekmccdyb1.jpg?v=903264d6" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lekmccdyb1.jpg?v=9b327627" />
 	</programme>
 	<programme channel="tbs" start="20260316005500 +0000" stop="20260316100000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leykygbt5y.jpg?v=1f7bf88a" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leykygbt5y.jpg?v=1a7bf0ab" />
 	</programme>
 	<programme channel="tbs" start="20260316100000 +0000" stop="20260316115500 +0000">
 		<title>CDTV ライブ! ライブ!</title>
 		<desc>★Snow Man★ミセス 大森元貴★SixTONES</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lenm2owfn6.jpg?v=b6893522" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lenm2owfn6.jpg?v=b78936b5" />
 	</programme>
 	<programme channel="tbs" start="20260316115500 +0000" stop="20260316135700 +0000">
 		<title>クレイジージャーニー</title>
 		<desc>壮絶アドベンチャーレース！真の世界一決定戦＆アマゾン料理人</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/levbxc1isc.jpg?v=1d798d4e" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/levbxc1isc.jpg?v=1e798ee1" />
 	</programme>
 	<programme channel="tbs" start="20260316135700 +0000" stop="20260316193000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leb4zi3vbb.jpg?v=742120dc" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leb4zi3vbb.jpg?v=73211f49" />
 	</programme>
 	<programme channel="tbs" start="20260316193000 +0000" stop="20260316230000 +0000">
 		<title>配信休止</title>
@@ -1590,21 +1575,6 @@
 		<desc>配信準備中</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le9pm5h4p4.jpg?v=575152d1" />
 	</programme>
-	<programme channel="cx" start="20260307141000 +0000" stop="20260307144000 +0000">
-		<title>さんまのお笑い向上委員会</title>
-		<desc>▼漫才界の次世代エースことエバースの町田がヤバい問題！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ledrd0e742.jpg?v=5f4fd52a" />
-	</programme>
-	<programme channel="cx" start="20260307144000 +0000" stop="20260307153500 +0000">
-		<title>元カレの猫を、預かりまして。</title>
-		<desc>第1話 もふもふラブコメディ</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leq3fict9k.jpg?v=b11401aa" />
-	</programme>
-	<programme channel="cx" start="20260307153500 +0000" stop="20260308000000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
-	</programme>
 	<programme channel="cx" start="20260308000000 +0000" stop="20260308025000 +0000">
 		<title>名古屋ウィメンズマラソン2026</title>
 		<desc>【LIVE】名古屋ウィメンズマラソン2026</desc>
@@ -2009,5 +1979,10 @@
 		<title>ENGEIグランドスラム</title>
 		<desc>【LIVE】超豪華！賞レース王者＆MCクラス集結</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3rwhjim6.jpg?v=0b87047c" />
+	</programme>
+	<programme channel="cx" start="20260321141000 +0000" stop="20260321144000 +0000">
+		<title>さんまのお笑い向上委員会</title>
+		<desc> </desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ledbdkfjqp.jpg?v=9b92d814" />
 	</programme>
 </tv>
