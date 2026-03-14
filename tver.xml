@@ -20,36 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260307100000 +0000" stop="20260307105600 +0000">
-		<title>嗚呼!!みんなの動物園</title>
-		<desc>激かわ甘えん坊ニャンズ2連発!青木マッチョ新居で猫を飼う</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lesi9qtpsr.jpg?v=33b1aed4" />
-	</programme>
-	<programme channel="ntv" start="20260307105600 +0000" stop="20260307115400 +0000">
-		<title>1億人の大質問!?笑ってコラえて！</title>
-		<desc>春休み直前★島へ行こうSP!タイムマシーン3号が沖縄で昼飲み&amp;島ダーツ</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lepfjks51n.jpg?v=a2d28f95" />
-	</programme>
-	<programme channel="ntv" start="20260307115400 +0000" stop="20260307120000 +0000">
-		<title>お知らせ</title>
-		<desc>リアルタイム配信予定の番組は「日テレ系」タブよりご確認いただけます。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lembap9mwd.jpg?v=df82fc84" />
-	</programme>
-	<programme channel="ntv" start="20260307120000 +0000" stop="20260307125400 +0000">
-		<title>パンダより恋が苦手な私たち</title>
-		<desc>#9上白石萌歌&amp;生田斗真動物に学ぶ幸せになる方法</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le813yzyg0.jpg?v=af132c29" />
-	</programme>
-	<programme channel="ntv" start="20260307125400 +0000" stop="20260307130000 +0000">
-		<title>お知らせ</title>
-		<desc>リアルタイム配信予定の番組は「日テレ系」タブよりご確認いただけます。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leom3j6xzm.jpg?v=ebb0a400" />
-	</programme>
-	<programme channel="ntv" start="20260307130000 +0000" stop="20260307135400 +0000">
-		<title>with MUSIC</title>
-		<desc>.ENDRECHERI.初登場!▼NCT 127のYUTAも</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leifxkxh0m.jpg?v=89c67366" />
-	</programme>
 	<programme channel="ntv" start="20260307135400 +0000" stop="20260307202500 +0000">
 		<title>配信休止</title>
 		<desc> </desc>
@@ -268,7 +238,7 @@
 	<programme channel="ntv" start="20260314105600 +0000" stop="20260314115400 +0000">
 		<title>1億人の大質問!?笑ってコラえて！</title>
 		<desc>日本全国道の駅伝!家族で当てよう売上1位!北海道道の駅グルメ</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leez905tza.jpg?v=eaef6630" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leez905tza.jpg?v=ebef67c3" />
 	</programme>
 	<programme channel="ntv" start="20260314115400 +0000" stop="20260314120000 +0000">
 		<title>お知らせ</title>
@@ -500,21 +470,6 @@
 		<desc> </desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leen9tmxz5.jpg?v=b0a2c738" />
 	</programme>
-	<programme channel="ex" start="20260307095600 +0000" stop="20260307115400 +0000">
-		<title>池上彰のニュースそうだったのか!!</title>
-		<desc>アメリカはなぜ今イランを攻撃した？日本には一体どんな影響が？池上彰が緊急生放送で解説します！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3kokuosw.jpg?v=a09dd372" />
-	</programme>
-	<programme channel="ex" start="20260307115400 +0000" stop="20260307135200 +0000">
-		<title>サタデーステーション</title>
-		<desc>２時間SP▽高島彩▽速報！WBC日韓戦…出るか大谷HR▽イラン衝突から1週間▽3月も値上げ続々…一方でコメ値下げ兆候▽3.11から15年…福島県浪江町▽無謀な冬の富士登山</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lecqenyls0.jpg?v=24bb1e39" />
-	</programme>
-	<programme channel="ex" start="20260307135200 +0000" stop="20260307140000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
-	</programme>
 	<programme channel="ex" start="20260307140000 +0000" stop="20260307143000 +0000">
 		<title>ぜんぶ、あなたのためだから</title>
 		<desc>第９話</desc>
@@ -675,6 +630,11 @@
 		<desc>日本の先っちょに外国の風景＆２００℃…過酷な珍仕事をお手伝いSP</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lerjbygdaw.jpg?v=2755536d" />
 	</programme>
+	<programme channel="ex" start="20260315105000 +0000" stop="20260315105400 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
+	</programme>
 	<programme channel="ex" start="20260315105400 +0000" stop="20260315115600 +0000">
 		<title>ポツンと一軒家</title>
 		<desc>雪降る島根の山奥で二転三転するポツンと一軒家捜索！雪が残る過酷な山道を越え、ようやく出会えたのは、築２００年の古民家で一人暮らしをする女性だった</desc>
@@ -734,16 +694,6 @@
 		<title>報道ステーション</title>
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/legzmc5hsm.jpg?v=c6af7056" />
-	</programme>
-	<programme channel="tbs" start="20260307095100 +0000" stop="20260307125600 +0000">
-		<title>全世界極限サバイバル</title>
-		<desc>＜配信は19時から＞全世界極限サバイバル２０２６</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/levb9jj4gc.jpg?v=a2c19477" />
-	</programme>
-	<programme channel="tbs" start="20260307125600 +0000" stop="20260307194000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le20p8ui95.jpg?v=16f06a2c" />
 	</programme>
 	<programme channel="tbs" start="20260307194000 +0000" stop="20260308100000 +0000">
 		<title>配信休止</title>
@@ -1159,21 +1109,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/levmj8946l.jpg?v=8168f37e" />
-	</programme>
-	<programme channel="tx" start="20260307115500 +0000" stop="20260307120000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lew8z7wksb.jpg?v=793aa1b5" />
-	</programme>
-	<programme channel="tx" start="20260307120000 +0000" stop="20260307125400 +0000">
-		<title>出没！アド街ック天国</title>
-		<desc>出没！アド街ック天国【洗足池】東急池上線“水辺のオアシス＆穴場グルメスポット”</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lemz1e2oru.jpg?v=def0cfc7" />
-	</programme>
-	<programme channel="tx" start="20260307125400 +0000" stop="20260307190000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lealtitnu7.jpg?v=b044900e" />
 	</programme>
 	<programme channel="tx" start="20260307190000 +0000" stop="20260308093000 +0000">
 		<title>配信準備中</title>
@@ -1655,16 +1590,6 @@
 		<desc>配信準備中</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le9pm5h4p4.jpg?v=575152d1" />
 	</programme>
-	<programme channel="cx" start="20260307100000 +0000" stop="20260307120000 +0000">
-		<title>芸能人が本気で考えた！ドッキリGP</title>
-		<desc>悪口を言ったら本人が目の前にいたSP</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leahmzypfm.jpg?v=11c16d95" />
-	</programme>
-	<programme channel="cx" start="20260307120000 +0000" stop="20260307141000 +0000">
-		<title>ネタパレ</title>
-		<desc>THEプレミアム★日本一面白いモノマネ芸人が今夜決定★</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lewwx9y4d1.jpg?v=845614eb" />
-	</programme>
 	<programme channel="cx" start="20260307141000 +0000" stop="20260307144000 +0000">
 		<title>さんまのお笑い向上委員会</title>
 		<desc>▼漫才界の次世代エースことエバースの町田がヤバい問題！</desc>
@@ -2074,5 +1999,15 @@
 		<title>R-1グランプリ 2026</title>
 		<desc>ピン芸日本一決定戦！優勝賞金５００万円！</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lefh0wcqb2.jpg?v=af0c6086" />
+	</programme>
+	<programme channel="cx" start="20260321115400 +0000" stop="20260321120000 +0000">
+		<title>配信番組のお知らせ</title>
+		<desc>🐶🐩🐕</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/letkrvh8r3.jpg?v=622eaecd" />
+	</programme>
+	<programme channel="cx" start="20260321120000 +0000" stop="20260321141000 +0000">
+		<title>ENGEIグランドスラム</title>
+		<desc>【LIVE】超豪華！賞レース王者＆MCクラス集結</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3rwhjim6.jpg?v=0b87047c" />
 	</programme>
 </tv>
