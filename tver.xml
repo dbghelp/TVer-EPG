@@ -20,16 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260308002500 +0000" stop="20260308012500 +0000">
-		<title>ワールドベースボールクラシック詳報　どこよりも詳しい熱戦の記録</title>
-		<desc>世界一連覇への第2戦!因縁の宿敵との【日韓対決】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqbgmf8z3.jpg?v=ff878165" />
-	</programme>
-	<programme channel="ntv" start="20260308012500 +0000" stop="20260308095500 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le7gf5983u.jpg?v=2afb6ef0" />
-	</programme>
 	<programme channel="ntv" start="20260308095500 +0000" stop="20260308100000 +0000">
 		<title>博士は今日も嫉妬する～人生が楽しくなる最新テクノロジー～</title>
 		<desc>▽泡で野菜を育てる栽培法</desc>
@@ -903,7 +893,7 @@
 	<programme channel="tbs" start="20260315130000 +0000" stop="20260315135400 +0000">
 		<title>日曜日の初耳学</title>
 		<desc>【西野亮廣先生『大好評！夢とお金の熱血授業』給料を上げ方まで熱弁】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lerpquto66.jpg?v=c919556d" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lerpquto66.jpg?v=dfcdc07f" />
 	</programme>
 	<programme channel="tbs" start="20260315135400 +0000" stop="20260315140000 +0000">
 		<title>お知らせ</title>
@@ -913,7 +903,7 @@
 	<programme channel="tbs" start="20260315140000 +0000" stop="20260315143000 +0000">
 		<title>情熱大陸</title>
 		<desc>【赤星隆幸／眼科医▽「世界に光を届けられたら」白内障医療の専門医】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leyw2u3rdx.jpg?v=66ae3fe4" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leyw2u3rdx.jpg?v=67ae4177" />
 	</programme>
 	<programme channel="tbs" start="20260315143000 +0000" stop="20260315172900 +0000">
 		<title>配信休止</title>
@@ -1559,16 +1549,6 @@
 		<title>配信準備中</title>
 		<desc>配信準備中</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le9pm5h4p4.jpg?v=575152d1" />
-	</programme>
-	<programme channel="cx" start="20260308000000 +0000" stop="20260308025000 +0000">
-		<title>名古屋ウィメンズマラソン2026</title>
-		<desc>【LIVE】名古屋ウィメンズマラソン2026</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leoayj5ucb.jpg?v=a8208f54" />
-	</programme>
-	<programme channel="cx" start="20260308025000 +0000" stop="20260308100000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</programme>
 	<programme channel="cx" start="20260308100000 +0000" stop="20260308115400 +0000">
 		<title>千鳥の鬼レンチャン</title>
