@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260308193000 +0000" stop="20260309100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le17547oxg.jpg?v=afb48981" />
-	</programme>
 	<programme channel="ntv" start="20260309100000 +0000" stop="20260309110000 +0000">
 		<title>有吉ゼミ</title>
 		<desc>▼ギャル曽根vs中田翔&amp;WBC元日本代表!工藤農園に父・工藤公康が参戦</desc>
@@ -572,8 +567,8 @@
 	</programme>
 	<programme channel="ex" start="20260316125400 +0000" stop="20260316141000 +0000">
 		<title>報道ステーション</title>
-		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejpu90u3y.jpg?v=24ba8bdb" />
+		<desc>応酬やまぬイラン情勢…政府が石油備蓄放出へ…燃料価格“抑制”は？▽親子３人殺害で判決▽各地で進む桜の開花▽侍Ｊ準々決勝…大谷翔平は▽大相撲ほか</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejpu90u3y.jpg?v=23ba8a48" />
 	</programme>
 	<programme channel="ex" start="20260317120000 +0000" stop="20260317125400 +0000">
 		<title>再会～Silent Truth～ </title>
@@ -614,11 +609,6 @@
 		<title>報道ステーション</title>
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/legzmc5hsm.jpg?v=c6af7056" />
-	</programme>
-	<programme channel="tbs" start="20260308193000 +0000" stop="20260308230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le61tgjlug.jpg?v=0a659d86" />
 	</programme>
 	<programme channel="tbs" start="20260308230000 +0000" stop="20260309005500 +0000">
 		<title>ラヴィット！</title>
@@ -989,11 +979,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/levmj8946l.jpg?v=8168f37e" />
-	</programme>
-	<programme channel="tx" start="20260308190000 +0000" stop="20260309092500 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leej74mqae.jpg?v=4ebf220a" />
 	</programme>
 	<programme channel="tx" start="20260309092500 +0000" stop="20260309110000 +0000">
 		<title>YOUは何しに日本へ？</title>
