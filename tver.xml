@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260312193000 +0000" stop="20260313100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/let47end9s.jpg?v=dbaa1d50" />
-	</programme>
 	<programme channel="ntv" start="20260313100000 +0000" stop="20260313115400 +0000">
 		<title>人生が変わる1分間の深イイ話</title>
 		<desc>WBC侍ジャパン因縁の日韓戦の裏側&amp;メジャー選手を支える妻に独占密着</desc>
@@ -622,8 +617,8 @@
 	</programme>
 	<programme channel="ex" start="20260320125400 +0000" stop="20260320141000 +0000">
 		<title>報道ステーション</title>
-		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/legzmc5hsm.jpg?v=a0289700" />
+		<desc>ホルムズ海峡をめぐり攻防…アメリカの要求と日本の回答…注目の首脳会談を詳報▽ＢＴＳ“復活”前夜…ソウルが厳戒態勢に▽連休は警報級の暴風も▽ＭＬＢほか</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/legzmc5hsm.jpg?v=a1289893" />
 	</programme>
 	<programme channel="ex" start="20260320141000 +0000" stop="20260321093000 +0000">
 		<title>No programme</title>
@@ -704,11 +699,6 @@
 		<title>報道ステーション</title>
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lemko8ci0t.jpg?v=97606b71" />
-	</programme>
-	<programme channel="tbs" start="20260312193000 +0000" stop="20260312230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le1y7jt34o.jpg?v=e5693c92" />
 	</programme>
 	<programme channel="tbs" start="20260312230000 +0000" stop="20260313005500 +0000">
 		<title>ラヴィット！</title>
@@ -1149,11 +1139,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le0if8z7jh.jpg?v=1020c246" />
-	</programme>
-	<programme channel="tx" start="20260312190000 +0000" stop="20260313092500 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leu6naqnwn.jpg?v=0e6862aa" />
 	</programme>
 	<programme channel="tx" start="20260313092500 +0000" stop="20260313095500 +0000">
 		<title>BEYBLADE X</title>
