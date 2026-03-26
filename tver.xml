@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260319140000 +0000" stop="20260319193000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lezh8fogd1.jpg?v=da33cc6b" />
-	</programme>
 	<programme channel="ntv" start="20260319193000 +0000" stop="20260320204500 +0000">
 		<title>配信休止</title>
 		<desc> </desc>
@@ -620,11 +615,6 @@
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4vji8yd6.jpg?v=fd21ba94" />
 	</programme>
-	<programme channel="tbs" start="20260319140000 +0000" stop="20260319193000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lelf55i541.jpg?v=282eb924" />
-	</programme>
 	<programme channel="tbs" start="20260319193000 +0000" stop="20260319230000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
@@ -883,22 +873,22 @@
 	<programme channel="tbs" start="20260327194500 +0000" stop="20260328095100 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le2cg7v16u.jpg?v=0db6e906" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le2cg7v16u.jpg?v=0eb6ea99" />
 	</programme>
 	<programme channel="tbs" start="20260328095100 +0000" stop="20260328115400 +0000">
 		<title>ジョブチューン ～アノ職業のヒミツぶっちゃけます！</title>
 		<desc>＜配信は19時から＞イオントップバリュ×超一流料理人！ワンコイン以下10品ジャッジ</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ley31c8ayr.jpg?v=7143150b" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ley31c8ayr.jpg?v=70431378" />
 	</programme>
 	<programme channel="tbs" start="20260328115400 +0000" stop="20260328125600 +0000">
 		<title>いくらかわかる金？</title>
 		<desc>水戸の人気飲み屋街で関太＆関取が爆食！陸上選手から逃げれば賞金</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lewpxyia6n.jpg?v=e67f86d0" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lewpxyia6n.jpg?v=f57f9e6d" />
 	</programme>
 	<programme channel="tbs" start="20260328125600 +0000" stop="20260328200000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3lm1k50v.jpg?v=115a6025" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3lm1k50v.jpg?v=0a5a5520" />
 	</programme>
 	<programme channel="tbs" start="20260328200000 +0000" stop="20260329100000 +0000">
 		<title>配信休止</title>
@@ -1059,16 +1049,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/letsl0mype.jpg?v=106c1d22" />
-	</programme>
-	<programme channel="tx" start="20260319140600 +0000" stop="20260319145500 +0000">
-		<title>カンブリア宮殿</title>
-		<desc>カンブリア宮殿【独創的サービスを生み出す新たなリーダー】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leh6drni71.jpg?v=e6ce0b14" />
-	</programme>
-	<programme channel="tx" start="20260319145500 +0000" stop="20260319190000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le9aa4miqa.jpg?v=191b1e79" />
 	</programme>
 	<programme channel="tx" start="20260319190000 +0000" stop="20260320092500 +0000">
 		<title>配信準備中</title>
@@ -1540,15 +1520,15 @@
 		<desc>配信準備中</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lennax0cod.jpg?v=2b45a30d" />
 	</programme>
-	<programme channel="cx" start="20260319140000 +0000" stop="20260319143000 +0000">
-		<title>トークィーンズ</title>
-		<desc>韓国旅SP！２週連続NCT＆ILLIT登場！激推しスポット紹介</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leco6hhlle.jpg?v=8d11b76a" />
+	<programme channel="tx" start="20260402140600 +0000" stop="20260402152500 +0000">
+		<title>カンブリア宮殿</title>
+		<desc>カンブリア宮殿リニューアルSP【“最強の商人”が語る　伊藤忠商事　稼ぐ秘訣】</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le88rzo9m0.jpg?v=6accf003" />
 	</programme>
-	<programme channel="cx" start="20260319143000 +0000" stop="20260320100000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
+	<programme channel="tx" start="20260402152500 +0000" stop="20260402190000 +0000">
+		<title>配信準備中</title>
+		<desc>配信準備中</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lekqmlbexj.jpg?v=72d26bf8" />
 	</programme>
 	<programme channel="cx" start="20260320100000 +0000" stop="20260320110000 +0000">
 		<title>配信番組のお知らせ</title>
@@ -1919,5 +1899,10 @@
 		<title>配信番組のお知らせ</title>
 		<desc>🐶🐩🐕</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lekuv1ms1x.jpg?v=abcf74ca" />
+	</programme>
+	<programme channel="cx" start="20260402140000 +0000" stop="20260402143000 +0000">
+		<title>世界で一番怖い答え</title>
+		<desc>★有田哲平が贈る最恐クイズ！映像に隠された恐怖とは？</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ley3bufnxh.jpg?v=dc756f84" />
 	</programme>
 </tv>
