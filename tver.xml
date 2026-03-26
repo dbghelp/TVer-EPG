@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260319193000 +0000" stop="20260320204500 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leen9tmxz5.jpg?v=b6a2d0aa" />
-	</programme>
 	<programme channel="ntv" start="20260320204500 +0000" stop="20260321100000 +0000">
 		<title>配信休止</title>
 		<desc> </desc>
@@ -547,8 +542,8 @@
 	</programme>
 	<programme channel="ex" start="20260327125400 +0000" stop="20260327141000 +0000">
 		<title>報道ステーション</title>
-		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leh8is16gq.jpg?v=06c7126e" />
+		<desc>イラン協議拒否にアメリカは…“地上戦”の懸念も▽最高裁で逆転判決？クマ駆除免許取り消し▽週末、桜見頃も傘出番▽大谷翔平＆山本由伸先発…松坂大輔が取材</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leh8is16gq.jpg?v=05c710db" />
 	</programme>
 	<programme channel="ex" start="20260327141000 +0000" stop="20260328093000 +0000">
 		<title>No programme</title>
@@ -614,11 +609,6 @@
 		<title>報道ステーション</title>
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4vji8yd6.jpg?v=fd21ba94" />
-	</programme>
-	<programme channel="tbs" start="20260319193000 +0000" stop="20260319230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lehzpj8m3j.jpg?v=d1a101a7" />
 	</programme>
 	<programme channel="tbs" start="20260319230000 +0000" stop="20260320005500 +0000">
 		<title>ラヴィット！</title>
@@ -1049,11 +1039,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/letsl0mype.jpg?v=106c1d22" />
-	</programme>
-	<programme channel="tx" start="20260319190000 +0000" stop="20260320092500 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lets1mbdbz.jpg?v=edfd5c37" />
 	</programme>
 	<programme channel="tx" start="20260320092500 +0000" stop="20260320095500 +0000">
 		<title>BEYBLADE X</title>
