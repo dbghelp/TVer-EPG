@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260324193000 +0000" stop="20260325100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leg5cxwqe7.jpg?v=d8ea7824" />
-	</programme>
 	<programme channel="ntv" start="20260325100000 +0000" stop="20260325115400 +0000">
 		<title>有吉の壁</title>
 		<desc>生放送SP▼史上最大のおもしろ遊園地!豪華ゲストも続々参戦</desc>
@@ -600,11 +595,6 @@
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lemyzumso5.jpg?v=76d0f3e9" />
 	</programme>
-	<programme channel="tbs" start="20260324193000 +0000" stop="20260324230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6bhkk6s7.jpg?v=e35ac773" />
-	</programme>
 	<programme channel="tbs" start="20260324230000 +0000" stop="20260325005500 +0000">
 		<title>ラヴィット！</title>
 		<desc>THEジャスト2時間SP！</desc>
@@ -1019,11 +1009,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lep91lnaup.jpg?v=d8f1db38" />
-	</programme>
-	<programme channel="tx" start="20260324190000 +0000" stop="20260325092500 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lekhpp6ucu.jpg?v=1e4a4098" />
 	</programme>
 	<programme channel="tx" start="20260325092500 +0000" stop="20260325113000 +0000">
 		<title>世界を救う！ワンにゃフル物語～柴と三毛と亀梨くん～</title>
