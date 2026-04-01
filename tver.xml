@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260325193000 +0000" stop="20260326100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le2icyt1vr.jpg?v=47f39c19" />
-	</programme>
 	<programme channel="ntv" start="20260326100000 +0000" stop="20260326125400 +0000">
 		<title>秘密のケンミンSHOW極</title>
 		<desc>怒涛の3時間!大九州祭り&amp;上京しても心は県民SP</desc>
@@ -368,7 +363,7 @@
 	<programme channel="ntv" start="20260408110000 +0000" stop="20260408120000 +0000">
 		<title>千鳥かまいたちゴールデンアワー</title>
 		<desc>千鳥とかまいたちが“テッパンネタ”で盛り上がる新バラエティーショー！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le0uik1lsh.jpg?v=455ae2ca" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le0uik1lsh.jpg?v=435adfa4" />
 	</programme>
 	<programme channel="ntv" start="20260408120000 +0000" stop="20260408125400 +0000">
 		<title>上田と女が吠える夜</title>
@@ -512,8 +507,8 @@
 	</programme>
 	<programme channel="ex" start="20260402125400 +0000" stop="20260402141000 +0000">
 		<title>報道ステーション</title>
-		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4vji8yd6.jpg?v=f821b2b5" />
+		<desc>トランプ氏が国民に向け“撤退”演説で表明か…ホルムズ封鎖の行方は▽半世紀ぶり人が月へ▽水鏡に咲く夜桜中継▽ド軍の日本勢３連投…山本由伸が先発</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4vji8yd6.jpg?v=f721b122" />
 	</programme>
 	<programme channel="ex" start="20260402141000 +0000" stop="20260403125400 +0000">
 		<title>No programme</title>
@@ -604,11 +599,6 @@
 		<title>報道ステーション</title>
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leknuuzmy0.jpg?v=04b03679" />
-	</programme>
-	<programme channel="tbs" start="20260325193000 +0000" stop="20260325230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le1ifeurkr.jpg?v=f260c348" />
 	</programme>
 	<programme channel="tbs" start="20260325230000 +0000" stop="20260326005500 +0000">
 		<title>ラヴィット！</title>
@@ -1024,11 +1014,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lehua7r6rr.jpg?v=c755541d" />
-	</programme>
-	<programme channel="tx" start="20260325190000 +0000" stop="20260326092500 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/letdlk9d2x.jpg?v=56234060" />
 	</programme>
 	<programme channel="tx" start="20260326092500 +0000" stop="20260326130500 +0000">
 		<title>世界が騒然！本当にあった(秘)衝撃ファイル</title>
