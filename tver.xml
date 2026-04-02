@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260326193000 +0000" stop="20260327204500 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le75y54kdo.jpg?v=53c1359f" />
-	</programme>
 	<programme channel="ntv" start="20260327204500 +0000" stop="20260328100000 +0000">
 		<title>配信休止</title>
 		<desc> </desc>
@@ -268,7 +263,7 @@
 	<programme channel="ntv" start="20260405130000 +0000" stop="20260405133000 +0000">
 		<title>おしゃれクリップ</title>
 		<desc>ゲスト 梅沢富美男</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lef704lckv.jpg?v=519d3a6d" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lef704lckv.jpg?v=439d2463" />
 	</programme>
 	<programme channel="ntv" start="20260405133000 +0000" stop="20260405142500 +0000">
 		<title>マル分の１の頂点</title>
@@ -512,8 +507,8 @@
 	</programme>
 	<programme channel="ex" start="20260403125400 +0000" stop="20260403141000 +0000">
 		<title>報道ステーション</title>
-		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lefeiretbi.jpg?v=a19f004e" />
+		<desc>注目のアメリカ雇用統計を発表…混迷の中東情勢、影響は▽「誰でも通園」開始…現場は？自治体の格差も▽つかの間の花見日和▽フィギュアスケート・坂本花織▽プロ野球</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lefeiretbi.jpg?v=a29f01e1" />
 	</programme>
 	<programme channel="ex" start="20260403141000 +0000" stop="20260404093000 +0000">
 		<title>No programme</title>
@@ -609,11 +604,6 @@
 		<title>報道ステーション</title>
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4g70jriy.jpg?v=5c84ff0e" />
-	</programme>
-	<programme channel="tbs" start="20260326193000 +0000" stop="20260326230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leq4rb96id.jpg?v=a13bd07d" />
 	</programme>
 	<programme channel="tbs" start="20260326230000 +0000" stop="20260327005500 +0000">
 		<title>ラヴィット！</title>
@@ -1034,11 +1024,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/letydohzqn.jpg?v=cb248dcd" />
-	</programme>
-	<programme channel="tx" start="20260326190000 +0000" stop="20260327092500 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le24m0gr1v.jpg?v=e49a99e7" />
 	</programme>
 	<programme channel="tx" start="20260327092500 +0000" stop="20260327095500 +0000">
 		<title>BEYBLADE X</title>
