@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260405142500 +0000" stop="20260405193000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leon96viui.jpg?v=9365631b" />
-	</programme>
 	<programme channel="ntv" start="20260405193000 +0000" stop="20260406100000 +0000">
 		<title>配信休止</title>
 		<desc> </desc>
@@ -575,21 +570,6 @@
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lenfvr9le2.jpg?v=fca37078" />
 	</programme>
-	<programme channel="tbs" start="20260405135400 +0000" stop="20260405140000 +0000">
-		<title>お知らせ</title>
-		<desc>リアルタイム配信予定の番組は「TBS系」タブよりご確認いただけます。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le04pi9a8c.jpg?v=b14354ff" />
-	</programme>
-	<programme channel="tbs" start="20260405140000 +0000" stop="20260405143000 +0000">
-		<title>情熱大陸</title>
-		<desc>【志賀紅音／アイスホッケー選手▽極北の地での挑戦！日本の若きエース】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lesm8qd4bk.jpg?v=63abd2ae" />
-	</programme>
-	<programme channel="tbs" start="20260405143000 +0000" stop="20260405193000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leknv3klul.jpg?v=8b02a3ba" />
-	</programme>
 	<programme channel="tbs" start="20260405193000 +0000" stop="20260405230000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
@@ -893,32 +873,32 @@
 	<programme channel="tbs" start="20260414005500 +0000" stop="20260414100000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6nuoj3ni.jpg?v=875d7410" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6nuoj3ni.jpg?v=8e5d7f15" />
 	</programme>
 	<programme channel="tbs" start="20260414100000 +0000" stop="20260414110000 +0000">
 		<title>THE神業チャレンジ</title>
 		<desc>ディズニー好き芸能人VS神キャスト！柳楽優弥VS神フェイク</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lep17cimfa.jpg?v=fe9aaacc" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lep17cimfa.jpg?v=059ab5d1" />
 	</programme>
 	<programme channel="tbs" start="20260414110000 +0000" stop="20260414115500 +0000">
 		<title>バナナサンド</title>
 		<desc>岡田将生と絶品グルメ争奪バトル＆トラジャ宮近ハモリ我慢初参戦</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le26ich3d1.jpg?v=0d1a2a54" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le26ich3d1.jpg?v=041a1c29" />
 	</programme>
 	<programme channel="tbs" start="20260414115500 +0000" stop="20260414130000 +0000">
 		<title>マツコの知らない世界</title>
 		<desc>最新の食とエンタメSP日本の地獄&amp;全国のお取り寄せ駅弁</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lew3a7ouxs.jpg?v=c7663f8f" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lew3a7ouxs.jpg?v=9509c835" />
 	</programme>
 	<programme channel="tbs" start="20260414130000 +0000" stop="20260414140000 +0000">
 		<title>時すでにおスシ!?</title>
 		<desc>第２話【アジと自分の味】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3e59v68x.jpg?v=1b1be19a" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3e59v68x.jpg?v=1c1be32d" />
 	</programme>
 	<programme channel="tbs" start="20260414140000 +0000" stop="20260414193000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leuqy48n0x.jpg?v=f7c285af" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leuqy48n0x.jpg?v=f4c280f6" />
 	</programme>
 	<programme channel="tbs" start="20260414193000 +0000" stop="20260414230000 +0000">
 		<title>配信休止</title>
@@ -1014,11 +994,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lebvdqzkh5.jpg?v=7d8d0e99" />
-	</programme>
-	<programme channel="tx" start="20260405134800 +0000" stop="20260405190000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lendf09l7k.jpg?v=af99b75d" />
 	</programme>
 	<programme channel="tx" start="20260405190000 +0000" stop="20260406092500 +0000">
 		<title>配信準備中</title>
@@ -1397,8 +1372,8 @@
 	</programme>
 	<programme channel="tx" start="20260416092500 +0000" stop="20260416105400 +0000">
 		<title>タクうま～タクシー運転手さん一番うまい店に連れてって！～</title>
-		<desc>タクうま～タクシー運転手さん一番うまい店に連れてって～</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lehvqu2eou.jpg?v=2c3afae6" />
+		<desc>タクうま～チーム対抗!タクシー会社グルメバトル～船橋VSひたちなか!朝昼晩3食対決</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lehvqu2eou.jpg?v=2d3afc79" />
 	</programme>
 	<programme channel="tx" start="20260416105400 +0000" stop="20260416125000 +0000">
 		<title>～あなたの知らないNO.1～選ばれし頂点サマ</title>
