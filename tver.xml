@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260408193000 +0000" stop="20260409100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leml75m123.jpg?v=10066eae" />
-	</programme>
 	<programme channel="ntv" start="20260409100000 +0000" stop="20260409115400 +0000">
 		<title>THE突破ファイル</title>
 		<desc>SP車1.5台分の土地に家!?狭小住宅▼交通事故鑑定人 右折の濡れ衣</desc>
@@ -607,8 +602,8 @@
 	</programme>
 	<programme channel="ex" start="20260416130000 +0000" stop="20260416141600 +0000">
 		<title>報道ステーション</title>
-		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lexn4c4gkq.jpg?v=ec4ea169" />
+		<desc>京都で男児の遺体発見…家宅捜索で捜査進展は▽イラン再協議なるか…影響は道路工事にまで▽豪雪に耐えた桜中継▽大谷翔平が二刀流で登場▽プロ野球</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lexn4c4gkq.jpg?v=eb4e9fd6" />
 	</programme>
 	<programme channel="ex" start="20260416141600 +0000" stop="20260417095000 +0000">
 		<title>No programme</title>
@@ -704,11 +699,6 @@
 		<title>報道ステーション</title>
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lefl3gmp9o.jpg?v=dff57e07" />
-	</programme>
-	<programme channel="tbs" start="20260408193000 +0000" stop="20260408230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/levul2c55a.jpg?v=3e7f10a4" />
 	</programme>
 	<programme channel="tbs" start="20260408230000 +0000" stop="20260409005500 +0000">
 		<title>ラヴィット！</title>
@@ -1194,11 +1184,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lepivjv9y6.jpg?v=99e11c1b" />
-	</programme>
-	<programme channel="tx" start="20260408190000 +0000" stop="20260409092500 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/legcnxpy2p.jpg?v=503e58db" />
 	</programme>
 	<programme channel="tx" start="20260409092500 +0000" stop="20260409105400 +0000">
 		<title>秋山ロケの地図</title>
