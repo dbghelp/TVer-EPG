@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260411135400 +0000" stop="20260411202500 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lesr5hauj6.jpg?v=bf0f16dc" />
-	</programme>
 	<programme channel="ntv" start="20260411202500 +0000" stop="20260412095500 +0000">
 		<title>配信休止</title>
 		<desc> </desc>
@@ -415,16 +410,6 @@
 		<desc> </desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lenqdzw46z.jpg?v=8336fe2b" />
 	</programme>
-	<programme channel="ex" start="20260411140000 +0000" stop="20260411143000 +0000">
-		<title>ターミネーターと恋しちゃったら</title>
-		<desc>第2話</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejlywpq2m.jpg?v=68a662df" />
-	</programme>
-	<programme channel="ex" start="20260411143000 +0000" stop="20260412095600 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
-	</programme>
 	<programme channel="ex" start="20260412095600 +0000" stop="20260412105000 +0000">
 		<title>ナニコレ珍百景</title>
 		<desc>パンダロス解消！？全国の珍パンダ特集＆半島の先っちょ大調査SP</desc>
@@ -614,6 +599,11 @@
 		<title>エラー</title>
 		<desc>ep2「目をくらます」</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lerclvy4vc.jpg?v=8a4fe1f0" />
+	</programme>
+	<programme channel="ex" start="20260419140900 +0000" stop="20260420125400 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
 	</programme>
 	<programme channel="ex" start="20260420125400 +0000" stop="20260420141000 +0000">
 		<title>報道ステーション</title>
@@ -978,37 +968,37 @@
 	<programme channel="tbs" start="20260419193000 +0000" stop="20260419230000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lerf6s56pd.jpg?v=110fed9a" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lerf6s56pd.jpg?v=0c0fe5bb" />
 	</programme>
 	<programme channel="tbs" start="20260419230000 +0000" stop="20260420005500 +0000">
 		<title>ラヴィット！</title>
 		<desc>Ｘ投票の結果で即ビリビリ！共感No.1決定戦！▼おじさんツアー中継</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejv4e7io7.jpg?v=0f036720" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejv4e7io7.jpg?v=100368b3" />
 	</programme>
 	<programme channel="tbs" start="20260420005500 +0000" stop="20260420100000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leeodurrjb.jpg?v=7ffc22f5" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leeodurrjb.jpg?v=78fc17f0" />
 	</programme>
 	<programme channel="tbs" start="20260420100000 +0000" stop="20260420115500 +0000">
 		<title>CDTV ライブ! ライブ!</title>
 		<desc>★Ado豪華３曲ライブ★timelesz</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leortwq24e.jpg?v=95fb8074" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leortwq24e.jpg?v=98fb852d" />
 	</programme>
 	<programme channel="tbs" start="20260420115500 +0000" stop="20260420130000 +0000">
 		<title>テレビ×ミセス</title>
 		<desc>★巨大すべり台クイズ★前人未到の絶壁斜面で奇跡が起きる！★</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leddr51pig.jpg?v=8bf7e5fb" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leddr51pig.jpg?v=8cf7e78e" />
 	</programme>
 	<programme channel="tbs" start="20260420130000 +0000" stop="20260420135700 +0000">
 		<title>その道のプロが選ぶ本当のNo.1 プロフェッショナルランキング</title>
 		<desc>衝撃のデビューランキング</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le89398hg0.jpg?v=fe9f50b5" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le89398hg0.jpg?v=f79f45b0" />
 	</programme>
 	<programme channel="tbs" start="20260420135700 +0000" stop="20260420193000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/levinguogs.jpg?v=33cf3eee" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/levinguogs.jpg?v=36cf43a7" />
 	</programme>
 	<programme channel="tbs" start="20260420193000 +0000" stop="20260420230000 +0000">
 		<title>配信休止</title>
@@ -1645,21 +1635,6 @@
 		<desc>配信準備中</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leidj0q51a.jpg?v=36b90fc5" />
 	</programme>
-	<programme channel="cx" start="20260411141000 +0000" stop="20260411144000 +0000">
-		<title>さんまのお笑い向上委員会</title>
-		<desc>▼ザ・マミィ一攫千金への道！クズトリオ岡野＆大津＆谷！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/len4vykxf2.jpg?v=1764633e" />
-	</programme>
-	<programme channel="cx" start="20260411144000 +0000" stop="20260411153500 +0000">
-		<title>時光代理人</title>
-		<desc>第1話 消えた息子</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lew727iam3.jpg?v=0054f867" />
-	</programme>
-	<programme channel="cx" start="20260411153500 +0000" stop="20260412100000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
-	</programme>
 	<programme channel="cx" start="20260412100000 +0000" stop="20260412120000 +0000">
 		<title>地上波放送番組のお知らせ</title>
 		<desc>「世界！爽快！映像GP」は地上波放送でお楽しみください！</desc>
@@ -2054,5 +2029,15 @@
 		<title>爆笑そっくりものまね紅白歌合戦スペシャル</title>
 		<desc>　</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leb4f4d6ee.jpg?v=4c1af7d8" />
+	</programme>
+	<programme channel="cx" start="20260425141000 +0000" stop="20260425144000 +0000">
+		<title>さんまのお笑い向上委員会</title>
+		<desc>　</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ledr1132zg.jpg?v=ab1c09d8" />
+	</programme>
+	<programme channel="cx" start="20260425144000 +0000" stop="20260425153500 +0000">
+		<title>時光代理人</title>
+		<desc>第3話</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le43e9g280.jpg?v=c9424eb6" />
 	</programme>
 </tv>
