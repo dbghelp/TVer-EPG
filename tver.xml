@@ -20,26 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260415120000 +0000" stop="20260415125400 +0000">
-		<title>上田と女が吠える夜</title>
-		<desc>▽手間抜き家事を極めた女!少しでも楽しく効率よく!!</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lerut4d037.jpg?v=d92e6181" />
-	</programme>
-	<programme channel="ntv" start="20260415125400 +0000" stop="20260415130000 +0000">
-		<title>お知らせ</title>
-		<desc>リアルタイム配信予定の番組は「日テレ系」タブよりご確認いただけます。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/levsgzxce2.jpg?v=b10cce2f" />
-	</programme>
-	<programme channel="ntv" start="20260415130000 +0000" stop="20260415135400 +0000">
-		<title>月夜行路 ―答えは名作の中に―</title>
-		<desc>#2真犯人は誰?怪しい女将と妙な盗品▼波瑠×麻生久美子</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le8kiajn3d.jpg?v=4cac8673" />
-	</programme>
-	<programme channel="ntv" start="20260415135400 +0000" stop="20260415193000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lew4h4hjp5.jpg?v=3607a885" />
-	</programme>
 	<programme channel="ntv" start="20260415193000 +0000" stop="20260416100000 +0000">
 		<title>配信休止</title>
 		<desc> </desc>
@@ -470,20 +450,25 @@
 		<desc>4月29日 よる７時００分～リアルタイム配信！</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lel39ir9ww.jpg?v=73040af0" />
 	</programme>
-	<programme channel="ex" start="20260415120000 +0000" stop="20260415125400 +0000">
-		<title>ボーダレス～広域移動捜査隊～</title>
-		<desc>第2話</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le1cogm6et.jpg?v=f45112af" />
+	<programme channel="ntv" start="20260429120000 +0000" stop="20260429125400 +0000">
+		<title>上田と女が吠える夜</title>
+		<desc>▼北海道VS沖縄の女が大激論!!日本一の観光地はどっち!?</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lelwvxostx.jpg?v=3d001641" />
 	</programme>
-	<programme channel="ex" start="20260415125400 +0000" stop="20260415141000 +0000">
-		<title>報道ステーション</title>
-		<desc>１１歳男児の遺体と判明…真相究明へ、捜査進展は▽封鎖の応酬どうなる…農家が悲鳴「三重苦」▽４月、早くも台風４号▽山本由伸が先発!!大谷翔平は？▽欧州ＣＬ</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lesufdk6f8.jpg?v=0fe84c49" />
+	<programme channel="ntv" start="20260429125400 +0000" stop="20260429130000 +0000">
+		<title>お知らせ</title>
+		<desc>リアルタイム配信予定の番組は「日テレ系」タブよりご確認いただけます。</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lefbgaf1qn.jpg?v=e8f9b2df" />
 	</programme>
-	<programme channel="ex" start="20260415141000 +0000" stop="20260416100000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
+	<programme channel="ntv" start="20260429130000 +0000" stop="20260429135400 +0000">
+		<title>月夜行路 ―答えは名作の中に―</title>
+		<desc>#4衝撃の再会!?23年ごし明かす真実▼波瑠×麻生久美子</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leyyjm5ofj.jpg?v=56fb1fca" />
+	</programme>
+	<programme channel="ntv" start="20260429135400 +0000" stop="20260429193000 +0000">
+		<title>配信休止</title>
+		<desc> </desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leulcyjk96.jpg?v=2c432d66" />
 	</programme>
 	<programme channel="ex" start="20260416100000 +0000" stop="20260416120000 +0000">
 		<title>林修の今知りたいでしょ！</title>
@@ -680,6 +665,11 @@
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lerqs84m2e.jpg?v=cdaed2db" />
 	</programme>
+	<programme channel="ex" start="20260424141000 +0000" stop="20260424141500 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
+	</programme>
 	<programme channel="ex" start="20260424141500 +0000" stop="20260424151500 +0000">
 		<title>余命３ヶ月のサレ夫</title>
 		<desc>余命宣告され絶望する夫。そのとき妻は不倫に溺れていた－。【主演】白洲迅×【ヒロイン】桜井日奈子で贈る≪復讐ラブサスペンス≫開幕！</desc>
@@ -750,20 +740,10 @@
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lee4185k1m.jpg?v=013d4651" />
 	</programme>
-	<programme channel="tbs" start="20260415125800 +0000" stop="20260415130000 +0000">
-		<title>お知らせ</title>
-		<desc>リアルタイム配信予定の番組は「TBS系」タブよりご確認いただけます。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/let75k4ivc.jpg?v=84c1d2a8" />
-	</programme>
-	<programme channel="tbs" start="20260415130000 +0000" stop="20260415135700 +0000">
-		<title>水曜日のダウンタウン</title>
-		<desc>芸能人が持ち寄った“説”を検証</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lefoqt41u0.jpg?v=4cbd5200" />
-	</programme>
-	<programme channel="tbs" start="20260415135700 +0000" stop="20260415193000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le2v93hcbc.jpg?v=2aeacdef" />
+	<programme channel="ex" start="20260429125400 +0000" stop="20260429141000 +0000">
+		<title>報道ステーション</title>
+		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le0xhhz9l0.jpg?v=a1b5f1db" />
 	</programme>
 	<programme channel="tbs" start="20260415193000 +0000" stop="20260415230000 +0000">
 		<title>配信休止</title>
@@ -1205,31 +1185,6 @@
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le05p09qyz.jpg?v=dc4854fc" />
 	</programme>
-	<programme channel="tx" start="20260415114000 +0000" stop="20260415125400 +0000">
-		<title>バカリズムのちょっとバカりハカってみた！</title>
-		<desc>バカりハカってみた▼超過酷ワンオペ激ウマ店★店の床で寝泊り＆赤字10円人情飯</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lelmfh613h.jpg?v=40fa20ab" />
-	</programme>
-	<programme channel="tx" start="20260415125400 +0000" stop="20260415130000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leb5eb5plx.jpg?v=92b314d5" />
-	</programme>
-	<programme channel="tx" start="20260415130000 +0000" stop="20260415135800 +0000">
-		<title>ＷＢＳ（ワールドビジネスサテライト）</title>
-		<desc>ＷＢＳ　サントリーHDが第一三共ヘルスケアを買収　健康関連事業強化の狙いは…</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le0pl6zg0m.jpg?v=7ea1e798" />
-	</programme>
-	<programme channel="tx" start="20260415135800 +0000" stop="20260415140600 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lerc86tdhb.jpg?v=7c19276d" />
-	</programme>
-	<programme channel="tx" start="20260415140600 +0000" stop="20260415145500 +0000">
-		<title>アンパラレルド～ニッポン発、世界へ～</title>
-		<desc>アンパラレルド～ニッポン発、世界へ～</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lelbww2ijt.jpg?v=3cd3d4a5" />
-	</programme>
 	<programme channel="tx" start="20260415145500 +0000" stop="20260415190000 +0000">
 		<title>配信準備中</title>
 		<desc>配信準備中</desc>
@@ -1477,8 +1432,8 @@
 	</programme>
 	<programme channel="tx" start="20260422130000 +0000" stop="20260422135800 +0000">
 		<title>ＷＢＳ（ワールドビジネスサテライト）</title>
-		<desc>ＷＢＳ【トランプ大統領突然の停戦延期を宣言▼プルデンシャル“新たな被害”】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4t9mbbyi.jpg?v=dfd9ab5c" />
+		<desc>ＷＢＳ【トランプ大統領突然の停戦延長を宣言▼プルデンシャル“新たな被害”】</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4t9mbbyi.jpg?v=e2d9b015" />
 	</programme>
 	<programme channel="tx" start="20260422135800 +0000" stop="20260422140600 +0000">
 		<title>配信準備中</title>
@@ -1572,8 +1527,8 @@
 	</programme>
 	<programme channel="tx" start="20260424130000 +0000" stop="20260424135400 +0000">
 		<title>ガイアの夜明け</title>
-		<desc>ガイアの夜明け　独占密着！電動キックボードで急成長のLUUPは街の厄介者？救世主？</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3oo1hkby.jpg?v=611ed736" />
+		<desc>ガイアの夜明け　キックボードで急成長LUUPの正念場・・・安全対策の苦闘！独占密着</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3oo1hkby.jpg?v=5f1ed410" />
 	</programme>
 	<programme channel="tx" start="20260424135400 +0000" stop="20260424140000 +0000">
 		<title>配信準備中</title>
@@ -1623,7 +1578,7 @@
 	<programme channel="tx" start="20260426093000 +0000" stop="20260426115000 +0000">
 		<title>世界の給与明細～日本と比べてどうなの？～</title>
 		<desc>世界の給与明細レギュラー【あなたの給料いくら？世界で衝撃(秘)お金事情を調査】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leg6tnw7z5.jpg?v=87667c97" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leg6tnw7z5.jpg?v=86667b04" />
 	</programme>
 	<programme channel="tx" start="20260426115000 +0000" stop="20260426125400 +0000">
 		<title>家、ついて行ってイイですか？</title>
@@ -1725,35 +1680,20 @@
 		<desc>配信準備中</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le9cy5k0qx.jpg?v=8471c63a" />
 	</programme>
-	<programme channel="cx" start="20260415110000 +0000" stop="20260415120000 +0000">
-		<title>奇跡体験！アンビリバボー</title>
-		<desc>日本の立入禁止エリアの謎＆ミステリー徹底調査SP！！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le01c0y6m0.jpg?v=21ead4b2" />
+	<programme channel="tx" start="20260429130000 +0000" stop="20260429135800 +0000">
+		<title>ＷＢＳ（ワールドビジネスサテライト）</title>
+		<desc>ＷＢＳ</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leck66l5uq.jpg?v=5f5d69f9" />
 	</programme>
-	<programme channel="cx" start="20260415120000 +0000" stop="20260415125400 +0000">
-		<title>ホンマでっか！？TV</title>
-		<desc>家計の救済ワザ</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lerrk6ku8h.jpg?v=ec761fff" />
+	<programme channel="tx" start="20260429135800 +0000" stop="20260429140600 +0000">
+		<title>配信準備中</title>
+		<desc>配信準備中</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leauqgmy9p.jpg?v=429d2d8b" />
 	</programme>
-	<programme channel="cx" start="20260415125400 +0000" stop="20260415130000 +0000">
-		<title>配信番組のお知らせ</title>
-		<desc>🐶🐩🐕</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lert1l9r4o.jpg?v=27769d5e" />
-	</programme>
-	<programme channel="cx" start="20260415130000 +0000" stop="20260415135400 +0000">
-		<title>LOVED ONE</title>
-		<desc>第2話 空から落ちてきた遺体</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le0u5k6a1c.jpg?v=bbac3b1b" />
-	</programme>
-	<programme channel="cx" start="20260415135400 +0000" stop="20260415140000 +0000">
-		<title>配信番組のお知らせ</title>
-		<desc>🐶🐩🐕</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leplxtwv3h.jpg?v=50aebd95" />
-	</programme>
-	<programme channel="cx" start="20260415140000 +0000" stop="20260416100000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
+	<programme channel="tx" start="20260429140600 +0000" stop="20260429145500 +0000">
+		<title>アンパラレルド～ニッポン発、世界へ～</title>
+		<desc>アンパラレルド～ニッポン発、世界へ～</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ledohb7h5e.jpg?v=78471f31" />
 	</programme>
 	<programme channel="cx" start="20260416100000 +0000" stop="20260416120000 +0000">
 		<title>STAR</title>
@@ -2144,5 +2084,20 @@
 		<title>奇跡体験！アンビリバボー</title>
 		<desc>誰もが知ってるレジェンド★キセキの爆誕SP！！</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leiur2eyzg.jpg?v=6b6d6e4d" />
+	</programme>
+	<programme channel="cx" start="20260429120000 +0000" stop="20260429125400 +0000">
+		<title>ホンマでっか！？TV</title>
+		<desc />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ledxagmn37.jpg?v=01536564" />
+	</programme>
+	<programme channel="cx" start="20260429125400 +0000" stop="20260429130000 +0000">
+		<title>配信番組のお知らせ</title>
+		<desc>🎞️🎥🎬</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/levglnllq4.jpg?v=4a8627be" />
+	</programme>
+	<programme channel="cx" start="20260429130000 +0000" stop="20260429142400 +0000">
+		<title>地上波放送番組のお知らせ</title>
+		<desc>「ONE SAMURAI 1 〜武尊引退試合 運命のリベンジマッチ〜」は地上波放送でお楽しみください！</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lefile1t66.jpg?v=27b7d68d" />
 	</programme>
 </tv>
