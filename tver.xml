@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260416193000 +0000" stop="20260417204500 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leapbkvjuh.jpg?v=fc31d5d2" />
-	</programme>
 	<programme channel="ntv" start="20260417204500 +0000" stop="20260418100000 +0000">
 		<title>配信休止</title>
 		<desc> </desc>
@@ -647,8 +642,8 @@
 	</programme>
 	<programme channel="ex" start="20260424125400 +0000" stop="20260424141000 +0000">
 		<title>報道ステーション</title>
-		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lerqs84m2e.jpg?v=283d78bf" />
+		<desc>“避難指示”拡大も…延焼続く岩手の山林火災▽新ＡＩに金融庁が警戒▽ＧＷ天気…雨多い？▽村上宗隆…６戦連発なるか▽日本人初のＮＦＬへ…松岡修造が取材ほか</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lerqs84m2e.jpg?v=293d7a52" />
 	</programme>
 	<programme channel="ex" start="20260424141000 +0000" stop="20260424141500 +0000">
 		<title>No programme</title>
@@ -744,11 +739,6 @@
 		<title>報道ステーション</title>
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lemtclvyq7.jpg?v=a25f1bfb" />
-	</programme>
-	<programme channel="tbs" start="20260416193000 +0000" stop="20260416230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lea2p89co3.jpg?v=dca6569a" />
 	</programme>
 	<programme channel="tbs" start="20260416230000 +0000" stop="20260417005500 +0000">
 		<title>ラヴィット！</title>
@@ -1174,11 +1164,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3mfuwtzk.jpg?v=ce9d758f" />
-	</programme>
-	<programme channel="tx" start="20260416190000 +0000" stop="20260417095500 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lemb5bk88h.jpg?v=93fe7dfd" />
 	</programme>
 	<programme channel="tx" start="20260417095500 +0000" stop="20260417102500 +0000">
 		<title>ポケットモンスター</title>
