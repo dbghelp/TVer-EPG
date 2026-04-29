@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260422193000 +0000" stop="20260423100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lehaj820vd.jpg?v=5a538539" />
-	</programme>
 	<programme channel="ntv" start="20260423100000 +0000" stop="20260423105400 +0000">
 		<title>THE突破ファイル</title>
 		<desc>1分で脳がマヒ?ゾンビたばこの恐怖▼草薙VS自転車バッテリー大爆発</desc>
@@ -388,7 +383,7 @@
 	<programme channel="ntv" start="20260504100000 +0000" stop="20260504125400 +0000">
 		<title>県民スポーツ栄誉賞</title>
 		<desc>5月4日 よる７時００分～リアルタイム配信！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le28nnv6t1.jpg?v=8a598adc" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le28nnv6t1.jpg?v=8b598c6f" />
 	</programme>
 	<programme channel="ntv" start="20260504125400 +0000" stop="20260504130000 +0000">
 		<title>お知らせ</title>
@@ -714,11 +709,6 @@
 		<title>報道ステーション</title>
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/len8izxcb7.jpg?v=5b47f7b1" />
-	</programme>
-	<programme channel="tbs" start="20260422193000 +0000" stop="20260422230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lej7vplxd4.jpg?v=33b9a038" />
 	</programme>
 	<programme channel="tbs" start="20260422230000 +0000" stop="20260423005500 +0000">
 		<title>ラヴィット！</title>
@@ -1114,11 +1104,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lei6f1gi50.jpg?v=fbdeee25" />
-	</programme>
-	<programme channel="tx" start="20260422190000 +0000" stop="20260423092500 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lemboo3uw4.jpg?v=61d4e0a8" />
 	</programme>
 	<programme channel="tx" start="20260423092500 +0000" stop="20260423105400 +0000">
 		<title>タクうま～タクシー運転手さん一番うまい店に連れてって！～</title>
