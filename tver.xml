@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260425135400 +0000" stop="20260425201000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3app1zf5.jpg?v=5fc06fad" />
-	</programme>
 	<programme channel="ntv" start="20260425201000 +0000" stop="20260426095500 +0000">
 		<title>配信休止</title>
 		<desc> </desc>
@@ -303,7 +298,7 @@
 	<programme channel="ntv" start="20260504100000 +0000" stop="20260504125400 +0000">
 		<title>47都道府県“我が地元のアスリート”を表彰 県民スポーツ栄誉賞</title>
 		<desc>47都道府県の顔は誰?羽生結弦・坂本花織・三浦知良に独占取材</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le28nnv6t1.jpg?v=b2f36ca1" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le28nnv6t1.jpg?v=b1f36b0e" />
 	</programme>
 	<programme channel="ntv" start="20260504125400 +0000" stop="20260504130000 +0000">
 		<title>お知らせ</title>
@@ -443,7 +438,7 @@
 	<programme channel="ntv" start="20260509120000 +0000" stop="20260509125400 +0000">
 		<title>タツキ先生は甘すぎる！</title>
 		<desc>#05</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leiqtptt96.jpg?v=bddf9f72" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leiqtptt96.jpg?v=bedfa105" />
 	</programme>
 	<programme channel="ntv" start="20260509125400 +0000" stop="20260509130000 +0000">
 		<title>お知らせ</title>
@@ -455,15 +450,10 @@
 		<desc>和久田麻由子とたどる、記者たちの取材の軌跡。土曜日の夜、注目のニュースや話題の真相に迫る「追跡ドキュメンタリー型」ニュース番組です。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqq69oyo6.jpg?v=f6c2c890" />
 	</programme>
-	<programme channel="ex" start="20260425141000 +0000" stop="20260425144000 +0000">
-		<title>ターミネーターと恋しちゃったら</title>
-		<desc>第4話</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leidmgkzeh.jpg?v=46d5d7c8" />
-	</programme>
-	<programme channel="ex" start="20260425144000 +0000" stop="20260426093000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
+	<programme channel="ntv" start="20260509135400 +0000" stop="20260509202500 +0000">
+		<title>配信休止</title>
+		<desc> </desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leop130mp8.jpg?v=430b5316" />
 	</programme>
 	<programme channel="ex" start="20260426093000 +0000" stop="20260426105000 +0000">
 		<title>CHEF-1グランプリ2026</title>
@@ -660,6 +650,11 @@
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le0zoxiw4w.jpg?v=6760299e" />
 	</programme>
+	<programme channel="ex" start="20260504141000 +0000" stop="20260505100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
+	</programme>
 	<programme channel="ex" start="20260505100000 +0000" stop="20260505120000 +0000">
 		<title>日本探求アカデミックバラエティ　火曜の良純孝太郎</title>
 		<desc>日本の“原点”奈良をめぐる！ 良純と孝太郎が心に刻んだ、神秘の風景とは？</desc>
@@ -729,6 +724,11 @@
 		<title>サタデーステーション</title>
 		<desc>生放送だからできる“LIVE感”を大切に、週末だからできる“注目ニュース”の掘り下げと“週末も動いているニュース”を速報で高島彩キャスターが分かりやすくお伝えします</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejpq97f53.jpg?v=51282cef" />
+	</programme>
+	<programme channel="ex" start="20260509140000 +0000" stop="20260509143000 +0000">
+		<title>ターミネーターと恋しちゃったら</title>
+		<desc>400年後の未来からやって来たアンドロイド・エータ（宮舘涼太）と漫画編集者・くるみ（臼田あさ美）の禁断ラブコメディ!!くるみの元彼登場で嫉妬？天候悪化で起こる悲劇!?</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le2qtv6hab.jpg?v=f459f025" />
 	</programme>
 	<programme channel="tbs" start="20260425194000 +0000" stop="20260426100000 +0000">
 		<title>配信休止</title>
@@ -973,27 +973,27 @@
 	<programme channel="tbs" start="20260503193000 +0000" stop="20260503230000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lekf3q2lzl.jpg?v=892b387f" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lekf3q2lzl.jpg?v=862b33c6" />
 	</programme>
 	<programme channel="tbs" start="20260503230000 +0000" stop="20260504005500 +0000">
 		<title>ラヴィット！</title>
 		<desc>くら寿司人気TOP10を当てろ！＆ダース・ベイダーまさかの初登場！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lewnjxe8b6.jpg?v=6c49972f" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lewnjxe8b6.jpg?v=6b49959c" />
 	</programme>
 	<programme channel="tbs" start="20260504005500 +0000" stop="20260504093000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6dk3c7ib.jpg?v=ac07db1f" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6dk3c7ib.jpg?v=a907d666" />
 	</programme>
 	<programme channel="tbs" start="20260504093000 +0000" stop="20260504120000 +0000">
 		<title>今夜復活！８時だョ！全員集合　ドリフ伝説コント２０連発</title>
 		<desc>永作博美も山口智子も笑ったドリフ伝説コント20発</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lev99d989q.jpg?v=76595bcf" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lev99d989q.jpg?v=75595a3c" />
 	</programme>
 	<programme channel="tbs" start="20260504120000 +0000" stop="20260504193000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leilovxbu0.jpg?v=cff02371" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leilovxbu0.jpg?v=d0f02504" />
 	</programme>
 	<programme channel="tbs" start="20260504193000 +0000" stop="20260504230000 +0000">
 		<title>配信休止</title>
@@ -1565,21 +1565,6 @@
 		<desc>配信準備中</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lekw3wec4l.jpg?v=342d3518" />
 	</programme>
-	<programme channel="cx" start="20260425141000 +0000" stop="20260425144000 +0000">
-		<title>さんまのお笑い向上委員会</title>
-		<desc>▼四十路女子芸人の実態！他人の活躍が許せない男ともしげ</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ledr1132zg.jpg?v=5128284a" />
-	</programme>
-	<programme channel="cx" start="20260425144000 +0000" stop="20260425153500 +0000">
-		<title>時光代理人</title>
-		<desc>第3話 秘伝のレシピ</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le43e9g280.jpg?v=526c1f49" />
-	</programme>
-	<programme channel="cx" start="20260425153500 +0000" stop="20260426100000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
-	</programme>
 	<programme channel="cx" start="20260426100000 +0000" stop="20260426120000 +0000">
 		<title>千鳥の鬼レンチャン</title>
 		<desc>◆第２回腕相撲トーナメント！芸能界最強の力自慢は誰だ？</desc>
@@ -1974,5 +1959,15 @@
 		<title>逃走中〜シークレットミッション〜</title>
 		<desc>2026GW特番後編</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lep8csbqph.jpg?v=e4403651" />
+	</programme>
+	<programme channel="cx" start="20260509141000 +0000" stop="20260509144000 +0000">
+		<title>さんまのお笑い向上委員会</title>
+		<desc />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le72jeqzi1.jpg?v=03e1f160" />
+	</programme>
+	<programme channel="cx" start="20260509144000 +0000" stop="20260509153500 +0000">
+		<title>時光代理人</title>
+		<desc>第5話</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leakzwnxoq.jpg?v=9fc765c6" />
 	</programme>
 </tv>
