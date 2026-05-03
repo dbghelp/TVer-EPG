@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260426142500 +0000" stop="20260426193000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le33pr8ca1.jpg?v=b4a7cff9" />
-	</programme>
 	<programme channel="ntv" start="20260426193000 +0000" stop="20260427100000 +0000">
 		<title>配信休止</title>
 		<desc> </desc>
@@ -453,7 +448,12 @@
 	<programme channel="ntv" start="20260510133000 +0000" stop="20260510142500 +0000">
 		<title>10回切って倒れない木はない</title>
 		<desc>第5話</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leniov2y6g.jpg?v=415bf77d" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leniov2y6g.jpg?v=405bf5ea" />
+	</programme>
+	<programme channel="ntv" start="20260510142500 +0000" stop="20260510193000 +0000">
+		<title>配信休止</title>
+		<desc> </desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le5jispqhl.jpg?v=ab78b36a" />
 	</programme>
 	<programme channel="ex" start="20260427100000 +0000" stop="20260427114000 +0000">
 		<title>帰れマンデー見っけ隊!!</title>
@@ -728,27 +728,7 @@
 	<programme channel="ex" start="20260510131500 +0000" stop="20260510140900 +0000">
 		<title>エラー</title>
 		<desc>畑芽育・志田未来のＷ主演。加害者なのか被害者なのか、真実を知らないまま出会ってはいけない二人に友情が芽生えてしまう。二人の生き様を描くヒューマンサスペンスドラマ</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lefg899hmq.jpg?v=1bfa8a1d" />
-	</programme>
-	<programme channel="tbs" start="20260426135400 +0000" stop="20260426140000 +0000">
-		<title>お知らせ</title>
-		<desc>リアルタイム配信予定の番組は「TBS系」タブよりご確認いただけます。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lepjxitr21.jpg?v=167db795" />
-	</programme>
-	<programme channel="tbs" start="20260426140000 +0000" stop="20260426143000 +0000">
-		<title>情熱大陸</title>
-		<desc>【今永昇太／メジャーリーガー▽逆境を力に！“投げる哲学者”更なる進化】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le7c0gcgpy.jpg?v=b1aa77a8" />
-	</programme>
-	<programme channel="tbs" start="20260426143000 +0000" stop="20260426165900 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le1ug67g6h.jpg?v=57a6e4c9" />
-	</programme>
-	<programme channel="tbs" start="20260426165900 +0000" stop="20260426230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lev4hy7rtv.jpg?v=24a58d1b" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lefg899hmq.jpg?v=14fa7f18" />
 	</programme>
 	<programme channel="tbs" start="20260426230000 +0000" stop="20260427005500 +0000">
 		<title>ラヴィット！</title>
@@ -973,37 +953,37 @@
 	<programme channel="tbs" start="20260504193000 +0000" stop="20260504230000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lej6tn3vrf.jpg?v=771f0dd5" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lej6tn3vrf.jpg?v=701f02d0" />
 	</programme>
 	<programme channel="tbs" start="20260504230000 +0000" stop="20260505005500 +0000">
 		<title>ラヴィット！</title>
 		<desc>なかやまきんに君vs佐久間「サバイバルクイズ」１０問連続正解なるか？</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le7sf8voed.jpg?v=13e68c9b" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le7sf8voed.jpg?v=12e68b08" />
 	</programme>
 	<programme channel="tbs" start="20260505005500 +0000" stop="20260505093000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lenz7mip9l.jpg?v=fd120386" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lenz7mip9l.jpg?v=0012083f" />
 	</programme>
 	<programme channel="tbs" start="20260505093000 +0000" stop="20260505115500 +0000">
 		<title>バナナサンド</title>
 		<desc>中村倫也＆神木隆之介と新ゲーム！生田絵梨花が初ハモリ我慢</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lec2cj2333.jpg?v=71d24a6f" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lec2cj2333.jpg?v=76d2524e" />
 	</programme>
 	<programme channel="tbs" start="20260505115500 +0000" stop="20260505130000 +0000">
 		<title>マツコの知らない世界</title>
 		<desc>小さい中に魅力がいっぱい！豆皿の世界</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ledjyok361.jpg?v=9fbb32dd" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ledjyok361.jpg?v=509d8a2f" />
 	</programme>
 	<programme channel="tbs" start="20260505130000 +0000" stop="20260505140000 +0000">
 		<title>時すでにおスシ!?</title>
 		<desc>第５話【巻き込まれ、巻き寿司】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lehdu95d5h.jpg?v=fc82422e" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lehdu95d5h.jpg?v=fd8243c1" />
 	</programme>
 	<programme channel="tbs" start="20260505140000 +0000" stop="20260505193000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/levrlh1whc.jpg?v=88aad3af" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/levrlh1whc.jpg?v=85aacef6" />
 	</programme>
 	<programme channel="tbs" start="20260505193000 +0000" stop="20260505230000 +0000">
 		<title>配信休止</title>
@@ -1129,6 +1109,21 @@
 		<title>日曜日の初耳学</title>
 		<desc>【山下智久×林修◆世界が舞台！親友ヒッチハイク旅TV初出し写真も】</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/led27v680z.jpg?v=effcac9c" />
+	</programme>
+	<programme channel="tbs" start="20260510135400 +0000" stop="20260510140000 +0000">
+		<title>お知らせ</title>
+		<desc>リアルタイム配信予定の番組は「TBS系」タブよりご確認いただけます。</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leut4is9ic.jpg?v=b2aa9810" />
+	</programme>
+	<programme channel="tbs" start="20260510140000 +0000" stop="20260510143000 +0000">
+		<title>情熱大陸</title>
+		<desc>情熱大陸【山﨑健太郎／建築家▽デイサービスから刑務所まで…施設の形を問い直す】</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leed7u5hxn.jpg?v=5b7e1ded" />
+	</programme>
+	<programme channel="tbs" start="20260510143000 +0000" stop="20260510193000 +0000">
+		<title>配信休止</title>
+		<desc>配信休止</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lemwxcc3d2.jpg?v=9c37758b" />
 	</programme>
 	<programme channel="tx" start="20260426190000 +0000" stop="20260427092500 +0000">
 		<title>配信準備中</title>
