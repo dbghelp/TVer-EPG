@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260426193000 +0000" stop="20260427100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lev5rc7imv.jpg?v=257ba7d6" />
-	</programme>
 	<programme channel="ntv" start="20260427100000 +0000" stop="20260427110000 +0000">
 		<title>有吉ゼミ</title>
 		<desc>▼ギャル曽根ピンチ!1年4か月ぶり大波乱!?北村一輝の長男が爆食参戦SP</desc>
@@ -617,8 +612,8 @@
 	</programme>
 	<programme channel="ex" start="20260504125400 +0000" stop="20260504141000 +0000">
 		<title>報道ステーション</title>
-		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le0zoxiw4w.jpg?v=68602b31" />
+		<desc>ＧＷ“春の嵐”直撃か…暴風雨で交通に影響も▽どうなる？憲法改正…総理目指す“日程感”▽「井上尚弥vs中谷潤人」舞台裏▽大谷翔平ら日本強打者勢…ＭＬＢ詳報</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le0zoxiw4w.jpg?v=69602cc4" />
 	</programme>
 	<programme channel="ex" start="20260504141000 +0000" stop="20260505100000 +0000">
 		<title>No programme</title>
@@ -1124,11 +1119,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lemwxcc3d2.jpg?v=9c37758b" />
-	</programme>
-	<programme channel="tx" start="20260426190000 +0000" stop="20260427092500 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leh9tmp1e9.jpg?v=8e28f84b" />
 	</programme>
 	<programme channel="tx" start="20260427092500 +0000" stop="20260427110000 +0000">
 		<title>YOUは何しに日本へ？</title>
