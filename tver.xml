@@ -20,16 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260426095500 +0000" stop="20260426100000 +0000">
-		<title>博士は今日も嫉妬する～人生が楽しくなる最新テクノロジー～</title>
-		<desc>▽タッチ不要の改札</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/legzqdt1bq.jpg?v=20a48895" />
-	</programme>
-	<programme channel="ntv" start="20260426100000 +0000" stop="20260426105800 +0000">
-		<title>ザ！鉄腕！DASH!!</title>
-		<desc>▽柔道金メダリスト角田夏実が鹿児島で巨大魚釣りに挑戦</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leelsprcnn.jpg?v=12575181" />
-	</programme>
 	<programme channel="ntv" start="20260426105800 +0000" stop="20260426115400 +0000">
 		<title>世界の果てまでイッテQ！</title>
 		<desc>中岡Qtube初上陸のスリランカ▼世界遺産駅伝イモトがジンバブエへ!</desc>
@@ -455,15 +445,15 @@
 		<desc> </desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lefdxmirbj.jpg?v=0142c9cc" />
 	</programme>
-	<programme channel="ex" start="20260426093000 +0000" stop="20260426105000 +0000">
-		<title>CHEF-1グランプリ2026</title>
-		<desc>長嶋一茂＆上沼恵美子＆GACKTが審査！【新・定番】を生み出し優勝賞金1000万円を獲得するのは！？</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/legz6cgb5h.jpg?v=757710cf" />
+	<programme channel="ntv" start="20260510095500 +0000" stop="20260510100000 +0000">
+		<title>博士は今日も嫉妬する～人生が楽しくなる最新テクノロジー～</title>
+		<desc>▽フードロスを削減する再生米</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lech33s9dw.jpg?v=d4ac7852" />
 	</programme>
-	<programme channel="ex" start="20260426105000 +0000" stop="20260426105400 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
+	<programme channel="ntv" start="20260510100000 +0000" stop="20260510105800 +0000">
+		<title>ザ！鉄腕！DASH!!</title>
+		<desc>【DASH島】【DASH海岸】【新宿DASH】【DASH村】【0円食堂】【グリル厄介】【ご当地PR課】【DASHバーガー】【メシ遺産】【巨大食堂】ほか</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lead9mx70t.jpg?v=19079944" />
 	</programme>
 	<programme channel="ex" start="20260426105400 +0000" stop="20260426115600 +0000">
 		<title>ポツンと一軒家</title>
@@ -730,10 +720,10 @@
 		<desc>400年後の未来からやって来たアンドロイド・エータ（宮舘涼太）と漫画編集者・くるみ（臼田あさ美）の禁断ラブコメディ!!くるみの元彼登場で嫉妬？天候悪化で起こる悲劇!?</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le2qtv6hab.jpg?v=f459f025" />
 	</programme>
-	<programme channel="tbs" start="20260426100000 +0000" stop="20260426120000 +0000">
-		<title>バナナマンのせっかくグルメ!!</title>
-		<desc>軽井沢２時間SP！名店の絶品飯と大自然を満喫</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le7b0nmrxw.jpg?v=1acd1aea" />
+	<programme channel="ex" start="20260510095600 +0000" stop="20260510105000 +0000">
+		<title>ナニコレ珍百景</title>
+		<desc>★日本全国の離島や田舎で驚きの光景を再発見！日本にこんな暮らし＆場所があったとは…</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4t4wk0l6.jpg?v=76a97c1a" />
 	</programme>
 	<programme channel="tbs" start="20260426120000 +0000" stop="20260426125400 +0000">
 		<title>ＧＩＦＴ</title>
@@ -981,9 +971,9 @@
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6dk3c7ib.jpg?v=aa07d7f9" />
 	</programme>
 	<programme channel="tbs" start="20260504093000 +0000" stop="20260504120000 +0000">
-		<title>今夜復活！８時だョ！全員集合　ドリフ伝説コント２０連発</title>
+		<title>今夜復活！！8時だョ！全員集合</title>
 		<desc>永作博美も山口智子も笑ったドリフ伝説コント20発</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lev99d989q.jpg?v=745958a9" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lev99d989q.jpg?v=72595583" />
 	</programme>
 	<programme channel="tbs" start="20260504120000 +0000" stop="20260504193000 +0000">
 		<title>配信休止</title>
@@ -1130,10 +1120,10 @@
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le9v7k47bt.jpg?v=80462234" />
 	</programme>
-	<programme channel="tx" start="20260426093000 +0000" stop="20260426115000 +0000">
-		<title>世界の給与明細～日本と比べてどうなの？～</title>
-		<desc>世界の給与明細レギュラー【あなたの給料いくら？世界で衝撃(秘)お金事情を調査】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leg6tnw7z5.jpg?v=d04973ab" />
+	<programme channel="tbs" start="20260510100000 +0000" stop="20260510120000 +0000">
+		<title>バナナマンのせっかくグルメ!!</title>
+		<desc>日村×水泳・池江璃花子×卓球・平野美宇がグルメ旅</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leppjuacdz.jpg?v=c774ee8d" />
 	</programme>
 	<programme channel="tx" start="20260426115000 +0000" stop="20260426125400 +0000">
 		<title>家、ついて行ってイイですか？</title>
@@ -1560,11 +1550,6 @@
 		<desc>配信準備中</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lekw3wec4l.jpg?v=342d3518" />
 	</programme>
-	<programme channel="cx" start="20260426100000 +0000" stop="20260426120000 +0000">
-		<title>千鳥の鬼レンチャン</title>
-		<desc>◆第２回腕相撲トーナメント！芸能界最強の力自慢は誰だ？</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lepgrbypjx.jpg?v=bb088887" />
-	</programme>
 	<programme channel="cx" start="20260426120000 +0000" stop="20260426140900 +0000">
 		<title>地上波放送番組のお知らせ</title>
 		<desc>「Mr.サンデー」は地上波放送でお楽しみください！</desc>
@@ -1964,5 +1949,10 @@
 		<title>時光代理人</title>
 		<desc>第5話</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leakzwnxoq.jpg?v=a0c76759" />
+	</programme>
+	<programme channel="cx" start="20260510100000 +0000" stop="20260510120000 +0000">
+		<title>千鳥の鬼レンチャン</title>
+		<desc>　</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lege8gewpk.jpg?v=52e1ac9e" />
 	</programme>
 </tv>
