@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260429193000 +0000" stop="20260430100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le8g68r9ls.jpg?v=e272f994" />
-	</programme>
 	<programme channel="ntv" start="20260430100000 +0000" stop="20260430105400 +0000">
 		<title>THE突破ファイル</title>
 		<desc>舌半分だけ味覚障害?原因は誰もがやるあの癖!身近なアレルギーの正体</desc>
@@ -655,11 +650,6 @@
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lew4f81jc5.jpg?v=abfbe630" />
 	</programme>
-	<programme channel="tbs" start="20260429193000 +0000" stop="20260429230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejv1vm8qo.jpg?v=26ed826f" />
-	</programme>
 	<programme channel="tbs" start="20260429230000 +0000" stop="20260430005500 +0000">
 		<title>ラヴィット！</title>
 		<desc>目黒蓮&amp;高橋文哉が参戦！真の紳士は誰だ!?ジェントルマン選手権を開催!</desc>
@@ -1074,11 +1064,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leue4bdgxz.jpg?v=daea3669" />
-	</programme>
-	<programme channel="tx" start="20260429190000 +0000" stop="20260430092500 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leggvy56e6.jpg?v=83458021" />
 	</programme>
 	<programme channel="tx" start="20260430092500 +0000" stop="20260430105400 +0000">
 		<title>タクうま～タクシー運転手さん一番うまい店に連れてって！～</title>
