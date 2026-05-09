@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260502100000 +0000" stop="20260502105600 +0000">
-		<title>嗚呼!!みんなの動物園</title>
-		<desc>アンゴラ村長&amp;おじさん保護猫コシマさん涙の最終回…!</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le2w7qu65d.jpg?v=fce11601" />
-	</programme>
 	<programme channel="ntv" start="20260502105600 +0000" stop="20260502115400 +0000">
 		<title>1億人の大質問!?笑ってコラえて！</title>
 		<desc>東京大学卒業式で3年前にインタビュー!卒業生の3年後の姿とは</desc>
@@ -455,11 +450,6 @@
 		<desc> </desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqodg17ro.jpg?v=9bd36639" />
 	</programme>
-	<programme channel="ex" start="20260502095600 +0000" stop="20260502115400 +0000">
-		<title>池上彰のニュースそうだったのか!!</title>
-		<desc>押収品をなぜキレイに並べる？…普段見ているニュースの疑問や裏側を池上彰が解説！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lebqmflmg5.jpg?v=eae216cd" />
-	</programme>
 	<programme channel="ex" start="20260502115400 +0000" stop="20260502131400 +0000">
 		<title>サタデーステーション</title>
 		<desc>高島彩▽ＧＷ各地で夏日続出…下り混雑はピーク▽クマ遭遇回避に最新研究▽旭山動物園…防犯カメラに大きな荷物を持つ容疑者姿▽開幕からＨＲ量産中“村神様”を緊急取材</desc>
@@ -632,8 +622,8 @@
 	</programme>
 	<programme channel="ex" start="20260509115400 +0000" stop="20260509130400 +0000">
 		<title>サタデーステーション</title>
-		<desc>生放送だからできる“LIVE感”を大切に、週末だからできる“注目ニュース”の掘り下げと“週末も動いているニュース”を速報で高島彩キャスターが分かりやすくお伝えします</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejpq97f53.jpg?v=5a283b1a" />
+		<desc>高島彩▽横浜でつむじ風…東北は台風並み暴風で交通障害も▽米提案の合意案…イラン回答は？国内影響続く▽集団感染恐れのクルーズ船カナリア諸島到着へ▽クマ捕獲最前線</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejpq97f53.jpg?v=5b283cad" />
 	</programme>
 	<programme channel="ex" start="20260509130400 +0000" stop="20260509140000 +0000">
 		<title>No programme</title>
@@ -759,11 +749,6 @@
 		<title>余命３ヶ月のサレ夫</title>
 		<desc>美月（桜井日奈子）に蓮を託せないと確信した葵（白洲迅）は、スマホにＧＰＳを仕込み不倫の決定的証拠を掴もうとするが、明らかになったのは不倫以上の衝撃的事実だった。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/legyzdgn67.jpg?v=00782d67" />
-	</programme>
-	<programme channel="tbs" start="20260502095600 +0000" stop="20260502125600 +0000">
-		<title>ONE CHANCE 2026</title>
-		<desc>＜配信は19時から＞ 〜王者推薦 漫才No.1決定戦〜</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lekgm2eneq.jpg?v=0600fd6b" />
 	</programme>
 	<programme channel="tbs" start="20260502125600 +0000" stop="20260502200000 +0000">
 		<title>配信休止</title>
@@ -953,62 +938,62 @@
 	<programme channel="tbs" start="20260508194500 +0000" stop="20260509100000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lekmfmxv6d.jpg?v=ef8d40fc" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lekmfmxv6d.jpg?v=f08d428f" />
 	</programme>
 	<programme channel="tbs" start="20260509100000 +0000" stop="20260509115400 +0000">
 		<title>ジョブチューン ～アノ職業のヒミツぶっちゃけます！</title>
 		<desc>ローソン×超一流料理人！No.1惣菜で5年ぶりジャッジに挑む！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lesqnt7en1.jpg?v=27f5ab11" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lesqnt7en1.jpg?v=26f5a97e" />
 	</programme>
 	<programme channel="tbs" start="20260509115400 +0000" stop="20260509125600 +0000">
 		<title>いくらかわかる金？</title>
 		<desc>大好評ドケチ春日デカ盛り！高難度ボウリング成功で賞金10万円！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leq7l2y59p.jpg?v=9be49233" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leq7l2y59p.jpg?v=9ae490a0" />
 	</programme>
 	<programme channel="tbs" start="20260509125600 +0000" stop="20260509194000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leuofpj6dk.jpg?v=bcd0bd32" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leuofpj6dk.jpg?v=bdd0bec5" />
 	</programme>
 	<programme channel="tbs" start="20260509194000 +0000" stop="20260510100000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le9v7k47bt.jpg?v=7f4620a1" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le9v7k47bt.jpg?v=7e461f0e" />
 	</programme>
 	<programme channel="tbs" start="20260510100000 +0000" stop="20260510120000 +0000">
 		<title>バナナマンのせっかくグルメ!!</title>
 		<desc>日村×水泳・池江璃花子×卓球・平野美宇がグルメ旅</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leppjuacdz.jpg?v=c374e841" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leppjuacdz.jpg?v=bc74dd3c" />
 	</programme>
 	<programme channel="tbs" start="20260510120000 +0000" stop="20260510125400 +0000">
 		<title>ＧＩＦＴ</title>
 		<desc>＃5「第一章完結！俺はここで生きるんだ…！涙の告白と決戦—」</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leu55p0d3w.jpg?v=086035b5" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leu55p0d3w.jpg?v=07603422" />
 	</programme>
 	<programme channel="tbs" start="20260510125400 +0000" stop="20260510130000 +0000">
 		<title>お知らせ</title>
 		<desc>リアルタイム配信予定の番組は「TBS系」タブよりご確認いただけます。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le5bdxv3yw.jpg?v=8f6c8b78" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le5bdxv3yw.jpg?v=926c9031" />
 	</programme>
 	<programme channel="tbs" start="20260510130000 +0000" stop="20260510135400 +0000">
 		<title>日曜日の初耳学</title>
 		<desc>【山下智久×林修◆世界が舞台！親友ヒッチハイク旅TV初出し写真も】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/led27v680z.jpg?v=f4fcb47b" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/led27v680z.jpg?v=e4bc3129" />
 	</programme>
 	<programme channel="tbs" start="20260510135400 +0000" stop="20260510140000 +0000">
 		<title>お知らせ</title>
 		<desc>リアルタイム配信予定の番組は「TBS系」タブよりご確認いただけます。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leut4is9ic.jpg?v=b9aaa315" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leut4is9ic.jpg?v=b8aaa182" />
 	</programme>
 	<programme channel="tbs" start="20260510140000 +0000" stop="20260510143000 +0000">
 		<title>情熱大陸</title>
 		<desc>【山﨑健太郎／建築家▽デイサービスから刑務所まで…施設の形を問い直す】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leed7u5hxn.jpg?v=597e1ac7" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leed7u5hxn.jpg?v=587e1934" />
 	</programme>
 	<programme channel="tbs" start="20260510143000 +0000" stop="20260510193000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lemwxcc3d2.jpg?v=a1377d6a" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lemwxcc3d2.jpg?v=a2377efd" />
 	</programme>
 	<programme channel="tbs" start="20260510193000 +0000" stop="20260510230000 +0000">
 		<title>配信休止</title>
@@ -1635,11 +1620,6 @@
 		<desc>配信準備中</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le577pp9n8.jpg?v=38d5b410" />
 	</programme>
-	<programme channel="cx" start="20260502093000 +0000" stop="20260502120000 +0000">
-		<title>新しいカギ</title>
-		<desc>＜配信は19時から＞取り壊される校舎で大規模対決！ティーチャーを探せ＆高校大喜利２本立て</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3pydi0i8.jpg?v=66949946" />
-	</programme>
 	<programme channel="cx" start="20260502120000 +0000" stop="20260502141000 +0000">
 		<title>逃走中〜シークレットミッション〜</title>
 		<desc>JO1乃木坂M!LK山崎育三郎が夜の遊園地で激走</desc>
@@ -2049,5 +2029,10 @@
 		<title>全力！脱力タイムズ</title>
 		<desc>ツートライブ＆森川葵、ザ・セカンド優勝候補続々登場</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lemywyxtqn.jpg?v=7c580947" />
+	</programme>
+	<programme channel="cx" start="20260516093000 +0000" stop="20260516141000 +0000">
+		<title>THE SECOND～漫才トーナメント～2026</title>
+		<desc>＜配信は19時から＞ グランプリファイナル【４代目王者が生放送で決定！】</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lennjmsouk.jpg?v=579a4986" />
 	</programme>
 </tv>
