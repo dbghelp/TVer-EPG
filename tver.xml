@@ -20,31 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260502105600 +0000" stop="20260502115400 +0000">
-		<title>1億人の大質問!?笑ってコラえて！</title>
-		<desc>東京大学卒業式で3年前にインタビュー!卒業生の3年後の姿とは</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/led1qrytkj.jpg?v=22e3a798" />
-	</programme>
-	<programme channel="ntv" start="20260502115400 +0000" stop="20260502120000 +0000">
-		<title>お知らせ</title>
-		<desc>リアルタイム配信予定の番組は「日テレ系」タブよりご確認いただけます。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leitfilgh1.jpg?v=8152ec88" />
-	</programme>
-	<programme channel="ntv" start="20260502120000 +0000" stop="20260502125400 +0000">
-		<title>タツキ先生は甘すぎる！</title>
-		<desc>第4話 甘すぎる本当の理由</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le87k2jknr.jpg?v=8cd36e53" />
-	</programme>
-	<programme channel="ntv" start="20260502125400 +0000" stop="20260502130000 +0000">
-		<title>お知らせ</title>
-		<desc>リアルタイム配信予定の番組は「日テレ系」タブよりご確認いただけます。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lelq452awf.jpg?v=8cc18542" />
-	</programme>
-	<programme channel="ntv" start="20260502130000 +0000" stop="20260502135400 +0000">
-		<title>追跡取材 news LOG</title>
-		<desc>和久田麻由子とたどる、記者たちの取材の軌跡。土曜日の夜、注目のニュースや話題の真相に迫る「追跡ドキュメンタリー型」ニュース番組です。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leacwiydlv.jpg?v=1e7fcf03" />
-	</programme>
 	<programme channel="ntv" start="20260502135400 +0000" stop="20260502202500 +0000">
 		<title>配信休止</title>
 		<desc> </desc>
@@ -248,7 +223,7 @@
 	<programme channel="ntv" start="20260509120000 +0000" stop="20260509125400 +0000">
 		<title>タツキ先生は甘すぎる！</title>
 		<desc>第5話出演:町田啓太 松本穂香 比嘉愛未 江口洋介</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leiqtptt96.jpg?v=b800473e" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leiqtptt96.jpg?v=bb004bf7" />
 	</programme>
 	<programme channel="ntv" start="20260509125400 +0000" stop="20260509130000 +0000">
 		<title>お知らせ</title>
@@ -258,7 +233,7 @@
 	<programme channel="ntv" start="20260509130000 +0000" stop="20260509135400 +0000">
 		<title>追跡取材 news LOG</title>
 		<desc>和久田麻由子とたどる、記者たちの取材の軌跡。土曜日の夜、注目のニュースや話題の真相に迫る「追跡ドキュメンタリー型」ニュース番組です。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqq69oyo6.jpg?v=fac2cedc" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqq69oyo6.jpg?v=00c2d84e" />
 	</programme>
 	<programme channel="ntv" start="20260509135400 +0000" stop="20260509202500 +0000">
 		<title>配信休止</title>
@@ -449,26 +424,6 @@
 		<title>配信休止</title>
 		<desc> </desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqodg17ro.jpg?v=9bd36639" />
-	</programme>
-	<programme channel="ex" start="20260502115400 +0000" stop="20260502131400 +0000">
-		<title>サタデーステーション</title>
-		<desc>高島彩▽ＧＷ各地で夏日続出…下り混雑はピーク▽クマ遭遇回避に最新研究▽旭山動物園…防犯カメラに大きな荷物を持つ容疑者姿▽開幕からＨＲ量産中“村神様”を緊急取材</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lege2xgxh0.jpg?v=1ca905c6" />
-	</programme>
-	<programme channel="ex" start="20260502131400 +0000" stop="20260502132000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
-	</programme>
-	<programme channel="ex" start="20260502132000 +0000" stop="20260502140400 +0000">
-		<title>出川一茂ホラン☆フシギの会</title>
-		<desc>フシギな一発逆転アイデア！〇〇したらこうなった！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le2qb5iqmz.jpg?v=127f229c" />
-	</programme>
-	<programme channel="ex" start="20260502140400 +0000" stop="20260502141000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
 	</programme>
 	<programme channel="ex" start="20260502141000 +0000" stop="20260502144000 +0000">
 		<title>ターミネーターと恋しちゃったら</title>
@@ -749,11 +704,6 @@
 		<title>余命３ヶ月のサレ夫</title>
 		<desc>美月（桜井日奈子）に蓮を託せないと確信した葵（白洲迅）は、スマホにＧＰＳを仕込み不倫の決定的証拠を掴もうとするが、明らかになったのは不倫以上の衝撃的事実だった。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/legyzdgn67.jpg?v=00782d67" />
-	</programme>
-	<programme channel="tbs" start="20260502125600 +0000" stop="20260502200000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lew01q9xxb.jpg?v=db1f1c6b" />
 	</programme>
 	<programme channel="tbs" start="20260502200000 +0000" stop="20260503100000 +0000">
 		<title>配信休止</title>
@@ -1170,16 +1120,6 @@
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqb0ixig4.jpg?v=db155bf2" />
 	</programme>
-	<programme channel="tx" start="20260502120000 +0000" stop="20260502125400 +0000">
-		<title>出没！アド街ック天国</title>
-		<desc>出没！アド街ック天国【逗子・葉山】GWに車で行きたい♪三浦半島のリゾート地</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/len5qidj5h.jpg?v=053976ec" />
-	</programme>
-	<programme channel="tx" start="20260502125400 +0000" stop="20260502190000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le55dyl5ms.jpg?v=0d58b225" />
-	</programme>
 	<programme channel="tx" start="20260502190000 +0000" stop="20260503093000 +0000">
 		<title>配信準備中</title>
 		<desc>配信準備中</desc>
@@ -1358,22 +1298,22 @@
 	<programme channel="tx" start="20260508190000 +0000" stop="20260509093000 +0000">
 		<title>配信準備中</title>
 		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lerhxa8385.jpg?v=5f65e37b" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lerhxa8385.jpg?v=5a65db9c" />
 	</programme>
-	<programme channel="tx" start="20260509093000 +0000" stop="20260509120000 +0000">
+	<programme channel="tx" start="20260509093000 +0000" stop="20260509122000 +0000">
 		<title>配信準備中</title>
 		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lewopisaek.jpg?v=b54a3764" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lewopisaek.jpg?v=ac4a2939" />
 	</programme>
-	<programme channel="tx" start="20260509120000 +0000" stop="20260509125400 +0000">
+	<programme channel="tx" start="20260509122000 +0000" stop="20260509131400 +0000">
 		<title>出没！アド街ック天国</title>
 		<desc>出没！アド街ック天国▼「昭和」満１００年記念☆東京に残る貴重な遺産を大特集！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le58vuj0vz.jpg?v=9ddcc958" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le58vuj0vz.jpg?v=eea01f8e" />
 	</programme>
-	<programme channel="tx" start="20260509125400 +0000" stop="20260509190000 +0000">
+	<programme channel="tx" start="20260509131400 +0000" stop="20260509190000 +0000">
 		<title>配信準備中</title>
 		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leja2qdinf.jpg?v=edd8181b" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leja2qdinf.jpg?v=e8d8103c" />
 	</programme>
 	<programme channel="tx" start="20260509190000 +0000" stop="20260510093000 +0000">
 		<title>配信準備中</title>
@@ -1620,11 +1560,6 @@
 		<desc>配信準備中</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le577pp9n8.jpg?v=38d5b410" />
 	</programme>
-	<programme channel="cx" start="20260502120000 +0000" stop="20260502141000 +0000">
-		<title>逃走中〜シークレットミッション〜</title>
-		<desc>JO1乃木坂M!LK山崎育三郎が夜の遊園地で激走</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lekbh33c4g.jpg?v=b4527510" />
-	</programme>
 	<programme channel="cx" start="20260502141000 +0000" stop="20260502144000 +0000">
 		<title>さんまのお笑い向上委員会</title>
 		<desc>▼M-1王者たくろうの好感度を今のうちに下げてこう！</desc>
@@ -1868,12 +1803,12 @@
 	<programme channel="cx" start="20260511100000 +0000" stop="20260511110000 +0000">
 		<title>ネプリーグ</title>
 		<desc>★犬好きvs猫好き！激カワ動物クイズSP</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lekq7no7bc.jpg?v=e2b2fc40" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lekq7no7bc.jpg?v=e3b2fdd3" />
 	</programme>
 	<programme channel="cx" start="20260511110000 +0000" stop="20260511120000 +0000">
 		<title>真剣遊戯！THE バトル SHOW</title>
 		<desc>★あっち向いてホイ＆新遊戯登場！金メダリスト参戦</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leg1tbjs79.jpg?v=72872e90" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leg1tbjs79.jpg?v=73873023" />
 	</programme>
 	<programme channel="cx" start="20260511120000 +0000" stop="20260511125400 +0000">
 		<title>サバ缶、宇宙へ行く</title>
