@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260502135400 +0000" stop="20260502202500 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lep1bqsf8c.jpg?v=dc3b2884" />
-	</programme>
 	<programme channel="ntv" start="20260502202500 +0000" stop="20260503095500 +0000">
 		<title>配信休止</title>
 		<desc> </desc>
@@ -424,16 +419,6 @@
 		<title>配信休止</title>
 		<desc> </desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqodg17ro.jpg?v=9bd36639" />
-	</programme>
-	<programme channel="ex" start="20260502141000 +0000" stop="20260502144000 +0000">
-		<title>ターミネーターと恋しちゃったら</title>
-		<desc>第5話</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leggst0n6a.jpg?v=aed454db" />
-	</programme>
-	<programme channel="ex" start="20260502144000 +0000" stop="20260503095600 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
 	</programme>
 	<programme channel="ex" start="20260503095600 +0000" stop="20260503105000 +0000">
 		<title>ナニコレ珍百景</title>
@@ -948,37 +933,37 @@
 	<programme channel="tbs" start="20260510193000 +0000" stop="20260510230000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leobj21nkp.jpg?v=ddaa895b" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leobj21nkp.jpg?v=e2aa913a" />
 	</programme>
 	<programme channel="tbs" start="20260510230000 +0000" stop="20260511005500 +0000">
 		<title>ラヴィット！</title>
 		<desc>セブン-イレブン絶品スイーツTOP10＆書き順対決！凸って書ける？</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le51vgctzm.jpg?v=eda16f9b" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le51vgctzm.jpg?v=eea1712e" />
 	</programme>
 	<programme channel="tbs" start="20260511005500 +0000" stop="20260511100000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lewi7wgjzy.jpg?v=feb2652c" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lewi7wgjzy.jpg?v=fdb26399" />
 	</programme>
 	<programme channel="tbs" start="20260511100000 +0000" stop="20260511115500 +0000">
 		<title>CDTV ライブ! ライブ!</title>
 		<desc>★セカオワ マンスリーLIVE★宇多田ヒカル★大森元貴</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejp3dyej2.jpg?v=cefaf89b" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejp3dyej2.jpg?v=cffafa2e" />
 	</programme>
 	<programme channel="tbs" start="20260511115500 +0000" stop="20260511130000 +0000">
 		<title>テレビ×ミセス</title>
 		<desc>★五輪金りくりゅうペアが引退会見後初バラエティ出演で大熱狂★</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ley7r35zro.jpg?v=0e2cc175" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ley7r35zro.jpg?v=0f2cc308" />
 	</programme>
 	<programme channel="tbs" start="20260511130000 +0000" stop="20260511135700 +0000">
 		<title>その道のプロが選ぶ本当のNo.1 プロフェッショナルランキング</title>
 		<desc>今絶対見るべきものまねランキングBEST２０</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leq4gy1wl2.jpg?v=79cc596e" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leq4gy1wl2.jpg?v=7acc5b01" />
 	</programme>
 	<programme channel="tbs" start="20260511135700 +0000" stop="20260511193000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejgkc6cgr.jpg?v=27cdf13d" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejgkc6cgr.jpg?v=20cde638" />
 	</programme>
 	<programme channel="tbs" start="20260511193000 +0000" stop="20260511230000 +0000">
 		<title>配信休止</title>
@@ -1560,21 +1545,6 @@
 		<desc>配信準備中</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le577pp9n8.jpg?v=38d5b410" />
 	</programme>
-	<programme channel="cx" start="20260502141000 +0000" stop="20260502144000 +0000">
-		<title>さんまのお笑い向上委員会</title>
-		<desc>▼M-1王者たくろうの好感度を今のうちに下げてこう！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le1tn1bwto.jpg?v=ee28c7fc" />
-	</programme>
-	<programme channel="cx" start="20260502144000 +0000" stop="20260502153500 +0000">
-		<title>時光代理人</title>
-		<desc>第4話 名探偵はハナが利く</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leukq5k9lk.jpg?v=bb47603b" />
-	</programme>
-	<programme channel="cx" start="20260502153500 +0000" stop="20260503100000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
-	</programme>
 	<programme channel="cx" start="20260503100000 +0000" stop="20260503120000 +0000">
 		<title>BEEF or FISH？</title>
 		<desc>松岡修造の肉か魚か究極２択グルメSHOW</desc>
@@ -1969,5 +1939,15 @@
 		<title>THE SECOND～漫才トーナメント～2026</title>
 		<desc>＜配信は19時から＞ グランプリファイナル【４代目王者が生放送で決定！】</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lennjmsouk.jpg?v=579a4986" />
+	</programme>
+	<programme channel="cx" start="20260516141000 +0000" stop="20260516144000 +0000">
+		<title>さんまのお笑い向上委員会</title>
+		<desc />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leryy6c5s8.jpg?v=b048f9bf" />
+	</programme>
+	<programme channel="cx" start="20260516144000 +0000" stop="20260516153500 +0000">
+		<title>時光代理人</title>
+		<desc>第6話</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/letrrd1mzt.jpg?v=142fb496" />
 	</programme>
 </tv>
