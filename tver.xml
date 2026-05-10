@@ -20,16 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260503095500 +0000" stop="20260503100000 +0000">
-		<title>博士は今日も嫉妬する～人生が楽しくなる最新テクノロジー～</title>
-		<desc>▽歯磨き粉を使わない歯磨き</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lebuqqsy1x.jpg?v=197cc722" />
-	</programme>
-	<programme channel="ntv" start="20260503100000 +0000" stop="20260503105800 +0000">
-		<title>ザ！鉄腕！DASH!!</title>
-		<desc>▽福島で26年目の米作り始動&amp;新宿ミツバチ大作戦</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lea7q4lm0c.jpg?v=1108fc2e" />
-	</programme>
 	<programme channel="ntv" start="20260503105800 +0000" stop="20260503115400 +0000">
 		<title>世界の果てまでイッテQ！</title>
 		<desc>ちゃんみな&amp;川口春奈&amp;手越!家族で笑おう大爆笑のGWアワード</desc>
@@ -415,16 +405,6 @@
 		<desc> </desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqodg17ro.jpg?v=9bd36639" />
 	</programme>
-	<programme channel="ex" start="20260503095600 +0000" stop="20260503105000 +0000">
-		<title>ナニコレ珍百景</title>
-		<desc>野生イルカと遭遇…まるで遊園地!?ＧＷに行きたい全国の珍百景な道の駅ＳＰ！！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6xj5jkj5.jpg?v=20804bc9" />
-	</programme>
-	<programme channel="ex" start="20260503105000 +0000" stop="20260503105400 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
-	</programme>
 	<programme channel="ex" start="20260503105400 +0000" stop="20260503115600 +0000">
 		<title>ポツンと一軒家</title>
 		<desc>愛媛県の山奥、複雑に区分けされた広大な敷地は、なんとヤギの山地牧場だった！脱サラして未経験でヤギ牧場を営む男性の思いとは？</desc>
@@ -620,6 +600,11 @@
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lerpev6w5e.jpg?v=b2077b14" />
 	</programme>
+	<programme channel="ex" start="20260511141000 +0000" stop="20260512100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
+	</programme>
 	<programme channel="ex" start="20260512100000 +0000" stop="20260512120000 +0000">
 		<title>孝太郎＆ちさ子　プラチナファミリー 華麗なる一家をのぞき見</title>
 		<desc>世界的巨匠を支えた妻が住むスイスの大豪邸へ！華麗なる一家に密着！さらに！パリでの誕生日会にも特別潜入！普段立ち入れない宮殿内でグラミー賞歌手のバースデーソング!?</desc>
@@ -684,11 +669,6 @@
 		<title>余命３ヶ月のサレ夫</title>
 		<desc>美月（桜井日奈子）に蓮を託せないと確信した葵（白洲迅）は、スマホにＧＰＳを仕込み不倫の決定的証拠を掴もうとするが、明らかになったのは不倫以上の衝撃的事実だった。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/legyzdgn67.jpg?v=00782d67" />
-	</programme>
-	<programme channel="tbs" start="20260503100000 +0000" stop="20260503120000 +0000">
-		<title>坂上&amp;指原のつぶれない店</title>
-		<desc>新宿ＳＰ！日本一の飲食街を徹底調査で見つけた超スゴイ店</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lecwechjum.jpg?v=294c9be7" />
 	</programme>
 	<programme channel="tbs" start="20260503120000 +0000" stop="20260503125400 +0000">
 		<title>ＧＩＦＴ</title>
@@ -1095,11 +1075,6 @@
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqb0ixig4.jpg?v=db155bf2" />
 	</programme>
-	<programme channel="tx" start="20260503093000 +0000" stop="20260503142000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leg3mzyaxo.jpg?v=e815df02" />
-	</programme>
 	<programme channel="tx" start="20260503142000 +0000" stop="20260503190000 +0000">
 		<title>配信準備中</title>
 		<desc>配信準備中</desc>
@@ -1497,8 +1472,8 @@
 	</programme>
 	<programme channel="tx" start="20260515105500 +0000" stop="20260515120000 +0000">
 		<title>所さんの学校では教えてくれないそこんトコロ！</title>
-		<desc>所さんのそこんトコロ</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le11btduwx.jpg?v=9539edfa" />
+		<desc>所さんのそこんトコロ【開かずの金庫&amp;あのモノ作り達人は今&amp;意外なアレで稼ぐ】</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le11btduwx.jpg?v=9039e61b" />
 	</programme>
 	<programme channel="tx" start="20260515120000 +0000" stop="20260515125400 +0000">
 		<title>刑事、ふりだしに戻る</title>
@@ -1529,11 +1504,6 @@
 		<title>配信準備中</title>
 		<desc>配信準備中</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le577pp9n8.jpg?v=38d5b410" />
-	</programme>
-	<programme channel="cx" start="20260503100000 +0000" stop="20260503120000 +0000">
-		<title>BEEF or FISH？</title>
-		<desc>松岡修造の肉か魚か究極２択グルメSHOW</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leexriv9ks.jpg?v=37019e64" />
 	</programme>
 	<programme channel="cx" start="20260503120000 +0000" stop="20260503140900 +0000">
 		<title>地上波放送番組のお知らせ</title>
@@ -1934,5 +1904,10 @@
 		<title>時光代理人</title>
 		<desc>第6話</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/letrrd1mzt.jpg?v=142fb496" />
+	</programme>
+	<programme channel="cx" start="20260517100000 +0000" stop="20260517120000 +0000">
+		<title>千鳥の鬼レンチャン</title>
+		<desc />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lewckccm3a.jpg?v=75c85668" />
 	</programme>
 </tv>
