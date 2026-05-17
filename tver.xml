@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260510193000 +0000" stop="20260511100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lea2aoqf9x.jpg?v=c0ccbedb" />
-	</programme>
 	<programme channel="ntv" start="20260511100000 +0000" stop="20260511110000 +0000">
 		<title>有吉ゼミ</title>
 		<desc>▼ギャル曽根連敗か!?大食いイケメン軍団爆食!紗栄子の牧場経営に密着SP</desc>
@@ -542,8 +537,8 @@
 	</programme>
 	<programme channel="ex" start="20260518125400 +0000" stop="20260518141000 +0000">
 		<title>報道ステーション</title>
-		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lexu0tvhra.jpg?v=a9c1aa4c" />
+		<desc>関東で「猛暑日」迫る…続く異例の危険な暑さ▽ナフサ不足の影響？ごみ袋“臨時措置”も▽バス事故で現場検証▽メジャー！大谷翔平＆佐々木朗希▽大相撲ほか</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lexu0tvhra.jpg?v=aac1abdf" />
 	</programme>
 	<programme channel="ex" start="20260519100000 +0000" stop="20260519120000 +0000">
 		<title>孝太郎＆ちさ子　プラチナファミリー 華麗なる一家をのぞき見</title>
@@ -604,11 +599,6 @@
 		<title>余命３ヶ月のサレ夫</title>
 		<desc>シタ妻・美月（桜井日奈子）が“モンスター妻”となった悲しき過去が明かされる…!?そして、葵（白洲迅）は妻から息子を取り戻すため、ついにネトリ男と直接対決へ！</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lexxsiwbjr.jpg?v=2cc878ee" />
-	</programme>
-	<programme channel="tbs" start="20260510193000 +0000" stop="20260510230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leobj21nkp.jpg?v=e0aa8e14" />
 	</programme>
 	<programme channel="tbs" start="20260510230000 +0000" stop="20260511005500 +0000">
 		<title>ラヴィット！</title>
@@ -1019,11 +1009,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/led4qfdkzr.jpg?v=7e85a620" />
-	</programme>
-	<programme channel="tx" start="20260510190000 +0000" stop="20260511092500 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leuc80hp8o.jpg?v=2846c883" />
 	</programme>
 	<programme channel="tx" start="20260511092500 +0000" stop="20260511110000 +0000">
 		<title>YOUは何しに日本へ？</title>
