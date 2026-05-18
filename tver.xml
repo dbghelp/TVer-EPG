@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260511193000 +0000" stop="20260512100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lex3lmd2u6.jpg?v=dc478dcd" />
-	</programme>
 	<programme channel="ntv" start="20260512100000 +0000" stop="20260512110000 +0000">
 		<title>オモウマい店</title>
 		<desc>【福岡】「重食」喫茶の巨大カレー【静岡】進化ロングエビフライ</desc>
@@ -627,8 +622,8 @@
 	</programme>
 	<programme channel="ex" start="20260519125400 +0000" stop="20260519141000 +0000">
 		<title>報道ステーション</title>
-		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lesha7vht8.jpg?v=f24074d2" />
+		<desc>“真夏並み”暑さ続く…ナフサ不足、追い打ちも▽新供述は？栃木強盗殺人▽総理「日韓会談」へ…米中のはざまで連携は？▽山本由伸、今永昇太、今井達也も…ＭＬＢ詳報</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lesha7vht8.jpg?v=f3407665" />
 	</programme>
 	<programme channel="ex" start="20260519141000 +0000" stop="20260520120000 +0000">
 		<title>No programme</title>
@@ -744,11 +739,6 @@
 		<title>報道ステーション</title>
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lepd469i5y.jpg?v=47ca0a88" />
-	</programme>
-	<programme channel="tbs" start="20260511193000 +0000" stop="20260511230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ley1zqm87t.jpg?v=6e0ac727" />
 	</programme>
 	<programme channel="tbs" start="20260511230000 +0000" stop="20260512005500 +0000">
 		<title>ラヴィット！</title>
@@ -1214,11 +1204,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lezldi76hj.jpg?v=2f6a77b8" />
-	</programme>
-	<programme channel="tx" start="20260511190000 +0000" stop="20260512092500 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le63a5jdyq.jpg?v=0db99607" />
 	</programme>
 	<programme channel="tx" start="20260512092500 +0000" stop="20260512115400 +0000">
 		<title>世界が騒然！本当にあった(秘)衝撃ファイル</title>
