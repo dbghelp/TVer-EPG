@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260512193000 +0000" stop="20260513100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/len5rmskh1.jpg?v=f3a78893" />
-	</programme>
 	<programme channel="ntv" start="20260513100000 +0000" stop="20260513110000 +0000">
 		<title>有吉の壁</title>
 		<desc>▼千葉市全面協力!街の皆様と爆笑ネタ!南野陽子&amp;超特急チーバくんも参戦</desc>
@@ -632,8 +627,8 @@
 	</programme>
 	<programme channel="ex" start="20260520125400 +0000" stop="20260520141000 +0000">
 		<title>報道ステーション</title>
-		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3du94x34.jpg?v=19be9101" />
+		<desc>兵庫の住宅で２人死亡…遺体には刺し傷…何が▽今国会、初の党首討論…野党は補正予算追及へ▽中ロ首脳会談で声明▽大谷翔平…待望の一発は？▽大相撲ほか</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3du94x34.jpg?v=18be8f6e" />
 	</programme>
 	<programme channel="ex" start="20260520141000 +0000" stop="20260521100000 +0000">
 		<title>No programme</title>
@@ -754,11 +749,6 @@
 		<title>報道ステーション</title>
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/les0ph201l.jpg?v=5003fb6a" />
-	</programme>
-	<programme channel="tbs" start="20260512193000 +0000" stop="20260512230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le1ivzojq5.jpg?v=d7727c84" />
 	</programme>
 	<programme channel="tbs" start="20260512230000 +0000" stop="20260513005500 +0000">
 		<title>ラヴィット！</title>
@@ -1219,11 +1209,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3bc0dvw5.jpg?v=e4110ab2" />
-	</programme>
-	<programme channel="tx" start="20260512190000 +0000" stop="20260513092500 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lexd2eisju.jpg?v=90827762" />
 	</programme>
 	<programme channel="tx" start="20260513092500 +0000" stop="20260513114000 +0000">
 		<title>亀梨くんのワンにゃフル！</title>
