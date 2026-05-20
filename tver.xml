@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260513193000 +0000" stop="20260514100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leo4s5htk8.jpg?v=be6afe62" />
-	</programme>
 	<programme channel="ntv" start="20260514100000 +0000" stop="20260514105400 +0000">
 		<title>THE突破ファイル</title>
 		<desc>女子高生の万引きマジック!?袖に隠したリップどこ?やる課VS(秘)害獣</desc>
@@ -627,8 +622,8 @@
 	</programme>
 	<programme channel="ex" start="20260521125400 +0000" stop="20260521141000 +0000">
 		<title>報道ステーション</title>
-		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le2a4eu7h0.jpg?v=65abc845" />
+		<desc>季節外れの暑さが一転…気温急降下に大雨警戒▽“派閥”回帰の自民…高市氏支える会合発足▽二刀流“復活”大谷翔平＆好調！村上宗隆を松坂大輔が生解説▽大相撲ほか</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le2a4eu7h0.jpg?v=64abc6b2" />
 	</programme>
 	<programme channel="ex" start="20260521141000 +0000" stop="20260522095000 +0000">
 		<title>No programme</title>
@@ -749,11 +744,6 @@
 		<title>報道ステーション</title>
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lepmpcejx5.jpg?v=89cd1c18" />
-	</programme>
-	<programme channel="tbs" start="20260513193000 +0000" stop="20260513230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lee6ezwoid.jpg?v=d2b779de" />
 	</programme>
 	<programme channel="tbs" start="20260513230000 +0000" stop="20260514005500 +0000">
 		<title>ラヴィット！</title>
@@ -1214,11 +1204,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leexy2zdp2.jpg?v=30d2ad34" />
-	</programme>
-	<programme channel="tx" start="20260513190000 +0000" stop="20260514092500 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le5xh3i1oe.jpg?v=540c2324" />
 	</programme>
 	<programme channel="tx" start="20260514092500 +0000" stop="20260514105400 +0000">
 		<title>タクうま～タクシー運転手さん一番うまい店に連れてって！～</title>
