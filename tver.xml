@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260515204500 +0000" stop="20260516100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leg8170zs3.jpg?v=14f79381" />
-	</programme>
 	<programme channel="ntv" start="20260516100000 +0000" stop="20260516115400 +0000">
 		<title>1億人の大質問!?笑ってコラえて！</title>
 		<desc>2時間SP青学原監督が道の駅伝1位当てで大ブレーキ!?ついに北海道制覇!</desc>
@@ -755,11 +750,6 @@
 		<desc>不倫相手の逆鱗に触れ、孤立してしまったシタ妻・美月（桜井日奈子）は、ついに毒母・彩美（筒井真理子）に連絡してしまい…最恐タッグがサレ夫（白洲迅）に襲い掛かる！</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le14dcls4m.jpg?v=de2ec1d1" />
 	</programme>
-	<programme channel="tbs" start="20260515194500 +0000" stop="20260516100000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lebq0l90ht.jpg?v=e3781301" />
-	</programme>
 	<programme channel="tbs" start="20260516100000 +0000" stop="20260516115400 +0000">
 		<title>熱狂マニアさん！</title>
 		<desc>東京ディズニーシー®最新フードベスト７＆中村倫也が絶品雑炊審査</desc>
@@ -1219,11 +1209,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lebeighy13.jpg?v=e6a674f0" />
-	</programme>
-	<programme channel="tx" start="20260515190000 +0000" stop="20260516093000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4tzvex1c.jpg?v=46c43157" />
 	</programme>
 	<programme channel="tx" start="20260516093000 +0000" stop="20260516115500 +0000">
 		<title>出川哲朗の充電させてもらえませんか？</title>
