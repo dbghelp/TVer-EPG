@@ -20,31 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260516115400 +0000" stop="20260516120000 +0000">
-		<title>お知らせ</title>
-		<desc>リアルタイム配信予定の番組は「日テレ系」タブよりご確認いただけます。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lexnfrpnl2.jpg?v=6e505fa0" />
-	</programme>
-	<programme channel="ntv" start="20260516120000 +0000" stop="20260516125400 +0000">
-		<title>タツキ先生は甘すぎる！</title>
-		<desc>第6話 町田啓太 松本穂香 比嘉愛未 江口洋介</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lelp0dog7k.jpg?v=10f210b1" />
-	</programme>
-	<programme channel="ntv" start="20260516125400 +0000" stop="20260516130000 +0000">
-		<title>お知らせ</title>
-		<desc>リアルタイム配信予定の番組は「日テレ系」タブよりご確認いただけます。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lelqbzryxn.jpg?v=0919e082" />
-	</programme>
-	<programme channel="ntv" start="20260516130000 +0000" stop="20260516135400 +0000">
-		<title>追跡取材 news LOG</title>
-		<desc>和久田麻由子とたどる、記者たちの取材の軌跡。土曜日の夜、注目のニュースや話題の真相に迫る「追跡ドキュメンタリー型」ニュース番組です。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lea9ypxgmp.jpg?v=a374c7ea" />
-	</programme>
-	<programme channel="ntv" start="20260516135400 +0000" stop="20260516202500 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ledwli7389.jpg?v=9135abf9" />
-	</programme>
 	<programme channel="ntv" start="20260516202500 +0000" stop="20260517095500 +0000">
 		<title>配信休止</title>
 		<desc> </desc>
@@ -238,7 +213,7 @@
 	<programme channel="ntv" start="20260523120000 +0000" stop="20260523125400 +0000">
 		<title>タツキ先生は甘すぎる！</title>
 		<desc>第7話 町田啓太 松本穂香 比嘉愛未 江口洋介</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lerydi7jh5.jpg?v=15952961" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lerydi7jh5.jpg?v=16952af4" />
 	</programme>
 	<programme channel="ntv" start="20260523125400 +0000" stop="20260523130000 +0000">
 		<title>お知らせ</title>
@@ -273,7 +248,7 @@
 	<programme channel="ntv" start="20260524105800 +0000" stop="20260524115400 +0000">
 		<title>世界の果てまでイッテQ！</title>
 		<desc>大好評【世界遺産駅伝】温泉同好会が野生動物の楽園ケニアへ</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejfecx06z.jpg?v=3561ca2b" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejfecx06z.jpg?v=3661cbbe" />
 	</programme>
 	<programme channel="ntv" start="20260524115400 +0000" stop="20260524120000 +0000">
 		<title>お知らせ</title>
@@ -449,41 +424,6 @@
 		<title>配信休止</title>
 		<desc> </desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lecmz77v1h.jpg?v=20b13b2c" />
-	</programme>
-	<programme channel="ex" start="20260516110000 +0000" stop="20260516115400 +0000">
-		<title>池上彰のニュースそうだったのか!!</title>
-		<desc>消費税減税はどうなる？日本にスパイ組織ができる！？…今気になるニュースを池上彰が解説！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leleogz42o.jpg?v=ce767466" />
-	</programme>
-	<programme channel="ex" start="20260516115400 +0000" stop="20260516130400 +0000">
-		<title>サタデーステーション</title>
-		<desc>高島彩▽今年最多500地点超で夏日を記録…一方で各地梅雨入り早まる可能性も▽栃木強盗殺人事件…続報▽ナフサ供給不安続く…なぜ？▽市街地に出没相次ぐクマを独自検証！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/letffdw8cg.jpg?v=81b9e107" />
-	</programme>
-	<programme channel="ex" start="20260516130400 +0000" stop="20260516131000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
-	</programme>
-	<programme channel="ex" start="20260516131000 +0000" stop="20260516135400 +0000">
-		<title>出川一茂ホラン☆フシギの会</title>
-		<desc>出川哲朗に物申す！３人の精鋭が参戦</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le10m6lg86.jpg?v=568bb684" />
-	</programme>
-	<programme channel="ex" start="20260516135400 +0000" stop="20260516140000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
-	</programme>
-	<programme channel="ex" start="20260516140000 +0000" stop="20260516143000 +0000">
-		<title>ターミネーターと恋しちゃったら</title>
-		<desc>第7話</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/les59b3cmr.jpg?v=8a1526e0" />
-	</programme>
-	<programme channel="ex" start="20260516143000 +0000" stop="20260517095600 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
 	</programme>
 	<programme channel="ex" start="20260517095600 +0000" stop="20260517105000 +0000">
 		<title>ナニコレ珍百景</title>
@@ -675,6 +615,11 @@
 		<desc>ep7「目には目を、歯には詰め物」</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leuzb0tnmb.jpg?v=b04c480d" />
 	</programme>
+	<programme channel="ex" start="20260524140900 +0000" stop="20260525100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
+	</programme>
 	<programme channel="ex" start="20260525100000 +0000" stop="20260525114000 +0000">
 		<title>帰れマンデー見っけ隊!!</title>
 		<desc>近藤真彦が参戦！いま大注目の四万十川で四大食材を探す秘境旅</desc>
@@ -744,16 +689,6 @@
 		<title>余命３ヶ月のサレ夫</title>
 		<desc>不倫相手の逆鱗に触れ、孤立してしまったシタ妻・美月（桜井日奈子）は、ついに毒母・彩美（筒井真理子）に連絡してしまい…最恐タッグがサレ夫（白洲迅）に襲い掛かる！</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le14dcls4m.jpg?v=de2ec1d1" />
-	</programme>
-	<programme channel="tbs" start="20260516115400 +0000" stop="20260516125600 +0000">
-		<title>いくらかわかる金？</title>
-		<desc>鎌倉でサイン求められないと自腹グルメ旅＆リスキークレーンゲーム</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ledd1kvede.jpg?v=95f9dc3d" />
-	</programme>
-	<programme channel="tbs" start="20260516125600 +0000" stop="20260516190000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ledgu2ja3a.jpg?v=ee19739a" />
 	</programme>
 	<programme channel="tbs" start="20260516190000 +0000" stop="20260517032000 +0000">
 		<title>配信休止</title>
@@ -1017,8 +952,8 @@
 	</programme>
 	<programme channel="tbs" start="20260524130000 +0000" stop="20260524135400 +0000">
 		<title>日曜日の初耳学</title>
-		<desc>◆カリスマMEGUMI先生が…即実践できる『ダイエット＆美容の熱血授業』</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lee0w6duby.jpg?v=53f31db8" />
+		<desc>◆80万部大ベストセラー!MEGUMI先生が…『ダイエット&amp;美容の熱血授業』</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lee0w6duby.jpg?v=52f31c25" />
 	</programme>
 	<programme channel="tbs" start="20260524135400 +0000" stop="20260524140000 +0000">
 		<title>お知らせ</title>
@@ -1028,7 +963,7 @@
 	<programme channel="tbs" start="20260524140000 +0000" stop="20260524143000 +0000">
 		<title>情熱大陸</title>
 		<desc>【谷川萌々子／プロサッカー選手▽なでしこの若き才能！名門の中核担う21歳】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leaqj1nlpe.jpg?v=4a57b449" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leaqj1nlpe.jpg?v=8b22735a" />
 	</programme>
 	<programme channel="tbs" start="20260524143000 +0000" stop="20260524165900 +0000">
 		<title>配信休止</title>
@@ -1199,21 +1134,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lebeighy13.jpg?v=e6a674f0" />
-	</programme>
-	<programme channel="tx" start="20260516115500 +0000" stop="20260516120000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lefigukxqm.jpg?v=63886bbe" />
-	</programme>
-	<programme channel="tx" start="20260516120000 +0000" stop="20260516125400 +0000">
-		<title>出没！アド街ック天国</title>
-		<desc>出没！アド街ック天国【所沢駅】西武線シリーズ第１弾☆ほぼ東京!?埼玉西部の原宿</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lep6v7m6hy.jpg?v=df0bcfb8" />
-	</programme>
-	<programme channel="tx" start="20260516125400 +0000" stop="20260516190000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4mu93wbz.jpg?v=df6421a1" />
 	</programme>
 	<programme channel="tx" start="20260516190000 +0000" stop="20260517093000 +0000">
 		<title>配信準備中</title>
@@ -1953,7 +1873,7 @@
 	<programme channel="cx" start="20260525110000 +0000" stop="20260525120000 +0000">
 		<title>真剣遊戯！THE バトル SHOW</title>
 		<desc>★スノーマン阿部参戦！巨大新遊戯金メダリスト挑戦</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqry0bggu.jpg?v=79102f21" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqry0bggu.jpg?v=78102d8e" />
 	</programme>
 	<programme channel="cx" start="20260525120000 +0000" stop="20260525125400 +0000">
 		<title>サバ缶、宇宙へ行く</title>
@@ -2109,5 +2029,10 @@
 		<title>芸能人が本気で考えた！ドッキリGP</title>
 		<desc>＜配信は19時から＞</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lek63vrjvd.jpg?v=70219aa1" />
+	</programme>
+	<programme channel="cx" start="20260530120000 +0000" stop="20260530141000 +0000">
+		<title>地上波放送番組のお知らせ</title>
+		<desc>映画「海街diary」は地上波放送でお楽しみください！</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lewl57n7jk.jpg?v=eec25af8" />
 	</programme>
 </tv>
