@@ -973,32 +973,32 @@
 	<programme channel="tbs" start="20260524165900 +0000" stop="20260524230000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lezm9phfjf.jpg?v=4e8c32dc" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lezm9phfjf.jpg?v=4d8c3149" />
 	</programme>
 	<programme channel="tbs" start="20260524230000 +0000" stop="20260525005500 +0000">
 		<title>ラヴィット！</title>
 		<desc>お菓子クイズグランプリ！ハイチュウ何味かわかる？＆巨大書き順バトル</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lefd9smwga.jpg?v=0cd22e53" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lefd9smwga.jpg?v=0bd22cc0" />
 	</programme>
 	<programme channel="tbs" start="20260525005500 +0000" stop="20260525100000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le855k17cq.jpg?v=df846565" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le855k17cq.jpg?v=d8845a60" />
 	</programme>
 	<programme channel="tbs" start="20260525100000 +0000" stop="20260525120000 +0000">
 		<title>日本くらべてみたら</title>
 		<desc>山形県ラーメン熱愛の謎！全部食べて解き明かせ！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/levoa3n0oz.jpg?v=3b9a47c6" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/levoa3n0oz.jpg?v=3e9a4c7f" />
 	</programme>
 	<programme channel="tbs" start="20260525120000 +0000" stop="20260525135700 +0000">
 		<title>クレイジージャーニー</title>
 		<desc>丸山ゴンザレス・ハワイの闇スラム街に徹底取材２時間SP</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lekqk6kdxi.jpg?v=57bbe607" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lekqk6kdxi.jpg?v=4cbbd4b6" />
 	</programme>
 	<programme channel="tbs" start="20260525135700 +0000" stop="20260525193000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lezldi76hj.jpg?v=2f6a77b8" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lezldi76hj.jpg?v=366a82bd" />
 	</programme>
 	<programme channel="tbs" start="20260525193000 +0000" stop="20260525230000 +0000">
 		<title>配信休止</title>
@@ -1635,21 +1635,6 @@
 		<desc>配信準備中</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leql8m2wnr.jpg?v=99df52e7" />
 	</programme>
-	<programme channel="cx" start="20260516141000 +0000" stop="20260516144000 +0000">
-		<title>さんまのお笑い向上委員会</title>
-		<desc>▼ネルソンズまんじゅうVSジェラードン西本無知識対決！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leryy6c5s8.jpg?v=09dc5257" />
-	</programme>
-	<programme channel="cx" start="20260516144000 +0000" stop="20260516153500 +0000">
-		<title>時光代理人</title>
-		<desc>第6話 記憶喪失</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/letrrd1mzt.jpg?v=7c1df61d" />
-	</programme>
-	<programme channel="cx" start="20260516153500 +0000" stop="20260517100000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
-	</programme>
 	<programme channel="cx" start="20260517100000 +0000" stop="20260517120000 +0000">
 		<title>千鳥の鬼レンチャン</title>
 		<desc>◆創設５年３カ月…初の扮装モノマネ鬼レン達成なるか！？</desc>
@@ -2034,5 +2019,15 @@
 		<title>地上波放送番組のお知らせ</title>
 		<desc>映画「海街diary」は地上波放送でお楽しみください！</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lewl57n7jk.jpg?v=eec25af8" />
+	</programme>
+	<programme channel="cx" start="20260530141000 +0000" stop="20260530144000 +0000">
+		<title>さんまのお笑い向上委員会</title>
+		<desc>　</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6qrhxla5.jpg?v=5fa03767" />
+	</programme>
+	<programme channel="cx" start="20260530144000 +0000" stop="20260530153500 +0000">
+		<title>時光代理人</title>
+		<desc>第8話</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lerq0u3qz2.jpg?v=13c8d1f9" />
 	</programme>
 </tv>
