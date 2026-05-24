@@ -20,16 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260517095500 +0000" stop="20260517100000 +0000">
-		<title>博士は今日も嫉妬する～人生が楽しくなる最新テクノロジー～</title>
-		<desc>▽鮮度やニセモノを判別する測定器</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lee167owgd.jpg?v=806db524" />
-	</programme>
-	<programme channel="ntv" start="20260517100000 +0000" stop="20260517105800 +0000">
-		<title>ザ！鉄腕！DASH!!</title>
-		<desc>福島26年目の米作り!視聴者に新男米を届ける夢の計画!</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le0hfj92n4.jpg?v=14a672be" />
-	</programme>
 	<programme channel="ntv" start="20260517105800 +0000" stop="20260517115400 +0000">
 		<title>世界の果てまでイッテQ！</title>
 		<desc>【出川はじめてのおつかい】河北が1年半ぶり復帰!ロンドン爆笑(秘)英語</desc>
@@ -420,16 +410,6 @@
 		<desc> </desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lecmz77v1h.jpg?v=20b13b2c" />
 	</programme>
-	<programme channel="ex" start="20260517095600 +0000" stop="20260517105000 +0000">
-		<title>ナニコレ珍百景</title>
-		<desc>元気すぎるご長寿＆今どきの幼稚園＆宮城・長崎の先っちょ珍調査SP</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le7o44cs8n.jpg?v=4adfa67f" />
-	</programme>
-	<programme channel="ex" start="20260517105000 +0000" stop="20260517105400 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
-	</programme>
 	<programme channel="ex" start="20260517105400 +0000" stop="20260517115600 +0000">
 		<title>ポツンと一軒家</title>
 		<desc>鹿児島県でポツンと一軒家を発見！仲睦まじい夫婦の山奥での暮らしぶりに密着！</desc>
@@ -618,17 +598,17 @@
 	<programme channel="ex" start="20260525100000 +0000" stop="20260525114000 +0000">
 		<title>帰れマンデー見っけ隊!!</title>
 		<desc>近藤真彦が参戦！いま大注目の四万十川で四大食材を探す秘境旅</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leezmr2jjq.jpg?v=bbefb611" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leezmr2jjq.jpg?v=8b477deb" />
 	</programme>
 	<programme channel="ex" start="20260525114000 +0000" stop="20260525125400 +0000">
 		<title>サンド＆キスマイの気になるマン</title>
 		<desc>Kis-My-Ft2が日本全国で気になることを大調査！▽しまなみ海道や京都、高知に移住！昭和レトロ好き外国人＆日本文化の師範になった外国人…一体どんな暮らしをしている？</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le91evr3pn.jpg?v=4fbb5b7c" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le91evr3pn.jpg?v=4004f0ac" />
 	</programme>
 	<programme channel="ex" start="20260525125400 +0000" stop="20260525141000 +0000">
 		<title>報道ステーション</title>
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lepd469i5y.jpg?v=42ca02a9" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lepd469i5y.jpg?v=41ca0116" />
 	</programme>
 	<programme channel="ex" start="20260526100000 +0000" stop="20260526120000 +0000">
 		<title>日本探求アカデミックバラエティ　火曜の良純孝太郎</title>
@@ -684,11 +664,6 @@
 		<title>余命３ヶ月のサレ夫</title>
 		<desc>不倫相手の逆鱗に触れ、孤立してしまったシタ妻・美月（桜井日奈子）は、ついに毒母・彩美（筒井真理子）に連絡してしまい…最恐タッグがサレ夫（白洲迅）に襲い掛かる！</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le14dcls4m.jpg?v=de2ec1d1" />
-	</programme>
-	<programme channel="tbs" start="20260517100000 +0000" stop="20260517120000 +0000">
-		<title>坂上&amp;指原のつぶれない店</title>
-		<desc>ゆず庵ピソラ串家物語！知らなきゃ損する超人気食べ放題店</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3bzy4h0f.jpg?v=a04749d6" />
 	</programme>
 	<programme channel="tbs" start="20260517120000 +0000" stop="20260517125400 +0000">
 		<title>ＧＩＦＴ</title>
@@ -923,7 +898,7 @@
 	<programme channel="tbs" start="20260524120000 +0000" stop="20260524125400 +0000">
 		<title>ＧＩＦＴ</title>
 		<desc>＃7「天才学者、家族はじめます!?襲いかかる最後の運命」</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lew4vpdk2a.jpg?v=a59f7f39" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lew4vpdk2a.jpg?v=a49f7da6" />
 	</programme>
 	<programme channel="tbs" start="20260524125400 +0000" stop="20260524130000 +0000">
 		<title>お知らせ</title>
@@ -943,7 +918,7 @@
 	<programme channel="tbs" start="20260524140000 +0000" stop="20260524143000 +0000">
 		<title>情熱大陸</title>
 		<desc>【谷川萌々子／プロサッカー選手▽なでしこの若き才能！名門の中核担う21歳】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leaqj1nlpe.jpg?v=89227034" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leaqj1nlpe.jpg?v=8a2271c7" />
 	</programme>
 	<programme channel="tbs" start="20260524143000 +0000" stop="20260524165900 +0000">
 		<title>配信休止</title>
@@ -958,7 +933,7 @@
 	<programme channel="tbs" start="20260524230000 +0000" stop="20260525005500 +0000">
 		<title>ラヴィット！</title>
 		<desc>お菓子クイズグランプリ！ハイチュウ何味かわかる？＆巨大書き順バトル</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lefd9smwga.jpg?v=1ad2445d" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lefd9smwga.jpg?v=19d242ca" />
 	</programme>
 	<programme channel="tbs" start="20260525005500 +0000" stop="20260525100000 +0000">
 		<title>配信休止</title>
@@ -1114,11 +1089,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lebeighy13.jpg?v=e6a674f0" />
-	</programme>
-	<programme channel="tx" start="20260517093000 +0000" stop="20260517115000 +0000">
-		<title>池上彰の報道特番</title>
-		<desc>緊急生解説　池上彰の激動！世界情勢ＳＰ　小泉進次郎防衛大臣にインタビュー</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/led6n2jqvr.jpg?v=ff80128c" />
 	</programme>
 	<programme channel="tx" start="20260517115000 +0000" stop="20260517125400 +0000">
 		<title>家、ついて行ってイイですか？</title>
@@ -1610,11 +1580,6 @@
 		<desc>配信準備中</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leql8m2wnr.jpg?v=99df52e7" />
 	</programme>
-	<programme channel="cx" start="20260517100000 +0000" stop="20260517120000 +0000">
-		<title>千鳥の鬼レンチャン</title>
-		<desc>◆創設５年３カ月…初の扮装モノマネ鬼レン達成なるか！？</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lewckccm3a.jpg?v=37699f13" />
-	</programme>
 	<programme channel="cx" start="20260517120000 +0000" stop="20260517140900 +0000">
 		<title>地上波放送番組のお知らせ</title>
 		<desc>「Mr.サンデー」は地上波放送でお楽しみください！</desc>
@@ -2004,5 +1969,10 @@
 		<title>時光代理人</title>
 		<desc>第8話</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lerq0u3qz2.jpg?v=13c8d1f9" />
+	</programme>
+	<programme channel="cx" start="20260531100000 +0000" stop="20260531120000 +0000">
+		<title>千鳥の鬼レンチャン</title>
+		<desc />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le244r9fai.jpg?v=c38053c1" />
 	</programme>
 </tv>
