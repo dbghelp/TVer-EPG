@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260517193000 +0000" stop="20260518100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lep46aiym1.jpg?v=672e5f0b" />
-	</programme>
 	<programme channel="ntv" start="20260518100000 +0000" stop="20260518120000 +0000">
 		<title>世界まる見え！テレビ特捜部</title>
 		<desc>全員逮捕SP▼おマヌケ車強盗に痛快ドッキリ!宮世琉弥&amp;JO1豆原</desc>
@@ -552,8 +547,8 @@
 	</programme>
 	<programme channel="ex" start="20260525125400 +0000" stop="20260525141000 +0000">
 		<title>報道ステーション</title>
-		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lepd469i5y.jpg?v=41ca0116" />
+		<desc>旭川市１７歳殺害事件…“リーダー格”初公判▽緊迫…キューバ情勢▽夏の暖気に覆われて…関東でも真夏日が復活▽山本由伸が先発登板▽大相撲ほか</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lepd469i5y.jpg?v=c7136fba" />
 	</programme>
 	<programme channel="ex" start="20260526100000 +0000" stop="20260526120000 +0000">
 		<title>日本探求アカデミックバラエティ　火曜の良純孝太郎</title>
@@ -609,11 +604,6 @@
 		<title>余命３ヶ月のサレ夫</title>
 		<desc>不倫相手の逆鱗に触れ、孤立してしまったシタ妻・美月（桜井日奈子）は、ついに毒母・彩美（筒井真理子）に連絡してしまい…最恐タッグがサレ夫（白洲迅）に襲い掛かる！</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le14dcls4m.jpg?v=de2ec1d1" />
-	</programme>
-	<programme channel="tbs" start="20260517193000 +0000" stop="20260517230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lerpbp4eto.jpg?v=3091d3eb" />
 	</programme>
 	<programme channel="tbs" start="20260517230000 +0000" stop="20260518005500 +0000">
 		<title>ラヴィット！</title>
@@ -1005,11 +995,6 @@
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lebeighy13.jpg?v=e6a674f0" />
 	</programme>
-	<programme channel="tx" start="20260517190000 +0000" stop="20260518092500 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lefkqvyt8a.jpg?v=2181a004" />
-	</programme>
 	<programme channel="tx" start="20260518092500 +0000" stop="20260518110000 +0000">
 		<title>YOUは何しに日本へ？</title>
 		<desc>ＹＯＵは何しに日本へ？★日本全国の絶景タワー巡る自転車旅＆絶品“マグロのお重”</desc>
@@ -1352,8 +1337,8 @@
 	</programme>
 	<programme channel="tx" start="20260527092500 +0000" stop="20260527114000 +0000">
 		<title>ソレダメ！ ～あなたの常識は非常識！？～</title>
-		<desc>ソレダメ！～あなたの常識は非常識！？～</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leri6ke2y0.jpg?v=5155e3be" />
+		<desc>ソレダメ！【達人が伝授！家事を楽にする最新100円グッズ＆無印良品＆簡単ＤＩＹ】</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leri6ke2y0.jpg?v=5455e877" />
 	</programme>
 	<programme channel="tx" start="20260527114000 +0000" stop="20260527125400 +0000">
 		<title>バカリズムのちょっとバカりハカってみた！</title>
