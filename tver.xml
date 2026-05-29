@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260522204500 +0000" stop="20260523100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lerkxf7tz9.jpg?v=2d4212ad" />
-	</programme>
 	<programme channel="ntv" start="20260523100000 +0000" stop="20260523105600 +0000">
 		<title>嗚呼!!みんなの動物園</title>
 		<desc>保護猫新シリーズ開始!池崎一門に超猫好き紅白歌手加入!</desc>
@@ -720,11 +715,6 @@
 		<desc>【最終章】葵（白洲迅）の実家に毒母・彩美（筒井真理子）が来襲！さらに美月（桜井日奈子）の悪行動画がＳＮＳ上で拡散され、ケンジ（高橋光臣）も追い詰められていく…。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leilebdg4f.jpg?v=dc8fa68e" />
 	</programme>
-	<programme channel="tbs" start="20260522194500 +0000" stop="20260523095100 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leb6y2veb7.jpg?v=d6f045a8" />
-	</programme>
 	<programme channel="tbs" start="20260523095100 +0000" stop="20260523115400 +0000">
 		<title>ジョブチューン ～アノ職業のヒミツぶっちゃけます！</title>
 		<desc>＜配信は19時から＞東京都庁のお仕事１年間密着ＳＰ</desc>
@@ -1169,11 +1159,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leis65hgkr.jpg?v=b46e2467" />
-	</programme>
-	<programme channel="tx" start="20260522190000 +0000" stop="20260523093000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le69r0s29o.jpg?v=8b1a4f08" />
 	</programme>
 	<programme channel="tx" start="20260523093000 +0000" stop="20260523115500 +0000">
 		<title>土曜ゴールデン</title>
