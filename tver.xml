@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260523100000 +0000" stop="20260523105600 +0000">
-		<title>嗚呼!!みんなの動物園</title>
-		<desc>保護猫新シリーズ開始!池崎一門に超猫好き紅白歌手加入!</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leun9p7sg8.jpg?v=6112fec9" />
-	</programme>
 	<programme channel="ntv" start="20260523105600 +0000" stop="20260523115400 +0000">
 		<title>1億人の大質問!?笑ってコラえて！</title>
 		<desc>▼道の駅伝秋田編スタート!蟹!鯛!海鮮天国男鹿でグルメ三昧なまはげSP</desc>
@@ -338,7 +333,7 @@
 	<programme channel="ntv" start="20260602110000 +0000" stop="20260602125400 +0000">
 		<title>一攫千金 宝の山 いらない物をオークションに出したら超高額SP(仮)</title>
 		<desc>6月2日 よる８時００分～リアルタイム配信！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le7qojh91t.jpg?v=298e1d39" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le7qojh91t.jpg?v=328e2b64" />
 	</programme>
 	<programme channel="ntv" start="20260602125400 +0000" stop="20260602130000 +0000">
 		<title>お知らせ</title>
@@ -429,11 +424,6 @@
 		<title>配信休止</title>
 		<desc> </desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lefgdfwoa2.jpg?v=aacf5dcb" />
-	</programme>
-	<programme channel="ex" start="20260523095600 +0000" stop="20260523110000 +0000">
-		<title>サンドウィッチマン＆芦田愛菜の博士ちゃん</title>
-		<desc>おウチに置きたい！珍奇植物ＳＰ</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le9lnui4e2.jpg?v=04ff6270" />
 	</programme>
 	<programme channel="ex" start="20260523110000 +0000" stop="20260523115400 +0000">
 		<title>池上彰のニュースそうだったのか!!</title>
@@ -715,11 +705,6 @@
 		<desc>【最終章】葵（白洲迅）の実家に毒母・彩美（筒井真理子）が来襲！さらに美月（桜井日奈子）の悪行動画がＳＮＳ上で拡散され、ケンジ（高橋光臣）も追い詰められていく…。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leilebdg4f.jpg?v=dc8fa68e" />
 	</programme>
-	<programme channel="tbs" start="20260523095100 +0000" stop="20260523115400 +0000">
-		<title>ジョブチューン ～アノ職業のヒミツぶっちゃけます！</title>
-		<desc>＜配信は19時から＞東京都庁のお仕事１年間密着ＳＰ</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lerodnf7r4.jpg?v=943dd35d" />
-	</programme>
 	<programme channel="tbs" start="20260523115400 +0000" stop="20260523125600 +0000">
 		<title>いくらかわかる金？</title>
 		<desc>大好評ドケチ春日デカ盛り＆賞金目指し親子で挑戦！二人羽織玉入れ</desc>
@@ -963,7 +948,7 @@
 	<programme channel="tbs" start="20260531100000 +0000" stop="20260531120000 +0000">
 		<title>坂上&amp;指原のつぶれない店</title>
 		<desc>角上魚類＆ライフ＆生鮮市場TOP！激戦区さいたま新都心</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leu2an83pl.jpg?v=1edb5bc4" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leu2an83pl.jpg?v=1bdb570b" />
 	</programme>
 	<programme channel="tbs" start="20260531120000 +0000" stop="20260531125400 +0000">
 		<title>ＧＩＦＴ</title>
@@ -977,8 +962,8 @@
 	</programme>
 	<programme channel="tbs" start="20260531130000 +0000" stop="20260531135400 +0000">
 		<title>日曜日の初耳学</title>
-		<desc>【賀来賢人×林修◆『今日から俺は！！』福田雄一監督と爆笑リモート】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/legl0qg28w.jpg?v=cb33686a" />
+		<desc>【賀来賢人×林◆独立の際…妻・榮倉奈々の言葉＆福田監督と爆笑中継】</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/legl0qg28w.jpg?v=be3353f3" />
 	</programme>
 	<programme channel="tbs" start="20260531135400 +0000" stop="20260531140000 +0000">
 		<title>お知らせ</title>
@@ -1053,7 +1038,7 @@
 	<programme channel="tbs" start="20260602115500 +0000" stop="20260602130000 +0000">
 		<title>マツコの知らない世界</title>
 		<desc>マイケル・ジャクソン深掘りSP</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le0uix0yj5.jpg?v=e2b56264" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le0uix0yj5.jpg?v=47765bb4" />
 	</programme>
 	<programme channel="tbs" start="20260602130000 +0000" stop="20260602140000 +0000">
 		<title>時すでにおスシ!?</title>
@@ -1147,8 +1132,8 @@
 	</programme>
 	<programme channel="tbs" start="20260605115500 +0000" stop="20260605130000 +0000">
 		<title>知識の扉よ開け！ドア×ドア クエスト</title>
-		<desc>ドア×ドア　クエスト</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lelns4w12o.jpg?v=8e51c11c" />
+		<desc>ドア×ドアクエスト☆国民的お菓子何を作ってる？＆SixTONES髙地優吾ラーメン</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lelns4w12o.jpg?v=8d51bf89" />
 	</programme>
 	<programme channel="tbs" start="20260605130000 +0000" stop="20260605135400 +0000">
 		<title>田鎖ブラザーズ</title>
@@ -1159,11 +1144,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leis65hgkr.jpg?v=b46e2467" />
-	</programme>
-	<programme channel="tx" start="20260523093000 +0000" stop="20260523115500 +0000">
-		<title>土曜ゴールデン</title>
-		<desc>土曜ゴールデン　あさこ・梨乃の５万円旅24　福島縦断！絶景＆うまい酒に乾杯ＳＰ</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lez8vyn4yp.jpg?v=a4272db1" />
 	</programme>
 	<programme channel="tx" start="20260523115500 +0000" stop="20260523120000 +0000">
 		<title>配信準備中</title>
@@ -1675,11 +1655,6 @@
 		<desc>配信準備中</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le2c8wv7zl.jpg?v=c63c0a7d" />
 	</programme>
-	<programme channel="cx" start="20260523093000 +0000" stop="20260523120000 +0000">
-		<title>新しいカギ</title>
-		<desc>＜配信は19時から＞校内疾走！名曲大好き土八先生…伝説のデビューソングSP！武田鉄矢参戦</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4kfrwbkp.jpg?v=57571cc0" />
-	</programme>
 	<programme channel="cx" start="20260523120000 +0000" stop="20260523141000 +0000">
 		<title>ツッコミ芸人No.1決定戦 ツッコミスター</title>
 		<desc>粗品が本気で向き合うツッコミNo.1決定戦！</desc>
@@ -2159,5 +2134,15 @@
 		<title>配信番組のお知らせ</title>
 		<desc>🎞️🎥🎬</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leu8sqgwjj.jpg?v=c6598a35" />
+	</programme>
+	<programme channel="cx" start="20260606090000 +0000" stop="20260606093000 +0000">
+		<title>配信番組のお知らせ</title>
+		<desc>🎞️🎥🎬</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le9dl4iagh.jpg?v=633b091d" />
+	</programme>
+	<programme channel="cx" start="20260606093000 +0000" stop="20260606120000 +0000">
+		<title>新しいカギ</title>
+		<desc>＜配信は19時から＞</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le1g731si8.jpg?v=97d30796" />
 	</programme>
 </tv>
