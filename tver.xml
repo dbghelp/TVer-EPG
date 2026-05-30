@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260523201000 +0000" stop="20260524095500 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le10iv2859.jpg?v=07b8e481" />
-	</programme>
 	<programme channel="ntv" start="20260524095500 +0000" stop="20260524100000 +0000">
 		<title>博士は今日も嫉妬する～人生が楽しくなる最新テクノロジー～</title>
 		<desc>▽野菜を潰さずに収穫できるロボット</desc>
@@ -655,11 +650,6 @@
 		<desc>【最終章】葵（白洲迅）の実家に毒母・彩美（筒井真理子）が来襲！さらに美月（桜井日奈子）の悪行動画がＳＮＳ上で拡散され、ケンジ（高橋光臣）も追い詰められていく…。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leilebdg4f.jpg?v=dc8fa68e" />
 	</programme>
-	<programme channel="tbs" start="20260523194000 +0000" stop="20260524100000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/legvty2szq.jpg?v=3ee224b5" />
-	</programme>
 	<programme channel="tbs" start="20260524100000 +0000" stop="20260524120000 +0000">
 		<title>バナナマンのせっかくグルメ!!</title>
 		<desc>日村は島根県出雲へ！中村倫也×ムロツヨシは相模原</desc>
@@ -1084,11 +1074,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leis65hgkr.jpg?v=b46e2467" />
-	</programme>
-	<programme channel="tx" start="20260523190000 +0000" stop="20260524093000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lek0yissag.jpg?v=b6711bcf" />
 	</programme>
 	<programme channel="tx" start="20260524093000 +0000" stop="20260524115000 +0000">
 		<title>世界の給与明細～日本と比べてどうなの？～</title>
