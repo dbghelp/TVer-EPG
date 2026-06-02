@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260526193000 +0000" stop="20260527100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leh9r1qjk7.jpg?v=ff4d63c1" />
-	</programme>
 	<programme channel="ntv" start="20260527100000 +0000" stop="20260527120000 +0000">
 		<title>有吉の壁</title>
 		<desc>SP▼芸人のコネで超豪華22組助っ人大集結▼優勝者はZIP!でアニメ化</desc>
@@ -582,8 +577,8 @@
 	</programme>
 	<programme channel="ex" start="20260603125400 +0000" stop="20260603141000 +0000">
 		<title>報道ステーション</title>
-		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/letol1hqlw.jpg?v=ff7a0ec2" />
+		<desc>台風の勢力衰えず関東へ…東京は非常に激しい雨…“通勤直撃”で影響は▽旭川殺人…検察尋問▽補正予算が審議入り▽ＭＬＢ・大谷翔平…ホームランは!?▽プロ野球ほか</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/letol1hqlw.jpg?v=007a1055" />
 	</programme>
 	<programme channel="ex" start="20260603141000 +0000" stop="20260604100000 +0000">
 		<title>No programme</title>
@@ -699,11 +694,6 @@
 		<title>報道ステーション</title>
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lerovekcae.jpg?v=73d51b50" />
-	</programme>
-	<programme channel="tbs" start="20260526193000 +0000" stop="20260526230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le38a3sydu.jpg?v=321ffcbd" />
 	</programme>
 	<programme channel="tbs" start="20260526230000 +0000" stop="20260527005500 +0000">
 		<title>ラヴィット！</title>
@@ -1154,11 +1144,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4ja4rc78.jpg?v=6ab167b9" />
-	</programme>
-	<programme channel="tx" start="20260526190000 +0000" stop="20260527092500 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leg4qd33px.jpg?v=3c570fa6" />
 	</programme>
 	<programme channel="tx" start="20260527092500 +0000" stop="20260527114000 +0000">
 		<title>ソレダメ！ ～あなたの常識は非常識！？～</title>
