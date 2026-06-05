@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260529204500 +0000" stop="20260530100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lezwymkpce.jpg?v=31e9c3d1" />
-	</programme>
 	<programme channel="ntv" start="20260530100000 +0000" stop="20260530115400 +0000">
 		<title>嗚呼!!みんなの動物園</title>
 		<desc>2時間SP目が見えない天才猫&amp;相葉トリミングM!LK参戦</desc>
@@ -715,11 +710,6 @@
 		<desc>【最終回】医師から退院はできないと告げられたサレ夫・葵（白洲迅）は新薬に望みを託す…そして、全てが白日の下に晒されたシタ妻・美月（桜井日奈子）の最後の選択とは…</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leu7zels7a.jpg?v=fed3e9af" />
 	</programme>
-	<programme channel="tbs" start="20260529194500 +0000" stop="20260530095100 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lesqdusd07.jpg?v=fff21c18" />
-	</programme>
 	<programme channel="tbs" start="20260530095100 +0000" stop="20260530115400 +0000">
 		<title>ザ・マネモネア</title>
 		<desc>＜配信は19時から＞イロモネア新企画「ザ・マネモネア」★MC内村光良！極限モノマネバトルが爆誕！！</desc>
@@ -1169,11 +1159,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leid3apjbc.jpg?v=8cebbbee" />
-	</programme>
-	<programme channel="tx" start="20260529190000 +0000" stop="20260530093000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ley8qnf1yc.jpg?v=3c41c709" />
 	</programme>
 	<programme channel="tx" start="20260530093000 +0000" stop="20260530115500 +0000">
 		<title>出川哲朗の充電させてもらえませんか？</title>
