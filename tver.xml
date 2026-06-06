@@ -20,31 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260530115400 +0000" stop="20260530120000 +0000">
-		<title>お知らせ</title>
-		<desc>リアルタイム配信予定の番組は「日テレ系」タブよりご確認いただけます。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leli7dqdmn.jpg?v=4004896d" />
-	</programme>
-	<programme channel="ntv" start="20260530120000 +0000" stop="20260530125400 +0000">
-		<title>タツキ先生は甘すぎる！</title>
-		<desc>第8話 町田啓太 松本穂香 比嘉愛未 江口洋介</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le7cxio1n2.jpg?v=395802c6" />
-	</programme>
-	<programme channel="ntv" start="20260530125400 +0000" stop="20260530130000 +0000">
-		<title>お知らせ</title>
-		<desc>リアルタイム配信予定の番組は「日テレ系」タブよりご確認いただけます。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6fofus9o.jpg?v=8fbb2cd2" />
-	</programme>
-	<programme channel="ntv" start="20260530130000 +0000" stop="20260530135400 +0000">
-		<title>追跡取材 news LOG</title>
-		<desc>和久田麻由子とたどる、記者たちの取材の軌跡。土曜日の夜、注目のニュースや話題の真相に迫る「追跡ドキュメンタリー型」ニュース番組です。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lel5ujmlud.jpg?v=70a197bc" />
-	</programme>
-	<programme channel="ntv" start="20260530135400 +0000" stop="20260530202500 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leugthrpuz.jpg?v=61882369" />
-	</programme>
 	<programme channel="ntv" start="20260530202500 +0000" stop="20260531130000 +0000">
 		<title>配信休止</title>
 		<desc> </desc>
@@ -208,7 +183,7 @@
 	<programme channel="ntv" start="20260606120000 +0000" stop="20260606125400 +0000">
 		<title>タツキ先生は甘すぎる！</title>
 		<desc>第9話 町田啓太 松本穂香 比嘉愛未 江口洋介</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lecjpgr4ig.jpg?v=990bf2dc" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lecjpgr4ig.jpg?v=9a0bf46f" />
 	</programme>
 	<programme channel="ntv" start="20260606125400 +0000" stop="20260606130000 +0000">
 		<title>お知らせ</title>
@@ -409,31 +384,6 @@
 		<title>配信休止</title>
 		<desc> </desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lexsfd43w0.jpg?v=ba5d227e" />
-	</programme>
-	<programme channel="ex" start="20260530110000 +0000" stop="20260530115400 +0000">
-		<title>池上彰のニュースそうだったのか!!</title>
-		<desc>いま日本は景気がいいって本当！？気になる景気について池上彰が解説！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lea0uiejff.jpg?v=538a6027" />
-	</programme>
-	<programme channel="ex" start="20260530115400 +0000" stop="20260530130400 +0000">
-		<title>サタデーステーション</title>
-		<desc>高島彩▽３年ぶりの開催へ“足立の花火”密着▽台風６号列島に接近…大雨警戒▽６月から値上げ“中東情勢”影響も▽夏の大地震どう備える？避難所の課題▽山開きクマ警戒</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lero7u9ejz.jpg?v=d75ffa7b" />
-	</programme>
-	<programme channel="ex" start="20260530130400 +0000" stop="20260530140000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
-	</programme>
-	<programme channel="ex" start="20260530140000 +0000" stop="20260530143000 +0000">
-		<title>ターミネーターと恋しちゃったら</title>
-		<desc>第9話</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lecklr5wkz.jpg?v=1e7b61c5" />
-	</programme>
-	<programme channel="ex" start="20260530143000 +0000" stop="20260531095600 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
 	</programme>
 	<programme channel="ex" start="20260531095600 +0000" stop="20260531115600 +0000">
 		<title>ポツンと一軒家</title>
@@ -699,16 +649,6 @@
 		<title>余命３ヶ月のサレ夫</title>
 		<desc>【最終回】医師から退院はできないと告げられたサレ夫・葵（白洲迅）は新薬に望みを託す…そして、全てが白日の下に晒されたシタ妻・美月（桜井日奈子）の最後の選択とは…</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leu7zels7a.jpg?v=fed3e9af" />
-	</programme>
-	<programme channel="tbs" start="20260530115400 +0000" stop="20260530125600 +0000">
-		<title>いくらかわかる金？</title>
-		<desc>中村倫也＆神木隆之介が自腹クレーン！話題の土佐料理居酒屋で満腹</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lek0mhmz2t.jpg?v=912e155b" />
-	</programme>
-	<programme channel="tbs" start="20260530125600 +0000" stop="20260530200000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ler2w0qjs4.jpg?v=07e0ad12" />
 	</programme>
 	<programme channel="tbs" start="20260530200000 +0000" stop="20260531100000 +0000">
 		<title>配信休止</title>
@@ -1144,21 +1084,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leid3apjbc.jpg?v=8cebbbee" />
-	</programme>
-	<programme channel="tx" start="20260530115500 +0000" stop="20260530120000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le2c4cl4iy.jpg?v=58d73f3a" />
-	</programme>
-	<programme channel="tx" start="20260530120000 +0000" stop="20260530125400 +0000">
-		<title>出没！アド街ック天国</title>
-		<desc>出没！アド街ック天国【飯能駅】まるで北欧!?西武線沿線“埼玉のレジャータウン”</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lenxkt53au.jpg?v=7fd9f1a3" />
-	</programme>
-	<programme channel="tx" start="20260530125400 +0000" stop="20260530190000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leptci2qub.jpg?v=edfd45a8" />
 	</programme>
 	<programme channel="tx" start="20260530190000 +0000" stop="20260531093000 +0000">
 		<title>配信準備中</title>
@@ -1660,11 +1585,6 @@
 		<desc>配信準備中</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le7rubpqs0.jpg?v=906ea4a4" />
 	</programme>
-	<programme channel="cx" start="20260530120000 +0000" stop="20260530141000 +0000">
-		<title>地上波放送番組のお知らせ</title>
-		<desc>映画「海街diary」は地上波放送でお楽しみください！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lewl57n7jk.jpg?v=f1c25fb1" />
-	</programme>
 	<programme channel="cx" start="20260530141000 +0000" stop="20260530144000 +0000">
 		<title>さんまのお笑い向上委員会</title>
 		<desc>▼NEOモノマネ芸人ラパルフェ！本家ニューヨークも絶賛</desc>
@@ -1943,7 +1863,7 @@
 	<programme channel="cx" start="20260606063000 +0000" stop="20260606085000 +0000">
 		<title>サッカー女子日本代表 国際親善試合「なでしこジャパン×南アフリカ」</title>
 		<desc>サッカー女子日本代表 国際親善試合「なでしこジャパン×南アフリカ」</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lev9n5zfds.jpg?v=0879b8ef" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lev9n5zfds.jpg?v=147c0a6a" />
 	</programme>
 	<programme channel="cx" start="20260606085000 +0000" stop="20260606093000 +0000">
 		<title>No programme</title>
@@ -2259,5 +2179,10 @@
 		<title>芸能人が本気で考えた！ドッキリGP</title>
 		<desc>＜配信は19時から＞</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lelt581qdp.jpg?v=0d31f1da" />
+	</programme>
+	<programme channel="cx" start="20260613120000 +0000" stop="20260613141000 +0000">
+		<title>ジャンオニ！！！</title>
+		<desc>ジャンオニゴールデン</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lemwir68o4.jpg?v=f373eda1" />
 	</programme>
 </tv>
