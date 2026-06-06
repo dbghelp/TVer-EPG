@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260530202500 +0000" stop="20260531130000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lewuj761dm.jpg?v=c3409ca7" />
-	</programme>
 	<programme channel="ntv" start="20260531130000 +0000" stop="20260531133000 +0000">
 		<title>おしゃれクリップ</title>
 		<desc>ゲスト 小池徹平</desc>
