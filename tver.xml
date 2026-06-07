@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260531193000 +0000" stop="20260601100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lea3mjrm3j.jpg?v=b1082758" />
-	</programme>
 	<programme channel="ntv" start="20260601100000 +0000" stop="20260601120000 +0000">
 		<title>有吉ゼミ</title>
 		<desc>▼グルメすぎる相撲部屋ご当地メシSP 水卜が食材無駄なし料理作りに潜入</desc>
@@ -547,8 +542,8 @@
 	</programme>
 	<programme channel="ex" start="20260608125400 +0000" stop="20260608141000 +0000">
 		<title>報道ステーション</title>
-		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lesx31ctdl.jpg?v=28fa59d4" />
+		<desc>習近平氏７年ぶり訪朝…対米戦略や非核化焦点▽旭川殺害事件で求刑▽皇族数確保案を提示▽関東も大雨シーズン▽上田綺世×内田篤人▽Ｗ杯情報ほか</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lesx31ctdl.jpg?v=29fa5b67" />
 	</programme>
 	<programme channel="ex" start="20260609100000 +0000" stop="20260609120000 +0000">
 		<title>孝太郎＆ちさ子　プラチナファミリー 華麗なる一家をのぞき見</title>
@@ -609,11 +604,6 @@
 		<title>余命３ヶ月のサレ夫</title>
 		<desc>【最終回】医師から退院はできないと告げられたサレ夫・葵（白洲迅）は新薬に望みを託す…そして、全てが白日の下に晒されたシタ妻・美月（桜井日奈子）の最後の選択とは…</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leu7zels7a.jpg?v=fed3e9af" />
-	</programme>
-	<programme channel="tbs" start="20260531193000 +0000" stop="20260531230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lewlo7gvui.jpg?v=9cfbbdbf" />
 	</programme>
 	<programme channel="tbs" start="20260531230000 +0000" stop="20260601005500 +0000">
 		<title>ラヴィット！</title>
@@ -1004,11 +994,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leid3apjbc.jpg?v=8cebbbee" />
-	</programme>
-	<programme channel="tx" start="20260531190000 +0000" stop="20260601092500 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/legyw84ux5.jpg?v=e82db365" />
 	</programme>
 	<programme channel="tx" start="20260601092500 +0000" stop="20260601110000 +0000">
 		<title>YOUは何しに日本へ？</title>
@@ -1803,7 +1788,7 @@
 	<programme channel="cx" start="20260608064200 +0000" stop="20260608100000 +0000">
 		<title>配信番組のお知らせ</title>
 		<desc>🎞️🎥🎬</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le5f4ke9tf.jpg?v=e67bf3e2" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le5f4ke9tf.jpg?v=e57bf24f" />
 	</programme>
 	<programme channel="cx" start="20260608100000 +0000" stop="20260608110000 +0000">
 		<title>ネプリーグ</title>
