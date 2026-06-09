@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260602193000 +0000" stop="20260603100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le45xpv0t6.jpg?v=d9c080c0" />
-	</programme>
 	<programme channel="ntv" start="20260603100000 +0000" stop="20260603120000 +0000">
 		<title>人生が変わる1分間の深イイ話</title>
 		<desc>復活SP 名門・石原家の妻に初密着&amp;朝ドラ「ばけばけ」夫婦の真実</desc>
@@ -622,8 +617,8 @@
 	</programme>
 	<programme channel="ex" start="20260610125400 +0000" stop="20260610141000 +0000">
 		<title>報道ステーション</title>
-		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lelvhaj9u2.jpg?v=b0f6e5e4" />
+		<desc>宇都宮のクマは複数頭か…１頭捕獲も警戒続く▽消費税１％の行方は▽新名神６人死亡の裁判▽久保建英×内田篤人…前回Ｗ杯から「進化」▽大谷翔平</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lelvhaj9u2.jpg?v=b1f6e777" />
 	</programme>
 	<programme channel="ex" start="20260610141000 +0000" stop="20260611100000 +0000">
 		<title>No programme</title>
@@ -719,11 +714,6 @@
 		<title>報道ステーション</title>
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leflye537j.jpg?v=c86678cf" />
-	</programme>
-	<programme channel="tbs" start="20260602193000 +0000" stop="20260602230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6vdlpd1h.jpg?v=9fc49e90" />
 	</programme>
 	<programme channel="tbs" start="20260602230000 +0000" stop="20260603005500 +0000">
 		<title>ラヴィット！</title>
@@ -1179,11 +1169,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4xplg7rz.jpg?v=5d9a98cc" />
-	</programme>
-	<programme channel="tx" start="20260602190000 +0000" stop="20260603092500 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lebu32er77.jpg?v=03c88177" />
 	</programme>
 	<programme channel="tx" start="20260603092500 +0000" stop="20260603113000 +0000">
 		<title>竜と虎の大激戦 -最強vs最強- こんな大会…こんな宿敵…知らなかった6番勝負</title>
@@ -2038,7 +2023,7 @@
 	<programme channel="cx" start="20260610064200 +0000" stop="20260610100000 +0000">
 		<title>配信番組のお知らせ</title>
 		<desc>🎞️🎥🎬</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leb6wpj525.jpg?v=dd15820b" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leb6wpj525.jpg?v=de15839e" />
 	</programme>
 	<programme channel="cx" start="20260610100000 +0000" stop="20260610120000 +0000">
 		<title>世界の何だコレ！？ミステリー</title>
