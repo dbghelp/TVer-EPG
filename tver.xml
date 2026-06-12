@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260605191500 +0000" stop="20260606100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/levscps9k0.jpg?v=998ffa31" />
-	</programme>
 	<programme channel="ntv" start="20260606100000 +0000" stop="20260606115400 +0000">
 		<title>1億人の大質問!?笑ってコラえて！</title>
 		<desc>2時間▼小泉孝太郎参戦!道の駅伝!秋田&amp;山形の名物グルメだらけSP</desc>
@@ -695,11 +690,6 @@
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leu265fusf.jpg?v=4aa3d7b4" />
 	</programme>
-	<programme channel="tbs" start="20260605194500 +0000" stop="20260606095100 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ler1guq02w.jpg?v=a010ea66" />
-	</programme>
 	<programme channel="tbs" start="20260606095100 +0000" stop="20260606115400 +0000">
 		<title>ジョブチューン ～アノ職業のヒミツぶっちゃけます！</title>
 		<desc>＜配信は19時から＞爆発的人気「グミ」No.1は？同業他社がガチ採点！ライバル番付！</desc>
@@ -1144,11 +1134,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lep1rvvhjh.jpg?v=c1d2b015" />
-	</programme>
-	<programme channel="tx" start="20260605190000 +0000" stop="20260606093000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lesqwbspln.jpg?v=8c891426" />
 	</programme>
 	<programme channel="tx" start="20260606093000 +0000" stop="20260606115500 +0000">
 		<title>飯尾くっきー！のハンコください！あなたの名字で旅してます</title>
