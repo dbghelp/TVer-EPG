@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260606202500 +0000" stop="20260607095500 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/levmhtrqjn.jpg?v=aeff161f" />
-	</programme>
 	<programme channel="ntv" start="20260607095500 +0000" stop="20260607100000 +0000">
 		<title>博士は今日も嫉妬する～人生が楽しくなる最新テクノロジー～</title>
 		<desc>▽CO2を吸収する建築資材</desc>
@@ -625,11 +620,6 @@
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leu265fusf.jpg?v=4aa3d7b4" />
 	</programme>
-	<programme channel="tbs" start="20260606200000 +0000" stop="20260607100000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4o9jzz2f.jpg?v=88c6ed93" />
-	</programme>
 	<programme channel="tbs" start="20260607100000 +0000" stop="20260607120000 +0000">
 		<title>バナナマンのせっかくグルメ!!</title>
 		<desc>静岡県SP！日村×初登場サンド伊達×ブラマヨ小杉</desc>
@@ -1054,11 +1044,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lep1rvvhjh.jpg?v=c1d2b015" />
-	</programme>
-	<programme channel="tx" start="20260606190000 +0000" stop="20260607093000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lexgqgac5h.jpg?v=76f257be" />
 	</programme>
 	<programme channel="tx" start="20260607093000 +0000" stop="20260607115000 +0000">
 		<title>ゴールドラッシュＪＡＰＡＮ</title>
