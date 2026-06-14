@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260607193000 +0000" stop="20260608100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lex77ooas2.jpg?v=934d5186" />
-	</programme>
 	<programme channel="ntv" start="20260608100000 +0000" stop="20260608120000 +0000">
 		<title>世界まる見え！テレビ特捜部</title>
 		<desc>危機一髪SPローマ空港警備隊&amp;謎の航空機爆発&amp;爆速バナナライダー</desc>
@@ -517,8 +512,8 @@
 	</programme>
 	<programme channel="ex" start="20260615125400 +0000" stop="20260615141000 +0000">
 		<title>報道ステーション</title>
-		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4sx80boi.jpg?v=b1db5296" />
+		<desc>森保ジャパンＷ杯初陣「vsオランダ」早起き観戦…内田篤人が現地生解説▽総理、Ｇ７サミットへ▽イラン情勢の進展は▽前線停滞で激しい雨▽大谷翔平</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4sx80boi.jpg?v=b0db5103" />
 	</programme>
 	<programme channel="ex" start="20260616100000 +0000" stop="20260616125400 +0000">
 		<title>孝太郎＆ちさ子　プラチナファミリー 華麗なる一家をのぞき見</title>
@@ -939,11 +934,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lep1rvvhjh.jpg?v=c1d2b015" />
-	</programme>
-	<programme channel="tx" start="20260607190000 +0000" stop="20260608092500 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lez42fipq9.jpg?v=0beceb47" />
 	</programme>
 	<programme channel="tx" start="20260608092500 +0000" stop="20260608110000 +0000">
 		<title>YOUは何しに日本へ？</title>
@@ -1733,7 +1723,7 @@
 	<programme channel="cx" start="20260615064200 +0000" stop="20260615100000 +0000">
 		<title>配信番組のお知らせ</title>
 		<desc>🎞️🎥🎬</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leselewzxh.jpg?v=8e571936" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leselewzxh.jpg?v=8c571610" />
 	</programme>
 	<programme channel="cx" start="20260615100000 +0000" stop="20260615120000 +0000">
 		<title>真剣遊戯！THE バトル SHOW</title>
