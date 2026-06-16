@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260609193000 +0000" stop="20260610100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lesi66ukkf.jpg?v=c4dd1507" />
-	</programme>
 	<programme channel="ntv" start="20260610100000 +0000" stop="20260610110000 +0000">
 		<title>有吉の壁</title>
 		<desc>▼ZIP!コラボ!全国おもしろ中継▼30秒で笑わせろ!爆速ショートネタ</desc>
@@ -592,8 +587,8 @@
 	</programme>
 	<programme channel="ex" start="20260617125400 +0000" stop="20260617141000 +0000">
 		<title>報道ステーション</title>
-		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lebnk1mphz.jpg?v=0b22306c" />
+		<desc>中東めぐりＧ７声明か…海峡への自衛隊派遣は▽“社長の過失”焦点…知床遊覧船事故で判決▽列島真夏の暑さ続出▽Ｗ杯…メッシ、エムバペ、ハーランド</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lebnk1mphz.jpg?v=0c2231ff" />
 	</programme>
 	<programme channel="ex" start="20260617141000 +0000" stop="20260618100000 +0000">
 		<title>No programme</title>
@@ -679,11 +674,6 @@
 		<title>報道ステーション</title>
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lefllfamu5.jpg?v=99d4665e" />
-	</programme>
-	<programme channel="tbs" start="20260609193000 +0000" stop="20260609230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lekmirn3ej.jpg?v=3f14a9f2" />
 	</programme>
 	<programme channel="tbs" start="20260609230000 +0000" stop="20260610005500 +0000">
 		<title>ラヴィット！</title>
@@ -1119,11 +1109,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le7wwexezq.jpg?v=b35ad982" />
-	</programme>
-	<programme channel="tx" start="20260609190000 +0000" stop="20260610092500 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/let2e1yqkn.jpg?v=c286bed5" />
 	</programme>
 	<programme channel="tx" start="20260610092500 +0000" stop="20260610113000 +0000">
 		<title>亀梨くんのワンにゃフル！</title>
