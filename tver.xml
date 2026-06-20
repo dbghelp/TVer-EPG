@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260613202500 +0000" stop="20260614095500 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lev2b5zwc0.jpg?v=8a29abe7" />
-	</programme>
 	<programme channel="ntv" start="20260614095500 +0000" stop="20260614100000 +0000">
 		<title>博士は今日も嫉妬する～人生が楽しくなる最新テクノロジー～</title>
 		<desc>▽自動ライン引きロボット</desc>
@@ -585,11 +580,6 @@
 		<desc>RIIZE、THE RAMPAGEら豪華アーティスト計１４組が出演したグローバルミュージックフェスティバル『The Performance』を、１時間に凝縮してお届けします！</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le7076u60g.jpg?v=cd98ec76" />
 	</programme>
-	<programme channel="tbs" start="20260613194000 +0000" stop="20260614100000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejjwz2hxm.jpg?v=3536a8d1" />
-	</programme>
 	<programme channel="tbs" start="20260614100000 +0000" stop="20260614120000 +0000">
 		<title>坂上&amp;指原のつぶれない店</title>
 		<desc>日本のトップ社長10人が断言！次に絶対に流行るお店ベスト10！</desc>
@@ -994,11 +984,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leiktuy090.jpg?v=59936145" />
-	</programme>
-	<programme channel="tx" start="20260613190000 +0000" stop="20260614093000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lesifl3mve.jpg?v=6f951c69" />
 	</programme>
 	<programme channel="tx" start="20260614093000 +0000" stop="20260614115000 +0000">
 		<title>世界の給与明細～日本と比べてどうなの？～</title>
