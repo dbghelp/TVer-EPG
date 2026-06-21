@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260614193000 +0000" stop="20260615100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lewwgztun5.jpg?v=97cb2ff2" />
-	</programme>
 	<programme channel="ntv" start="20260615100000 +0000" stop="20260615110000 +0000">
 		<title>有吉ゼミ</title>
 		<desc>▼ギャル曽根vs森保三兄弟の長男&amp;元日本代表爆食!大食いW杯開幕SP</desc>
@@ -452,8 +447,8 @@
 	</programme>
 	<programme channel="ex" start="20260622125400 +0000" stop="20260622141000 +0000">
 		<title>報道ステーション</title>
-		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leseuju41i.jpg?v=953145ec" />
+		<desc>森保ジャパン次戦への戦略は…稲本潤一＆内田篤人“生解説”▽沖縄から海を越えて…戦後８１年パラオの記憶▽旭川１７歳殺害で判決▽高市総理が国会論戦▽大谷翔平</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leseuju41i.jpg?v=9631477f" />
 	</programme>
 	<programme channel="ex" start="20260623100000 +0000" stop="20260623125400 +0000">
 		<title>日本探求アカデミックバラエティ　火曜の良純孝太郎</title>
@@ -504,11 +499,6 @@
 		<title>The Performance</title>
 		<desc>RIIZE、THE RAMPAGEら豪華アーティスト計１４組が出演したグローバルミュージックフェスティバル『The Performance』を、１時間に凝縮してお届けします！</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le7076u60g.jpg?v=cd98ec76" />
-	</programme>
-	<programme channel="tbs" start="20260614193000 +0000" stop="20260614230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6l1h9hjw.jpg?v=5a1f249c" />
 	</programme>
 	<programme channel="tbs" start="20260614230000 +0000" stop="20260615005500 +0000">
 		<title>ラヴィット！</title>
@@ -874,11 +864,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leiktuy090.jpg?v=59936145" />
-	</programme>
-	<programme channel="tx" start="20260614190000 +0000" stop="20260615092500 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lekh2de82e.jpg?v=24d8699b" />
 	</programme>
 	<programme channel="tx" start="20260615092500 +0000" stop="20260615110000 +0000">
 		<title>YOUは何しに日本へ？</title>
@@ -1643,7 +1628,7 @@
 	<programme channel="cx" start="20260622064200 +0000" stop="20260622100000 +0000">
 		<title>配信番組のお知らせ</title>
 		<desc>🎞️🎥🎬</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lehx3mhlyp.jpg?v=45362add" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lehx3mhlyp.jpg?v=42362624" />
 	</programme>
 	<programme channel="cx" start="20260622100000 +0000" stop="20260622110000 +0000">
 		<title>ネプリーグ</title>
