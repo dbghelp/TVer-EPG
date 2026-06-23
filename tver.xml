@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260616193000 +0000" stop="20260617100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/les4k85cra.jpg?v=789afec7" />
-	</programme>
 	<programme channel="ntv" start="20260617100000 +0000" stop="20260617120000 +0000">
 		<title>千鳥かまいたちゴールデンアワー</title>
 		<desc>【全国ご当地アナウンサー大賞SP】総勢39名アナ地元ネタ大爆笑!</desc>
@@ -393,7 +388,7 @@
 	<programme channel="ntv" start="20260630120000 +0000" stop="20260630125400 +0000">
 		<title>ザ！世界仰天ニュース</title>
 		<desc>猛暑のインドで妻が行方不明!灼熱の国で起きた真夏の大事件SP</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lez74tsnkd.jpg?v=ebf4dc41" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lez74tsnkd.jpg?v=e8f4d788" />
 	</programme>
 	<programme channel="ntv" start="20260630125400 +0000" stop="20260630130000 +0000">
 		<title>お知らせ</title>
@@ -542,8 +537,8 @@
 	</programme>
 	<programme channel="ex" start="20260624125400 +0000" stop="20260624141000 +0000">
 		<title>報道ステーション</title>
-		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leshcmf0uk.jpg?v=85eebc5e" />
+		<desc>Ｗ台風が列島に接近…西日本は災害級大雨に▽どうなる消費減税案…野党反発で議論の行方は▽６大会連続得点は？Ｗ杯Ｃ・ロナウド登場▽大谷翔平</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leshcmf0uk.jpg?v=86eebdf1" />
 	</programme>
 	<programme channel="ex" start="20260624141000 +0000" stop="20260625100000 +0000">
 		<title>No programme</title>
@@ -639,11 +634,6 @@
 		<title>報道ステーション</title>
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leoia7lelk.jpg?v=a34a0e54" />
-	</programme>
-	<programme channel="tbs" start="20260616193000 +0000" stop="20260616230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leic5i6hu8.jpg?v=40a900a8" />
 	</programme>
 	<programme channel="tbs" start="20260616230000 +0000" stop="20260617005500 +0000">
 		<title>ラヴィット！</title>
@@ -1059,11 +1049,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lean249z2z.jpg?v=b7ac9868" />
-	</programme>
-	<programme channel="tx" start="20260616190000 +0000" stop="20260617092500 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le9yazah62.jpg?v=1446091a" />
 	</programme>
 	<programme channel="tx" start="20260617092500 +0000" stop="20260617114000 +0000">
 		<title>ソレダメ！ ～あなたの常識は非常識！？～</title>
@@ -1893,7 +1878,7 @@
 	<programme channel="cx" start="20260624064200 +0000" stop="20260624100000 +0000">
 		<title>配信番組のお知らせ</title>
 		<desc>🎞️🎥🎬</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lexq868vhw.jpg?v=b3b6d46c" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lexq868vhw.jpg?v=b9b6ddde" />
 	</programme>
 	<programme channel="cx" start="20260624100000 +0000" stop="20260624110000 +0000">
 		<title>世界の何だコレ！？ミステリー</title>
@@ -2163,7 +2148,7 @@
 	<programme channel="cx" start="20260630134800 +0000" stop="20260630135400 +0000">
 		<title>配信番組のお知らせ</title>
 		<desc>🎞️🎥🎬</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqqirncn3.jpg?v=39d97f37" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqqirncn3.jpg?v=36d97a7e" />
 	</programme>
 	<programme channel="cx" start="20260630135400 +0000" stop="20260630140000 +0000">
 		<title>配信番組のお知らせ</title>
