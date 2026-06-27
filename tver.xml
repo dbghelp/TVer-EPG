@@ -385,16 +385,6 @@
 		<desc> </desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lem7splp1x.jpg?v=1b05c7c4" />
 	</programme>
-	<programme channel="ex" start="20260620095600 +0000" stop="20260620115400 +0000">
-		<title>池上彰のニュースそうだったのか!!</title>
-		<desc>意外と知らない「国家」…移民は「国籍」をもらえる？「国籍」は買える？池上彰が「国家」を解説！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leyvz4jjio.jpg?v=81f84f59" />
-	</programme>
-	<programme channel="ex" start="20260620115400 +0000" stop="20260620132400 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
-	</programme>
 	<programme channel="ex" start="20260620132400 +0000" stop="20260620135200 +0000">
 		<title>サタデーステーション</title>
 		<desc>▽高島彩▽東京・北区の小学校火災現場で実況見分…最新情報▽米イラン和平協議…今後は？▽あすＷ杯第２戦…日本代表最新映像▽大谷翔平に第２子誕生▽台風７号進路は？</desc>
@@ -567,8 +557,13 @@
 	</programme>
 	<programme channel="ex" start="20260627140000 +0000" stop="20260627143000 +0000">
 		<title>サタデーステーション</title>
-		<desc>生放送だからできる“LIVE感”を大切に、週末だからできる“注目ニュース”の掘り下げと“週末も動いているニュース”を速報で高島彩キャスターが分かりやすくお伝えします</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leazojxni8.jpg?v=ef88d185" />
+		<desc>高島彩▽“ダブル台風”記録的な大雨で各地に被害▽山梨・震度6弱…富士山の火山活動との関連は？▽サッカーW杯日本代表が決勝トーナメントに向け再始動…あの選手は？</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leazojxni8.jpg?v=ee88cff2" />
+	</programme>
+	<programme channel="ex" start="20260627143000 +0000" stop="20260628095600 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
 	</programme>
 	<programme channel="ex" start="20260628095600 +0000" stop="20260628105000 +0000">
 		<title>ナニコレ珍百景</title>
@@ -634,11 +629,6 @@
 		<title>報道ステーション</title>
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leb992hgzo.jpg?v=19a5d08e" />
-	</programme>
-	<programme channel="tbs" start="20260620095100 +0000" stop="20260620115400 +0000">
-		<title>世界くらべてみたら</title>
-		<desc>＜配信は19時から＞蒙古タンメン激辛新メニュー！本木＆菅田＆宮舘カンヌ</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le9txqx2ot.jpg?v=c10346cf" />
 	</programme>
 	<programme channel="tbs" start="20260620115400 +0000" stop="20260620125600 +0000">
 		<title>いくらかわかる金？</title>
@@ -1054,11 +1044,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6k7jy1sa.jpg?v=666fbfd6" />
-	</programme>
-	<programme channel="tx" start="20260620093000 +0000" stop="20260620115500 +0000">
-		<title>土曜ゴールデン</title>
-		<desc>土曜ゴールデン　大久保・川村の温泉タオル集め旅23群馬・長野・新潟へ新緑露天SP</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le7pmasrbc.jpg?v=12860d8b" />
 	</programme>
 	<programme channel="tx" start="20260620115500 +0000" stop="20260620120000 +0000">
 		<title>配信準備中</title>
@@ -1539,11 +1524,6 @@
 		<title>配信準備中</title>
 		<desc>配信準備中</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lexpxog780.jpg?v=583472d1" />
-	</programme>
-	<programme channel="cx" start="20260620093000 +0000" stop="20260620120000 +0000">
-		<title>新しいカギ</title>
-		<desc>＜配信は19時から＞反町隆史率いるドラマGTOチームが参戦！学校かくれんぼ２時間SP！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le0c42sx9v.jpg?v=51d67518" />
 	</programme>
 	<programme channel="cx" start="20260620120000 +0000" stop="20260620141000 +0000">
 		<title>ネタパレ</title>
@@ -2148,6 +2128,11 @@
 	<programme channel="cx" start="20260704090000 +0000" stop="20260704093000 +0000">
 		<title>配信番組のお知らせ</title>
 		<desc>🎞️🎥🎬</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/len53nq4o6.jpg?v=10ceff9e" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/len53nq4o6.jpg?v=0acef62c" />
+	</programme>
+	<programme channel="cx" start="20260704093000 +0000" stop="20260704115400 +0000">
+		<title>地上波放送番組のお知らせ</title>
+		<desc>「FIFAワールドカップ 　珍プレー好プレー」は地上波放送でお楽しみください！</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lel393w6jn.jpg?v=67867758" />
 	</programme>
 </tv>
