@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260620194000 +0000" stop="20260621095500 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lez7vhdnqz.jpg?v=52e03d4f" />
-	</programme>
 	<programme channel="ntv" start="20260621095500 +0000" stop="20260621100000 +0000">
 		<title>博士は今日も嫉妬する～人生が楽しくなる最新テクノロジー～</title>
 		<desc>▽水で剥がせる自然由来の接着剤</desc>
@@ -610,11 +605,6 @@
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leb992hgzo.jpg?v=19a5d08e" />
 	</programme>
-	<programme channel="tbs" start="20260620190000 +0000" stop="20260621100000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lef869e5wc.jpg?v=d2967d2a" />
-	</programme>
 	<programme channel="tbs" start="20260621100000 +0000" stop="20260621125400 +0000">
 		<title>バナナマンのせっかくグルメ!!</title>
 		<desc>初登場！本木雅弘＆吉高由里子＆ナイナイ岡村隆史</desc>
@@ -1014,11 +1004,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6k7jy1sa.jpg?v=666fbfd6" />
-	</programme>
-	<programme channel="tx" start="20260620190000 +0000" stop="20260621093000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le0sjdhb2q.jpg?v=c703e18a" />
 	</programme>
 	<programme channel="tx" start="20260621093000 +0000" stop="20260621115000 +0000">
 		<title>あの歴代さんは今？　衝撃のイッキミ映像ＳＨＯＷ</title>
