@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260621193000 +0000" stop="20260622100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/levjma6toj.jpg?v=6481ece2" />
-	</programme>
 	<programme channel="ntv" start="20260622100000 +0000" stop="20260622110000 +0000">
 		<title>有吉ゼミ</title>
 		<desc>▼ギャル曽根M!LK曽野が圧巻の食べっぷり大食いアーティスト軍団が襲来</desc>
@@ -233,7 +228,7 @@
 	<programme channel="ntv" start="20260629120000 +0000" stop="20260629135400 +0000">
 		<title>しゃべくり007</title>
 		<desc>2時間SP</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lepobzd8zc.jpg?v=3e969afd" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lepobzd8zc.jpg?v=3d96996a" />
 	</programme>
 	<programme channel="ntv" start="20260629135400 +0000" stop="20260629193000 +0000">
 		<title>配信休止</title>
@@ -492,8 +487,8 @@
 	</programme>
 	<programme channel="ex" start="20260629125400 +0000" stop="20260629141000 +0000">
 		<title>報道ステーション</title>
-		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leeaxrkr0h.jpg?v=ad0f3d7d" />
+		<desc>日本vsブラジル直前!!ベスト１６かけ…本気の「王国」に挑む森保ジャパン…決戦現地から内田篤人が中継▽別府市ひき逃げ事件から４年…八田容疑者の行方は▽前線停滞</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leeaxrkr0h.jpg?v=ac0f3bea" />
 	</programme>
 	<programme channel="ex" start="20260630100000 +0000" stop="20260630125400 +0000">
 		<title>孝太郎＆ちさ子　プラチナファミリー 華麗なる一家をのぞき見</title>
@@ -534,11 +529,6 @@
 		<title>報道ステーション</title>
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leb992hgzo.jpg?v=19a5d08e" />
-	</programme>
-	<programme channel="tbs" start="20260621193000 +0000" stop="20260621230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6nb802l8.jpg?v=76ba7679" />
 	</programme>
 	<programme channel="tbs" start="20260621230000 +0000" stop="20260622005500 +0000">
 		<title>ラヴィット！</title>
@@ -904,11 +894,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6k7jy1sa.jpg?v=666fbfd6" />
-	</programme>
-	<programme channel="tx" start="20260621190000 +0000" stop="20260622092500 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lezktedwma.jpg?v=d2eba411" />
 	</programme>
 	<programme channel="tx" start="20260622092500 +0000" stop="20260622110000 +0000">
 		<title>YOUは何しに日本へ？</title>
@@ -1658,7 +1643,7 @@
 	<programme channel="cx" start="20260629064200 +0000" stop="20260629100000 +0000">
 		<title>配信番組のお知らせ</title>
 		<desc>🎞️🎥🎬</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leug3lby5t.jpg?v=2a1bd43e" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leug3lby5t.jpg?v=2b1bd5d1" />
 	</programme>
 	<programme channel="cx" start="20260629100000 +0000" stop="20260629125400 +0000">
 		<title>クイズ！ドレミファドン</title>
