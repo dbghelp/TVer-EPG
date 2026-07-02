@@ -888,17 +888,17 @@
 	<programme channel="tbs" start="20260703194500 +0000" stop="20260704095100 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lep6rtut1k.jpg?v=afaa8daf" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lep6rtut1k.jpg?v=acaa88f6" />
 	</programme>
 	<programme channel="tbs" start="20260704095100 +0000" stop="20260704125600 +0000">
 		<title>ジョブチューン ～アノ職業のヒミツぶっちゃけます！</title>
 		<desc>＜配信は19時から＞ジャッジＳＰ！ガスト×丸亀×リンガー３社＆ミニストップスイーツ</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leejv3h6ko.jpg?v=f9c1690e" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leejv3h6ko.jpg?v=f4c1612f" />
 	</programme>
 	<programme channel="tbs" start="20260704125600 +0000" stop="20260704200000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leta3xd6jt.jpg?v=f1d66d76" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leta3xd6jt.jpg?v=f4d6722f" />
 	</programme>
 	<programme channel="tbs" start="20260704200000 +0000" stop="20260705100000 +0000">
 		<title>配信休止</title>
@@ -1079,11 +1079,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ledtke6nsh.jpg?v=ba7d847d" />
-	</programme>
-	<programme channel="tx" start="20260625145500 +0000" stop="20260625190000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lekpa7pxe6.jpg?v=899a81ca" />
 	</programme>
 	<programme channel="tx" start="20260625190000 +0000" stop="20260626095500 +0000">
 		<title>配信準備中</title>
@@ -1565,15 +1560,10 @@
 		<desc>カンブリア宮殿【物価高の強い味方！激安スーパーのロープライス戦略】</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/levql9e0yz.jpg?v=2f7668da" />
 	</programme>
-	<programme channel="cx" start="20260625143000 +0000" stop="20260625152000 +0000">
-		<title>配信番組のお知らせ</title>
-		<desc>🎞️🎥🎬</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lewh4cd05y.jpg?v=eaceaf73" />
-	</programme>
-	<programme channel="cx" start="20260625152000 +0000" stop="20260626064200 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
+	<programme channel="tx" start="20260709145500 +0000" stop="20260709190000 +0000">
+		<title>配信準備中</title>
+		<desc>配信準備中</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leg7n4uioa.jpg?v=82befb04" />
 	</programme>
 	<programme channel="cx" start="20260626064200 +0000" stop="20260626100000 +0000">
 		<title>配信番組のお知らせ</title>
@@ -1938,7 +1928,7 @@
 	<programme channel="cx" start="20260703150000 +0000" stop="20260703155000 +0000">
 		<title>配信番組のお知らせ</title>
 		<desc>🎞️🎥🎬</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le58uxnwaj.jpg?v=63814980" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le58uxnwaj.jpg?v=649aa0f8" />
 	</programme>
 	<programme channel="cx" start="20260703155000 +0000" stop="20260704090000 +0000">
 		<title>No programme</title>
@@ -2192,7 +2182,12 @@
 	</programme>
 	<programme channel="cx" start="20260709140000 +0000" stop="20260709143000 +0000">
 		<title>トークィーンズ</title>
-		<desc>　</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lekv08thx1.jpg?v=42150684" />
+		<desc />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lekv08thx1.jpg?v=411504f1" />
+	</programme>
+	<programme channel="cx" start="20260709143000 +0000" stop="20260709152000 +0000">
+		<title>配信番組のお知らせ</title>
+		<desc>🎞️🎥🎬</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leu1t0wobn.jpg?v=c45ec152" />
 	</programme>
 </tv>
