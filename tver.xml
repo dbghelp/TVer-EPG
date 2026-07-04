@@ -20,16 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260627100000 +0000" stop="20260627105600 +0000">
-		<title>嗚呼!!みんなの動物園</title>
-		<desc>ブサカワ猫ニャオハが大喧嘩!?&amp;マッチョ飼い猫に異変が…</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leara98k67.jpg?v=840d77cc" />
-	</programme>
-	<programme channel="ntv" start="20260627105600 +0000" stop="20260627125400 +0000">
-		<title>1億人の大質問!?笑ってコラえて！</title>
-		<desc>2時間SP▼原監督&amp;青学軍団が道の駅伝参戦!激ウマ新潟グルメ</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3a0w86jj.jpg?v=23555f4c" />
-	</programme>
 	<programme channel="ntv" start="20260627125400 +0000" stop="20260627130000 +0000">
 		<title>お知らせ</title>
 		<desc>リアルタイム配信予定の番組は「日テレ系」タブよりご確認いただけます。</desc>
@@ -400,11 +390,6 @@
 		<desc> </desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lexxt4oifm.jpg?v=eeabaf3a" />
 	</programme>
-	<programme channel="ex" start="20260627095600 +0000" stop="20260627120000 +0000">
-		<title>サンドウィッチマン＆芦田愛菜の博士ちゃん</title>
-		<desc>織田裕二が初参戦！！悪魔の３択ＳＰ！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leb5n8uu5y.jpg?v=b6a89525" />
-	</programme>
 	<programme channel="ex" start="20260627120000 +0000" stop="20260627135400 +0000">
 		<title>ダブルエッジ～甦った男</title>
 		<desc>織田裕二、テレ朝ドラマ初主演！車いすの刑事×天才財務捜査官がコンビを組んで連続殺人事件の謎に挑む！最後の最後まで予測不能の展開で送る本格ヒューマンミステリー！</desc>
@@ -634,11 +619,6 @@
 		<title>報道ステーション</title>
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lew3x3tlvt.jpg?v=0bfb0db7" />
-	</programme>
-	<programme channel="tbs" start="20260627095100 +0000" stop="20260627115400 +0000">
-		<title>ジョブチューン ～アノ職業のヒミツぶっちゃけます！</title>
-		<desc>＜配信は19時から＞セブンイレブンジャッジ！「金のハンバーグ」リベンジなるか!?</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lefh8glbbd.jpg?v=480c792c" />
 	</programme>
 	<programme channel="tbs" start="20260627115400 +0000" stop="20260627125600 +0000">
 		<title>いくらかわかる金？</title>
@@ -1069,11 +1049,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6b3j44tm.jpg?v=758829f0" />
-	</programme>
-	<programme channel="tx" start="20260627093000 +0000" stop="20260627115500 +0000">
-		<title>出川哲朗の充電させてもらえませんか？</title>
-		<desc>出川哲朗の充電させてもらえませんか？初！山之内すず＆陣内智則【東京⇒栃木】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lezxz127f4.jpg?v=4cab6c1b" />
 	</programme>
 	<programme channel="tx" start="20260627115500 +0000" stop="20260627120000 +0000">
 		<title>配信準備中</title>
@@ -1544,11 +1519,6 @@
 		<title>配信準備中</title>
 		<desc>配信準備中</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le0ywd4k1o.jpg?v=da4ed453" />
-	</programme>
-	<programme channel="cx" start="20260627093000 +0000" stop="20260627120000 +0000">
-		<title>芸能人が本気で考えた！ドッキリGP</title>
-		<desc>＜配信は19時から＞高橋成美は神ドッキリスターなのかSP</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lepf65cda2.jpg?v=67041bcb" />
 	</programme>
 	<programme channel="cx" start="20260627120000 +0000" stop="20260627141000 +0000">
 		<title>世にも奇妙な物語</title>
@@ -2168,6 +2138,11 @@
 	<programme channel="cx" start="20260711090000 +0000" stop="20260711093000 +0000">
 		<title>配信番組のお知らせ</title>
 		<desc>🎞️🎥🎬</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/letwx7yhvv.jpg?v=76af5e7d" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/letwx7yhvv.jpg?v=73af59c4" />
+	</programme>
+	<programme channel="cx" start="20260711093000 +0000" stop="20260711120000 +0000">
+		<title>芸能人が本気で考えた！ドッキリGP</title>
+		<desc>＜配信は19時から＞</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lefeow4h5b.jpg?v=ce8f5dc1" />
 	</programme>
 </tv>
