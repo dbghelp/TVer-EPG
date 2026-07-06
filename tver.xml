@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260629193000 +0000" stop="20260630100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lev34mrt29.jpg?v=9f15b718" />
-	</programme>
 	<programme channel="ntv" start="20260630100000 +0000" stop="20260630110000 +0000">
 		<title>オモウマい店</title>
 		<desc>【新潟】盛りすぎ15品ランチ【山梨】うなぎボウルチャーハン</desc>
@@ -383,7 +378,7 @@
 	<programme channel="ntv" start="20260712130000 +0000" stop="20260712133000 +0000">
 		<title>おしゃれクリップ</title>
 		<desc>ゲストが秘める「私の中の、もうひとりのワタシ」を引き出す新トーク番組!</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leq68itisl.jpg?v=e81ee0bc" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leq68itisl.jpg?v=eb1ee575" />
 	</programme>
 	<programme channel="ntv" start="20260712133000 +0000" stop="20260712142500 +0000">
 		<title>一次元の挿し木</title>
@@ -572,8 +567,8 @@
 	</programme>
 	<programme channel="ex" start="20260707130000 +0000" stop="20260707141600 +0000">
 		<title>報道ステーション</title>
-		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/len9setb0y.jpg?v=f23fc26e" />
+		<desc>猛烈台風９号どうなる…全国で「真夏日」続出▽参院“正常化”も…▽空気注入殺害で判決▽Ｗ杯！アメリカのエース出場は…“隣国宿敵”決戦も!!▽ＭＬＢほか</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/len9setb0y.jpg?v=f33fc401" />
 	</programme>
 	<programme channel="ex" start="20260707141600 +0000" stop="20260708100000 +0000">
 		<title>No programme</title>
@@ -664,11 +659,6 @@
 		<title>報道ステーション</title>
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le657s0h8n.jpg?v=0a41a7db" />
-	</programme>
-	<programme channel="tbs" start="20260629193000 +0000" stop="20260629230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leem624pe1.jpg?v=4bbe78ba" />
 	</programme>
 	<programme channel="tbs" start="20260629230000 +0000" stop="20260630005500 +0000">
 		<title>ラヴィット！</title>
@@ -1104,11 +1094,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le2vpv4mhu.jpg?v=988988d0" />
-	</programme>
-	<programme channel="tx" start="20260629190000 +0000" stop="20260630092500 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lec2dpm5va.jpg?v=ac0c33ec" />
 	</programme>
 	<programme channel="tx" start="20260630092500 +0000" stop="20260630115400 +0000">
 		<title>世界が騒然！本当にあった(秘)衝撃ファイル</title>
@@ -1590,16 +1575,6 @@
 		<desc>配信準備中</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le98npi7ra.jpg?v=f20890a0" />
 	</programme>
-	<programme channel="cx" start="20260629192000 +0000" stop="20260629200500 +0000">
-		<title>地上波放送番組のお知らせ</title>
-		<desc>「FIFAワールドカップ2026 デイリーハイライト」は地上波放送でお楽しみください！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leibpip4d7.jpg?v=b22f4965" />
-	</programme>
-	<programme channel="cx" start="20260629200500 +0000" stop="20260630064200 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
-	</programme>
 	<programme channel="cx" start="20260630064200 +0000" stop="20260630100000 +0000">
 		<title>配信番組のお知らせ</title>
 		<desc>🎞️🎥🎬</desc>
@@ -1918,7 +1893,7 @@
 	<programme channel="cx" start="20260707064200 +0000" stop="20260707100000 +0000">
 		<title>配信番組のお知らせ</title>
 		<desc>🎞️🎥🎬</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4e62zje8.jpg?v=c0120f38" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4e62zje8.jpg?v=bf120da5" />
 	</programme>
 	<programme channel="cx" start="20260707100000 +0000" stop="20260707120000 +0000">
 		<title>配信番組のお知らせ</title>
