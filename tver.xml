@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260630163900 +0000" stop="20260701100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/levxp0bmf9.jpg?v=969df3fa" />
-	</programme>
 	<programme channel="ntv" start="20260701100000 +0000" stop="20260701120000 +0000">
 		<title>1周回って知らない話</title>
 		<desc>独占密着!高嶋ちさ子一家アメリカ旅&amp;夫も参戦で大もめSP</desc>
@@ -1938,7 +1933,7 @@
 	<programme channel="cx" start="20260708143000 +0000" stop="20260708152000 +0000">
 		<title>配信番組のお知らせ</title>
 		<desc>🎞️🎥🎬</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejvo63449.jpg?v=f24c1c08" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejvo63449.jpg?v=f34c1d9b" />
 	</programme>
 	<programme channel="cx" start="20260708152000 +0000" stop="20260709064200 +0000">
 		<title>No programme</title>
