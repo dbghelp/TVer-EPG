@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260701193000 +0000" stop="20260702100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/letkm4y9ox.jpg?v=41f4eee9" />
-	</programme>
 	<programme channel="ntv" start="20260702100000 +0000" stop="20260702125400 +0000">
 		<title>ぐるぐるナインティナイン</title>
 		<desc>27年ぶりイタリアローマゴチ!仲里依紗×竜星涼×森本慎太郎30万勝負</desc>
@@ -587,8 +582,8 @@
 	</programme>
 	<programme channel="ex" start="20260709125400 +0000" stop="20260709141000 +0000">
 		<title>報道ステーション</title>
-		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lej7pbagib.jpg?v=f906c335" />
+		<desc>夏本番…猛暑日が続出…熱中症対策で“異変”▽イラン情勢、再び混迷▽マグロ…漁獲枠の行方▽介護サービス渋滞？「ケアマネージャー不足」深刻▽ＭＬＢほか</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lej7pbagib.jpg?v=f806c1a2" />
 	</programme>
 	<programme channel="ex" start="20260709141000 +0000" stop="20260710095000 +0000">
 		<title>No programme</title>
@@ -684,11 +679,6 @@
 		<title>報道ステーション</title>
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le052j2j07.jpg?v=5fc9e5e4" />
-	</programme>
-	<programme channel="tbs" start="20260701193000 +0000" stop="20260701230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leb9mdh166.jpg?v=fc070552" />
 	</programme>
 	<programme channel="tbs" start="20260701230000 +0000" stop="20260702005500 +0000">
 		<title>ラヴィット！</title>
@@ -1124,11 +1114,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/letwoth03z.jpg?v=78c6a259" />
-	</programme>
-	<programme channel="tx" start="20260701190000 +0000" stop="20260702092500 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leu82ffknl.jpg?v=d22415ae" />
 	</programme>
 	<programme channel="tx" start="20260702092500 +0000" stop="20260702115800 +0000">
 		<title>有吉弘行のグレートクエッション！それサイコーです！</title>
@@ -1933,7 +1918,7 @@
 	<programme channel="cx" start="20260709064200 +0000" stop="20260709100000 +0000">
 		<title>配信番組のお知らせ</title>
 		<desc>🎞️🎥🎬</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6u7vrfbf.jpg?v=5c0ac8f1" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6u7vrfbf.jpg?v=5b0ac75e" />
 	</programme>
 	<programme channel="cx" start="20260709100000 +0000" stop="20260709115400 +0000">
 		<title>地上波放送番組のお知らせ</title>
