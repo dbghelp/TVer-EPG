@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260703201500 +0000" stop="20260704043000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le33ftrvrz.jpg?v=19e825b7" />
-	</programme>
 	<programme channel="ntv" start="20260704043000 +0000" stop="20260704073000 +0000">
 		<title>THE MUSIC DAY 2026</title>
 		<desc>「音楽の物語」65組!幕張から生放送</desc>
@@ -695,11 +690,6 @@
 		<desc>ミステリーマニアの＜孫娘＞吉川愛×レビー小体型認知症の＜祖父＞奥田瑛二 異色バディが日常の謎や小さな事件を紐解く、切なさと優しさに満ちた≪ヒューマンミステリー≫</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ledpncn3qb.jpg?v=c9e2c910" />
 	</programme>
-	<programme channel="tbs" start="20260703194500 +0000" stop="20260704095100 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lep6rtut1k.jpg?v=aaaa85d0" />
-	</programme>
 	<programme channel="tbs" start="20260704095100 +0000" stop="20260704125600 +0000">
 		<title>ジョブチューン ～アノ職業のヒミツぶっちゃけます！</title>
 		<desc>＜配信は19時から＞夏ジャッジSP！ガスト×丸亀×リンガー3社＆ミニストップスイーツ</desc>
@@ -1139,11 +1129,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le5n9rgid4.jpg?v=d037a9fe" />
-	</programme>
-	<programme channel="tx" start="20260703190000 +0000" stop="20260704093000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lepbjwos4u.jpg?v=e5ef154a" />
 	</programme>
 	<programme channel="tx" start="20260704093000 +0000" stop="20260704115500 +0000">
 		<title>土曜ゴールデン</title>
