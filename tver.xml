@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260705193000 +0000" stop="20260706100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lexxp87hcu.jpg?v=027188eb" />
-	</programme>
 	<programme channel="ntv" start="20260706100000 +0000" stop="20260706120000 +0000">
 		<title>有吉ゼミ</title>
 		<desc>▼相撲部屋でギャル曽根が豪華世界グルメ爆食&amp;那須川龍心2階級制覇へSP</desc>
@@ -522,8 +517,8 @@
 	</programme>
 	<programme channel="ex" start="20260713125400 +0000" stop="20260713141000 +0000">
 		<title>報道ステーション</title>
-		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le657s0h8n.jpg?v=7e608149" />
+		<desc>“猛暑日週間”に突入…関東などゲリラ雷雨も▽消費税１％どうなる▽江別の主犯格…初公判▽ＭＬＢドラフト会議…佐々木麟太郎の指名は？▽Ｗ杯４強</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le657s0h8n.jpg?v=7d607fb6" />
 	</programme>
 	<programme channel="ex" start="20260714120000 +0000" stop="20260714125400 +0000">
 		<title>クロスロード ～救命救急の約束～</title>
@@ -569,11 +564,6 @@
 		<title>名探偵のままでいて</title>
 		<desc>ミステリーマニアの＜孫娘＞吉川愛×レビー小体型認知症の＜祖父＞奥田瑛二 異色バディが日常の謎や小さな事件を紐解く、切なさと優しさに満ちた≪ヒューマンミステリー≫</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ledpncn3qb.jpg?v=c9e2c910" />
-	</programme>
-	<programme channel="tbs" start="20260705193000 +0000" stop="20260705230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lesyyczcn4.jpg?v=6ce29850" />
 	</programme>
 	<programme channel="tbs" start="20260705230000 +0000" stop="20260706005500 +0000">
 		<title>ラヴィット！</title>
@@ -964,11 +954,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le5n9rgid4.jpg?v=d037a9fe" />
-	</programme>
-	<programme channel="tx" start="20260705190000 +0000" stop="20260706092500 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le7aiq9p7s.jpg?v=b5ac1b93" />
 	</programme>
 	<programme channel="tx" start="20260706092500 +0000" stop="20260706110000 +0000">
 		<title>YOUは何しに日本へ？</title>
@@ -1713,7 +1698,7 @@
 	<programme channel="cx" start="20260713064200 +0000" stop="20260713100000 +0000">
 		<title>配信番組のお知らせ</title>
 		<desc>🎞️🎥🎬</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lenk6da8lh.jpg?v=832bf43f" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lenk6da8lh.jpg?v=822bf2ac" />
 	</programme>
 	<programme channel="cx" start="20260713100000 +0000" stop="20260713110000 +0000">
 		<title>ネプリーグ</title>
