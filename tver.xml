@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260709193000 +0000" stop="20260710105600 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leai7vo72u.jpg?v=68be84f2" />
-	</programme>
 	<programme channel="ntv" start="20260710105600 +0000" stop="20260710115400 +0000">
 		<title>沸騰ワード10</title>
 		<desc>風間俊介が弾丸!海外グルメ旅激安の美食天国へ▼イモト下剋上の緊急参戦</desc>
@@ -607,8 +602,8 @@
 	</programme>
 	<programme channel="ex" start="20260717125400 +0000" stop="20260717141000 +0000">
 		<title>報道ステーション</title>
-		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6313771n.jpg?v=c56c7e9e" />
+		<desc>猛暑の京都「祇園祭」…都心は激しい雷雨に▽「養子案」が成立？大詰め国会“延長”も▽メッシvsヤマル展望…中村敬斗が語るＷ杯秘話▽内田篤人＆松岡修造</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6313771n.jpg?v=67b7cb02" />
 	</programme>
 	<programme channel="ex" start="20260717141000 +0000" stop="20260717141500 +0000">
 		<title>No programme</title>
@@ -704,11 +699,6 @@
 		<title>報道ステーション</title>
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le8gix2ug6.jpg?v=424fa41e" />
-	</programme>
-	<programme channel="tbs" start="20260709193000 +0000" stop="20260709230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lekuntzv7g.jpg?v=33107b2f" />
 	</programme>
 	<programme channel="tbs" start="20260709230000 +0000" stop="20260710005500 +0000">
 		<title>ラヴィット！</title>
@@ -1139,11 +1129,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leiqm2vgnh.jpg?v=8d002906" />
-	</programme>
-	<programme channel="tx" start="20260709190000 +0000" stop="20260710095500 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le1w3g3u3h.jpg?v=e8d2232f" />
 	</programme>
 	<programme channel="tx" start="20260710095500 +0000" stop="20260710125400 +0000">
 		<title>超スゴ！自衛隊の裏側ぜ～んぶ見せちゃいます！11</title>
@@ -1953,7 +1938,7 @@
 	<programme channel="cx" start="20260717064200 +0000" stop="20260717100000 +0000">
 		<title>配信番組のお知らせ</title>
 		<desc>🎞️🎥🎬</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lezpwhdd6f.jpg?v=25932bb5" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lezpwhdd6f.jpg?v=229326fc" />
 	</programme>
 	<programme channel="cx" start="20260717100000 +0000" stop="20260717120000 +0000">
 		<title>地上波放送番組のお知らせ</title>
