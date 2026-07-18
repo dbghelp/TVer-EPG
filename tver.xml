@@ -20,31 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260711105600 +0000" stop="20260711115400 +0000">
-		<title>1億人の大質問!?笑ってコラえて！</title>
-		<desc>▼山﨑賢人&amp;橋本環奈が栃木ダーツ旅!青学原監督×新潟の観光地で道の駅伝</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lej87gm79i.jpg?v=0433565c" />
-	</programme>
-	<programme channel="ntv" start="20260711115400 +0000" stop="20260711120000 +0000">
-		<title>お知らせ</title>
-		<desc>リアルタイム配信予定の番組は「日テレ系」タブよりご確認いただけます。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le9rha70sx.jpg?v=61757f6b" />
-	</programme>
-	<programme channel="ntv" start="20260711120000 +0000" stop="20260711125400 +0000">
-		<title>告白―25年目の秘密―</title>
-		<desc>#01</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le8p5y11x5.jpg?v=e342126c" />
-	</programme>
-	<programme channel="ntv" start="20260711125400 +0000" stop="20260711130000 +0000">
-		<title>お知らせ</title>
-		<desc>リアルタイム配信予定の番組は「日テレ系」タブよりご確認いただけます。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leymxf4bgv.jpg?v=3e3fc9e4" />
-	</programme>
-	<programme channel="ntv" start="20260711130000 +0000" stop="20260711135400 +0000">
-		<title>追跡取材 news LOG</title>
-		<desc>和久田麻由子とたどる、記者たちの取材の軌跡。土曜日の夜、注目のニュースや話題の真相に迫る「追跡ドキュメンタリー型」ニュース番組です。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le7iqhzua6.jpg?v=f62e29b3" />
-	</programme>
 	<programme channel="ntv" start="20260711135400 +0000" stop="20260711202500 +0000">
 		<title>配信休止</title>
 		<desc> </desc>
@@ -435,16 +410,6 @@
 		<desc> </desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ler9cvu1al.jpg?v=0784e28d" />
 	</programme>
-	<programme channel="ex" start="20260711115400 +0000" stop="20260711125400 +0000">
-		<title>サタデーステーション</title>
-		<desc>高島彩▽台風9号被害は？列島各地で災害級の暑さ…40℃に迫る所も▽富士登山道全て開通…山頂に変化▽東京“クマ狩猟”課題は▽根強いトランプ支持…岩盤支持層を現地取材</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le1842umxl.jpg?v=e7065ee7" />
-	</programme>
-	<programme channel="ex" start="20260711125400 +0000" stop="20260711140000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
-	</programme>
 	<programme channel="ex" start="20260711140000 +0000" stop="20260711143000 +0000">
 		<title>夏色の雲が恋と嵐をまきおこす</title>
 		<desc>第1話</desc>
@@ -685,16 +650,6 @@
 		<desc>ミステリーマニアの＜孫娘＞吉川愛×レビー小体型認知症の＜祖父＞奥田瑛二 異色バディが日常の謎や小さな事件を紐解く、切なさと優しさに満ちた≪ヒューマンミステリー≫</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejyd4l5ik.jpg?v=e804cf34" />
 	</programme>
-	<programme channel="tbs" start="20260711122900 +0000" stop="20260711133100 +0000">
-		<title>いくらかわかる金？</title>
-		<desc>サッカー＆バレーボール日本代表のスゴ技vs芸能人の賞金バトル！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le8ikuxzb2.jpg?v=b50d454b" />
-	</programme>
-	<programme channel="tbs" start="20260711133100 +0000" stop="20260711194000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lezngjyiwf.jpg?v=f9a79565" />
-	</programme>
 	<programme channel="tbs" start="20260711194000 +0000" stop="20260712100000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
@@ -903,7 +858,7 @@
 	<programme channel="tbs" start="20260718050000 +0000" stop="20260718125600 +0000">
 		<title>音楽の日2026</title>
 		<desc>ごご2時から生放送！今年のテーマは「こえる。きこえる。」</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lev37pxr1l.jpg?v=cde9d26a" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lev37pxr1l.jpg?v=cce9d0d7" />
 	</programme>
 	<programme channel="tbs" start="20260718125600 +0000" stop="20260718190000 +0000">
 		<title>配信休止</title>
@@ -938,7 +893,7 @@
 	<programme channel="tbs" start="20260719140000 +0000" stop="20260719143000 +0000">
 		<title>情熱大陸</title>
 		<desc>【辻井伸行／ピアニスト▽全身で音を感じ、紡ぐ！世界を驚かせる、第２章】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le8q7sphhx.jpg?v=99b2c10e" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le8q7sphhx.jpg?v=2754da28" />
 	</programme>
 	<programme channel="tbs" start="20260719143000 +0000" stop="20260719193000 +0000">
 		<title>配信休止</title>
@@ -1114,21 +1069,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le615xba7a.jpg?v=755b08e3" />
-	</programme>
-	<programme channel="tx" start="20260711115500 +0000" stop="20260711120000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4p1adgwj.jpg?v=b3270778" />
-	</programme>
-	<programme channel="tx" start="20260711120000 +0000" stop="20260711125400 +0000">
-		<title>出没！アド街ック天国</title>
-		<desc>出没！アド街ック天国【稲毛海岸】千葉のビーチリゾート!?楽しい＆オシャレが倍増中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lexugzd7s3.jpg?v=717ed561" />
-	</programme>
-	<programme channel="tx" start="20260711125400 +0000" stop="20260711190000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lepvy23cv7.jpg?v=aea3f12a" />
 	</programme>
 	<programme channel="tx" start="20260711190000 +0000" stop="20260712093000 +0000">
 		<title>配信準備中</title>
@@ -1609,11 +1549,6 @@
 		<title>配信準備中</title>
 		<desc>配信準備中</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lesi0j8xen.jpg?v=2afc6e6f" />
-	</programme>
-	<programme channel="cx" start="20260711120000 +0000" stop="20260711141000 +0000">
-		<title>BABA抜き最弱王決定戦</title>
-		<desc>2026夏　豪華出演者22名夢の競演</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le1euqwtmt.jpg?v=36316809" />
 	</programme>
 	<programme channel="cx" start="20260711141000 +0000" stop="20260711144000 +0000">
 		<title>さんまのお笑い向上委員会</title>
