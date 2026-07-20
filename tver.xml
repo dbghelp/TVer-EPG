@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260713193000 +0000" stop="20260714100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lepv562wou.jpg?v=db195735" />
-	</programme>
 	<programme channel="ntv" start="20260714100000 +0000" stop="20260714120000 +0000">
 		<title>オモウマい店</title>
 		<desc>2時間SP!!【埼玉】200円無限卵食堂【石川】300円10種漬け丼</desc>
@@ -520,11 +515,6 @@
 		<desc>ミステリーマニアの＜孫娘＞吉川愛×レビー小体型認知症の＜祖父＞奥田瑛二 異色バディが日常の謎や小さな事件を紐解く、切なさと優しさに満ちた≪ヒューマンミステリー≫</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejyd4l5ik.jpg?v=e804cf34" />
 	</programme>
-	<programme channel="tbs" start="20260713193000 +0000" stop="20260713230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leijltm1t6.jpg?v=5fc05045" />
-	</programme>
 	<programme channel="tbs" start="20260713230000 +0000" stop="20260714005500 +0000">
 		<title>ラヴィット！</title>
 		<desc>松本若菜＆佐野勇斗にささるグルメは？百名店ハンバーガー＆佐野ラーメン</desc>
@@ -869,11 +859,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le615xba7a.jpg?v=755b08e3" />
-	</programme>
-	<programme channel="tx" start="20260713190000 +0000" stop="20260714115400 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le0x5lq4nz.jpg?v=24cfe4e6" />
 	</programme>
 	<programme channel="tx" start="20260714115400 +0000" stop="20260714125500 +0000">
 		<title>開運！なんでも鑑定団</title>
@@ -1588,7 +1573,7 @@
 	<programme channel="cx" start="20260721064200 +0000" stop="20260721100000 +0000">
 		<title>配信番組のお知らせ</title>
 		<desc>🎞️🎥🎬</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/legvnzurmk.jpg?v=1d2f350a" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/legvnzurmk.jpg?v=1c2f3377" />
 	</programme>
 	<programme channel="cx" start="20260721100000 +0000" stop="20260721115400 +0000">
 		<title>地上波放送番組のお知らせ</title>
