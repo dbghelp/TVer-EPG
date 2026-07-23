@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260716193000 +0000" stop="20260717204500 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leg88ip8i9.jpg?v=8b8d5d56" />
-	</programme>
 	<programme channel="ntv" start="20260717204500 +0000" stop="20260718100000 +0000">
 		<title>配信休止</title>
 		<desc> </desc>
@@ -597,8 +592,8 @@
 	</programme>
 	<programme channel="ex" start="20260724125400 +0000" stop="20260724141000 +0000">
 		<title>報道ステーション</title>
-		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/letvz9f2bk.jpg?v=6e1e2bfc" />
+		<desc>“体温超え”猛暑続く…熱中症で入院、実態は▽関東は警報級大雨に▽“会期末”最終攻防…副首都法案どうなる？▽半年…森保監督が会見▽大相撲ほか</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/letvz9f2bk.jpg?v=6f1e2d8f" />
 	</programme>
 	<programme channel="ex" start="20260724141000 +0000" stop="20260724141500 +0000">
 		<title>No programme</title>
@@ -699,11 +694,6 @@
 		<title>報道ステーション</title>
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leamna643v.jpg?v=5d67bb96" />
-	</programme>
-	<programme channel="tbs" start="20260716193000 +0000" stop="20260716230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le0yydwfa7.jpg?v=ddee8caa" />
 	</programme>
 	<programme channel="tbs" start="20260716230000 +0000" stop="20260717005500 +0000">
 		<title>ラヴィット！</title>
@@ -1204,11 +1194,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leymduzlhg.jpg?v=14112c78" />
-	</programme>
-	<programme channel="tx" start="20260716190000 +0000" stop="20260717095500 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lecieezrf6.jpg?v=52121f70" />
 	</programme>
 	<programme channel="tx" start="20260717095500 +0000" stop="20260717102500 +0000">
 		<title>ポケットモンスター</title>
@@ -2013,7 +1998,7 @@
 	<programme channel="cx" start="20260724064200 +0000" stop="20260724100000 +0000">
 		<title>配信番組のお知らせ</title>
 		<desc>🎞️🎥🎬</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le0gxtv61m.jpg?v=d3ff260b" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le0gxtv61m.jpg?v=d4ff279e" />
 	</programme>
 	<programme channel="cx" start="20260724100000 +0000" stop="20260724120000 +0000">
 		<title>ウワサのお客さま</title>
