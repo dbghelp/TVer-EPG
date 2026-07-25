@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260718100000 +0000" stop="20260718115400 +0000">
-		<title>嗚呼!!みんなの動物園</title>
-		<desc>2時間SP子猫ワカメ最終回&amp;多頭飼育の現場に相葉と山P</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lewuyfz5dn.jpg?v=fc4557e8" />
-	</programme>
 	<programme channel="ntv" start="20260718115400 +0000" stop="20260718120000 +0000">
 		<title>お知らせ</title>
 		<desc>リアルタイム配信予定の番組は「日テレ系」タブよりご確認いただけます。</desc>
@@ -440,16 +435,6 @@
 		<desc> </desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lefubfpelx.jpg?v=d2bafe11" />
 	</programme>
-	<programme channel="ex" start="20260718095600 +0000" stop="20260718110000 +0000">
-		<title>サンドウィッチマン＆芦田愛菜の博士ちゃん</title>
-		<desc>博士ちゃんたちが応援したい！ 令和の今も頑張る昭和レトロ工場＆難読名字探しの旅！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ledechen7c.jpg?v=10de36c7" />
-	</programme>
-	<programme channel="ex" start="20260718110000 +0000" stop="20260718125400 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
-	</programme>
 	<programme channel="ex" start="20260718125400 +0000" stop="20260718135200 +0000">
 		<title>サタデーステーション</title>
 		<desc>高島彩▽足利市で観測史上最大の降水量…土砂崩れで住宅倒壊も▽“住宅侵入のクマ”知能が高い？独自検証▽３連休初日…物価高で夏の風物詩＆行楽に影響▽関東梅雨明けは？</desc>
@@ -623,17 +608,22 @@
 	<programme channel="ex" start="20260726095600 +0000" stop="20260726115600 +0000">
 		<title>ポツンと一軒家</title>
 		<desc>夏休み２時間スペシャル！群馬県の山奥にあるポツンと一軒家を舞台に、８４歳の男性のライフストーリーに迫っていく！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lehrjd38ti.jpg?v=3e9a9270" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lehrjd38ti.jpg?v=419a9729" />
 	</programme>
 	<programme channel="ex" start="20260726115600 +0000" stop="20260726131500 +0000">
 		<title>有働Times</title>
 		<desc>日曜夜、有働由美子が視聴者をおもてなし！ニュースのナゼを独自視点で徹底深掘り▽千々岩官邸キャップ解説▽週末スポーツを超速報！▽片岡信和“ピアノ弾き語り天気”</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lemuvkvlgj.jpg?v=f1e95899" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lemuvkvlgj.jpg?v=eee953e0" />
 	</programme>
 	<programme channel="ex" start="20260726131500 +0000" stop="20260726140900 +0000">
 		<title>マイ・フィクション</title>
 		<desc>第４話【記憶に隠された真実をめぐる、予測不能なサスペンス・ラブストーリー】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lewvo0ncep.jpg?v=c6b2f33b" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lewvo0ncep.jpg?v=c7b2f4ce" />
+	</programme>
+	<programme channel="ex" start="20260726140900 +0000" stop="20260727100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
 	</programme>
 	<programme channel="ex" start="20260727100000 +0000" stop="20260727114000 +0000">
 		<title>帰れマンデー見っけ隊!!</title>
@@ -938,7 +928,7 @@
 	<programme channel="tbs" start="20260725095100 +0000" stop="20260725111000 +0000">
 		<title>世界くらべてみたら</title>
 		<desc>＜配信は19時から＞はらぺこ双子vs超巨大チーズサンド！まさか映画化？</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/levp5kztaa.jpg?v=a9290228" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/levp5kztaa.jpg?v=aa2903bb" />
 	</programme>
 	<programme channel="tbs" start="20260725111000 +0000" stop="20260725125600 +0000">
 		<title>いくらかわかる金？</title>
@@ -953,7 +943,7 @@
 	<programme channel="tbs" start="20260725130000 +0000" stop="20260725142400 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lezc7okftv.jpg?v=6baa1e5d" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lezc7okftv.jpg?v=68aa19a4" />
 	</programme>
 	<programme channel="tbs" start="20260725142400 +0000" stop="20260725143000 +0000">
 		<title>配信休止</title>
@@ -1199,11 +1189,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/letc6cud6j.jpg?v=fbc19df5" />
-	</programme>
-	<programme channel="tx" start="20260718093000 +0000" stop="20260718115500 +0000">
-		<title>三ツ星☆MAP</title>
-		<desc>三ツ星☆MAP　夏の伊豆半島で香取慎吾がまだ見ぬ穴場絶景＆グルメを探す旅</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leygi9a91y.jpg?v=484077c0" />
 	</programme>
 	<programme channel="tx" start="20260718115500 +0000" stop="20260718120000 +0000">
 		<title>配信準備中</title>
@@ -1700,16 +1685,6 @@
 		<desc>配信準備中</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le2f7gry4i.jpg?v=07a0f92e" />
 	</programme>
-	<programme channel="cx" start="20260718090000 +0000" stop="20260718093000 +0000">
-		<title>配信番組のお知らせ</title>
-		<desc>🎞️🎥🎬</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lehqrfncqb.jpg?v=908d64ea" />
-	</programme>
-	<programme channel="cx" start="20260718093000 +0000" stop="20260718120000 +0000">
-		<title>新しいカギ</title>
-		<desc>＜配信は19時から＞ 映画ちいかわコラボなぞなぞで小学生と真剣勝負＆ティーチャーをさがせ</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le5bzquw4i.jpg?v=50f964eb" />
-	</programme>
 	<programme channel="cx" start="20260718120000 +0000" stop="20260718141000 +0000">
 		<title>地上波放送番組のお知らせ</title>
 		<desc>映画「パイレーツ・オブ・カリビアン／呪われた海賊たち」は地上波放送でお楽しみください！</desc>
@@ -2093,7 +2068,7 @@
 	<programme channel="cx" start="20260727100000 +0000" stop="20260727110000 +0000">
 		<title>ネプリーグ</title>
 		<desc>★光GENJI＆モー娘vsME:I！アイドル世代間対決</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le96idvdkz.jpg?v=27f0fbe4" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le96idvdkz.jpg?v=2af1009d" />
 	</programme>
 	<programme channel="cx" start="20260727110000 +0000" stop="20260727120000 +0000">
 		<title>真剣遊戯！THE バトル SHOW</title>
@@ -2309,5 +2284,15 @@
 		<title>配信番組のお知らせ</title>
 		<desc>🎞️🎥🎬</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lew3566iwf.jpg?v=1e91123b" />
+	</programme>
+	<programme channel="cx" start="20260801090000 +0000" stop="20260801093000 +0000">
+		<title>配信番組のお知らせ</title>
+		<desc>🎞️🎥🎬</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le7zajam6z.jpg?v=c0d6faee" />
+	</programme>
+	<programme channel="cx" start="20260801093000 +0000" stop="20260801120000 +0000">
+		<title>爆笑レッドカーペット</title>
+		<desc>＜配信は19時から＞ 笑いの夏祭り！爆笑レッドカーペット▼超人気芸人たちの１分ショートネタ大連発！</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lergeo5hat.jpg?v=437835e9" />
 	</programme>
 </tv>
