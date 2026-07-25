@@ -988,17 +988,17 @@
 	<programme channel="tbs" start="20260726193000 +0000" stop="20260726230000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le9xmlgvwv.jpg?v=186ef2fa" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le9xmlgvwv.jpg?v=136eeb1b" />
 	</programme>
 	<programme channel="tbs" start="20260726230000 +0000" stop="20260727005500 +0000">
 		<title>ラヴィット！</title>
 		<desc>永尾柚乃プレゼンツUSJツアーにぼる塾熱狂＆俺の好きなモノ普及委員会</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leznypshvb.jpg?v=a453d0e3" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leznypshvb.jpg?v=a353cf50" />
 	</programme>
 	<programme channel="tbs" start="20260727005500 +0000" stop="20260727193000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lekxw9rmj4.jpg?v=4e1709ae" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lekxw9rmj4.jpg?v=51170e67" />
 	</programme>
 	<programme channel="tbs" start="20260727193000 +0000" stop="20260727230000 +0000">
 		<title>配信休止</title>
@@ -1620,26 +1620,6 @@
 		<desc>配信準備中</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le2f7gry4i.jpg?v=07a0f92e" />
 	</programme>
-	<programme channel="cx" start="20260718141000 +0000" stop="20260718144000 +0000">
-		<title>さんまのお笑い向上委員会</title>
-		<desc>▼ドンデコルテに異議申し立て！本物の極貧芸人の生き様！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lesxl8amu1.jpg?v=152af850" />
-	</programme>
-	<programme channel="cx" start="20260718144000 +0000" stop="20260718153500 +0000">
-		<title>ミッドナイト屋台２～ル・モンドゥ～</title>
-		<desc>第3話 玉子はメインディッシュ</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ledbgdlxct.jpg?v=62a4dfa8" />
-	</programme>
-	<programme channel="cx" start="20260718153500 +0000" stop="20260718155000 +0000">
-		<title>配信番組のお知らせ</title>
-		<desc>🎞️🎥🎬</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le19n1tckm.jpg?v=6347af68" />
-	</programme>
-	<programme channel="cx" start="20260718155000 +0000" stop="20260719090000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
-	</programme>
 	<programme channel="cx" start="20260719090000 +0000" stop="20260719093000 +0000">
 		<title>配信番組のお知らせ</title>
 		<desc>🎞️🎥🎬</desc>
@@ -2175,6 +2155,11 @@
 		<desc>🎞️🎥🎬</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leyc3n7twm.jpg?v=eff8e1bc" />
 	</programme>
+	<programme channel="cx" start="20260730151500 +0000" stop="20260731064200 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
+	</programme>
 	<programme channel="cx" start="20260731064200 +0000" stop="20260731100000 +0000">
 		<title>配信番組のお知らせ</title>
 		<desc>🎞️🎥🎬</desc>
@@ -2229,5 +2214,20 @@
 		<title>ENGEIグランドスラム</title>
 		<desc>笑いの夏祭り！ENGEIグランドスラム▼日本一豪華なネタ祭典</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lelatc2v3z.jpg?v=dad4e91d" />
+	</programme>
+	<programme channel="cx" start="20260801141000 +0000" stop="20260801144000 +0000">
+		<title>さんまのお笑い向上委員会</title>
+		<desc>　</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le35cfleae.jpg?v=d89a9fb2" />
+	</programme>
+	<programme channel="cx" start="20260801144000 +0000" stop="20260801153500 +0000">
+		<title>ミッドナイト屋台２～ル・モンドゥ～</title>
+		<desc>第5話</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leo58pyqdi.jpg?v=45d112ee" />
+	</programme>
+	<programme channel="cx" start="20260801153500 +0000" stop="20260801154500 +0000">
+		<title>配信番組のお知らせ</title>
+		<desc>🎞️🎥🎬</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le8kihlolx.jpg?v=cb38015f" />
 	</programme>
 </tv>
