@@ -20,31 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260718115400 +0000" stop="20260718120000 +0000">
-		<title>お知らせ</title>
-		<desc>リアルタイム配信予定の番組は「日テレ系」タブよりご確認いただけます。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/levzes9myk.jpg?v=f0329ecc" />
-	</programme>
-	<programme channel="ntv" start="20260718120000 +0000" stop="20260718125400 +0000">
-		<title>告白―25年目の秘密―</title>
-		<desc>#02</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ledhhxw4jm.jpg?v=f0718971" />
-	</programme>
-	<programme channel="ntv" start="20260718125400 +0000" stop="20260718130000 +0000">
-		<title>お知らせ</title>
-		<desc>リアルタイム配信予定の番組は「日テレ系」タブよりご確認いただけます。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lezo2jfdmf.jpg?v=2f649550" />
-	</programme>
-	<programme channel="ntv" start="20260718130000 +0000" stop="20260718135400 +0000">
-		<title>追跡取材 news LOG</title>
-		<desc>和久田麻由子とたどる、記者たちの取材の軌跡。土曜日の夜、注目のニュースや話題の真相に迫る「追跡ドキュメンタリー型」ニュース番組です。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqcc0am2a.jpg?v=3619260a" />
-	</programme>
-	<programme channel="ntv" start="20260718135400 +0000" stop="20260718202500 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/levvslrhlv.jpg?v=a907839d" />
-	</programme>
 	<programme channel="ntv" start="20260718202500 +0000" stop="20260719095500 +0000">
 		<title>配信休止</title>
 		<desc> </desc>
@@ -435,26 +410,6 @@
 		<desc> </desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lefubfpelx.jpg?v=d2bafe11" />
 	</programme>
-	<programme channel="ex" start="20260718125400 +0000" stop="20260718135200 +0000">
-		<title>サタデーステーション</title>
-		<desc>高島彩▽足利市で観測史上最大の降水量…土砂崩れで住宅倒壊も▽“住宅侵入のクマ”知能が高い？独自検証▽３連休初日…物価高で夏の風物詩＆行楽に影響▽関東梅雨明けは？</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le9agmddcd.jpg?v=fcf1fdf3" />
-	</programme>
-	<programme channel="ex" start="20260718135200 +0000" stop="20260718140000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
-	</programme>
-	<programme channel="ex" start="20260718140000 +0000" stop="20260718143000 +0000">
-		<title>夏色の雲が恋と嵐をまきおこす</title>
-		<desc>第2話</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le592lksb4.jpg?v=c2b888cf" />
-	</programme>
-	<programme channel="ex" start="20260718143000 +0000" stop="20260719095600 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
-	</programme>
 	<programme channel="ex" start="20260719095600 +0000" stop="20260719115600 +0000">
 		<title>ナニコレ珍百景</title>
 		<desc>北関東珍対決…群馬×栃木×茨城＆北海道・沖縄の先っちょ２時間SP！</desc>
@@ -694,11 +649,6 @@
 		<title>名探偵のままでいて</title>
 		<desc>ミステリーマニアの＜孫娘＞吉川愛×レビー小体型認知症の＜祖父＞奥田瑛二 異色バディが日常の謎や小さな事件を紐解く、切なさと優しさに満ちた≪ヒューマンミステリー≫</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lereyekqxt.jpg?v=7ea5b591" />
-	</programme>
-	<programme channel="tbs" start="20260718125600 +0000" stop="20260718190000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le21p16q4h.jpg?v=6269e3ba" />
 	</programme>
 	<programme channel="tbs" start="20260718190000 +0000" stop="20260719100000 +0000">
 		<title>配信休止</title>
@@ -1190,21 +1140,6 @@
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/letc6cud6j.jpg?v=fbc19df5" />
 	</programme>
-	<programme channel="tx" start="20260718115500 +0000" stop="20260718120000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le0b3czfd3.jpg?v=b4055455" />
-	</programme>
-	<programme channel="tx" start="20260718120000 +0000" stop="20260718125400 +0000">
-		<title>出没！アド街ック天国</title>
-		<desc>出没！アド街ック天国【横浜・八景島】夏休みに行きたい♪島まるごとテーマパーク♥</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leeiubxco0.jpg?v=51bf8589" />
-	</programme>
-	<programme channel="tx" start="20260718125400 +0000" stop="20260718190000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le2orca0kq.jpg?v=e26f48e9" />
-	</programme>
 	<programme channel="tx" start="20260718190000 +0000" stop="20260719093000 +0000">
 		<title>配信準備中</title>
 		<desc>配信準備中</desc>
@@ -1448,7 +1383,7 @@
 	<programme channel="tx" start="20260725093000 +0000" stop="20260725115500 +0000">
 		<title>独占生中継 隅田川花火大会 2026</title>
 		<desc>独占生中継　隅田川花火大会２０２６★夏の風物詩！東京の夜空彩る豪華２万発</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le05scliw8.jpg?v=ae8cc645" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le05scliw8.jpg?v=4cb00b17" />
 	</programme>
 	<programme channel="tx" start="20260725115500 +0000" stop="20260725120000 +0000">
 		<title>配信準備中</title>
@@ -1684,11 +1619,6 @@
 		<title>配信準備中</title>
 		<desc>配信準備中</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le2f7gry4i.jpg?v=07a0f92e" />
-	</programme>
-	<programme channel="cx" start="20260718120000 +0000" stop="20260718141000 +0000">
-		<title>地上波放送番組のお知らせ</title>
-		<desc>映画「パイレーツ・オブ・カリビアン／呪われた海賊たち」は地上波放送でお楽しみください！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lehif24gmh.jpg?v=072d17fc" />
 	</programme>
 	<programme channel="cx" start="20260718141000 +0000" stop="20260718144000 +0000">
 		<title>さんまのお笑い向上委員会</title>
@@ -2073,7 +2003,7 @@
 	<programme channel="cx" start="20260727110000 +0000" stop="20260727120000 +0000">
 		<title>真剣遊戯！THE バトル SHOW</title>
 		<desc>★櫻井翔vs久本雅美あっち向いてホイ新システム！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3fdxs9xg.jpg?v=528ad18a" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3fdxs9xg.jpg?v=458abd13" />
 	</programme>
 	<programme channel="cx" start="20260727120000 +0000" stop="20260727125400 +0000">
 		<title>ブラックトリック～裁きを操る弁護人～</title>
@@ -2294,5 +2224,10 @@
 		<title>爆笑レッドカーペット</title>
 		<desc>＜配信は19時から＞ 笑いの夏祭り！爆笑レッドカーペット▼超人気芸人たちの１分ショートネタ大連発！</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lergeo5hat.jpg?v=437835e9" />
+	</programme>
+	<programme channel="cx" start="20260801120000 +0000" stop="20260801141000 +0000">
+		<title>ENGEIグランドスラム</title>
+		<desc>笑いの夏祭り！ENGEIグランドスラム▼日本一豪華なネタ祭典</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lelatc2v3z.jpg?v=dad4e91d" />
 	</programme>
 </tv>
