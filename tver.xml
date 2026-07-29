@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260722193000 +0000" stop="20260723100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lefj3ugbe7.jpg?v=0615ebba" />
-	</programme>
 	<programme channel="ntv" start="20260723100000 +0000" stop="20260723105400 +0000">
 		<title>THE突破ファイル</title>
 		<desc>人体ミステリー歯痛の原因はプール?▼草薙VS真夏の熱中症!女性救え</desc>
@@ -642,8 +637,8 @@
 	</programme>
 	<programme channel="ex" start="20260730125400 +0000" stop="20260730141000 +0000">
 		<title>報道ステーション</title>
-		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leamna643v.jpg?v=2947149f" />
+		<desc>被災地を襲う猛烈な暑さ…震度７の影響、長期化へ…“電気・水道”インフラ復旧困難、めど立たず▽総理指示へ…消費減税▽大谷翔平…２戦連続ホームランは▽メジャーほか</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leamna643v.jpg?v=2a471632" />
 	</programme>
 	<programme channel="ex" start="20260730141000 +0000" stop="20260731095000 +0000">
 		<title>No programme</title>
@@ -754,11 +749,6 @@
 		<title>報道ステーション</title>
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/letujjlodr.jpg?v=60b12716" />
-	</programme>
-	<programme channel="tbs" start="20260722193000 +0000" stop="20260722230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le78awr9uo.jpg?v=70590d17" />
 	</programme>
 	<programme channel="tbs" start="20260722230000 +0000" stop="20260723005500 +0000">
 		<title>ラヴィット！</title>
@@ -1329,11 +1319,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leuj2gle84.jpg?v=f7d617c5" />
-	</programme>
-	<programme channel="tx" start="20260722190000 +0000" stop="20260723092500 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/legoiurg2z.jpg?v=67208655" />
 	</programme>
 	<programme channel="tx" start="20260723092500 +0000" stop="20260723115800 +0000">
 		<title>タクうま～タクシー運転手さん一番うまい店に連れてって！～</title>
@@ -2128,7 +2113,7 @@
 	<programme channel="cx" start="20260730064200 +0000" stop="20260730100000 +0000">
 		<title>配信番組のお知らせ</title>
 		<desc>🎞️🎥🎬</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lel6x0vr88.jpg?v=1db422ae" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lel6x0vr88.jpg?v=507eddd2" />
 	</programme>
 	<programme channel="cx" start="20260730100000 +0000" stop="20260730110000 +0000">
 		<title>STAR</title>
