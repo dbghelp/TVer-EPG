@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260725201000 +0000" stop="20260726095500 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lef4f480pm.jpg?v=74ce1f9f" />
-	</programme>
 	<programme channel="ntv" start="20260726095500 +0000" stop="20260726100000 +0000">
 		<title>博士は今日も嫉妬する～人生が楽しくなる最新テクノロジー～</title>
 		<desc>博士が思わず嫉妬する明日が楽しくなる最新テクノロジーをご紹介!!</desc>
@@ -695,11 +690,6 @@
 		<desc>ミステリーマニアの＜孫娘＞吉川愛×レビー小体型認知症の＜祖父＞奥田瑛二 異色バディが日常の謎や小さな事件を紐解く、切なさと優しさに満ちた≪ヒューマンミステリー≫</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le7oirq5pg.jpg?v=5ee9d0b8" />
 	</programme>
-	<programme channel="tbs" start="20260725194000 +0000" stop="20260726053000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lepzrnyrd5.jpg?v=c03b5c5c" />
-	</programme>
 	<programme channel="tbs" start="20260726053000 +0000" stop="20260726063000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
@@ -1204,11 +1194,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6652rmtc.jpg?v=e1d0a40d" />
-	</programme>
-	<programme channel="tx" start="20260725190000 +0000" stop="20260726093000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le1lahwokt.jpg?v=73fb2f73" />
 	</programme>
 	<programme channel="tx" start="20260726093000 +0000" stop="20260726115000 +0000">
 		<title>日本の海を守る！海上保安庁の激ヤバすぎる最前線100連発SP</title>
