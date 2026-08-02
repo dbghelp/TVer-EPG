@@ -20,36 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260726105800 +0000" stop="20260726115400 +0000">
-		<title>世界の果てまでイッテQ！</title>
-		<desc>【お祭り男宮川&amp;二代目手越】フィンランドで丸太乗って川を下る木材選手権</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lex2w7hwbo.jpg?v=4f8b5302" />
-	</programme>
-	<programme channel="ntv" start="20260726115400 +0000" stop="20260726120000 +0000">
-		<title>お知らせ</title>
-		<desc>リアルタイム配信予定の番組は「日テレ系」タブよりご確認いただけます。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lewnwm3pa8.jpg?v=6efc8463" />
-	</programme>
-	<programme channel="ntv" start="20260726120000 +0000" stop="20260726125400 +0000">
-		<title>Golden SixTONES</title>
-		<desc>▽番組史上最大!!人気芸人軍団と総勢31名の大混戦バトル</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leyuor7gag.jpg?v=fc5315ec" />
-	</programme>
-	<programme channel="ntv" start="20260726125400 +0000" stop="20260726130000 +0000">
-		<title>お知らせ</title>
-		<desc>リアルタイム配信予定の番組は「日テレ系」タブよりご確認いただけます。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lecc3ufjjo.jpg?v=28ad9afd" />
-	</programme>
-	<programme channel="ntv" start="20260726130000 +0000" stop="20260726133000 +0000">
-		<title>おしゃれクリップ</title>
-		<desc>ゲスト 出川哲朗</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqc9v2j3x.jpg?v=be7143b7" />
-	</programme>
-	<programme channel="ntv" start="20260726133000 +0000" stop="20260726142500 +0000">
-		<title>一次元の挿し木</title>
-		<desc>第4話【激動の真相が発覚…古人骨と義妹を巡る謎】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leby5rkarq.jpg?v=abcd72ff" />
-	</programme>
 	<programme channel="ntv" start="20260726142500 +0000" stop="20260726193000 +0000">
 		<title>配信休止</title>
 		<desc> </desc>
@@ -263,12 +233,12 @@
 	<programme channel="ntv" start="20260802130000 +0000" stop="20260802133000 +0000">
 		<title>おしゃれクリップ</title>
 		<desc>ゲスト 真矢ミキ</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/legiuq0o7i.jpg?v=b34f386c" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/legiuq0o7i.jpg?v=b24f36d9" />
 	</programme>
 	<programme channel="ntv" start="20260802133000 +0000" stop="20260802142500 +0000">
 		<title>一次元の挿し木</title>
 		<desc>第5話【存在しない幻の義妹…蘇る過去の記憶…】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lellkp4azj.jpg?v=192eeaa7" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lellkp4azj.jpg?v=1a2eec3a" />
 	</programme>
 	<programme channel="ntv" start="20260802142500 +0000" stop="20260802193000 +0000">
 		<title>配信休止</title>
@@ -409,21 +379,6 @@
 		<title>配信休止</title>
 		<desc> </desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6oi3z9i8.jpg?v=febd1048" />
-	</programme>
-	<programme channel="ex" start="20260726115600 +0000" stop="20260726131500 +0000">
-		<title>有働Times</title>
-		<desc>東京都心にゲリラ雷雨！一時停電も…カメラ捉えた黒い前兆▽井の頭線で踏切トラブル…一部区間で運転見合わせ▽危険暑さが体内蓄積…脳や内臓にダメージも▽大相撲千秋楽</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lemuvkvlgj.jpg?v=efe95573" />
-	</programme>
-	<programme channel="ex" start="20260726131500 +0000" stop="20260726140900 +0000">
-		<title>マイ・フィクション</title>
-		<desc>第４話【記憶に隠された真実をめぐる、予測不能なサスペンス・ラブストーリー】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lewvo0ncep.jpg?v=c7b2f4ce" />
-	</programme>
-	<programme channel="ex" start="20260726140900 +0000" stop="20260727100000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
 	</programme>
 	<programme channel="ex" start="20260727100000 +0000" stop="20260727114000 +0000">
 		<title>帰れマンデー見っけ隊!!</title>
@@ -674,26 +629,6 @@
 		<title>名探偵のままでいて</title>
 		<desc>ミステリーマニアの＜孫娘＞吉川愛×レビー小体型認知症の＜祖父＞奥田瑛二 異色バディが日常の謎や小さな事件を紐解く、切なさと優しさに満ちた≪ヒューマンミステリー≫</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le7oirq5pg.jpg?v=5ee9d0b8" />
-	</programme>
-	<programme channel="tbs" start="20260726110000 +0000" stop="20260726120000 +0000">
-		<title>VIVANT 初回直前生放送 SP</title>
-		<desc>堺×阿部×二宮×松坂が集結！今からでも間に合うSPダイジェスト</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leaj1prriy.jpg?v=66d7dc9c" />
-	</programme>
-	<programme channel="tbs" start="20260726120000 +0000" stop="20260726131900 +0000">
-		<title>VIVANT</title>
-		<desc>第１１話</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leb1b2ay5h.jpg?v=e4c9376f" />
-	</programme>
-	<programme channel="tbs" start="20260726131900 +0000" stop="20260726132500 +0000">
-		<title>お知らせ</title>
-		<desc>リアルタイム配信予定の番組は「TBS系」タブよりご確認いただけます。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le5yd7fkxd.jpg?v=0ab40147" />
-	</programme>
-	<programme channel="tbs" start="20260726132500 +0000" stop="20260726144900 +0000">
-		<title>日曜日の初耳学</title>
-		<desc>◆堺雅人×林修『VIVANT』放送直後90分SP阿部寛＆初出しメイキング映像</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lez0u9egku.jpg?v=95e93637" />
 	</programme>
 	<programme channel="tbs" start="20260726144900 +0000" stop="20260726145500 +0000">
 		<title>配信休止</title>
@@ -1135,26 +1070,6 @@
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6652rmtc.jpg?v=e1d0a40d" />
 	</programme>
-	<programme channel="tx" start="20260726115000 +0000" stop="20260726125400 +0000">
-		<title>家、ついて行ってイイですか？</title>
-		<desc>家、ついて行ってイイですか？菊池風磨愛止まらない女子＆妻夫木涙…亡き妻への想い</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lexkt2nw5f.jpg?v=67c64396" />
-	</programme>
-	<programme channel="tx" start="20260726125400 +0000" stop="20260726130000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/led4f850q9.jpg?v=11f290bf" />
-	</programme>
-	<programme channel="tx" start="20260726130000 +0000" stop="20260726134800 +0000">
-		<title>有吉ぃぃeeeee！～そうだ！今からお前んチでゲームしない？</title>
-		<desc>有吉ぃぃeeeee!【アモアス】クセ者10人でダマし合い！裏切り者は誰だ？</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le78pfzi2f.jpg?v=37fc9172" />
-	</programme>
-	<programme channel="tx" start="20260726134800 +0000" stop="20260726190000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leiahb26kr.jpg?v=15bdfd97" />
-	</programme>
 	<programme channel="tx" start="20260726190000 +0000" stop="20260727130000 +0000">
 		<title>配信準備中</title>
 		<desc>配信準備中</desc>
@@ -1574,11 +1489,6 @@
 		<title>配信準備中</title>
 		<desc>配信準備中</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lesepky3bm.jpg?v=f29b79ce" />
-	</programme>
-	<programme channel="cx" start="20260726120000 +0000" stop="20260726140900 +0000">
-		<title>地上波放送番組のお知らせ</title>
-		<desc>「Mr.サンデー」は地上波放送でお楽しみください！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leiis7sv8q.jpg?v=6c548786" />
 	</programme>
 	<programme channel="cx" start="20260726140900 +0000" stop="20260726141500 +0000">
 		<title>配信番組のお知らせ</title>
@@ -2179,5 +2089,10 @@
 		<title>千鳥の鬼レンチャン</title>
 		<desc>　</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/legg6lxvd4.jpg?v=c0f6fa10" />
+	</programme>
+	<programme channel="cx" start="20260809120000 +0000" stop="20260809140900 +0000">
+		<title>地上波放送番組のお知らせ</title>
+		<desc>「Mr.サンデー」は地上波放送でお楽しみください！</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lesid2ypjl.jpg?v=a3a75bfb" />
 	</programme>
 </tv>
