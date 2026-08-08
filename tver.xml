@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260801202500 +0000" stop="20260802095500 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le8mq4plg2.jpg?v=2b4209d4" />
-	</programme>
 	<programme channel="ntv" start="20260802095500 +0000" stop="20260802100000 +0000">
 		<title>博士は今日も嫉妬する～人生が楽しくなる最新テクノロジー～</title>
 		<desc>▽ギター演奏を手助けするロボット</desc>
@@ -754,11 +749,6 @@
 		<title>名探偵のままでいて</title>
 		<desc>ミステリーマニアの＜孫娘＞吉川愛×レビー小体型認知症の＜祖父＞奥田瑛二 異色バディが日常の謎や小さな事件を紐解く、切なさと優しさに満ちた≪ヒューマンミステリー≫</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lek98pb5q3.jpg?v=d224862f" />
-	</programme>
-	<programme channel="tbs" start="20260801200000 +0000" stop="20260802053000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le5tumyo9l.jpg?v=cefc30b5" />
 	</programme>
 	<programme channel="tbs" start="20260802053000 +0000" stop="20260802063000 +0000">
 		<title>配信休止</title>
