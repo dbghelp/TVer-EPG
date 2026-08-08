@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260801135400 +0000" stop="20260801202500 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lej01bg4tj.jpg?v=2e7b739b" />
-	</programme>
 	<programme channel="ntv" start="20260801202500 +0000" stop="20260802095500 +0000">
 		<title>配信休止</title>
 		<desc> </desc>
@@ -440,16 +435,6 @@
 		<desc> </desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3l048jdh.jpg?v=e5afaa2a" />
 	</programme>
-	<programme channel="ex" start="20260801140000 +0000" stop="20260801143000 +0000">
-		<title>夏色の雲が恋と嵐をまきおこす</title>
-		<desc>第4話</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lez0sh5a2t.jpg?v=9926119f" />
-	</programme>
-	<programme channel="ex" start="20260801143000 +0000" stop="20260802095600 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
-	</programme>
 	<programme channel="ex" start="20260802095600 +0000" stop="20260802105000 +0000">
 		<title>ナニコレ珍百景</title>
 		<desc>北関東の不思議珍百景＆房総半島の先っちょにある謎の人工島に上陸ＳＰ</desc>
@@ -770,21 +755,6 @@
 		<desc>ミステリーマニアの＜孫娘＞吉川愛×レビー小体型認知症の＜祖父＞奥田瑛二 異色バディが日常の謎や小さな事件を紐解く、切なさと優しさに満ちた≪ヒューマンミステリー≫</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lek98pb5q3.jpg?v=d224862f" />
 	</programme>
-	<programme channel="tbs" start="20260801142400 +0000" stop="20260801142700 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le2at3vwhl.jpg?v=66ffd788" />
-	</programme>
-	<programme channel="tbs" start="20260801142700 +0000" stop="20260801143000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le1vtmvp3m.jpg?v=08a9a027" />
-	</programme>
-	<programme channel="tbs" start="20260801143000 +0000" stop="20260801200000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lefna9ai6o.jpg?v=32429645" />
-	</programme>
 	<programme channel="tbs" start="20260801200000 +0000" stop="20260802053000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
@@ -1078,37 +1048,37 @@
 	<programme channel="tbs" start="20260809193000 +0000" stop="20260809230000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leopuvgz42.jpg?v=ba0f3085" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leopuvgz42.jpg?v=b30f2580" />
 	</programme>
 	<programme channel="tbs" start="20260809230000 +0000" stop="20260810005500 +0000">
 		<title>ラヴィット！</title>
 		<desc>VIVANT今週は竜星涼が参戦！推しハーゲンダッツ討論＆USJ最新イベント</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le7izpil6y.jpg?v=c1f94593" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le7izpil6y.jpg?v=c0f94400" />
 	</programme>
 	<programme channel="tbs" start="20260810005500 +0000" stop="20260810100000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lerr9mcjlq.jpg?v=2773b82e" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lerr9mcjlq.jpg?v=2a73bce7" />
 	</programme>
 	<programme channel="tbs" start="20260810100000 +0000" stop="20260810115500 +0000">
 		<title>CDTV ライブ! ライブ!</title>
 		<desc>1位の曲だけスペシャル！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/legnptwl7f.jpg?v=ed223976" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/legnptwl7f.jpg?v=ee223b09" />
 	</programme>
 	<programme channel="tbs" start="20260810115500 +0000" stop="20260810130000 +0000">
 		<title>テレビ×ミセス</title>
 		<desc>びしょ濡れMAX！夏の東京ディズニーリゾート大視察ロケSP！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leovuz55bw.jpg?v=b6b22bc1" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leovuz55bw.jpg?v=afb220bc" />
 	</programme>
 	<programme channel="tbs" start="20260810130000 +0000" stop="20260810135700 +0000">
 		<title>その道のプロが選ぶ本当のNo.1 プロフェッショナルランキング</title>
 		<desc>SASUKE泣ける名場面ランキングBEST20</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lehei3v0tx.jpg?v=18c1f6b0" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lehei3v0tx.jpg?v=19c1f843" />
 	</programme>
 	<programme channel="tbs" start="20260810135700 +0000" stop="20260810193000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leeq6p6q32.jpg?v=e517576a" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leeq6p6q32.jpg?v=e0174f8b" />
 	</programme>
 	<programme channel="tbs" start="20260810193000 +0000" stop="20260810230000 +0000">
 		<title>配信休止</title>
@@ -1705,26 +1675,6 @@
 		<desc>配信準備中</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le7rtbtkak.jpg?v=88438520" />
 	</programme>
-	<programme channel="cx" start="20260801141000 +0000" stop="20260801144000 +0000">
-		<title>さんまのお笑い向上委員会</title>
-		<desc>▼くっきーがキャラ薄漫才師トットに売れっ子への道を伝授</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le35cfleae.jpg?v=9364bf1a" />
-	</programme>
-	<programme channel="cx" start="20260801144000 +0000" stop="20260801153500 +0000">
-		<title>ミッドナイト屋台２～ル・モンドゥ～</title>
-		<desc>第5話 へっぽこ屋台の肉まん</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leo58pyqdi.jpg?v=c32d7ab4" />
-	</programme>
-	<programme channel="cx" start="20260801153500 +0000" stop="20260801154500 +0000">
-		<title>配信番組のお知らせ</title>
-		<desc>🎞️🎥🎬</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le8kihlolx.jpg?v=cb38015f" />
-	</programme>
-	<programme channel="cx" start="20260801154500 +0000" stop="20260802090000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
-	</programme>
 	<programme channel="cx" start="20260802090000 +0000" stop="20260802093000 +0000">
 		<title>配信番組のお知らせ</title>
 		<desc>🎞️🎥🎬</desc>
@@ -2255,6 +2205,11 @@
 		<desc>🎞️🎥🎬</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ley779im98.jpg?v=48b96c43" />
 	</programme>
+	<programme channel="cx" start="20260813151500 +0000" stop="20260814064200 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
+	</programme>
 	<programme channel="cx" start="20260814064200 +0000" stop="20260814100000 +0000">
 		<title>配信番組のお知らせ</title>
 		<desc>🎞️🎥🎬</desc>
@@ -2309,5 +2264,20 @@
 		<title>地上波放送番組のお知らせ</title>
 		<desc>「踊る大捜査線 THE MOVIE」は地上波放送でお楽しみください！</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leb4zz6ylw.jpg?v=13b57da8" />
+	</programme>
+	<programme channel="cx" start="20260815143000 +0000" stop="20260815150000 +0000">
+		<title>さんまのお笑い向上委員会</title>
+		<desc> </desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lem49poiem.jpg?v=54e42994" />
+	</programme>
+	<programme channel="cx" start="20260815150000 +0000" stop="20260815155500 +0000">
+		<title>ミッドナイト屋台２～ル・モンドゥ～</title>
+		<desc>第7話</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leyqx9dd9m.jpg?v=da0cca40" />
+	</programme>
+	<programme channel="cx" start="20260815155500 +0000" stop="20260815160500 +0000">
+		<title>配信番組のお知らせ</title>
+		<desc>🎞️🎥🎬</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lefut2yac1.jpg?v=e96830c7" />
 	</programme>
 </tv>
