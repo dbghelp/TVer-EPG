@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260804193000 +0000" stop="20260805100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leflh2rva9.jpg?v=64f7e355" />
-	</programme>
 	<programme channel="ntv" start="20260805100000 +0000" stop="20260805120000 +0000">
 		<title>千鳥かまいたちゴールデンアワー</title>
 		<desc>【全国ご当地事件簿SP】手越VSむせる餅!無人島暮らす夫婦の謎</desc>
@@ -642,8 +637,8 @@
 	</programme>
 	<programme channel="ex" start="20260812125400 +0000" stop="20260812141000 +0000">
 		<title>報道ステーション</title>
-		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ley39l297j.jpg?v=d14361c8" />
+		<desc>地震発生から２週間余…休み返上で懸命の作業▽日航機墜落から４１年▽お盆の帰省ラッシュ▽関東はゲリラ雷雨も▽メジャー大谷翔平…ホームランは▽高校野球</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ley39l297j.jpg?v=d4436681" />
 	</programme>
 	<programme channel="ex" start="20260812141000 +0000" stop="20260812144000 +0000">
 		<title>熱闘甲子園</title>
@@ -754,11 +749,6 @@
 		<title>報道ステーション</title>
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leh45tzn59.jpg?v=deac1f3c" />
-	</programme>
-	<programme channel="tbs" start="20260804193000 +0000" stop="20260804230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lem0wdjzxe.jpg?v=8e31b770" />
 	</programme>
 	<programme channel="tbs" start="20260804230000 +0000" stop="20260805005500 +0000">
 		<title>ラヴィット！</title>
@@ -1174,11 +1164,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lers1yoky3.jpg?v=f46ae959" />
-	</programme>
-	<programme channel="tx" start="20260804190000 +0000" stop="20260805133000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqwcbi1he.jpg?v=ea6b76d4" />
 	</programme>
 	<programme channel="tx" start="20260805133000 +0000" stop="20260805142800 +0000">
 		<title>ＷＢＳ（ワールドビジネスサテライト）</title>
@@ -1933,7 +1918,7 @@
 	<programme channel="cx" start="20260812064200 +0000" stop="20260812100000 +0000">
 		<title>配信番組のお知らせ</title>
 		<desc>🎞️🎥🎬</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ledkcnd38k.jpg?v=20534c04" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ledkcnd38k.jpg?v=235350bd" />
 	</programme>
 	<programme channel="cx" start="20260812100000 +0000" stop="20260812110000 +0000">
 		<title>世界の何だコレ！？ミステリー</title>
