@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260808202500 +0000" stop="20260809095500 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/letvxi3qog.jpg?v=224320ab" />
-	</programme>
 	<programme channel="ntv" start="20260809095500 +0000" stop="20260809100000 +0000">
 		<title>博士は今日も嫉妬する～人生が楽しくなる最新テクノロジー～</title>
 		<desc>▽自動防水シャッター</desc>
@@ -719,11 +714,6 @@
 		<title>名探偵のままでいて</title>
 		<desc>ミステリーマニアの＜孫娘＞吉川愛×レビー小体型認知症の＜祖父＞奥田瑛二 異色バディが日常の謎や小さな事件を紐解く、切なさと優しさに満ちた≪ヒューマンミステリー≫</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leb803r4gf.jpg?v=77c8bd12" />
-	</programme>
-	<programme channel="tbs" start="20260808194000 +0000" stop="20260809100000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leiyg35mwl.jpg?v=d2f77b4d" />
 	</programme>
 	<programme channel="tbs" start="20260809100000 +0000" stop="20260809115400 +0000">
 		<title>坂上&amp;指原のつぶれない店</title>
