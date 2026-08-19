@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260812193000 +0000" stop="20260813100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leylfrvpjt.jpg?v=1c3bbe5a" />
-	</programme>
 	<programme channel="ntv" start="20260813100000 +0000" stop="20260813115400 +0000">
 		<title>ぐるぐるナインティナイン</title>
 		<desc>お盆同窓会ゴチ!中条あやみ&amp;高杉真宙&amp;池田エライザがうま辛中華で絶叫</desc>
@@ -622,8 +617,8 @@
 	</programme>
 	<programme channel="ex" start="20260820125400 +0000" stop="20260820141000 +0000">
 		<title>報道ステーション</title>
-		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lean2xtvwz.jpg?v=d2affa3d" />
+		<desc>千葉、豪雨から１週間…広範囲で警報級大雨も▽前国防相が“反旗”…ゼレンスキー政権に激震▽優勝候補同士が激突…注目の甲子園ベスト４▽ＭＬＢほか</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lean2xtvwz.jpg?v=d1aff8aa" />
 	</programme>
 	<programme channel="ex" start="20260820141000 +0000" stop="20260820144000 +0000">
 		<title>熱闘甲子園</title>
@@ -754,11 +749,6 @@
 		<title>報道ステーション</title>
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leb2nvj9f2.jpg?v=e3f1a7b7" />
-	</programme>
-	<programme channel="tbs" start="20260812193000 +0000" stop="20260812230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leuza86x4v.jpg?v=b9df9f17" />
 	</programme>
 	<programme channel="tbs" start="20260812230000 +0000" stop="20260813005500 +0000">
 		<title>ラヴィット！</title>
@@ -1204,11 +1194,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leke3s0q22.jpg?v=ad963067" />
-	</programme>
-	<programme channel="tx" start="20260812190000 +0000" stop="20260813092500 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le507gdvr3.jpg?v=6e1a930c" />
 	</programme>
 	<programme channel="tx" start="20260813092500 +0000" stop="20260813125000 +0000">
 		<title>真夏の怪奇ファイル2026　見えてしまった…招かれざるモノたち</title>
