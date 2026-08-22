@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260815121500 +0000" stop="20260815130900 +0000">
-		<title>告白―25年目の秘密―</title>
-		<desc>#06衝撃の第三の事件が起こる。更に犯人が判明する。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leeyo035xw.jpg?v=92c846e7" />
-	</programme>
 	<programme channel="ntv" start="20260815130900 +0000" stop="20260815131500 +0000">
 		<title>お知らせ</title>
 		<desc>リアルタイム配信予定の番組は「日テレ系」タブよりご確認いただけます。</desc>
@@ -415,21 +410,6 @@
 		<desc> </desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3xk82zys.jpg?v=7e8d3672" />
 	</programme>
-	<programme channel="ex" start="20260815095600 +0000" stop="20260815125400 +0000">
-		<title>池上彰のニュースそうだったのか!!</title>
-		<desc>「女性天皇」どうなる？意外と知らない「都道府県」…実は知らない日本を池上彰が解説！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leo28gjh2y.jpg?v=101e1f45" />
-	</programme>
-	<programme channel="ex" start="20260815125400 +0000" stop="20260815135200 +0000">
-		<title>サタデーステーション</title>
-		<desc>高島彩▽千葉豪雨…週末も続く影響“都市型水害”の課題▽お盆休み終盤Uターンピークに…水難事故やクマ警戒▽熊本地震…被災地の復旧と支援活動密着▽終戦の日…総理は</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4a2pnam9.jpg?v=8f0a9062" />
-	</programme>
-	<programme channel="ex" start="20260815135200 +0000" stop="20260815140000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
-	</programme>
 	<programme channel="ex" start="20260815140000 +0000" stop="20260815143000 +0000">
 		<title>熱闘甲子園</title>
 		<desc>熱闘甲子園（2026年8月15日放送）</desc>
@@ -662,8 +642,8 @@
 	</programme>
 	<programme channel="ex" start="20260824114000 +0000" stop="20260824125400 +0000">
 		<title>サンド＆キスマイの気になるマン</title>
-		<desc>日本全国で気になることを大調査！▽すぐマネできる！簡単！太らない術!!目指せ！【顔やせ】１分うがい＆輪ゴム㊙健康術＆謎の呼吸法も？０円健康法に大地真央も感動！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leniva8all.jpg?v=2b7efaca" />
+		<desc>超簡単！太らない術大調査ＳＰ!!０円健康法も続々</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leniva8all.jpg?v=297ef7a4" />
 	</programme>
 	<programme channel="ex" start="20260824125400 +0000" stop="20260824141000 +0000">
 		<title>報道ステーション</title>
@@ -729,21 +709,6 @@
 		<title>名探偵のままでいて</title>
 		<desc>ミステリーマニアの＜孫娘＞吉川愛×レビー小体型認知症の＜祖父＞奥田瑛二 異色バディが日常の謎や小さな事件を紐解く、切なさと優しさに満ちた≪ヒューマンミステリー≫</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le0ce6vw7d.jpg?v=68f35064" />
-	</programme>
-	<programme channel="tbs" start="20260815095100 +0000" stop="20260815115400 +0000">
-		<title>ジョブチューン ～アノ職業のヒミツぶっちゃけます！</title>
-		<desc>＜配信は19時から＞築地銀だこ４年ぶりジャッジ参戦！この夏勝負の10品で挑む！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leu9o7eolx.jpg?v=cb75346c" />
-	</programme>
-	<programme channel="tbs" start="20260815115400 +0000" stop="20260815125600 +0000">
-		<title>今さらシロー！～テストに出ないが役に立つ～</title>
-		<desc>岡田准一＆ロバート秋山が池袋潜入SP！水族館＆西武＆アニメの裏側へ</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le2iwcitw7.jpg?v=b34a9794" />
-	</programme>
-	<programme channel="tbs" start="20260815125600 +0000" stop="20260815190000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lez2l0mwlw.jpg?v=3d904ff0" />
 	</programme>
 	<programme channel="tbs" start="20260815190000 +0000" stop="20260816100000 +0000">
 		<title>配信休止</title>
@@ -1169,21 +1134,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqgn4ba07.jpg?v=f461dec8" />
-	</programme>
-	<programme channel="tx" start="20260815115500 +0000" stop="20260815120000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lexnlojq7t.jpg?v=1864bdbb" />
-	</programme>
-	<programme channel="tx" start="20260815120000 +0000" stop="20260815125400 +0000">
-		<title>出没！アド街ック天国</title>
-		<desc>出没！アド街ック天国【横浜駅地下街】猛暑回避！日焼け知らずな“涼しい”巨大迷宮</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le7v78ppe5.jpg?v=5eb92075" />
-	</programme>
-	<programme channel="tx" start="20260815125400 +0000" stop="20260815190000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leaa90jro2.jpg?v=34f08890" />
 	</programme>
 	<programme channel="tx" start="20260815190000 +0000" stop="20260816110000 +0000">
 		<title>配信準備中</title>
@@ -1659,11 +1609,6 @@
 		<title>配信準備中</title>
 		<desc>配信準備中</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leynrcs1mz.jpg?v=abe22c75" />
-	</programme>
-	<programme channel="cx" start="20260815120000 +0000" stop="20260815143000 +0000">
-		<title>地上波放送番組のお知らせ</title>
-		<desc>「踊る大捜査線 THE MOVIE」は地上波放送でお楽しみください！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leb4zz6ylw.jpg?v=a3c3c8b1" />
 	</programme>
 	<programme channel="cx" start="20260815143000 +0000" stop="20260815150000 +0000">
 		<title>さんまのお笑い向上委員会</title>
@@ -2284,5 +2229,15 @@
 		<title>バレーボール アジア選手権2026</title>
 		<desc>【お知らせ】『バレーボール アジア選手権2026　女子準決勝』をTVer Special Liveでライブ配信！</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leltodwdtw.jpg?v=e5de7695" />
+	</programme>
+	<programme channel="cx" start="20260829104500 +0000" stop="20260829120000 +0000">
+		<title>地上波放送番組のお知らせ</title>
+		<desc>「世界！爆笑おバカ映像GP」は地上波放送でお楽しみください！</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/legsw19qx1.jpg?v=fd607155" />
+	</programme>
+	<programme channel="cx" start="20260829120000 +0000" stop="20260829141000 +0000">
+		<title>地上波放送番組のお知らせ</title>
+		<desc>映画「ワイルド・スピード　ICE BREAK」は地上波放送でお楽しみください！</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lep2dd0lxt.jpg?v=6baf79b3" />
 	</programme>
 </tv>
