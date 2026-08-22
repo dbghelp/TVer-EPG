@@ -20,21 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260815130900 +0000" stop="20260815131500 +0000">
-		<title>お知らせ</title>
-		<desc>リアルタイム配信予定の番組は「日テレ系」タブよりご確認いただけます。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lepeu341ds.jpg?v=61997372" />
-	</programme>
-	<programme channel="ntv" start="20260815131500 +0000" stop="20260815140900 +0000">
-		<title>追跡取材 news LOG</title>
-		<desc>和久田麻由子とたどる、記者たちの取材の軌跡。土曜日の夜、注目のニュースや話題の真相に迫る「追跡ドキュメンタリー型」ニュース番組です。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lefvmvbh8c.jpg?v=03157f35" />
-	</programme>
-	<programme channel="ntv" start="20260815140900 +0000" stop="20260815202500 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le62q6thdh.jpg?v=0b23993f" />
-	</programme>
 	<programme channel="ntv" start="20260815202500 +0000" stop="20260816095500 +0000">
 		<title>配信休止</title>
 		<desc> </desc>
@@ -409,21 +394,6 @@
 		<title>配信休止</title>
 		<desc> </desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3xk82zys.jpg?v=7e8d3672" />
-	</programme>
-	<programme channel="ex" start="20260815140000 +0000" stop="20260815143000 +0000">
-		<title>熱闘甲子園</title>
-		<desc>熱闘甲子園（2026年8月15日放送）</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leuwjeixl7.jpg?v=f2a5b5e9" />
-	</programme>
-	<programme channel="ex" start="20260815143000 +0000" stop="20260815150000 +0000">
-		<title>夏色の雲が恋と嵐をまきおこす</title>
-		<desc>第6話</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lexvq5eiua.jpg?v=f3a21237" />
-	</programme>
-	<programme channel="ex" start="20260815150000 +0000" stop="20260816100000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
 	</programme>
 	<programme channel="ex" start="20260816100000 +0000" stop="20260816115600 +0000">
 		<title>バスケットボール男子 W杯最終予選直前国際試合</title>
@@ -978,27 +948,27 @@
 	<programme channel="tbs" start="20260823165900 +0000" stop="20260823230000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejmyj9sol.jpg?v=5d8c330b" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejmyj9sol.jpg?v=628c3aea" />
 	</programme>
 	<programme channel="tbs" start="20260823230000 +0000" stop="20260824005500 +0000">
 		<title>ラヴィット！</title>
 		<desc>大塚愛参戦！セブンイレブン愛No.1は誰だ！？人気並べかえ＆工場見学Q</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lek9po5r01.jpg?v=aeeca14f" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lek9po5r01.jpg?v=b3eca92e" />
 	</programme>
 	<programme channel="tbs" start="20260824005500 +0000" stop="20260824100000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3kvs04ab.jpg?v=d389ebf8" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3kvs04ab.jpg?v=da89f6fd" />
 	</programme>
 	<programme channel="tbs" start="20260824100000 +0000" stop="20260824135700 +0000">
 		<title>SASUKE ワールドカップ2026</title>
 		<desc>【国の誇りをかけた夢の頂上決戦】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le88kefdjl.jpg?v=a4935050" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le88kefdjl.jpg?v=a59351e3" />
 	</programme>
 	<programme channel="tbs" start="20260824135700 +0000" stop="20260824193000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le494x7qh3.jpg?v=f1ccd418" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le494x7qh3.jpg?v=f8ccdf1d" />
 	</programme>
 	<programme channel="tbs" start="20260824193000 +0000" stop="20260824230000 +0000">
 		<title>配信休止</title>
@@ -1610,26 +1580,6 @@
 		<desc>配信準備中</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leynrcs1mz.jpg?v=abe22c75" />
 	</programme>
-	<programme channel="cx" start="20260815143000 +0000" stop="20260815150000 +0000">
-		<title>さんまのお笑い向上委員会</title>
-		<desc>▼エルフVSポンコツ芸人軍団！知性を捨ててバカになれ！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lem49poiem.jpg?v=53321d3e" />
-	</programme>
-	<programme channel="cx" start="20260815150000 +0000" stop="20260815155500 +0000">
-		<title>ミッドナイト屋台２～ル・モンドゥ～</title>
-		<desc>第7話 煩悩！解脱ミートボール</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leyqx9dd9m.jpg?v=502edffd" />
-	</programme>
-	<programme channel="cx" start="20260815155500 +0000" stop="20260815160500 +0000">
-		<title>配信番組のお知らせ</title>
-		<desc>🎞️🎥🎬</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lefut2yac1.jpg?v=e96830c7" />
-	</programme>
-	<programme channel="cx" start="20260815160500 +0000" stop="20260816090000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
-	</programme>
 	<programme channel="cx" start="20260816090000 +0000" stop="20260816093000 +0000">
 		<title>配信番組のお知らせ</title>
 		<desc>🎞️🎥🎬</desc>
@@ -2180,6 +2130,11 @@
 		<desc>🎞️🎥🎬</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le02iuu7y3.jpg?v=9d96ee0a" />
 	</programme>
+	<programme channel="cx" start="20260827151500 +0000" stop="20260828064200 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
+	</programme>
 	<programme channel="cx" start="20260828064200 +0000" stop="20260828100000 +0000">
 		<title>配信番組のお知らせ</title>
 		<desc>🎞️🎥🎬</desc>
@@ -2239,5 +2194,20 @@
 		<title>地上波放送番組のお知らせ</title>
 		<desc>映画「ワイルド・スピード　ICE BREAK」は地上波放送でお楽しみください！</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lep2dd0lxt.jpg?v=6baf79b3" />
+	</programme>
+	<programme channel="cx" start="20260829141000 +0000" stop="20260829144000 +0000">
+		<title>さんまのお笑い向上委員会</title>
+		<desc>　</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lenun3h6iz.jpg?v=56b453c9" />
+	</programme>
+	<programme channel="cx" start="20260829144000 +0000" stop="20260829153500 +0000">
+		<title>ミッドナイト屋台２～ル・モンドゥ～</title>
+		<desc>第9話</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le8ior99s6.jpg?v=30a8e216" />
+	</programme>
+	<programme channel="cx" start="20260829153500 +0000" stop="20260829154500 +0000">
+		<title>配信番組のお知らせ</title>
+		<desc>🎞️🎥🎬</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/levh2i605r.jpg?v=93324078" />
 	</programme>
 </tv>
