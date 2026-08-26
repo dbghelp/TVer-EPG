@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260819135400 +0000" stop="20260819193000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lesoq5h24o.jpg?v=e3c875c0" />
-	</programme>
 	<programme channel="ntv" start="20260819193000 +0000" stop="20260820100000 +0000">
 		<title>配信休止</title>
 		<desc> </desc>
@@ -218,7 +213,7 @@
 	<programme channel="ntv" start="20260826130000 +0000" stop="20260826135400 +0000">
 		<title>ファーストクライ 母子救命救急班</title>
 		<desc>#8▼最終章突入!出生の秘密が明らかに!!</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lej1cqvrmb.jpg?v=ed0a9487" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lej1cqvrmb.jpg?v=ea0a8fce" />
 	</programme>
 	<programme channel="ntv" start="20260826135400 +0000" stop="20260826193000 +0000">
 		<title>配信休止</title>
@@ -333,7 +328,7 @@
 	<programme channel="ntv" start="20260830130000 +0000" stop="20260830133000 +0000">
 		<title>おしゃれクリップ</title>
 		<desc>ゲストが秘める「私の中の、もうひとりのワタシ」を引き出す新トーク番組!</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leo9tji7s4.jpg?v=a3af1e9d" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leo9tji7s4.jpg?v=96af0a26" />
 	</programme>
 	<programme channel="ntv" start="20260830133000 +0000" stop="20260830142500 +0000">
 		<title>一次元の挿し木</title>
@@ -413,7 +408,12 @@
 	<programme channel="ntv" start="20260902130000 +0000" stop="20260902135400 +0000">
 		<title>ファーストクライ 母子救命救急班</title>
 		<desc>#9チーム解散危機!虐待から若き妊婦を守れ</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leku9q3hca.jpg?v=c447a8f6" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leku9q3hca.jpg?v=c247a5d0" />
+	</programme>
+	<programme channel="ntv" start="20260902135400 +0000" stop="20260902193000 +0000">
+		<title>配信休止</title>
+		<desc>　</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le2uylpha4.jpg?v=cda16dfa" />
 	</programme>
 	<programme channel="ex" start="20260820100000 +0000" stop="20260820120000 +0000">
 		<title>林修の今知りたいでしょ！</title>
@@ -680,11 +680,6 @@
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leyipw1big.jpg?v=4b03365e" />
 	</programme>
-	<programme channel="tbs" start="20260819140000 +0000" stop="20260819193000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/let10txt55.jpg?v=f74a3a64" />
-	</programme>
 	<programme channel="tbs" start="20260819193000 +0000" stop="20260819230000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
@@ -943,32 +938,32 @@
 	<programme channel="tbs" start="20260827193000 +0000" stop="20260827230000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqrc0u0bx.jpg?v=0a0beab4" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqrc0u0bx.jpg?v=0b0bec47" />
 	</programme>
 	<programme channel="tbs" start="20260827230000 +0000" stop="20260828005500 +0000">
 		<title>ラヴィット！</title>
 		<desc>夏休み恒例企画！水に沈む？浮く？ビリビリドボン＆ジャッキーカラオケ</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le8vpp07nf.jpg?v=d900a254" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le8vpp07nf.jpg?v=da00a3e7" />
 	</programme>
 	<programme channel="tbs" start="20260828005500 +0000" stop="20260828100000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le8795m6ef.jpg?v=13f5e374" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le8795m6ef.jpg?v=14f5e507" />
 	</programme>
 	<programme channel="tbs" start="20260828100000 +0000" stop="20260828130000 +0000">
 		<title>それSnow Manにやらせて下さい</title>
 		<desc>ラウール世界一へ…米・ダンス大会出場</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lermoqgxj0.jpg?v=e2629117" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lermoqgxj0.jpg?v=e1628f84" />
 	</programme>
 	<programme channel="tbs" start="20260828130000 +0000" stop="20260828135400 +0000">
 		<title>Ｔシャツが乾くまで</title>
 		<desc>第８話　逃避と詮索</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/led0g1cw3c.jpg?v=ef0094b0" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/led0g1cw3c.jpg?v=f0009643" />
 	</programme>
 	<programme channel="tbs" start="20260828135400 +0000" stop="20260828194500 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqgn4ba07.jpg?v=fb61e9cd" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqgn4ba07.jpg?v=fa61e83a" />
 	</programme>
 	<programme channel="tbs" start="20260828194500 +0000" stop="20260829095100 +0000">
 		<title>配信休止</title>
@@ -1125,20 +1120,10 @@
 		<desc>芸能人が持ち寄った“説”を検証</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lebso6jsvq.jpg?v=3932918e" />
 	</programme>
-	<programme channel="tx" start="20260819135800 +0000" stop="20260819140600 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le2gt9h2f3.jpg?v=be939593" />
-	</programme>
-	<programme channel="tx" start="20260819140600 +0000" stop="20260819145500 +0000">
-		<title>アンパラレルド～ニッポン発、世界へ～</title>
-		<desc>アンパラレルド～ニッポン発、世界へ～</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leee4m262x.jpg?v=44e14982" />
-	</programme>
-	<programme channel="tx" start="20260819145500 +0000" stop="20260819190000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lee8fntkeu.jpg?v=768f11d0" />
+	<programme channel="tbs" start="20260902140000 +0000" stop="20260902193000 +0000">
+		<title>配信休止</title>
+		<desc>配信休止</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ley2qvq373.jpg?v=21434234" />
 	</programme>
 	<programme channel="tx" start="20260819190000 +0000" stop="20260820092500 +0000">
 		<title>配信準備中</title>
@@ -1615,30 +1600,20 @@
 		<desc>ＷＢＳ</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lem2trmmkx.jpg?v=1a0b1516" />
 	</programme>
-	<programme channel="cx" start="20260819135400 +0000" stop="20260819140000 +0000">
-		<title>配信番組のお知らせ</title>
-		<desc>🎞️🎥🎬</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqwdcmwke.jpg?v=8beb643f" />
+	<programme channel="tx" start="20260902135800 +0000" stop="20260902140600 +0000">
+		<title>配信準備中</title>
+		<desc>配信準備中</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lewi9tnpnu.jpg?v=2702b5a4" />
 	</programme>
-	<programme channel="cx" start="20260819140000 +0000" stop="20260819143000 +0000">
-		<title>今夜もシリアルキラーと待ち合わせ</title>
-		<desc>#8 底知れぬ狂気</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le63tbgl88.jpg?v=7cc61c5e" />
+	<programme channel="tx" start="20260902140600 +0000" stop="20260902145500 +0000">
+		<title>アンパラレルド～ニッポン発、世界へ～</title>
+		<desc>アンパラレルド～ニッポン発、世界へ～</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lepitw5rlz.jpg?v=27afffc1" />
 	</programme>
-	<programme channel="cx" start="20260819143000 +0000" stop="20260819144000 +0000">
-		<title>バレーボール アジア選手権2026</title>
-		<desc>バレーボール　珍プレー好プレー　〜LAへ！お宝映像大公開〜</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lexyqg8arw.jpg?v=5a04e516" />
-	</programme>
-	<programme channel="cx" start="20260819144000 +0000" stop="20260819152500 +0000">
-		<title>配信番組のお知らせ</title>
-		<desc>🎞️🎥🎬</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lelj3xyhj8.jpg?v=bee16dbe" />
-	</programme>
-	<programme channel="cx" start="20260819152500 +0000" stop="20260820064200 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
+	<programme channel="tx" start="20260902145500 +0000" stop="20260902190000 +0000">
+		<title>配信準備中</title>
+		<desc>配信準備中</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lersdguu3u.jpg?v=f05bdfca" />
 	</programme>
 	<programme channel="cx" start="20260820064200 +0000" stop="20260820100000 +0000">
 		<title>配信番組のお知らせ</title>
@@ -1993,7 +1968,7 @@
 	<programme channel="cx" start="20260827143000 +0000" stop="20260827151500 +0000">
 		<title>配信番組のお知らせ</title>
 		<desc>🎞️🎥🎬</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le02iuu7y3.jpg?v=9496dfdf" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le02iuu7y3.jpg?v=9396de4c" />
 	</programme>
 	<programme channel="cx" start="20260827151500 +0000" stop="20260828064200 +0000">
 		<title>No programme</title>
@@ -2258,6 +2233,26 @@
 	<programme channel="cx" start="20260902130000 +0000" stop="20260902135400 +0000">
 		<title>Tokyo middle 30</title>
 		<desc>第7話</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lenw383txc.jpg?v=decad900" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lenw383txc.jpg?v=e5cae405" />
+	</programme>
+	<programme channel="cx" start="20260902135400 +0000" stop="20260902140000 +0000">
+		<title>配信番組のお知らせ</title>
+		<desc>🎞️🎥🎬</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le8l7rhr8i.jpg?v=b08c42f6" />
+	</programme>
+	<programme channel="cx" start="20260902140000 +0000" stop="20260902143000 +0000">
+		<title>今夜もシリアルキラーと待ち合わせ</title>
+		<desc>#10</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lea5eil5eg.jpg?v=0faa96a0" />
+	</programme>
+	<programme channel="cx" start="20260902143000 +0000" stop="20260902144000 +0000">
+		<title>バレーボール アジア選手権2026</title>
+		<desc>バレーボール　珍プレー好プレー　〜LAへ！お宝映像大公開〜</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leyayla99f.jpg?v=35e81d68" />
+	</programme>
+	<programme channel="cx" start="20260902144000 +0000" stop="20260902152500 +0000">
+		<title>配信番組のお知らせ</title>
+		<desc>🎞️🎥🎬</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le1vatve2f.jpg?v=5b3162ad" />
 	</programme>
 </tv>
