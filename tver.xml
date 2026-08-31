@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260823193000 +0000" stop="20260824100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leic4jrgxx.jpg?v=a47f4246" />
-	</programme>
 	<programme channel="ntv" start="20260824100000 +0000" stop="20260824110000 +0000">
 		<title>有吉ゼミ</title>
 		<desc>松村北斗&amp;今田美桜 相撲部屋&amp;海上自衛隊こだわり絶品カレー密着SP</desc>
@@ -545,11 +540,6 @@
 		<desc>ミステリーマニアの＜孫娘＞吉川愛×レビー小体型認知症の＜祖父＞奥田瑛二 異色バディが日常の謎や小さな事件を紐解く、切なさと優しさに満ちた≪ヒューマンミステリー≫</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lep9rrsarb.jpg?v=a1d09c79" />
 	</programme>
-	<programme channel="tbs" start="20260823230000 +0000" stop="20260824005500 +0000">
-		<title>ラヴィット！</title>
-		<desc>大塚愛参戦！セブンイレブン愛No.1は誰だ！？人気並べかえ＆工場見学Q</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lek9po5r01.jpg?v=537ce481" />
-	</programme>
 	<programme channel="tbs" start="20260824005500 +0000" stop="20260824100000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
@@ -763,7 +753,7 @@
 	<programme channel="tbs" start="20260830230000 +0000" stop="20260831005500 +0000">
 		<title>ラヴィット！</title>
 		<desc>高橋光臣参戦！はま寿司人気TOP10当て＆元日本代表リフティング対決</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leiyvqwvvs.jpg?v=9cda956f" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leiyvqwvvs.jpg?v=9bda93dc" />
 	</programme>
 	<programme channel="tbs" start="20260831005500 +0000" stop="20260831100000 +0000">
 		<title>配信休止</title>
@@ -1693,7 +1683,7 @@
 	<programme channel="cx" start="20260831064200 +0000" stop="20260831100000 +0000">
 		<title>配信番組のお知らせ</title>
 		<desc>🎞️🎥🎬</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lexn0b7oz3.jpg?v=7e2dc37f" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lexn0b7oz3.jpg?v=842dccf1" />
 	</programme>
 	<programme channel="cx" start="20260831100000 +0000" stop="20260831110000 +0000">
 		<title>ネプリーグ</title>
