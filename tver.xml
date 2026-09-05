@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260829170400 +0000" stop="20260829200000 +0000">
-		<title>24時間テレビ49「わたしの家族の話～あなたは誰を想う？～」</title>
-		<desc>PART.2</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/letvmy2rky.jpg?v=d2243848" />
-	</programme>
 	<programme channel="ntv" start="20260829200000 +0000" stop="20260829214300 +0000">
 		<title>24時間テレビ49「わたしの家族の話～あなたは誰を想う？～」</title>
 		<desc>PART.3</desc>
@@ -1600,21 +1595,6 @@
 		<desc>配信準備中</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/letjz81wn4.jpg?v=44ce2ca8" />
 	</programme>
-	<programme channel="cx" start="20260829152500 +0000" stop="20260829162000 +0000">
-		<title>ミッドナイト屋台２～ル・モンドゥ～</title>
-		<desc>第9話 バディを繋ぐ赤だし味噌</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le8ior99s6.jpg?v=c7e08b98" />
-	</programme>
-	<programme channel="cx" start="20260829162000 +0000" stop="20260829163000 +0000">
-		<title>配信番組のお知らせ</title>
-		<desc>🎞️🎥🎬</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/levh2i605r.jpg?v=8c208aea" />
-	</programme>
-	<programme channel="cx" start="20260829163000 +0000" stop="20260830090000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
-	</programme>
 	<programme channel="cx" start="20260830090000 +0000" stop="20260830093000 +0000">
 		<title>配信番組のお知らせ</title>
 		<desc>🎞️🎥🎬</desc>
@@ -2264,5 +2244,10 @@
 		<title>地上波放送番組のお知らせ</title>
 		<desc>「くらべるネタSHOW バカリズムのキリクチ」は地上波放送でお楽しみください！</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lek8whkkjc.jpg?v=2ecbf07d" />
+	</programme>
+	<programme channel="cx" start="20260912153500 +0000" stop="20260912154500 +0000">
+		<title>配信番組のお知らせ</title>
+		<desc>🎞️🎥🎬</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lefetoz5jf.jpg?v=c8fb943b" />
 	</programme>
 </tv>
