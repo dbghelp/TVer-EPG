@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260901193000 +0000" stop="20260902100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/letcj44xt0.jpg?v=14a96d9f" />
-	</programme>
 	<programme channel="ntv" start="20260902100000 +0000" stop="20260902125400 +0000">
 		<title>Iwataniスペシャル　鳥人間コンテスト</title>
 		<desc>▽ビッグフライト連発&amp;名探偵コナンがSP解説!</desc>
@@ -699,16 +694,6 @@
 		<title>報道ステーション</title>
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lexoktaoqf.jpg?v=1df82dd3" />
-	</programme>
-	<programme channel="tbs" start="20260901193000 +0000" stop="20260901230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3f9fcl0m.jpg?v=a4382d05" />
-	</programme>
-	<programme channel="tbs" start="20260901230000 +0000" stop="20260902005500 +0000">
-		<title>ラヴィット！</title>
-		<desc>競泳レジェンド入江陵介＆森香澄＆デビュー決定岩﨑大昇が画像クイズＧＰ</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4lzae563.jpg?v=76bd4beb" />
 	</programme>
 	<programme channel="tbs" start="20260902005500 +0000" stop="20260902125800 +0000">
 		<title>配信休止</title>
@@ -2043,7 +2028,7 @@
 	<programme channel="cx" start="20260909064200 +0000" stop="20260909100000 +0000">
 		<title>配信番組のお知らせ</title>
 		<desc>🎞️🎥🎬</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le0hlplhx6.jpg?v=4a3727e2" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le0hlplhx6.jpg?v=4937264f" />
 	</programme>
 	<programme channel="cx" start="20260909100000 +0000" stop="20260909120000 +0000">
 		<title>世界の何だコレ！？ミステリー</title>
