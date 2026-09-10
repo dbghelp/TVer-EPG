@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260903193000 +0000" stop="20260904204500 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le5fuefxrq.jpg?v=64d5c858" />
-	</programme>
 	<programme channel="ntv" start="20260904204500 +0000" stop="20260905100000 +0000">
 		<title>配信休止</title>
 		<desc> </desc>
@@ -592,8 +587,8 @@
 	</programme>
 	<programme channel="ex" start="20260911125400 +0000" stop="20260911141000 +0000">
 		<title>報道ステーション</title>
-		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqy026ppq.jpg?v=3016e3d5" />
+		<desc>米同時多発テロから２５年…あの瞬間ＮＹで何が…“封印”解かれた映像▽前線停滞、再び大雨か…連続水害で観光影響も▽ＡＩ開発競争に警鐘▽欧州ＣＬ＆ＭＬＢ</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqy026ppq.jpg?v=a91c6267" />
 	</programme>
 	<programme channel="ex" start="20260911141000 +0000" stop="20260912093000 +0000">
 		<title>No programme</title>
@@ -689,11 +684,6 @@
 		<title>報道ステーション</title>
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le7ck16aeb.jpg?v=4f78556e" />
-	</programme>
-	<programme channel="tbs" start="20260903193000 +0000" stop="20260903230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lews7if9r8.jpg?v=65d930dc" />
 	</programme>
 	<programme channel="tbs" start="20260903230000 +0000" stop="20260904005500 +0000">
 		<title>ラヴィット！</title>
@@ -2013,7 +2003,7 @@
 	<programme channel="cx" start="20260911064200 +0000" stop="20260911100000 +0000">
 		<title>配信番組のお知らせ</title>
 		<desc>🎞️🎥🎬</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leces05ufq.jpg?v=d2983ad7" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leces05ufq.jpg?v=d1983944" />
 	</programme>
 	<programme channel="cx" start="20260911100000 +0000" stop="20260911115400 +0000">
 		<title>バレーボール アジア選手権2026</title>
