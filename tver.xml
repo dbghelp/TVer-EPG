@@ -1575,16 +1575,6 @@
 		<desc>配信準備中</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le7nr945nq.jpg?v=7de38788" />
 	</programme>
-	<programme channel="cx" start="20260905153500 +0000" stop="20260905154500 +0000">
-		<title>配信番組のお知らせ</title>
-		<desc>🎞️🎥🎬</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lelryuw54i.jpg?v=794b4175" />
-	</programme>
-	<programme channel="cx" start="20260905154500 +0000" stop="20260906090000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
-	</programme>
 	<programme channel="cx" start="20260906090000 +0000" stop="20260906093000 +0000">
 		<title>配信番組のお知らせ</title>
 		<desc>🎞️🎥🎬</desc>
@@ -2209,5 +2199,10 @@
 		<title>ドラマが飛んだ！</title>
 		<desc />
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leeo9h8ol2.jpg?v=f34a68a2" />
+	</programme>
+	<programme channel="cx" start="20260919160000 +0000" stop="20260919161000 +0000">
+		<title>配信番組のお知らせ</title>
+		<desc>🎞️🎥🎬</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/levbhvk6mh.jpg?v=8713a79d" />
 	</programme>
 </tv>
