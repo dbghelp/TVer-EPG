@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260911204500 +0000" stop="20260912100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lekxrt07yx.jpg?v=011dfe13" />
-	</programme>
 	<programme channel="ntv" start="20260912100000 +0000" stop="20260912115400 +0000">
 		<title>1億人の大質問!?笑ってコラえて！</title>
 		<desc>2時間SP▼所ジョージが四国最西端へ!川口春奈も感動!結婚式の旅!</desc>
@@ -238,7 +233,7 @@
 	<programme channel="ntv" start="20260919130000 +0000" stop="20260919135400 +0000">
 		<title>追跡取材 news LOG</title>
 		<desc>和久田麻由子とたどる、記者たちの取材の軌跡。土曜日の夜、注目のニュースや話題の真相に迫る「追跡ドキュメンタリー型」ニュース番組です。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leza2acmit.jpg?v=8c9ce008" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leza2acmit.jpg?v=8d9ce19b" />
 	</programme>
 	<programme channel="ntv" start="20260919135400 +0000" stop="20260919202500 +0000">
 		<title>配信休止</title>
@@ -609,11 +604,6 @@
 		<title>報道ステーション</title>
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le10f7ta80.jpg?v=22e0a6da" />
-	</programme>
-	<programme channel="tbs" start="20260911194500 +0000" stop="20260912095100 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ler3q55pil.jpg?v=88e4d4ac" />
 	</programme>
 	<programme channel="tbs" start="20260912095100 +0000" stop="20260912115400 +0000">
 		<title>日本くらべてみたら</title>
