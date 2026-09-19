@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260912202500 +0000" stop="20260913095500 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lemsavr1q0.jpg?v=08457c0c" />
-	</programme>
 	<programme channel="ntv" start="20260913095500 +0000" stop="20260913100000 +0000">
 		<title>博士は今日も嫉妬する～人生が楽しくなる最新テクノロジー～</title>
 		<desc>博士が思わず嫉妬する明日が楽しくなる最新テクノロジーをご紹介!!</desc>
@@ -193,7 +188,7 @@
 	<programme channel="ntv" start="20260919120000 +0000" stop="20260919125400 +0000">
 		<title>告白―25年目の秘密―</title>
 		<desc>#10最終回!リアタイ推奨!25年間好きでした。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lempxkmtej.jpg?v=121436bc" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lempxkmtej.jpg?v=1314384f" />
 	</programme>
 	<programme channel="ntv" start="20260919125400 +0000" stop="20260919130000 +0000">
 		<title>お知らせ</title>
@@ -595,11 +590,6 @@
 		<desc>生放送だからできる“LIVE感”を大切に、週末だからできる“注目ニュース”の掘り下げと“週末も動いているニュース”を速報で高島彩キャスターが分かりやすくお伝えします</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le47lujwi7.jpg?v=c91919eb" />
 	</programme>
-	<programme channel="tbs" start="20260912194000 +0000" stop="20260913100000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lensskajhc.jpg?v=45335f52" />
-	</programme>
 	<programme channel="tbs" start="20260913100000 +0000" stop="20260913110000 +0000">
 		<title>バナナマンのせっかくグルメ!!</title>
 		<desc>神社仏閣タウン満喫SP！日村×小手伸也×高橋成美</desc>
@@ -979,11 +969,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/les30mg1ni.jpg?v=19f7fbd2" />
-	</programme>
-	<programme channel="tx" start="20260912190000 +0000" stop="20260913093000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lez9lne0bm.jpg?v=ec4a61d9" />
 	</programme>
 	<programme channel="tx" start="20260913093000 +0000" stop="20260913115000 +0000">
 		<title>世界遺産に潜る～探検！水中ミステリー～</title>
