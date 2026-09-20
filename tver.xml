@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260913193000 +0000" stop="20260914100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lewk91y7zi.jpg?v=c0a5a546" />
-	</programme>
 	<programme channel="ntv" start="20260914100000 +0000" stop="20260914110000 +0000">
 		<title>有吉ゼミ</title>
 		<desc>▼ギャル曽根VS大食いアスリート軍団!西城秀樹の息子も参戦&amp;工藤農園</desc>
@@ -527,8 +522,8 @@
 	</programme>
 	<programme channel="ex" start="20260921125400 +0000" stop="20260921141000 +0000">
 		<title>報道ステーション</title>
-		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lemjeyepm2.jpg?v=1a3c4d0f" />
+		<desc>シルバーウイーク直撃…台風２５号、広範囲に影響▽借りる部屋がない…高齢者の賃貸住宅の今▽プレーオフ出場へ大詰め…どうなる？村上宗隆＆岡本和真▽セ・リーグ優勝争い</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lemjeyepm2.jpg?v=193c4b7c" />
 	</programme>
 	<programme channel="ex" start="20260921141000 +0000" stop="20260922125400 +0000">
 		<title>No programme</title>
@@ -954,11 +949,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3sgbvcb4.jpg?v=c6d09fe0" />
-	</programme>
-	<programme channel="tx" start="20260913190000 +0000" stop="20260914092500 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le5t2v6nf7.jpg?v=1a4da7d8" />
 	</programme>
 	<programme channel="tx" start="20260914092500 +0000" stop="20260914110000 +0000">
 		<title>YOUは何しに日本へ？</title>
@@ -1693,7 +1683,7 @@
 	<programme channel="cx" start="20260921064200 +0000" stop="20260921100000 +0000">
 		<title>配信番組のお知らせ</title>
 		<desc>🎞️🎥🎬</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ler7i16ni5.jpg?v=722f3cef" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ler7i16ni5.jpg?v=732f3e82" />
 	</programme>
 	<programme channel="cx" start="20260921100000 +0000" stop="20260921120000 +0000">
 		<title>ネプリーグ</title>
