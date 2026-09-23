@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260916193000 +0000" stop="20260917100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3tuaqkio.jpg?v=a774db5f" />
-	</programme>
 	<programme channel="ntv" start="20260917100000 +0000" stop="20260917115400 +0000">
 		<title>THE突破ファイル</title>
 		<desc>2時間SPバス1台分!?細長15坪に家族5人の狭小住宅&amp;草薙バイト</desc>
@@ -510,11 +505,6 @@
 		<desc>「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leadltw3t2.jpg?v=6bdb8ffd" />
 	</programme>
-	<programme channel="tbs" start="20260916193000 +0000" stop="20260916230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leijg9az0t.jpg?v=d37a88f1" />
-	</programme>
 	<programme channel="tbs" start="20260916230000 +0000" stop="20260917005500 +0000">
 		<title>ラヴィット！</title>
 		<desc>浜野謙太が「仲良くなりたい！」連休にオススメ日帰り大洗旅▼新常識Ｑ</desc>
@@ -844,11 +834,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lemgeh8k0w.jpg?v=bd9e9bf7" />
-	</programme>
-	<programme channel="tx" start="20260916190000 +0000" stop="20260917092500 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lewzvj11mr.jpg?v=14336dfa" />
 	</programme>
 	<programme channel="tx" start="20260917092500 +0000" stop="20260917115800 +0000">
 		<title>タクうま～タクシー運転手さん一番うまい店に連れてって！～</title>
