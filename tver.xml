@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260918204500 +0000" stop="20260919100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lebgxr15dg.jpg?v=e84911ac" />
-	</programme>
 	<programme channel="ntv" start="20260919100000 +0000" stop="20260919115400 +0000">
 		<title>嗚呼!!みんなの動物園</title>
 		<desc>2時間SPビビり&amp;シャー猫急成長&amp;Snow Man参戦SP</desc>
@@ -1187,7 +1182,7 @@
 	<programme channel="tx" start="20260925141500 +0000" stop="20260925151300 +0000">
 		<title>ＷＢＳ（ワールドビジネスサテライト）</title>
 		<desc>ＷＢＳ【米中首脳会談の成果は？双方の思惑を徹底分析】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3qnblz5a.jpg?v=851e6117" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3qnblz5a.jpg?v=841e5f84" />
 	</programme>
 	<programme channel="tx" start="20260925151300 +0000" stop="20260925190000 +0000">
 		<title>配信準備中</title>
@@ -1977,11 +1972,11 @@
 	<programme channel="cx" start="20261002143000 +0000" stop="20261002150000 +0000">
 		<title>地上波放送番組のお知らせ</title>
 		<desc>「逃げ上手の若君 第二期」は地上波放送でお楽しみください！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/led4y6no26.jpg?v=fab02925" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/led4y6no26.jpg?v=f9b02792" />
 	</programme>
 	<programme channel="cx" start="20261002150000 +0000" stop="20261002154500 +0000">
 		<title>配信番組のお知らせ</title>
 		<desc>🎞️🎥🎬</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le7mdtfjf1.jpg?v=08052b00" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le7mdtfjf1.jpg?v=09052c93" />
 	</programme>
 </tv>
