@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260920193000 +0000" stop="20260921100000 +0000">
-		<title>配信休止</title>
-		<desc> </desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lehlm6q1l0.jpg?v=d2805ea6" />
-	</programme>
 	<programme channel="ntv" start="20260921100000 +0000" stop="20260921125400 +0000">
 		<title>第46回全国高等学校クイズ選手権　高校生クイズ2026</title>
 		<desc>▼全国5984校の頂点をかけたクイズの甲子園!ひと夏の青春大冒険!</desc>
@@ -554,11 +549,6 @@
 		<desc>【江國香織×松田元太】本能のままに生きる危険な男と、揺れ動く女性たちが繰り広げる、甘美で赤裸々なラブストーリー！</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lezautgxsk.jpg?v=e8830fd2" />
 	</programme>
-	<programme channel="tbs" start="20260920193000 +0000" stop="20260920230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le1k06qx65.jpg?v=1575c5c9" />
-	</programme>
 	<programme channel="tbs" start="20260920230000 +0000" stop="20260921005500 +0000">
 		<title>ラヴィット！</title>
 		<desc>VIVANTチョッキー参戦！ドミノ・ピザTOP10＆新ちゃんっていうゲーム</desc>
@@ -858,11 +848,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqclvzvqa.jpg?v=82f1160c" />
-	</programme>
-	<programme channel="tx" start="20260920190000 +0000" stop="20260921092500 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lelrzjzoz5.jpg?v=ad5a6556" />
 	</programme>
 	<programme channel="tx" start="20260921092500 +0000" stop="20260921110000 +0000">
 		<title>YOUは何しに日本へ？</title>
