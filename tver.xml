@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260926201000 +0000" stop="20260927095500 +0000">
-		<title>配信休止</title>
-		<desc>　</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leijnavx9g.jpg?v=c9429625" />
-	</programme>
 	<programme channel="ntv" start="20260927095500 +0000" stop="20260927100000 +0000">
 		<title>博士は今日も嫉妬する～人生が楽しくなる最新テクノロジー～</title>
 		<desc>▽リチウムイオン電池の延焼を防ぐ袋</desc>
@@ -582,11 +577,6 @@
 		<title>報道ステーション</title>
 		<desc>「今」という世界を見つめる。激動の時代の流れと世界のうねりを真正面から。平日よる９時５４分。大越健介キャスターがお伝えします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/legh25vgc3.jpg?v=d0882982" />
-	</programme>
-	<programme channel="tbs" start="20260926194000 +0000" stop="20260927093000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lessqb77m5.jpg?v=49513895" />
 	</programme>
 	<programme channel="tbs" start="20260927093000 +0000" stop="20260927142400 +0000">
 		<title>Special Liveのお知らせ</title>
