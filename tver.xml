@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260928193000 +0000" stop="20260929100000 +0000">
-		<title>配信休止</title>
-		<desc>　</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejjnqrwof.jpg?v=4516775d" />
-	</programme>
 	<programme channel="ntv" start="20260929100000 +0000" stop="20260929110000 +0000">
 		<title>オモウマい店</title>
 		<desc>【北海道】2児のママが食堂オープン!5合鍋ざんぎカレー</desc>
@@ -545,7 +540,7 @@
 	<programme channel="ex" start="20261006125400 +0000" stop="20261006141000 +0000">
 		<title>報道ステーション</title>
 		<desc>「今」という世界を見つめる。激動の時代の流れと世界のうねりを真正面から。平日よる９時５４分。大越健介キャスターがお伝えします。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lem57qmoqs.jpg?v=10ac8d26" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lem57qmoqs.jpg?v=65b5ba8a" />
 	</programme>
 	<programme channel="ex" start="20261006141000 +0000" stop="20261007120000 +0000">
 		<title>No programme</title>
@@ -632,11 +627,6 @@
 		<title>報道ステーション</title>
 		<desc>「今」という世界を見つめる。激動の時代の流れと世界のうねりを真正面から。平日よる９時５４分。大越健介キャスターがお伝えします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lede9jbk3z.jpg?v=f2d226a3" />
-	</programme>
-	<programme channel="tbs" start="20260928193000 +0000" stop="20260928230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lexq6nk2ia.jpg?v=b9fdf068" />
 	</programme>
 	<programme channel="tbs" start="20260928230000 +0000" stop="20260929005500 +0000">
 		<title>ラヴィット！</title>
@@ -1057,16 +1047,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le8tfi1teo.jpg?v=63191578" />
-	</programme>
-	<programme channel="tx" start="20260928145500 +0000" stop="20260928190000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lexhe4wkj8.jpg?v=547044d1" />
-	</programme>
-	<programme channel="tx" start="20260928190000 +0000" stop="20260929092500 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leywrle0wo.jpg?v=213ea979" />
 	</programme>
 	<programme channel="tx" start="20260929092500 +0000" stop="20260929115400 +0000">
 		<title>世界が騒然！本当にあった(秘)衝撃ファイル</title>
@@ -1537,6 +1517,11 @@
 		<title>妻を引退します</title>
 		<desc>妻を引退します　第２話　権力者のパワーと闇</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le8013kkmt.jpg?v=750166e6" />
+	</programme>
+	<programme channel="tx" start="20261012145500 +0000" stop="20261012190000 +0000">
+		<title>配信準備中</title>
+		<desc>配信準備中</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/letsxon7d3.jpg?v=9e535dd2" />
 	</programme>
 	<programme channel="cx" start="20260929064200 +0000" stop="20260929100000 +0000">
 		<title>配信番組のお知らせ</title>
@@ -2072,5 +2057,10 @@
 		<title>けるとめる</title>
 		<desc> </desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lelr7sb8l9.jpg?v=72a45de8" />
+	</programme>
+	<programme channel="cx" start="20261012144500 +0000" stop="20261012153000 +0000">
+		<title>配信番組のお知らせ</title>
+		<desc>🎞️🎥🎬</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lel72mt34r.jpg?v=9daaa26a" />
 	</programme>
 </tv>
