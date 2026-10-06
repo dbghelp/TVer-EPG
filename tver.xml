@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20260929193000 +0000" stop="20260930100000 +0000">
-		<title>配信休止</title>
-		<desc>　</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le92nkmd2t.jpg?v=20ebdd41" />
-	</programme>
 	<programme channel="ntv" start="20260930100000 +0000" stop="20260930120000 +0000">
 		<title>有吉の壁</title>
 		<desc>最終回SP▼総勢66名壁芸人と富士急ハイランドで最後まで笑わせろ!</desc>
@@ -531,7 +526,7 @@
 	<programme channel="ex" start="20261007125400 +0000" stop="20261007141000 +0000">
 		<title>報道ステーション</title>
 		<desc>「今」という世界を見つめる。激動の時代の流れと世界のうねりを真正面から。平日よる９時５４分。大越健介キャスターがお伝えします。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lek2vnof07.jpg?v=22f9b37c" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lek2vnof07.jpg?v=23f9b50f" />
 	</programme>
 	<programme channel="ex" start="20261007141000 +0000" stop="20261008100000 +0000">
 		<title>No programme</title>
@@ -624,11 +619,6 @@
 		<title>報道ステーション</title>
 		<desc>「今」という世界を見つめる。激動の時代の流れと世界のうねりを真正面から。平日よる９時５４分。大越健介キャスターがお伝えします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le5v9vw1d3.jpg?v=0b92acc8" />
-	</programme>
-	<programme channel="tbs" start="20260929193000 +0000" stop="20260929230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leybcjucp1.jpg?v=da2bf3f1" />
 	</programme>
 	<programme channel="tbs" start="20260929230000 +0000" stop="20260930005500 +0000">
 		<title>ラヴィット！</title>
@@ -1064,11 +1054,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le09l61t7t.jpg?v=981be320" />
-	</programme>
-	<programme channel="tx" start="20260929190000 +0000" stop="20260930092500 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lenr7y3w9t.jpg?v=7d1071bf" />
 	</programme>
 	<programme channel="tx" start="20260930092500 +0000" stop="20260930114000 +0000">
 		<title>亀梨くんのワンにゃフル！</title>
