@@ -20,16 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20261002135400 +0000" stop="20261002204500 +0000">
-		<title>配信休止</title>
-		<desc>　</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lel104zor8.jpg?v=378b604b" />
-	</programme>
-	<programme channel="ntv" start="20261002204500 +0000" stop="20261003100000 +0000">
-		<title>配信休止</title>
-		<desc>　</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le5s1bg65k.jpg?v=554dd710" />
-	</programme>
 	<programme channel="ntv" start="20261003100000 +0000" stop="20261003105600 +0000">
 		<title>嗚呼!!みんなの動物園</title>
 		<desc>新預かり始動&amp;青木マッチョ激かわ猫が未曾有の大喧嘩!?</desc>
@@ -223,7 +213,7 @@
 	<programme channel="ntv" start="20261010120000 +0000" stop="20261010133400 +0000">
 		<title>俺たちの箱根駅伝</title>
 		<desc>#01【池井戸潤×大泉洋】転んだままで、終われるか!</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le65lp7it0.jpg?v=83823394" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le65lp7it0.jpg?v=8682384d" />
 	</programme>
 	<programme channel="ntv" start="20261010133400 +0000" stop="20261010134000 +0000">
 		<title>お知らせ</title>
@@ -646,16 +636,6 @@
 		<title>報道ステーション</title>
 		<desc>「今」という世界を見つめる。激動の時代の流れと世界のうねりを真正面から。平日よる９時５４分。大越健介キャスターがお伝えします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lehnm3icl9.jpg?v=00666b64" />
-	</programme>
-	<programme channel="tbs" start="20261002140000 +0000" stop="20261002194500 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqclvzvqa.jpg?v=82f1160c" />
-	</programme>
-	<programme channel="tbs" start="20261002194500 +0000" stop="20261003060000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ley5s0ivv8.jpg?v=6222c114" />
 	</programme>
 	<programme channel="tbs" start="20261003060000 +0000" stop="20261003133000 +0000">
 		<title>Special Liveのお知らせ</title>
@@ -1097,25 +1077,10 @@
 		<desc>第1話【Lost Way】</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lemb10ajd9.jpg?v=55ef7c19" />
 	</programme>
-	<programme channel="tx" start="20261002135400 +0000" stop="20261002140000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqalddtz4.jpg?v=6bdb6efe" />
-	</programme>
-	<programme channel="tx" start="20261002140000 +0000" stop="20261002145800 +0000">
-		<title>ＷＢＳ（ワールドビジネスサテライト）</title>
-		<desc>ＷＢＳ【日米で重要指標！利上げに影響は▽中国「国防動員法」改正で日本企業は？】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4t0pm2ga.jpg?v=57c2a312" />
-	</programme>
-	<programme channel="tx" start="20261002145800 +0000" stop="20261002190000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lez2ne7dr9.jpg?v=b4393ddb" />
-	</programme>
-	<programme channel="tx" start="20261002190000 +0000" stop="20261003093000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le86ghhzdv.jpg?v=ecfeff57" />
+	<programme channel="tbs" start="20261016140400 +0000" stop="20261016194500 +0000">
+		<title>配信休止</title>
+		<desc>配信休止</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lew8ml7px5.jpg?v=9e307d91" />
 	</programme>
 	<programme channel="tx" start="20261003093000 +0000" stop="20261003115500 +0000">
 		<title>出川哲朗の充電させてもらえませんか？</title>
@@ -1612,30 +1577,20 @@
 		<desc>ガイアの夜明け【“コメ急落”　日本米の逆襲～農家と企業が挑む、稼げる農業～】</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lelfiqh084.jpg?v=1ffd51f1" />
 	</programme>
-	<programme channel="cx" start="20261002135200 +0000" stop="20261002140000 +0000">
-		<title>配信番組のお知らせ</title>
-		<desc>🎞️🎥🎬</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le8y5ne6jo.jpg?v=95c35208" />
+	<programme channel="tx" start="20261016135400 +0000" stop="20261016140000 +0000">
+		<title>配信準備中</title>
+		<desc>配信準備中</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lembglwhlm.jpg?v=bd230c18" />
 	</programme>
-	<programme channel="cx" start="20261002140000 +0000" stop="20261002143000 +0000">
-		<title>全力！脱力タイムズ</title>
-		<desc>ネプ堀内健＆福本莉子▼ちょっとカッコつけ過ぎじゃない！？</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leymat8329.jpg?v=5a114e8b" />
+	<programme channel="tx" start="20261016140000 +0000" stop="20261016145800 +0000">
+		<title>ＷＢＳ（ワールドビジネスサテライト）</title>
+		<desc>ＷＢＳ</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leivxwdaqc.jpg?v=23e93d66" />
 	</programme>
-	<programme channel="cx" start="20261002143000 +0000" stop="20261002150000 +0000">
-		<title>地上波放送番組のお知らせ</title>
-		<desc>「逃げ上手の若君 第二期」は地上波放送でお楽しみください！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/led4y6no26.jpg?v=fcb02c4b" />
-	</programme>
-	<programme channel="cx" start="20261002150000 +0000" stop="20261002154500 +0000">
-		<title>配信番組のお知らせ</title>
-		<desc>🎞️🎥🎬</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le7mdtfjf1.jpg?v=09052c93" />
-	</programme>
-	<programme channel="cx" start="20261002154500 +0000" stop="20261003090000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
+	<programme channel="tx" start="20261016145800 +0000" stop="20261016190000 +0000">
+		<title>配信準備中</title>
+		<desc>配信準備中</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le0fjlgy69.jpg?v=b2f48809" />
 	</programme>
 	<programme channel="cx" start="20261003090000 +0000" stop="20261003093000 +0000">
 		<title>配信番組のお知らせ</title>
@@ -2127,6 +2082,11 @@
 		<desc>🎞️🎥🎬</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leydnonsf9.jpg?v=909340b3" />
 	</programme>
+	<programme channel="cx" start="20261014151500 +0000" stop="20261015064200 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
+	</programme>
 	<programme channel="cx" start="20261015064200 +0000" stop="20261015100000 +0000">
 		<title>配信番組のお知らせ</title>
 		<desc>🎞️🎥🎬</desc>
@@ -2191,5 +2151,25 @@
 		<title>タイムレスマン</title>
 		<desc> </desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lezps0b6k8.jpg?v=38744d25" />
+	</programme>
+	<programme channel="cx" start="20261016135200 +0000" stop="20261016140000 +0000">
+		<title>配信番組のお知らせ</title>
+		<desc>🎞️🎥🎬</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lez76dfyj9.jpg?v=eb168ff0" />
+	</programme>
+	<programme channel="cx" start="20261016140000 +0000" stop="20261016143000 +0000">
+		<title>全力！脱力タイムズ</title>
+		<desc>錦鯉長谷川＆久保史緒里▼春の次は夏だからですよ！？</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lebnii3l54.jpg?v=9d151b7c" />
+	</programme>
+	<programme channel="cx" start="20261016143000 +0000" stop="20261016150000 +0000">
+		<title>地上波放送番組のお知らせ</title>
+		<desc>「ホタルの嫁入り」は地上波放送でお楽しみください！</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le2yh30jbt.jpg?v=69c9dae7" />
+	</programme>
+	<programme channel="cx" start="20261016150000 +0000" stop="20261016154500 +0000">
+		<title>配信番組のお知らせ</title>
+		<desc>🎞️🎥🎬</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/letfbjd2p0.jpg?v=7b9c3579" />
 	</programme>
 </tv>
