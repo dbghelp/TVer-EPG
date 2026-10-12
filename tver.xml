@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20261005193000 +0000" stop="20261006100000 +0000">
-		<title>配信休止</title>
-		<desc>　</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lernwnz796.jpg?v=7bfe193b" />
-	</programme>
 	<programme channel="ntv" start="20261006100000 +0000" stop="20261006110000 +0000">
 		<title>オモウマい店</title>
 		<desc>【宮崎】爆破!?極み出汁のヨッシャーうどん!!運べ試練のタワーかき氷</desc>
@@ -486,16 +481,6 @@
 		<desc>「今」という世界を見つめる。激動の時代の流れと世界のうねりを真正面から。平日よる９時５４分。大越健介キャスターがお伝えします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lehnm3icl9.jpg?v=00666b64" />
 	</programme>
-	<programme channel="tbs" start="20261005193000 +0000" stop="20261005230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lesnotshrp.jpg?v=ba72b577" />
-	</programme>
-	<programme channel="tbs" start="20261005230000 +0000" stop="20261006005500 +0000">
-		<title>ラヴィット！</title>
-		<desc>アジア大会金メダル福部真子＆生田斗真が初参戦！刑事ドラマＱグルメ対決</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/levrtxtve3.jpg?v=f413ddbb" />
-	</programme>
 	<programme channel="tbs" start="20261006005500 +0000" stop="20261006100000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
@@ -835,11 +820,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lew8ml7px5.jpg?v=9e307d91" />
-	</programme>
-	<programme channel="tx" start="20261005190000 +0000" stop="20261006115400 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leifmelbvu.jpg?v=ca9dcaa6" />
 	</programme>
 	<programme channel="tx" start="20261006115400 +0000" stop="20261006125500 +0000">
 		<title>開運！なんでも鑑定団</title>
