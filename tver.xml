@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20261007193000 +0000" stop="20261008100000 +0000">
-		<title>配信休止</title>
-		<desc>　</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ledndx6mfg.jpg?v=d6175b82" />
-	</programme>
 	<programme channel="ntv" start="20261008100000 +0000" stop="20261008115400 +0000">
 		<title>THE突破ファイル</title>
 		<desc>タイムリミットまで命を救え!大泉洋が大突破2時間SP</desc>
@@ -584,8 +579,8 @@
 	</programme>
 	<programme channel="ex" start="20261015125400 +0000" stop="20261015141000 +0000">
 		<title>報道ステーション</title>
-		<desc>「今」という世界を見つめる。激動の時代の流れと世界のうねりを真正面から。平日よる９時５４分。大越健介キャスターがお伝えします。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lea13u1y8y.jpg?v=8912dce9" />
+		<desc>スパイ容疑で記者拘束…ロシアに解放の動きは▽中国と北朝鮮を結ぶ橋、開通へ…関係緊密化も▽新たな台風の影響は▽横浜高校・織田翔希が会見▽マエケン</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lea13u1y8y.jpg?v=9312eca7" />
 	</programme>
 	<programme channel="ex" start="20261015141000 +0000" stop="20261016095000 +0000">
 		<title>No programme</title>
@@ -697,11 +692,6 @@
 		<title>報道ステーション</title>
 		<desc>「今」という世界を見つめる。激動の時代の流れと世界のうねりを真正面から。平日よる９時５４分。大越健介キャスターがお伝えします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lebfvx9pd4.jpg?v=17608db0" />
-	</programme>
-	<programme channel="tbs" start="20261007193000 +0000" stop="20261007230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lei619896w.jpg?v=bb0104b9" />
 	</programme>
 	<programme channel="tbs" start="20261007230000 +0000" stop="20261008005500 +0000">
 		<title>ラヴィット！</title>
@@ -1132,11 +1122,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejqlztpqy.jpg?v=bf0844c9" />
-	</programme>
-	<programme channel="tx" start="20261007190000 +0000" stop="20261008115800 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lez0nu72k8.jpg?v=d1209209" />
 	</programme>
 	<programme channel="tx" start="20261008115800 +0000" stop="20261008125400 +0000">
 		<title>ナゼそこ？＋</title>
