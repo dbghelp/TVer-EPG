@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20261009204500 +0000" stop="20261010100000 +0000">
-		<title>配信休止</title>
-		<desc>　</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lei9r989g9.jpg?v=ed9594b8" />
-	</programme>
 	<programme channel="ntv" start="20261010100000 +0000" stop="20261010115400 +0000">
 		<title>嗚呼!!みんなの動物園</title>
 		<desc>2時間SP大泉洋も涙…最終回!ブサカワ保護猫が譲渡会へ</desc>
@@ -725,11 +720,6 @@
 		<desc>日本が誇る≪忍者≫を世界へ－本格アクションでおくる世界照準の超大型忍者時代劇プロジェクト始動!!
 不可能を覆す、名もなき忍びたちの熱い逆襲劇がついに開幕！</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lepetydt8e.jpg?v=7563cca7" />
-	</programme>
-	<programme channel="tbs" start="20261009194500 +0000" stop="20261010083000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leccw06oi9.jpg?v=1912707c" />
 	</programme>
 	<programme channel="tbs" start="20261010083000 +0000" stop="20261010145000 +0000">
 		<title>オールスター感謝祭’26秋</title>
