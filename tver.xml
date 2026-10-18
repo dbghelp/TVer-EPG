@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20261011193000 +0000" stop="20261012100000 +0000">
-		<title>配信休止</title>
-		<desc>　</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le2ktboejo.jpg?v=eef70680" />
-	</programme>
 	<programme channel="ntv" start="20261012100000 +0000" stop="20261012120000 +0000">
 		<title>世界まる見え！テレビ特捜部</title>
 		<desc>大泉洋&amp;広瀬アリス爆笑!おマヌケ映像350連発×人気声優が大集結</desc>
@@ -536,8 +531,8 @@
 	</programme>
 	<programme channel="ex" start="20261019125400 +0000" stop="20261019141000 +0000">
 		<title>報道ステーション</title>
-		<desc>「今」という世界を見つめる。激動の時代の流れと世界のうねりを真正面から。平日よる９時５４分。大越健介キャスターがお伝えします。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6tyv7l48.jpg?v=2746ad79" />
+		<desc>国会焦点は消費減税に…深刻、外食産業の苦悩▽発達続ける台風３０号…千葉豪雨も高精度で…ＡＩ台風進路予測の今▽松坂大輔×織田翔希…怪物対談ほか</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6tyv7l48.jpg?v=275422ca" />
 	</programme>
 	<programme channel="ex" start="20261020100000 +0000" stop="20261020111000 +0000">
 		<title>孝太郎＆ちさ子　プラチナファミリー 華麗なる一家をのぞき見</title>
@@ -599,11 +594,6 @@
 		<desc>日本が誇る≪忍者≫を世界へ－本格アクションでおくる世界照準の超大型忍者時代劇プロジェクト始動!!
 不可能を覆す、名もなき忍びたちの熱い逆襲劇がついに開幕！</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lepetydt8e.jpg?v=7563cca7" />
-	</programme>
-	<programme channel="tbs" start="20261011193000 +0000" stop="20261011230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le074wzxxt.jpg?v=3999a0d3" />
 	</programme>
 	<programme channel="tbs" start="20261011230000 +0000" stop="20261012005500 +0000">
 		<title>ラヴィット！</title>
@@ -989,11 +979,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le0w3as9en.jpg?v=204af35e" />
-	</programme>
-	<programme channel="tx" start="20261011190000 +0000" stop="20261012070000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lebxmjvjfr.jpg?v=4222cadd" />
 	</programme>
 	<programme channel="tx" start="20261012070000 +0000" stop="20261012075400 +0000">
 		<title>チャリで巡ってキャンピング！春日が村で遊びつくす～第35回 寬仁親王牌・世界選手権記念トーナメント（ＧⅠ）～</title>
