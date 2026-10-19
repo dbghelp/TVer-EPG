@@ -20,16 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20261012135400 +0000" stop="20261012193000 +0000">
-		<title>配信休止</title>
-		<desc>　</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le5za05xpe.jpg?v=140eceba" />
-	</programme>
-	<programme channel="ntv" start="20261012193000 +0000" stop="20261013100000 +0000">
-		<title>配信休止</title>
-		<desc>　</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lems29pz6a.jpg?v=4638b730" />
-	</programme>
 	<programme channel="ntv" start="20261013100000 +0000" stop="20261013110000 +0000">
 		<title>オモウマい店</title>
 		<desc>【栃木】大行列!!つゆ厳禁そば【大阪】不眠不休!?洋食超人のカツカレー</desc>
@@ -449,7 +439,7 @@
 	<programme channel="ntv" start="20261026100000 +0000" stop="20261026120000 +0000">
 		<title>有吉ゼミ</title>
 		<desc>2時間SP</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le34v10kio.jpg?v=bccd9210" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le34v10kio.jpg?v=bdcd93a3" />
 	</programme>
 	<programme channel="ntv" start="20261026120000 +0000" stop="20261026125400 +0000">
 		<title>しゃべくり007</title>
@@ -465,6 +455,11 @@
 		<title>月曜から夜ふかし</title>
 		<desc>世間で話題の件をあれこれ語り合うバラエティー</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lehjss8my1.jpg?v=d555ce6b" />
+	</programme>
+	<programme channel="ntv" start="20261026140000 +0000" stop="20261026193000 +0000">
+		<title>配信休止</title>
+		<desc>　</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le8htfdoww.jpg?v=79352f4b" />
 	</programme>
 	<programme channel="ex" start="20261013100000 +0000" stop="20261013125400 +0000">
 		<title>絶景＆世界遺産　火曜の良純孝太郎</title>
@@ -640,7 +635,7 @@
 	<programme channel="ex" start="20261020125400 +0000" stop="20261020141000 +0000">
 		<title>報道ステーション</title>
 		<desc>「今」という世界を見つめる。激動の時代の流れと世界のうねりを真正面から。平日よる９時５４分。大越健介キャスターがお伝えします。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le07lr4y09.jpg?v=ceabde6e" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le07lr4y09.jpg?v=cfabe001" />
 	</programme>
 	<programme channel="ex" start="20261020141000 +0000" stop="20261021120000 +0000">
 		<title>No programme</title>
@@ -751,16 +746,6 @@
 		<title>報道ステーション</title>
 		<desc>「今」という世界を見つめる。激動の時代の流れと世界のうねりを真正面から。平日よる９時５４分。大越健介キャスターがお伝えします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/letplj67pc.jpg?v=f47264a5" />
-	</programme>
-	<programme channel="tbs" start="20261012135700 +0000" stop="20261012193000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le8tfi1teo.jpg?v=66191a31" />
-	</programme>
-	<programme channel="tbs" start="20261012193000 +0000" stop="20261012230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lek8txdb3m.jpg?v=ff04fea3" />
 	</programme>
 	<programme channel="tbs" start="20261012230000 +0000" stop="20261013005500 +0000">
 		<title>ラヴィット！</title>
@@ -1227,25 +1212,10 @@
 		<desc>小栗旬と東京農大へ…食の最前線に潜入＆収穫祭</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leu9ie89nu.jpg?v=a31214d1" />
 	</programme>
-	<programme channel="tx" start="20261012135800 +0000" stop="20261012140600 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leme8jrmcg.jpg?v=35b989a5" />
-	</programme>
-	<programme channel="tx" start="20261012140600 +0000" stop="20261012145500 +0000">
-		<title>妻を引退します</title>
-		<desc>妻を引退します　第２話　サレ妻の復讐始まる</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le8013kkmt.jpg?v=80017837" />
-	</programme>
-	<programme channel="tx" start="20261012145500 +0000" stop="20261012190000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/letsxon7d3.jpg?v=9e535dd2" />
-	</programme>
-	<programme channel="tx" start="20261012190000 +0000" stop="20261013092500 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/letr64sv36.jpg?v=a9ed4dc4" />
+	<programme channel="tbs" start="20261026135700 +0000" stop="20261026193000 +0000">
+		<title>配信休止</title>
+		<desc>配信休止</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lei3hp9wo4.jpg?v=9cd8a106" />
 	</programme>
 	<programme channel="tx" start="20261013092500 +0000" stop="20261013115400 +0000">
 		<title>おてがらさん～秒で決断！あなたならどうする？～</title>
@@ -1737,25 +1707,20 @@
 		<desc>ＷＢＳ</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/len7ywhb5m.jpg?v=971d787a" />
 	</programme>
-	<programme channel="cx" start="20261012140900 +0000" stop="20261012141500 +0000">
-		<title>配信番組のお知らせ</title>
-		<desc>🎞️🎥🎬</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lem9j6wdft.jpg?v=e4793c19" />
+	<programme channel="tx" start="20261026135800 +0000" stop="20261026140600 +0000">
+		<title>配信準備中</title>
+		<desc>配信準備中</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le8exh0z4u.jpg?v=83c3dc62" />
 	</programme>
-	<programme channel="cx" start="20261012141500 +0000" stop="20261012144500 +0000">
-		<title>けるとめる</title>
-		<desc>▼高校生200名＆Ｊリーガーが協力してゴールを目指す！松倉も再び参戦</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lelr7sb8l9.jpg?v=71a45c55" />
+	<programme channel="tx" start="20261026140600 +0000" stop="20261026145500 +0000">
+		<title>妻を引退します</title>
+		<desc>妻を引退します　第４話　絡み合う20年前の因縁</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leyt7oahoh.jpg?v=1926393c" />
 	</programme>
-	<programme channel="cx" start="20261012144500 +0000" stop="20261012153000 +0000">
-		<title>配信番組のお知らせ</title>
-		<desc>🎞️🎥🎬</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lel72mt34r.jpg?v=9daaa26a" />
-	</programme>
-	<programme channel="cx" start="20261012153000 +0000" stop="20261013064200 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
+	<programme channel="tx" start="20261026145500 +0000" stop="20261026190000 +0000">
+		<title>配信準備中</title>
+		<desc>配信準備中</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le5gkkp1vk.jpg?v=086f09ff" />
 	</programme>
 	<programme channel="cx" start="20261013064200 +0000" stop="20261013100000 +0000">
 		<title>配信番組のお知らせ</title>
@@ -2345,6 +2310,21 @@
 	<programme channel="cx" start="20261026130000 +0000" stop="20261026135400 +0000">
 		<title>南田南弁護士は天才肌</title>
 		<desc>#2</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lexitrjyku.jpg?v=7025f0cc" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lexitrjyku.jpg?v=7125f25f" />
+	</programme>
+	<programme channel="cx" start="20261026135400 +0000" stop="20261026140000 +0000">
+		<title>配信番組のお知らせ</title>
+		<desc>🎞️🎥🎬</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6817h5eu.jpg?v=4bf151ca" />
+	</programme>
+	<programme channel="cx" start="20261026140000 +0000" stop="20261026143000 +0000">
+		<title>けるとめる</title>
+		<desc> </desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le93lo87l3.jpg?v=9517012c" />
+	</programme>
+	<programme channel="cx" start="20261026143000 +0000" stop="20261026151500 +0000">
+		<title>配信番組のお知らせ</title>
+		<desc>🎞️🎥🎬</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le5aye2t91.jpg?v=9327965a" />
 	</programme>
 </tv>
