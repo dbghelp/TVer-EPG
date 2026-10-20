@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20261013193000 +0000" stop="20261014100000 +0000">
-		<title>配信休止</title>
-		<desc>　</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lef6lnb16p.jpg?v=2a490de3" />
-	</programme>
 	<programme channel="ntv" start="20261014100000 +0000" stop="20261014120000 +0000">
 		<title>千鳥かまいたちゴールデンアワー</title>
 		<desc>【大実験SP】小泉孝太郎&amp;今田美桜に100km走破し氷を献上せよ</desc>
@@ -762,11 +757,6 @@
 		<desc>「今」という世界を見つめる。激動の時代の流れと世界のうねりを真正面から。平日よる９時５４分。大越健介キャスターがお伝えします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le45yf4wl9.jpg?v=044d9d93" />
 	</programme>
-	<programme channel="tbs" start="20261013193000 +0000" stop="20261013230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lenzmybmh0.jpg?v=82fa1415" />
-	</programme>
 	<programme channel="tbs" start="20261013230000 +0000" stop="20261014005500 +0000">
 		<title>ラヴィット！</title>
 		<desc>夏菜が参戦！海外で話題…ナスちょうど半分に切れる？末澤グランドスラム</desc>
@@ -1241,11 +1231,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lewep3ramh.jpg?v=c9c123a6" />
-	</programme>
-	<programme channel="tx" start="20261013190000 +0000" stop="20261014092500 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3p2qmw16.jpg?v=cebd24db" />
 	</programme>
 	<programme channel="tx" start="20261014092500 +0000" stop="20261014114000 +0000">
 		<title>亀梨くんのワンにゃフル！</title>
