@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20261014193000 +0000" stop="20261015100000 +0000">
-		<title>配信休止</title>
-		<desc>　</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lev582h6ji.jpg?v=ce97dafb" />
-	</programme>
 	<programme channel="ntv" start="20261015100000 +0000" stop="20261015105400 +0000">
 		<title>THE突破ファイル</title>
 		<desc>健康習慣で頭痛に!?人体ミステリー&amp;豪雨で水没!車からどう脱出?</desc>
@@ -644,8 +639,8 @@
 	</programme>
 	<programme channel="ex" start="20261022130000 +0000" stop="20261022141600 +0000">
 		<title>報道ステーション</title>
-		<desc>「今」という世界を見つめる。激動の時代の流れと世界のうねりを真正面から。平日よる９時５４分。大越健介キャスターがお伝えします。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lemfal7y9p.jpg?v=5d77ba02" />
+		<desc>台風３０号、沖縄直撃か…週末にかけ各地で大雨▽デジタルか？紙か？新しい教科書の形は▽灯油…異例の高騰なぜ▽ドラフト１位指名は▽欧州ＣＬ</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lemfal7y9p.jpg?v=5f77bd28" />
 	</programme>
 	<programme channel="ex" start="20261022141600 +0000" stop="20261023095000 +0000">
 		<title>No programme</title>
@@ -774,11 +769,6 @@
 		<title>報道ステーション</title>
 		<desc>「今」という世界を見つめる。激動の時代の流れと世界のうねりを真正面から。平日よる９時５４分。大越健介キャスターがお伝えします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leoqirdkqi.jpg?v=a2bdd449" />
-	</programme>
-	<programme channel="tbs" start="20261014193000 +0000" stop="20261014230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lepqbdhrxq.jpg?v=0feee955" />
 	</programme>
 	<programme channel="tbs" start="20261014230000 +0000" stop="20261015005500 +0000">
 		<title>ラヴィット！</title>
@@ -1274,11 +1264,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le159q2eat.jpg?v=3fc1f788" />
-	</programme>
-	<programme channel="tx" start="20261014190000 +0000" stop="20261015092500 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lej146puym.jpg?v=20663cc4" />
 	</programme>
 	<programme channel="tx" start="20261015092500 +0000" stop="20261015113000 +0000">
 		<title>では問題です！クイズでひも解く人生劇場</title>
@@ -2123,7 +2108,7 @@
 	<programme channel="cx" start="20261022140000 +0000" stop="20261022143000 +0000">
 		<title>くりぃむトーク！超体験！？グランプリ</title>
 		<desc>★細木数子４億ダイヤ公開＆猪狩舞台で大失態</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leilr1qnul.jpg?v=8aa3da0f" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leilr1qnul.jpg?v=87a3d556" />
 	</programme>
 	<programme channel="cx" start="20261022143000 +0000" stop="20261022151500 +0000">
 		<title>配信番組のお知らせ</title>
