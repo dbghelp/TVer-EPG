@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20261017202500 +0000" stop="20261018095500 +0000">
-		<title>配信休止</title>
-		<desc>　</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ler1eck9t7.jpg?v=9771e654" />
-	</programme>
 	<programme channel="ntv" start="20261018095500 +0000" stop="20261018100000 +0000">
 		<title>博士は今日も嫉妬する～人生が楽しくなる最新テクノロジー～</title>
 		<desc>▽食糧危機を救うスーパーフード</desc>
@@ -706,11 +701,6 @@
 不可能を覆す、名もなき忍たちの熱い逆襲劇！</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejroepxiu.jpg?v=1ab665fe" />
 	</programme>
-	<programme channel="tbs" start="20261017190000 +0000" stop="20261018025000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leh8ifuuvl.jpg?v=3700e5e1" />
-	</programme>
 	<programme channel="tbs" start="20261018025000 +0000" stop="20261018055400 +0000">
 		<title>スペシャルライブ</title>
 		<desc>プリンセス駅伝２０２６　〜全日本実業団女子駅伝全国統一予選会〜</desc>
@@ -1195,11 +1185,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lel5dehint.jpg?v=7d8d488d" />
-	</programme>
-	<programme channel="tx" start="20261017190000 +0000" stop="20261018093000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le0hhzcsxa.jpg?v=fc2a158b" />
 	</programme>
 	<programme channel="tx" start="20261018093000 +0000" stop="20261018105000 +0000">
 		<title>世界の給与明細～日本と比べてどうなの？～</title>
