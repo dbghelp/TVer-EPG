@@ -20,21 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20261024125400 +0000" stop="20261024130000 +0000">
-		<title>お知らせ</title>
-		<desc>リアルタイム配信予定の番組は「日テレ系」タブよりご確認いただけます。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lefk1cvi4g.jpg?v=c547922c" />
-	</programme>
-	<programme channel="ntv" start="20261024130000 +0000" stop="20261024135400 +0000">
-		<title>追跡取材 news LOG</title>
-		<desc>和久田麻由子とたどる、記者たちの取材の軌跡。土曜日の夜、注目のニュースや話題の真相に迫る「追跡ドキュメンタリー型」ニュース番組です。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le1u286cbj.jpg?v=9af55ba5" />
-	</programme>
-	<programme channel="ntv" start="20261024135400 +0000" stop="20261024201000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le5qopsqfq.jpg?v=81e2dfca" />
-	</programme>
 	<programme channel="ntv" start="20261024201000 +0000" stop="20261025095500 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
@@ -243,7 +228,7 @@
 	<programme channel="ntv" start="20261031120000 +0000" stop="20261031125400 +0000">
 		<title>俺たちの箱根駅伝</title>
 		<desc>#04【池井戸潤×大泉洋】学生連合は廃止!?中継にも猛批判!!</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le9wxcuw9o.jpg?v=c6fd182e" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le9wxcuw9o.jpg?v=c9fd1ce7" />
 	</programme>
 	<programme channel="ntv" start="20261031125400 +0000" stop="20261031130000 +0000">
 		<title>お知らせ</title>
@@ -434,26 +419,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leymk3o9lm.jpg?v=c47c814e" />
-	</programme>
-	<programme channel="ex" start="20261024130000 +0000" stop="20261024135400 +0000">
-		<title>あにいもうと</title>
-		<desc>#2</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejpby3yqe.jpg?v=89ef7736" />
-	</programme>
-	<programme channel="ex" start="20261024135400 +0000" stop="20261024140000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
-	</programme>
-	<programme channel="ex" start="20261024140000 +0000" stop="20261024143000 +0000">
-		<title>はだかんぼうたち</title>
-		<desc>第4話</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lefvh6hrm8.jpg?v=1a56460f" />
-	</programme>
-	<programme channel="ex" start="20261024143000 +0000" stop="20261025095600 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
 	</programme>
 	<programme channel="ex" start="20261025095600 +0000" stop="20261025105000 +0000">
 		<title>ナニコレ珍百景</title>
@@ -736,31 +701,6 @@
 		<desc>日本が誇る≪忍者≫を世界へ－圧倒的スケールと本格アクションでおくる、世界照準の超大型忍者時代劇エンターテインメント！
 不可能を覆す、名もなき忍たちの熱い逆襲劇！</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leijww9bys.jpg?v=f96d908e" />
-	</programme>
-	<programme channel="tbs" start="20261024135500 +0000" stop="20261024151900 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lebgevttgq.jpg?v=7aed327e" />
-	</programme>
-	<programme channel="tbs" start="20261024151900 +0000" stop="20261024152200 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lexmp7894d.jpg?v=a759fc54" />
-	</programme>
-	<programme channel="tbs" start="20261024152200 +0000" stop="20261024152500 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/len23dsd93.jpg?v=bf9f5e40" />
-	</programme>
-	<programme channel="tbs" start="20261024152500 +0000" stop="20261024194000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lev8f23uwb.jpg?v=ef677bd5" />
-	</programme>
-	<programme channel="tbs" start="20261024194000 +0000" stop="20261025083000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3qabxaes.jpg?v=fa1331c4" />
 	</programme>
 	<programme channel="tbs" start="20261025083000 +0000" stop="20261025084500 +0000">
 		<title>配信休止</title>
@@ -1100,7 +1040,7 @@
 	<programme channel="tbs" start="20261101141500 +0000" stop="20261101144500 +0000">
 		<title>情熱大陸</title>
 		<desc>【小野禎一／鮨職人「すきやばし次郎」▽“鮨の神様”の意志を継ぐ者】</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le8raxo3wh.jpg?v=742d0b62" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le8raxo3wh.jpg?v=722d083c" />
 	</programme>
 	<programme channel="tbs" start="20261101144500 +0000" stop="20261101193000 +0000">
 		<title>配信休止</title>
@@ -1261,16 +1201,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le7c49brbp.jpg?v=a87881e7" />
-	</programme>
-	<programme channel="tx" start="20261024125400 +0000" stop="20261024190000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lenl8nsq5f.jpg?v=068b7d9d" />
-	</programme>
-	<programme channel="tx" start="20261024190000 +0000" stop="20261025093000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le8rn7znt8.jpg?v=ce1a6826" />
 	</programme>
 	<programme channel="tx" start="20261025093000 +0000" stop="20261025115000 +0000">
 		<title>迷惑生物から住民を守れ！凄腕！危険生物バスターズ</title>
@@ -1761,26 +1691,6 @@
 		<title>配信準備中</title>
 		<desc>配信準備中</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqnp3r30y.jpg?v=ab1d4ebe" />
-	</programme>
-	<programme channel="cx" start="20261024141000 +0000" stop="20261024144000 +0000">
-		<title>さんまのお笑い向上委員会</title>
-		<desc>▼引き締めブームの吉田とプライドを捨てれない相方岡下！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leofk1ull7.jpg?v=428a516a" />
-	</programme>
-	<programme channel="cx" start="20261024144000 +0000" stop="20261024153500 +0000">
-		<title>再生のウズメ</title>
-		<desc>第4話 イモトアヤコ主演・ウグイス嬢と情熱のエール！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leuwfsclqy.jpg?v=5b7b9e75" />
-	</programme>
-	<programme channel="cx" start="20261024153500 +0000" stop="20261024154500 +0000">
-		<title>配信番組のお知らせ</title>
-		<desc>🎞️🎥🎬</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le153gq7n0.jpg?v=de6d2ecf" />
-	</programme>
-	<programme channel="cx" start="20261024154500 +0000" stop="20261025090000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</programme>
 	<programme channel="cx" start="20261025090000 +0000" stop="20261025093000 +0000">
 		<title>配信番組のお知らせ</title>
@@ -2312,6 +2222,11 @@
 		<desc>🎞️🎥🎬</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lez3gpsc51.jpg?v=1c583b25" />
 	</programme>
+	<programme channel="cx" start="20261105151500 +0000" stop="20261106064200 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
+	</programme>
 	<programme channel="cx" start="20261106064200 +0000" stop="20261106100000 +0000">
 		<title>配信番組のお知らせ</title>
 		<desc>🎞️🎥🎬</desc>
@@ -2371,5 +2286,20 @@
 		<title>爆笑そっくりものまね紅白歌合戦スペシャル</title>
 		<desc>2026秋</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lefjda6trk.jpg?v=b6a50200" />
+	</programme>
+	<programme channel="cx" start="20261107141000 +0000" stop="20261107144000 +0000">
+		<title>さんまのお笑い向上委員会</title>
+		<desc>さんまのお笑い向上委員会</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le6vdh2w4n.jpg?v=cf8c4278" />
+	</programme>
+	<programme channel="cx" start="20261107144000 +0000" stop="20261107153500 +0000">
+		<title>再生のウズメ</title>
+		<desc>第6話</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lee1w5cfiz.jpg?v=ea12281f" />
+	</programme>
+	<programme channel="cx" start="20261107153500 +0000" stop="20261107154500 +0000">
+		<title>配信番組のお知らせ</title>
+		<desc>🎞️🎥🎬</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leaegbrz92.jpg?v=4723d5af" />
 	</programme>
 </tv>
