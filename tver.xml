@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20261030204500 +0000" stop="20261031100000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ley7b8h6gf.jpg?v=58f3822e" />
-	</programme>
 	<programme channel="ntv" start="20261031100000 +0000" stop="20261031105600 +0000">
 		<title>嗚呼!!みんなの動物園</title>
 		<desc>青木マッチョ巡り激カワ猫バトル&amp;やんちゃ兄妹猫最終回</desc>
@@ -741,11 +736,6 @@
 不可能を覆す、名もなき忍たちの熱い逆襲劇！</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ley6r5mxxd.jpg?v=986ea1b8" />
 	</programme>
-	<programme channel="tbs" start="20261030194500 +0000" stop="20261031070000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le5ltjv6qa.jpg?v=b7659ed6" />
-	</programme>
 	<programme channel="tbs" start="20261031070000 +0000" stop="20261031083000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
@@ -1240,11 +1230,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lehwv5ehei.jpg?v=4e9e45cf" />
-	</programme>
-	<programme channel="tx" start="20261030190000 +0000" stop="20261031093000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ledsg7hbao.jpg?v=d1939d39" />
 	</programme>
 	<programme channel="tx" start="20261031093000 +0000" stop="20261031115500 +0000">
 		<title>出川哲朗の充電させてもらえませんか？</title>
