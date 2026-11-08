@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20261031202500 +0000" stop="20261101095500 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leu0d3dyi3.jpg?v=ebb0026b" />
-	</programme>
 	<programme channel="ntv" start="20261101095500 +0000" stop="20261101100000 +0000">
 		<title>博士は今日も嫉妬する～人生が楽しくなる最新テクノロジー～</title>
 		<desc>▽世界初!触れずに伝わる粘り気</desc>
@@ -238,7 +233,7 @@
 	<programme channel="ntv" start="20261108095500 +0000" stop="20261108100000 +0000">
 		<title>博士は今日も嫉妬する～人生が楽しくなる最新テクノロジー～</title>
 		<desc>博士が思わず嫉妬する明日が楽しくなる最新テクノロジーをご紹介!!</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lev2iokcku.jpg?v=89f383a4" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lev2iokcku.jpg?v=80f37579" />
 	</programme>
 	<programme channel="ntv" start="20261108100000 +0000" stop="20261108105800 +0000">
 		<title>ザ！鉄腕！DASH!!</title>
@@ -414,16 +409,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leyvwcu6kp.jpg?v=dddf3a6e" />
-	</programme>
-	<programme channel="ex" start="20261031224500 +0000" stop="20261101044000 +0000">
-		<title>長谷工グループスポーツスペシャル 第58回全日本大学駅伝</title>
-		<desc>第58回全日本大学駅伝</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lewcbwddil.jpg?v=abb85ec8" />
-	</programme>
-	<programme channel="ex" start="20261101044000 +0000" stop="20261101095600 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://statics.tver.jp/images/icon/ex.jpg" />
 	</programme>
 	<programme channel="ex" start="20261101095600 +0000" stop="20261101105000 +0000">
 		<title>ナニコレ珍百景</title>
@@ -889,12 +874,12 @@
 	<programme channel="tbs" start="20261107095100 +0000" stop="20261107115400 +0000">
 		<title>世界くらべてみたら</title>
 		<desc>＜配信は19時から＞VIVANT堺雅人阿部寛二宮和也×アゼルバイジャン</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leo3jgemk7.jpg?v=a94a2ed2" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leo3jgemk7.jpg?v=a44a26f3" />
 	</programme>
 	<programme channel="tbs" start="20261107115400 +0000" stop="20261107125600 +0000">
 		<title>M!LKの爆裂ミッション</title>
 		<desc>SP第3弾！M!LKvs感謝祭マラソン王者の大接戦！</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lear5nvoj9.jpg?v=d50a64c5" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lear5nvoj9.jpg?v=d20a600c" />
 	</programme>
 	<programme channel="tbs" start="20261107125600 +0000" stop="20261107194000 +0000">
 		<title>配信休止</title>
