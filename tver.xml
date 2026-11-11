@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20261104193000 +0000" stop="20261105100000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le8kdst1ha.jpg?v=aaaf869a" />
-	</programme>
 	<programme channel="ntv" start="20261105100000 +0000" stop="20261105115400 +0000">
 		<title>ぐるぐるナインティナイン</title>
 		<desc>髙木菜那&amp;高梨沙羅Wメダリストがゴチ初登場!鉄人vs凡人アボカド料理</desc>
@@ -610,8 +605,8 @@
 	</programme>
 	<programme channel="ex" start="20261112125400 +0000" stop="20261112141000 +0000">
 		<title>報道ステーション</title>
-		<desc>「今」という世界を見つめる。激動の時代の流れと世界のうねりを真正面から。平日よる９時５４分。大越健介キャスターがお伝えします。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lek8ii1g3f.jpg?v=d4583bb5" />
+		<desc>情報流出が拡大の一途…“逆転の発想”で対策▽日中は気温急上昇も…小春日和で２０℃続出▽米露ウクライナ協議▽超速報！侍Ｊvs台湾…松坂大輔が解説ほか</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lek8ii1g3f.jpg?v=d6583edb" />
 	</programme>
 	<programme channel="ex" start="20261112141000 +0000" stop="20261113125400 +0000">
 		<title>No programme</title>
@@ -723,11 +718,6 @@
 		<title>報道ステーション</title>
 		<desc>「今」という世界を見つめる。激動の時代の流れと世界のうねりを真正面から。平日よる９時５４分。大越健介キャスターがお伝えします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/les3ctd1he.jpg?v=2ff50a40" />
-	</programme>
-	<programme channel="tbs" start="20261104193000 +0000" stop="20261104230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le3ghf906u.jpg?v=f8aecd13" />
 	</programme>
 	<programme channel="tbs" start="20261104230000 +0000" stop="20261105005500 +0000">
 		<title>ラヴィット！</title>
@@ -1198,11 +1188,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4m3v6csl.jpg?v=f588630a" />
-	</programme>
-	<programme channel="tx" start="20261104190000 +0000" stop="20261105092500 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/levjm1j9cs.jpg?v=935f7ab5" />
 	</programme>
 	<programme channel="tx" start="20261105092500 +0000" stop="20261105105400 +0000">
 		<title>タクうま～タクシー運転手さん一番うまい店に連れてって！～</title>
