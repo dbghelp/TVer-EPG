@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20261107202500 +0000" stop="20261108095500 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leyzgq1zo2.jpg?v=741255f1" />
-	</programme>
 	<programme channel="ntv" start="20261108095500 +0000" stop="20261108100000 +0000">
 		<title>博士は今日も嫉妬する～人生が楽しくなる最新テクノロジー～</title>
 		<desc>博士が思わず嫉妬する明日が楽しくなる最新テクノロジーをご紹介!!</desc>
@@ -666,11 +661,6 @@
 不可能を覆す、名もなき忍たちの熱い逆襲劇！</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lezafoshh6.jpg?v=7f6d754f" />
 	</programme>
-	<programme channel="tbs" start="20261107194000 +0000" stop="20261108100000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lejrbmrs05.jpg?v=a754c69e" />
-	</programme>
 	<programme channel="tbs" start="20261108100000 +0000" stop="20261108120000 +0000">
 		<title>VIVANT最終回直前SP</title>
 		<desc> 堺雅人・阿部寛が集結！二宮和也&amp;役所広司が特別出演！</desc>
@@ -1120,11 +1110,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leto4zhoxx.jpg?v=8c1f2796" />
-	</programme>
-	<programme channel="tx" start="20261107190000 +0000" stop="20261108093000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lei698kx1m.jpg?v=5b29282e" />
 	</programme>
 	<programme channel="tx" start="20261108093000 +0000" stop="20261108115000 +0000">
 		<title>池上彰の報道特番</title>
@@ -2204,6 +2189,6 @@
 	<programme channel="cx" start="20261121153500 +0000" stop="20261121154500 +0000">
 		<title>配信番組のお知らせ</title>
 		<desc>🎞️🎥🎬</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leaiabf0y7.jpg?v=0056d95f" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leaiabf0y7.jpg?v=0156daf2" />
 	</programme>
 </tv>
