@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20261108193000 +0000" stop="20261109100000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/letmunho3r.jpg?v=90b2c4d0" />
-	</programme>
 	<programme channel="ntv" start="20261109100000 +0000" stop="20261109110000 +0000">
 		<title>有吉ゼミ</title>
 		<desc>▼ギャル曽根チャレンジグルメにモナキ初参戦!大家族芸人が寿司職人修業</desc>
@@ -513,7 +508,7 @@
 	<programme channel="ex" start="20261116125400 +0000" stop="20261116141000 +0000">
 		<title>報道ステーション</title>
 		<desc>「今」という世界を見つめる。激動の時代の流れと世界のうねりを真正面から。平日よる９時５４分。大越健介キャスターがお伝えします。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leb5uq4dqp.jpg?v=39ef6e5f" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leb5uq4dqp.jpg?v=38ef6ccc" />
 	</programme>
 	<programme channel="ex" start="20261116141000 +0000" stop="20261117100000 +0000">
 		<title>No programme</title>
@@ -590,11 +585,6 @@
 		<desc>日本が誇る≪忍者≫を世界へ－圧倒的スケールと本格アクションでおくる、世界照準の超大型忍者時代劇エンターテインメント！
 不可能を覆す、名もなき忍たちの熱い逆襲劇！</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lezafoshh6.jpg?v=7f6d754f" />
-	</programme>
-	<programme channel="tbs" start="20261108193000 +0000" stop="20261108230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le7ymm0zry.jpg?v=49eac4db" />
 	</programme>
 	<programme channel="tbs" start="20261108230000 +0000" stop="20261109005500 +0000">
 		<title>ラヴィット！</title>
@@ -1005,11 +995,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leto4zhoxx.jpg?v=8c1f2796" />
-	</programme>
-	<programme channel="tx" start="20261108190000 +0000" stop="20261109092500 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/legvxt76nk.jpg?v=a715de6b" />
 	</programme>
 	<programme channel="tx" start="20261109092500 +0000" stop="20261109110000 +0000">
 		<title>YOUは何しに日本へ？</title>
