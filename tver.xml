@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20261111193000 +0000" stop="20261112100000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leuaew70nh.jpg?v=6484210d" />
-	</programme>
 	<programme channel="ntv" start="20261112100000 +0000" stop="20261112105400 +0000">
 		<title>THE突破ファイル</title>
 		<desc>おかえりサンド伊達SP!!交通事故鑑定人VS雨で証拠消えた難事故</desc>
@@ -532,8 +527,8 @@
 	</programme>
 	<programme channel="ex" start="20261119125400 +0000" stop="20261119141000 +0000">
 		<title>報道ステーション</title>
-		<desc>「今」という世界を見つめる。激動の時代の流れと世界のうねりを真正面から。平日よる９時５４分。大越健介キャスターがお伝えします。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lebxfaddek.jpg?v=692f716a" />
+		<desc>米中ロ３首脳が初会談…蚊帳の外？日本影響は▽今季初の寒波襲来へ…警報級暴風で猛吹雪も▽韓国入試でＡＩ不正▽大相撲…優勝争い佳境▽フィギュア</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lebxfaddek.jpg?v=5b2f5b60" />
 	</programme>
 	<programme channel="ex" start="20261119141000 +0000" stop="20261120095000 +0000">
 		<title>No programme</title>
@@ -606,11 +601,6 @@
 		<title>報道ステーション</title>
 		<desc>「今」という世界を見つめる。激動の時代の流れと世界のうねりを真正面から。平日よる９時５４分。大越健介キャスターがお伝えします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lek5kbvkwd.jpg?v=feeb9ef8" />
-	</programme>
-	<programme channel="tbs" start="20261111193000 +0000" stop="20261111230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le1fc4idu0.jpg?v=e04fbe41" />
 	</programme>
 	<programme channel="tbs" start="20261111230000 +0000" stop="20261112005500 +0000">
 		<title>ラヴィット！</title>
@@ -1022,11 +1012,6 @@
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le8e8wt92k.jpg?v=a5eb7ae6" />
 	</programme>
-	<programme channel="tx" start="20261111190000 +0000" stop="20261112092500 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lei77257xj.jpg?v=849bd6ef" />
-	</programme>
 	<programme channel="tx" start="20261112092500 +0000" stop="20261112115800 +0000">
 		<title>そもそもミステリー</title>
 		<desc>そもそもミステリー　知っているようで知らない【軍艦島＆黒部ダム＆東京駅】の謎</desc>
@@ -1350,7 +1335,7 @@
 	<programme channel="tx" start="20261120140000 +0000" stop="20261120145800 +0000">
 		<title>ＷＢＳ（ワールドビジネスサテライト）</title>
 		<desc>ＷＢＳ</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ler6nvl5a1.jpg?v=7095ed6c" />
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/ler6nvl5a1.jpg?v=7195eeff" />
 	</programme>
 	<programme channel="tx" start="20261120145800 +0000" stop="20261120190000 +0000">
 		<title>配信準備中</title>
