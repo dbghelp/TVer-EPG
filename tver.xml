@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20261113204500 +0000" stop="20261114100000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le180x4tnf.jpg?v=885757d2" />
-	</programme>
 	<programme channel="ntv" start="20261114100000 +0000" stop="20261114115400 +0000">
 		<title>嗚呼!!みんなの動物園</title>
 		<desc>2時間SP池崎一門譲渡会直前!人なれラストスパート</desc>
@@ -531,11 +526,6 @@
 		<desc>「今」という世界を見つめる。激動の時代の流れと世界のうねりを真正面から。平日よる９時５４分。大越健介キャスターがお伝えします。</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lek5kbvkwd.jpg?v=feeb9ef8" />
 	</programme>
-	<programme channel="tbs" start="20261113194500 +0000" stop="20261114050000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le939214xh.jpg?v=3a4ce017" />
-	</programme>
 	<programme channel="tbs" start="20261114050000 +0000" stop="20261114065400 +0000">
 		<title>スペシャルライブ</title>
 		<desc>三井住友ＶＩＳＡ太平洋マスターズ２０２６ ３日目 石川遼史上最多大会５勝目へ</desc>
@@ -880,11 +870,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le8e8wt92k.jpg?v=a5eb7ae6" />
-	</programme>
-	<programme channel="tx" start="20261113190000 +0000" stop="20261114093000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leqs1ruqk8.jpg?v=eaa81e2e" />
 	</programme>
 	<programme channel="tx" start="20261114093000 +0000" stop="20261114115500 +0000">
 		<title>土曜ゴールデン</title>
