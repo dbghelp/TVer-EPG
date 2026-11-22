@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20261115193000 +0000" stop="20261116100000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4umw8ksq.jpg?v=7855835c" />
-	</programme>
 	<programme channel="ntv" start="20261116100000 +0000" stop="20261116120000 +0000">
 		<title>世界まる見え！テレビ特捜部</title>
 		<desc>ミステリースポットSP謎の国トルクメニスタン潜入&amp;危険なハチミツ</desc>
@@ -397,13 +392,8 @@
 	</programme>
 	<programme channel="ex" start="20261123125400 +0000" stop="20261123141000 +0000">
 		<title>報道ステーション</title>
-		<desc>「今」という世界を見つめる。激動の時代の流れと世界のうねりを真正面から。平日よる９時５４分。大越健介キャスターがお伝えします。</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lek5kbvkwd.jpg?v=feeb9ef8" />
-	</programme>
-	<programme channel="tbs" start="20261115193000 +0000" stop="20261115230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lea277c8vl.jpg?v=b82496bc" />
+		<desc>冬日４００地点超に…連休最終日の観光地は▽火災から７年…沖縄・首里城正殿が一般公開▽核のごみ…住民説明会▽フィギュア・島田麻央▽優勝力士ほか</desc>
+		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lek5kbvkwd.jpg?v=fceb9bd2" />
 	</programme>
 	<programme channel="tbs" start="20261115230000 +0000" stop="20261116005500 +0000">
 		<title>ラヴィット！</title>
@@ -674,11 +664,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le8e8wt92k.jpg?v=a5eb7ae6" />
-	</programme>
-	<programme channel="tx" start="20261115190000 +0000" stop="20261116092500 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le0u4dy8mg.jpg?v=15e83202" />
 	</programme>
 	<programme channel="tx" start="20261116092500 +0000" stop="20261116113000 +0000">
 		<title>YOUは何しに日本へ？</title>
