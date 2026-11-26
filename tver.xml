@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20261118193000 +0000" stop="20261119100000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leq2jc9ns6.jpg?v=0107002c" />
-	</programme>
 	<programme channel="ntv" start="20261119100000 +0000" stop="20261119115400 +0000">
 		<title>THE突破ファイル</title>
 		<desc>SP国税!学園理事長1億円隠し場所は?税関VS密輸インフルエンサー</desc>
@@ -256,16 +251,6 @@
 		<title>報道ステーション</title>
 		<desc>冬日４００地点超に…連休最終日の観光地は▽火災から７年…沖縄・首里城正殿が一般公開▽核のごみ…住民説明会▽フィギュア・島田麻央▽優勝力士ほか</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lek5kbvkwd.jpg?v=fceb9bd2" />
-	</programme>
-	<programme channel="tbs" start="20261118193000 +0000" stop="20261118230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le1csd30se.jpg?v=e1b9c548" />
-	</programme>
-	<programme channel="tbs" start="20261118230000 +0000" stop="20261119005500 +0000">
-		<title>ラヴィット！</title>
-		<desc>櫻坂46松田里奈が参戦！▼どう返す？LINE神返信選手権▼くるまLA中継</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lec02u14k0.jpg?v=89fc4600" />
 	</programme>
 	<programme channel="tbs" start="20261119005500 +0000" stop="20261119100000 +0000">
 		<title>配信休止</title>
