@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20261119193000 +0000" stop="20261120204500 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4f4srtxc.jpg?v=117efe16" />
-	</programme>
 	<programme channel="ntv" start="20261120204500 +0000" stop="20261121103000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
@@ -217,16 +212,6 @@
 		<desc>冬日４００地点超に…連休最終日の観光地は▽火災から７年…沖縄・首里城正殿が一般公開▽核のごみ…住民説明会▽フィギュア・島田麻央▽優勝力士ほか</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lek5kbvkwd.jpg?v=fceb9bd2" />
 	</programme>
-	<programme channel="tbs" start="20261119193000 +0000" stop="20261119230000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/leaxk9yyhj.jpg?v=96217a45" />
-	</programme>
-	<programme channel="tbs" start="20261119230000 +0000" stop="20261120005500 +0000">
-		<title>ラヴィット！</title>
-		<desc>最強の家鍋決定戦に芸能界イチ鍋オタク参戦！＆雑学続々…トリビアドボン</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lef08rdpws.jpg?v=90bbd61d" />
-	</programme>
 	<programme channel="tbs" start="20261120005500 +0000" stop="20261120100000 +0000">
 		<title>配信休止</title>
 		<desc>配信休止</desc>
@@ -356,11 +341,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le8e8wt92k.jpg?v=a5eb7ae6" />
-	</programme>
-	<programme channel="tx" start="20261119190000 +0000" stop="20261120095500 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lewhdiumxr.jpg?v=9a8827f8" />
 	</programme>
 	<programme channel="tx" start="20261120095500 +0000" stop="20261120102500 +0000">
 		<title>ポケットモンスター</title>
