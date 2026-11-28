@@ -20,11 +20,6 @@
 		<display-name>フジテレビ</display-name>
 		<icon src="https://statics.tver.jp/images/icon/cx.jpg" />
 	</channel>
-	<programme channel="ntv" start="20261120204500 +0000" stop="20261121103000 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le4sov6vw9.jpg?v=152c3f1c" />
-	</programme>
 	<programme channel="ntv" start="20261121103000 +0000" stop="20261121115400 +0000">
 		<title>俺たちの箱根駅伝</title>
 		<desc>本選突入直前SP!!</desc>
@@ -186,11 +181,6 @@
 		<desc>冬日４００地点超に…連休最終日の観光地は▽火災から７年…沖縄・首里城正殿が一般公開▽核のごみ…住民説明会▽フィギュア・島田麻央▽優勝力士ほか</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lek5kbvkwd.jpg?v=fceb9bd2" />
 	</programme>
-	<programme channel="tbs" start="20261120194500 +0000" stop="20261121095100 +0000">
-		<title>配信休止</title>
-		<desc>配信休止</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lebtyiacyc.jpg?v=eb52d318" />
-	</programme>
 	<programme channel="tbs" start="20261121095100 +0000" stop="20261121115400 +0000">
 		<title>熱狂マニアさん！</title>
 		<desc>＜配信は19時から＞VIVANT天才頭脳参戦！くら寿司&amp;焼肉きんぐベスト１０当てろ！</desc>
@@ -290,11 +280,6 @@
 		<title>配信休止</title>
 		<desc>配信休止</desc>
 		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/le8e8wt92k.jpg?v=a5eb7ae6" />
-	</programme>
-	<programme channel="tx" start="20261120190000 +0000" stop="20261121093000 +0000">
-		<title>配信準備中</title>
-		<desc>配信準備中</desc>
-		<icon src="https://statics.tver.jp/images/content/thumbnail/live/xlarge/legrluvws6.jpg?v=94324c58" />
 	</programme>
 	<programme channel="tx" start="20261121093000 +0000" stop="20261121115500 +0000">
 		<title>出川哲朗の充電させてもらえませんか？</title>
